@@ -11,4 +11,4 @@ Edit manually steps:
 2. Draw points and fill in field called `name`
 3. Copy data back into the file, save, and commit, and upload.
 
-All other data sources update automatically via GitHub actions every 5 minutes.
+All other data sources update automatically via GitHub actions every 5 minutes. Force updates can be done by visiting Actions tab on GitHub repo site and running the action under the actions called "manually update".
