@@ -3,6 +3,7 @@
   "features": [
       {
           "type": "Feature",
+          "id": 36,
           "geometry": {
               "type": "Polygon",
               "coordinates": [
@@ -5595,11 +5596,35 @@
               ]
           },
           "properties": {
-              "IncidentName": "Palisades"
+              "OBJECTID": 36,
+              "IncidentName": "Palisades",
+              "Comments": null,
+              "GISAcres": null,
+              "Label": "Mandatory",
+              "IsVisible": "Yes",
+              "CreateName": null,
+              "CreateDate": null,
+              "EditName": null,
+              "DateCurrent": null,
+              "IRWINID": null,
+              "GlobalID": "b1425ad7-9d2a-496d-8084-0549fda081d6",
+              "GISS_Misc": null,
+              "EvacArea": null,
+              "EvacType": "Evacuation Area (Mandatory)",
+              "Starts": null,
+              "Ends": null,
+              "ReadSetGo": null,
+              "Shape__Area": 0.0077959710108643776,
+              "Shape__Length": 0.38954303499271514,
+              "CreationDate": 1736281274009,
+              "Creator": "rene.gonzalez_lafd",
+              "EditDate": 1736306489148,
+              "Editor": "rene.gonzalez_lafd"
           }
       },
       {
           "type": "Feature",
+          "id": 37,
           "geometry": {
               "type": "Polygon",
               "coordinates": [
@@ -5760,11 +5785,35 @@
               ]
           },
           "properties": {
-              "IncidentName": "Hurst"
+              "OBJECTID": 37,
+              "IncidentName": "Hurst",
+              "Comments": null,
+              "GISAcres": null,
+              "Label": "Mandatory",
+              "IsVisible": "Yes",
+              "CreateName": null,
+              "CreateDate": null,
+              "EditName": null,
+              "DateCurrent": null,
+              "IRWINID": null,
+              "GlobalID": "15d89e4e-7792-4a98-bc76-d219f52c3d2f",
+              "GISS_Misc": null,
+              "EvacArea": null,
+              "EvacType": "Evacuation Area (Mandatory)",
+              "Starts": null,
+              "Ends": null,
+              "ReadSetGo": null,
+              "Shape__Area": 0.00042758807740028715,
+              "Shape__Length": 0.11483503597791141,
+              "CreationDate": 1736318075000,
+              "Creator": "jose.alcocer_lafd",
+              "EditDate": 1736319383000,
+              "Editor": "jose.alcocer_lafd"
           }
       },
       {
           "type": "Feature",
+          "id": 38,
           "geometry": {
               "type": "Polygon",
               "coordinates": [
@@ -6297,11 +6346,35 @@
               ]
           },
           "properties": {
-              "IncidentName": "Hurst"
+              "OBJECTID": 38,
+              "IncidentName": "Hurst",
+              "Comments": null,
+              "GISAcres": null,
+              "Label": "Warning",
+              "IsVisible": "Yes",
+              "CreateName": null,
+              "CreateDate": null,
+              "EditName": null,
+              "DateCurrent": null,
+              "IRWINID": null,
+              "GlobalID": "1ebd220b-4b0e-45f2-ad1b-908fb6725695",
+              "GISS_Misc": null,
+              "EvacArea": null,
+              "EvacType": "Evacuation Area (Voluntary)",
+              "Starts": null,
+              "Ends": null,
+              "ReadSetGo": null,
+              "Shape__Area": 0.0024961852807336982,
+              "Shape__Length": 0.22697095636630291,
+              "CreationDate": 1736319383000,
+              "Creator": "jose.alcocer_lafd",
+              "EditDate": 1736319534000,
+              "Editor": "jose.alcocer_lafd"
           }
       },
       {
           "type": "Feature",
+          "id": 39,
           "geometry": {
               "type": "Polygon",
               "coordinates": [
@@ -6794,11 +6867,35 @@
               ]
           },
           "properties": {
-              "IncidentName": "Hollywood"
+              "OBJECTID": 39,
+              "IncidentName": "Hollywood",
+              "Comments": null,
+              "GISAcres": null,
+              "Label": "Mandatory",
+              "IsVisible": "Yes",
+              "CreateName": null,
+              "CreateDate": null,
+              "EditName": null,
+              "DateCurrent": null,
+              "IRWINID": null,
+              "GlobalID": "773d2513-4271-45da-9e1d-cdfc2001ffcf",
+              "GISS_Misc": null,
+              "EvacArea": null,
+              "EvacType": "Evacuation Area (Mandatory)",
+              "Starts": null,
+              "Ends": null,
+              "ReadSetGo": null,
+              "Shape__Area": 0.00086133780018826656,
+              "Shape__Length": 0.18075934834007132,
+              "CreationDate": 1736388349524,
+              "Creator": "rene.gonzalez_lafd",
+              "EditDate": 1736388379125,
+              "Editor": "rene.gonzalez_lafd"
           }
       },
       {
           "type": "Feature",
+          "id": 41,
           "geometry": {
               "type": "Polygon",
               "coordinates": [
@@ -7631,7 +7728,30 @@
               ]
           },
           "properties": {
-              "IncidentName": "Hollywood"
+              "OBJECTID": 41,
+              "IncidentName": "Hollywood",
+              "Comments": null,
+              "GISAcres": null,
+              "Label": "Warning",
+              "IsVisible": "Yes",
+              "CreateName": null,
+              "CreateDate": null,
+              "EditName": null,
+              "DateCurrent": null,
+              "IRWINID": null,
+              "GlobalID": "e4a259cc-1ce9-4dd1-9707-03b6ef91e577",
+              "GISS_Misc": null,
+              "EvacArea": null,
+              "EvacType": "Evacuation Area (Voluntary)",
+              "Starts": null,
+              "Ends": null,
+              "ReadSetGo": null,
+              "Shape__Area": 0.0013159710872514552,
+              "Shape__Length": 0.27592346470301893,
+              "CreationDate": 1736389934000,
+              "Creator": "rene.gonzalez_lafd",
+              "EditDate": 1736389934000,
+              "Editor": "rene.gonzalez_lafd"
           }
       }
   ]
