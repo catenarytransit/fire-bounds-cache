@@ -19,7 +19,7 @@ fetch(url)
             fs.mkdirSync(data_dir);
         }
 
-        const file_path = path.join(data_dir, 'evac_california.json');
+        const file_path = path.join(data_dir, 'los_angeles_evac.json');
 
         fs.writeFile(file_path, JSON.stringify(data), (error) => {
             if (error) {
