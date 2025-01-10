@@ -2,7 +2,7 @@
 
 The following data source can be edited manually: 
 ```
-/data/firenames.json
+/manual_data/firenames.json
 /manual_data/evac.json
 ```
 
