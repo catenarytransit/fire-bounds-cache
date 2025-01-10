@@ -1699,15 +1699,15 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": false,
+			"is_fps": true,
 			"containment": null,
-			"acreage": 1,
+			"acreage": 31.5,
 			"links": [],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Area with the following boundaries: East: Balboa x I-5; West: Tampa; South: Sesnon; North: Sunshine Canyon Road (See LA City Evacuation Map for parameters)",
-			"evacuation_warnings": "Area with the following boundaries: West: Tampa Ave; South: Rinaldi; East: Balboa Blvd; North: Sesnon Blvd (See LA City Evacuation Map for parameters)",
+			"evacuation_orders": null,
+			"evacuation_warnings": "Area with the following boundaries: East: Balboa x I-5; West: Tampa; South: Sesnon; North: Sunshine Canyon Road (See LA City Evacuation Map for parameters)",
 			"evacuation_advisories": null,
 			"evacuation_notes": "LA City Evacuation Map",
 			"is_complex_parent": false,
@@ -1715,7 +1715,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-10T18:40:27Z",
-		"date_modified": "2025-01-10T19:27:00Z",
+		"date_modified": "2025-01-10T19:48:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1723,11 +1723,8 @@
 		"external_source": null,
 		"child_geo_events": [],
 		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"Area with the following boundaries: East: Balboa x I-5; West: Tampa; South: Sesnon; North: Sunshine Canyon Road (See LA City Evacuation Map for parameters)"
-		],
 		"evacuation_warnings_arr": [
-			"Area with the following boundaries: West: Tampa Ave; South: Rinaldi; East: Balboa Blvd; North: Sesnon Blvd (See LA City Evacuation Map for parameters)"
+			"Area with the following boundaries: East: Balboa x I-5; West: Tampa; South: Sesnon; North: Sunshine Canyon Road (See LA City Evacuation Map for parameters)"
 		]
 	}
 ]
