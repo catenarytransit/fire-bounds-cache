@@ -748,21 +748,6 @@
 				}
 			},
 			{
-				"id": 40525,
-				"address": "1001 Rose Bowl Dr, Pasadena, CA 91103, USA",
-				"name": "World Central Kitchen (Meal Service)",
-				"lat": 34.1606642,
-				"lng": -118.1675328,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>Rose Bowl Lot F </strong>Address: 1001 Rose Bowl Dr, Pasadena, CA 91103<br><strong>Time</strong>: 5:30 PM - 9:00 PM</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40526,
 				"address": "200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA",
 				"name": "World Central Kitchen (Meal Service)",
