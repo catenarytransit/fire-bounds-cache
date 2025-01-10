@@ -63,7 +63,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 8,
-			"acreage": 20423,
+			"acreage": 20438.2,
 			"links": [
 				{
 					"link_type": "website",
@@ -108,7 +108,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-10T14:28:05Z",
+		"date_modified": "2025-01-10T15:17:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -500,7 +500,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-10T14:53:23Z",
+		"date_modified": "2025-01-10T15:26:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -744,6 +744,81 @@
 					"geo_event_type": "location",
 					"location_type": "info",
 					"information": "<p>Family Assistance Center</p><p>Friday, January 10: 10 a.m. to 6 p.m.<br>Saturday, January 11: 9 a.m. to 5 p.m.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.visitpasadena.com/convention-center/\">Pasadena Convention Center - Visitor's Bureau</a><br>300 E Green Street, Pasadena, CA 91101</p><p>American Red Cross, LA County Medical Examiner’s Office, and LA County Department of Mental Health will provide information and support. For more information on missing loved ones, please call (800) 675-5799 or visit the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/contact-and-locate-loved-ones/california-wildfires-reunification.html\">Red Cross Finding Friends &amp; Family page</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40525,
+				"address": "1001 Rose Bowl Dr, Pasadena, CA 91103, USA",
+				"name": "World Central Kitchen (Meal Service)",
+				"lat": 34.1606642,
+				"lng": -118.1675328,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>Rose Bowl Lot F </strong>Address: 1001 Rose Bowl Dr, Pasadena, CA 91103<br><strong>Time</strong>: 5:30 PM - 9:00 PM</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40526,
+				"address": "200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA",
+				"name": "World Central Kitchen (Meal Service)",
+				"lat": 34.1954883,
+				"lng": -118.1814365,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>St. Francis High School </strong></p><p>Address: 200 Foothill Blvd, La Cañada Flintridge, CA 91011<br>Time: 12:00 PM - 5:00 PM</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40527,
+				"address": "845 E Woodbury Rd, Altadena, CA 91001, USA",
+				"name": "World Central Kitchen (Meal Service)",
+				"lat": 34.1777188,
+				"lng": -118.132919,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>Mobil Station Woodbury Rd Altadena</strong><br>Address: 845 E Woodbury Rd, Altadena, CA 91001<br>Time: 1:00 PM - 5:00 PM</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40528,
+				"address": "2157 Lincoln Ave, Altadena, CA 91001, USA",
+				"name": "World Central Kitchen (Meal Service)",
+				"lat": 34.1826451,
+				"lng": -118.1601041,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>Jack in the Box Altadena</strong><br>Address: 2157 Lincoln Ave, Altadena, CA 91001<br>Time: 5:30 PM - 10:00 PM</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40529,
+				"address": "1570 E Colorado Blvd, Pasadena, CA 91106, USA",
+				"name": "World Central Kitchen (Meal Service)",
+				"lat": 34.1440352,
+				"lng": -118.1191286,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>Pasadena City College</strong><br>Address: 1570 E Colorado Blvd, Pasadena, CA 91106<br>Time: 5:00 PM - 9:00 PM</p>",
 					"links": []
 				}
 			}
