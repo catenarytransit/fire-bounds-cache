@@ -85,7 +85,7 @@ fs.writeFile(file_path, JSON.stringify(data_copy , null, "\t"), (error) => {
         console.error(error);
         return;
     }
-    console.log("Data saved to file");
+    console.log("Watchduty Data saved to file");
 });
 
 })
