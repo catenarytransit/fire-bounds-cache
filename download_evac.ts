@@ -1,4 +1,4 @@
-const min_number_of_elements = 3;
+const min_number_of_elements = 5;
 const fs = require('fs');
 const path = require('path');
 
@@ -32,3 +32,4 @@ fetch(url)
 
     })
     .catch(error => console.error(error));
+
