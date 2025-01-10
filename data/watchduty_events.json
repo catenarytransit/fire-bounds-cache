@@ -492,7 +492,7 @@
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": "ALD-ARROYOSECO, ALD-CALAVERAS, ALD-CANON, ALD-CASITAS, ALD-CHANEY, ALD-EASTLOMA, ALD-EATONCANYON, ALD-FARNSWORTH, ALD-GARDEN, ALD-GARFIAS, ALD-LAUREL, ALD-MEADOWS, ALD-MENDOCINO, ALD-MIDLOTHIAN, ALD-MILLARD, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK, ARC-001, KIN-KINNELOA, LAC-E165-B, LAC-E167, LAC-E168-A, LAC-E183, LCF-ALTACANYADA, LCF-BERKSHIRE, LCF-CASTLE, LCF-CIVICCENTER, LCF-COMMONWEALTH, LCF-CREST, LCF-CROWN, LCF-DESCANSO, LCF-FOOTHILLEAST, LCF-FOOTHILLWEST, LCF-HAMPSTEAD, LCF-HILLARD, LCF-INVERNESS, LCF-JPL, LCF-MEMORIAL, LCF-PARADISE, LCF-STARLIGHT, MRV-101-B, MRV-201-B, PAS-E001, PAS-E002, PAS-E003, PAS-E006, PAS-E008, PAS-E010, PAS-E012, PAS-E019, PAS-E022, SMD-E001, SMD-E002, SMD-E003, SMD-E004, SMD-E005, SMD-E006, SMD-E007, SMD-E008, SMD-E009, SMD-E010, SMD-E011, SMD-E012, SMD-E013, SMD-E014, SMD-E015, SMD-E016, SMD-E019",
-			"evacuation_warnings": "ARC-002, ARC-003, ARC-004, ARC-005, BRA-001, BRA-002, BRA-003, BRA-004, CRV-ALABAMA, CRV-BRIGGSTERRACE, CRV-COMMUNITY, CRV-HENRIETTA, CRV-MONTROSE, CRV-MOUNTAIN, CRV-PINECONE, CRV-TEASLEY, DUA-001, DUA-002, DUA-005, DUA-008, MRV-101-A, MRV-102, MRV-201-A, MRV-202, MRV-203, MRV-204, MRV-301, MRV-302, MRV-303, MRV-304, MRV-305, MRV-401, MRV-402, MRV-403, MRV-404, PAS-E004, PAS-E005, PAS-E007, PAS-E009, PAS-E011, PAS-E013, PAS-E014, PAS-E015, PAS-E016, PAS-E017, PAS-E018, PAS-E020, SMD-E017, SMD-E018",
+			"evacuation_warnings": "ARC-002, ARC-003, ARC-004, ARC-005, BRA-001, BRA-002, BRA-003, BRA-004, CRV-ALABAMA, CRV-BRIGGSTERRACE, CRV-COMMUNITY, CRV-HENRIETTA, CRV-MONTROSE, CRV-MOUNTAIN, CRV-PINECONE, CRV-TEASLEY, DUA-001, DUA-002, DUA-005, DUA-008, MRV-101-A, MRV-102, MRV-201-A, MRV-202, MRV-203, MRV-204, MRV-301, MRV-302, MRV-303, MRV-304, MRV-305, MRV-401, MRV-402, MRV-403, MRV-404, PAS-E004, PAS-E005, PAS-E007, PAS-E009, PAS-E011, PAS-E013, PAS-E014, PAS-E015, PAS-E016, PAS-E017, PAS-E018, PAS-E020, SMD-E017-A, SMD-E017-B, SMD-E018",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Protect Evacuation Map The entire Angeles National Forest is temporarily closed for public safety and the protection of natural resources from today, January 8, 2025, at 5:00 p.m. through Wednesday, January 15, 2025, at 12:00 midnight. The closure order and prohibited activities may be found at this link. Do not drink water in the areas shaded in gray on the following linked map. Debris and elevated turbidity from the Eaton Fire potentially impacted Pasadena Water and Power’s (PWP) drinking water system in the Eaton Fire evacuated areas, per the City of Pasadena.",
 			"is_complex_parent": false,
@@ -500,7 +500,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-10T21:00:06Z",
+		"date_modified": "2025-01-10T21:09:30Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -930,7 +930,8 @@
 			"PAS-E017",
 			"PAS-E018",
 			"PAS-E020",
-			"SMD-E017",
+			"SMD-E017-A",
+			"SMD-E017-B",
 			"SMD-E018"
 		]
 	},
