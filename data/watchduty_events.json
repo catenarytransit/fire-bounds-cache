@@ -328,7 +328,7 @@
 			{
 				"id": 40521,
 				"address": "2551 Motor Ave, Los Angeles, CA 90064, USA",
-				"name": "Wildfire Recovery Family Assistance Center at Cheviot Hills Recreation Center",
+				"name": "Family Assistance Center",
 				"lat": 34.0451222,
 				"lng": -118.4080752,
 				"is_active": true,
@@ -735,7 +735,7 @@
 			{
 				"id": 40522,
 				"address": "300 E Green St, Pasadena, CA 91101, USA",
-				"name": "Family Assistance Center at the Pasadena Convention Center Visitor's Bureau",
+				"name": "Family Assistance Center",
 				"lat": 34.1438084,
 				"lng": -118.1443602,
 				"is_active": true,
@@ -1518,7 +1518,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-09T22:43:28Z",
-		"date_modified": "2025-01-10T12:26:14Z",
+		"date_modified": "2025-01-10T13:03:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
