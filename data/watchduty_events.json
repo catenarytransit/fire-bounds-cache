@@ -500,7 +500,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-10T20:06:52Z",
+		"date_modified": "2025-01-10T20:15:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1690,8 +1690,8 @@
 		"is_active": true,
 		"name": "Archer Fire",
 		"description": null,
-		"lat": 34.30844368437698,
-		"lng": -118.51040814996796,
+		"lat": 34.308447404810465,
+		"lng": -118.51076187172043,
 		"address": "Sesnon Boulevard, North of Meadowlark Avenue, Granada Hills",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1701,7 +1701,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": true,
 			"containment": null,
-			"acreage": 31.5,
+			"acreage": 18.8,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": true,
@@ -1715,7 +1715,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-10T18:40:27Z",
-		"date_modified": "2025-01-10T19:48:14Z",
+		"date_modified": "2025-01-10T20:13:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
