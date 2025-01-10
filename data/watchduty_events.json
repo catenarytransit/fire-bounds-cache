@@ -763,36 +763,6 @@
 				}
 			},
 			{
-				"id": 40527,
-				"address": "845 E Woodbury Rd, Altadena, CA 91001, USA",
-				"name": "World Central Kitchen (Meal Service)",
-				"lat": 34.1777188,
-				"lng": -118.132919,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>Mobil Station Woodbury Rd Altadena</strong><br>Address: 845 E Woodbury Rd, Altadena, CA 91001<br>Time: 1:00 PM - 5:00 PM</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "2157 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "World Central Kitchen (Meal Service)",
-				"lat": 34.1826451,
-				"lng": -118.1601041,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>Jack in the Box Altadena</strong><br>Address: 2157 Lincoln Ave, Altadena, CA 91001<br>Time: 5:30 PM - 10:00 PM</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40529,
 				"address": "1570 E Colorado Blvd, Pasadena, CA 91106, USA",
 				"name": "World Central Kitchen (Meal Service)",
@@ -804,6 +774,36 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>Pasadena City College</strong><br>Address: 1570 E Colorado Blvd, Pasadena, CA 91106<br>Time: 5:00 PM - 9:00 PM</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40528,
+				"address": "2125 N Windsor Ave, Altadena, CA 91001",
+				"name": "World Central Kitchen (Meal Service)",
+				"lat": 34.1821492,
+				"lng": -118.169125,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>Jack in the Box Altadena</strong><br>Address: 2125 N Windsor Ave, Altadena, CA 91001<br>Time: 5:30 PM - 10:00 PM</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40527,
+				"address": "Mobil Station Woodbury Rd Altadena 15 W Woodbury Rd, Altadena, CA 91001",
+				"name": "World Central Kitchen (Meal Service)",
+				"lat": 34.1836114,
+				"lng": -118.1512232,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>Mobil Station Woodbury Rd Altadena</strong><br>Address: 15 W Woodbury Rd, Altadena, CA 91001<br>Time: 1:00 PM - 5:00 PM</p>",
 					"links": []
 				}
 			}
