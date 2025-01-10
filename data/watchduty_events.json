@@ -731,6 +731,21 @@
 					"information": "<p>A large animal shelter is set up at the Pierce College Equestrian Center located at 7100 El Rancho Drive, Woodland Hills, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County</a>.</p><p><strong>Update: </strong>The Pierce College 6201 Winnetka Ave, Woodland Hills, CA 91367 is<br>at capacity with 200 horses; staffed by DACC – FULL per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://animalcare.lacounty.gov/emergency-animal-shelter-information-los-angeles-county-fires/\">The LA County Website </a> on Jan 8th</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40522,
+				"address": "300 E Green St, Pasadena, CA 91101, USA",
+				"name": "Family Assistance Center at the Pasadena Convention Center Visitor's Bureau",
+				"lat": 34.1438084,
+				"lng": -118.1443602,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "info",
+					"information": "<p>Family Assistance Center</p><p>Friday, January 10: 10 a.m. to 6 p.m.<br>Saturday, January 11: 9 a.m. to 5 p.m.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.visitpasadena.com/convention-center/\">Pasadena Convention Center - Visitor's Bureau</a><br>300 E Green Street, Pasadena, CA 91101</p><p>American Red Cross, LA County Medical Examiner’s Office, and LA County Department of Mental Health will provide information and support. For more information on missing loved ones, please call (800) 675-5799 or visit the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/contact-and-locate-loved-ones/california-wildfires-reunification.html\">Red Cross Finding Friends &amp; Family page</a>.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -1503,7 +1518,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-09T22:43:28Z",
-		"date_modified": "2025-01-10T12:22:13Z",
+		"date_modified": "2025-01-10T12:26:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
