@@ -51,35 +51,42 @@ fetch(url)
     ]
     */
 
-fetch("https://api.watchduty.org/api/v1/regions")
+fetch("https://api.watchduty.org/api/v1/geo_events/?is_relevant=true&geo_event_types=wildfire")
 .then(response => response.json())
 .then(data => {
-    //filter for state == CA
+//write data to file data/watchduty_events.json
 
-    const california_regions = data.filter(region => region.state == "CA");
+const data_dir = path.join(__dirname, 'data');
 
-    let region_ids = california_regions.map(region => region.id);
+if (!fs.existsSync(data_dir)) {
+    fs.mkdirSync(data_dir);
+}
 
-    fetch("https://api.watchduty.org/api/v1/evac_zones?region_ids=" + region_ids.join(","))
-    .then(response => response.json())
-    .then(data => {
-        //save to data/evac_zones_watchduty.json
+const data_copy = data.filter((fire) => fire.notification_type != "silent");
 
-        const data_dir = path.join(__dirname, 'data');
+for (let i = 0; i < data_copy.length; i++) {
+    //evacuation_orders_arr: fire.data.evacuation_orders.split(",").map((order) => order.trim()),
 
-        if (!fs.existsSync(data_dir)) {
-            fs.mkdirSync(data_dir);
+    if (data_copy[i].data) {
+        if (data_copy[i].data.evacuation_orders) {
+            data_copy[i].evacuation_orders_arr = data_copy[i].data.evacuation_orders.split(",").map((order) => order.trim());
         }
 
-        const file_path = path.join(data_dir, 'evac_zones_watchduty.json');
+        if (data_copy[i].data.evacuation_warnings) {
+            data_copy[i].evacuation_warnings_arr = data_copy[i].data.evacuation_warnings.split(",").map((warning) => warning.trim());
+        }
+    }
+}
 
-        fs.writeFile(file_path, JSON.stringify(data), (error) => {
-            if (error) {
-                console.error(error);
-                return;
-            }
-            console.log("Watchduty data saved to file");
-        });
-    })
-    .catch(error => console.error(error));
+const file_path = path.join(data_dir, 'watchduty_events.json');
+
+fs.writeFile(file_path, JSON.stringify(data_copy , null, "\t"), (error) => {
+    if (error) {
+        console.error(error);
+        return;
+    }
+    console.log("Data saved to file");
+});
+
 })
+.catch(error => console.error(error));
