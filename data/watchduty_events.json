@@ -1053,10 +1053,10 @@
 				}
 			],
 			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": null,
-			"evacuation_warnings": "LAC-E119-B, LAC-E132-B, LOS-E001",
+			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map The entire Angeles National Forest is temporarily closed for public safety and the protection of natural resources from today, January 8, 2025, at 5:00 p.m. through Wednesday, January 15, 2025, at 12:00 midnight. The closure order and prohibited activities may be found at this link.",
 			"is_complex_parent": false,
@@ -1064,7 +1064,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T06:23:30Z",
-		"date_modified": "2025-01-10T17:57:50Z",
+		"date_modified": "2025-01-10T22:05:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1192,12 +1192,7 @@
 				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_warnings_arr": [
-			"LAC-E119-B",
-			"LAC-E132-B",
-			"LOS-E001"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 40454,
@@ -1740,7 +1735,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 3,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1755,7 +1750,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-10T21:38:03Z",
-		"date_modified": "2025-01-10T21:38:03Z",
+		"date_modified": "2025-01-10T22:10:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
