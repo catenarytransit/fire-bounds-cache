@@ -104,8 +104,8 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "DRY-U026-A, LOS-Q0767, MAL-C111-A, MAL-C111-B, MAL-C112-B, MTN-U028, RMB-U030-A, RMB-U030-B, RMB-U030-D, RMB-U030-E, RRC-U027, SAN-Q1388-B, SAN-Q1395-B, SAN-Q1396-B, SDP-U029, SSM-U010-A, SSM-U010-B, TOP-U001, TOP-U002, TOP-U003, TOP-U004, TOP-U005, TOP-U006, TOP-U007, TOP-U008, TOP-U009",
-			"evacuation_warnings": "CAL-C405, CAL-C406, CAL-C407, CAL-C408, CAL-C409, CAL-C410, CAL-C411, CAL-C412, CAL-C413, CAL-C414, CAL-C415, DRY-U026, DRY-U026-B, MAL-C112, MAL-C112-A, MCR-U021-A, RMB-U030-C, SAN-Q1388-C, SAN-Q1389, SAN-Q1395-A, SAN-Q1396-A",
+			"evacuation_orders": "DRY-U026-A, LOS-Q0767, MAL-C111-A, MAL-C111-B, MAL-C112-B, MTN-U028, RMB-U030-A, RMB-U030-B, RMB-U030-D, RMB-U030-E, RRC-U027, SAN-Q1395-B, SAN-Q1396-B, SDP-U029, SSM-U010-A, SSM-U010-B, TOP-U001, TOP-U002, TOP-U003, TOP-U004, TOP-U005, TOP-U006, TOP-U007, TOP-U008, TOP-U009",
+			"evacuation_warnings": "CAL-C405, CAL-C406, CAL-C407, CAL-C408, CAL-C409, CAL-C410, CAL-C411, CAL-C412, CAL-C413, CAL-C414, CAL-C415, DRY-U026, DRY-U026-B, MAL-C112, MAL-C112-A, MCR-U021-A, RMB-U030-C, SAN-Q1388-B, SAN-Q1395-A, SAN-Q1396-A",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map City of Santa Monica Evacuation Map LA City Evacuation Map",
 			"is_complex_parent": false,
@@ -113,7 +113,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-10T22:27:21Z",
+		"date_modified": "2025-01-10T23:03:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -365,7 +365,6 @@
 			"RMB-U030-D",
 			"RMB-U030-E",
 			"RRC-U027",
-			"SAN-Q1388-B",
 			"SAN-Q1395-B",
 			"SAN-Q1396-B",
 			"SDP-U029",
@@ -399,8 +398,7 @@
 			"MAL-C112-A",
 			"MCR-U021-A",
 			"RMB-U030-C",
-			"SAN-Q1388-C",
-			"SAN-Q1389",
+			"SAN-Q1388-B",
 			"SAN-Q1395-A",
 			"SAN-Q1396-A"
 		]
@@ -810,6 +808,27 @@
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>Mobil Station Woodbury Rd Altadena</strong><br>Address: 15 W Woodbury Rd, Altadena, CA 91001<br>Time: 1:00 PM - 5:00 PM</p>",
 					"links": []
+				}
+			},
+			{
+				"id": 40553,
+				"address": "1605 Garfield Avenue, South Pasadena, CA",
+				"name": "South Pasadena San Marino YMCA Disaster Relief Services",
+				"lat": 34.1076161,
+				"lng": -118.1366805,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>Anyone affected by the fires is welcome to use our facilities—our showers, our Wi-Fi, workout, and child activity center—or just come for community. We have toiletries, non-perishable food, water, clothes of all sizes, shoes, blankets, bedding, pillows, baby supplies, diapers, pet supplies, phones, and chargers.<br><br>(626) 799-9119</p>",
+					"links": [
+						{
+							"link_type": "website",
+							"label": "South Pasadena San Marino YMCA Disaster Relief Services Facebook",
+							"value": "https://www.facebook.com/SouthPasadenaSanMarinoYMCA"
+						}
+					]
 				}
 			}
 		],
