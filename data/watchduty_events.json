@@ -334,36 +334,6 @@
 				}
 			},
 			{
-				"id": 40559,
-				"address": "516 Santa Monica Blvd, Santa Monica, CA 90401, USA",
-				"name": "World Central Kitchen (Meal Service)",
-				"lat": 34.0174391,
-				"lng": -118.4937028,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>Xuntos </strong><br>4PM - 9PM<br>516 Santa Monica Blvd, Santa Monica, CA 90401</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40560,
-				"address": "2732 Main St, Santa Monica, CA 90405, USA",
-				"name": "World Central Kitchen (Meal Service)",
-				"lat": 34.0001818,
-				"lng": -118.4821129,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at  WCK Cafe - Pasjoli<br>3PM - 8PM<br>2732 Main St, Santa Monica, CA 90405</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40565,
 				"address": "6801 Hollywood Blvd Suite 105, Los Angeles, CA 90028, USA",
 				"name": "First Responders Only - Meal Distribution - Hard Rock Cafe",
@@ -816,21 +786,6 @@
 				}
 			},
 			{
-				"id": 40526,
-				"address": "200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA",
-				"name": "World Central Kitchen (Meal Service)",
-				"lat": 34.1954883,
-				"lng": -118.1814365,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>St. Francis High School </strong></p><p>Address: 200 Foothill Blvd, La Cañada Flintridge, CA 91011<br>Time: 12:00 PM - 5:00 PM</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40529,
 				"address": "1570 E Colorado Blvd, Pasadena, CA 91106, USA",
 				"name": "World Central Kitchen (Meal Service)",
@@ -900,51 +855,6 @@
 							"value": "https://www.cityofpasadena.net/"
 						}
 					]
-				}
-			},
-			{
-				"id": 40527,
-				"address": "2234 El Sereno Ave, Altadena CA, 91001",
-				"name": "World Central Kitchen (Meal Service)",
-				"lat": 34.1841508,
-				"lng": -118.1519253,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>Mobil Station Woodbury Rd Altadena</strong><br>Address: &nbsp;2234 El Sereno Ave, Altadena CA, 91001<br>Time: 1:00 PM - 5:00 PM</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40559,
-				"address": "516 Santa Monica Blvd, Santa Monica, CA 90401, USA",
-				"name": "World Central Kitchen (Meal Service)",
-				"lat": 34.0174391,
-				"lng": -118.4937028,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>Xuntos </strong><br>4PM - 9PM<br>516 Santa Monica Blvd, Santa Monica, CA 90401</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40560,
-				"address": "2732 Main St, Santa Monica, CA 90405, USA",
-				"name": "World Central Kitchen (Meal Service)",
-				"lat": 34.0001818,
-				"lng": -118.4821129,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at  WCK Cafe - Pasjoli<br>3PM - 8PM<br>2732 Main St, Santa Monica, CA 90405</p>",
-					"links": []
 				}
 			},
 			{
