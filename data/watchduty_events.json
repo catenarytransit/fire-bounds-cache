@@ -615,7 +615,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-11T19:48:17Z",
+		"date_modified": "2025-01-11T20:06:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -946,6 +946,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>Hard Rock Cafe LA is offering free food in collaboration with World Central Kitchen to <strong>first responders</strong> at 6801 Hollywood Blvd Suite 105, Los Angeles, CA.<br><br>Free meal to <strong>First Responders</strong> and <strong>Firefighters</strong> from Hard Rock Cafe. Through their partnership with World Central Kitchen, they are providing meals to everyone in need while supplies last. </p><p><strong>Location:</strong> Hard Rock Cafe: 6801 Hollywood Blvd </p><p><strong>Hours: </strong></p><ul><li><p>Sunday - Thursday: 11 AM - 10 PM </p></li><li><p>Friday &amp; Saturday: 9 AM - 10 PM</p></li></ul>",
+					"links": []
+				}
+			},
+			{
+				"id": 40575,
+				"address": "200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA",
+				"name": "WCK Meal Distribution - Saint Francis H.S.",
+				"lat": 34.1953743,
+				"lng": -118.1819054,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Saint Francis High School located at 200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA.</p><p>Time of service is listed as 12pm.</p>",
 					"links": []
 				}
 			}
