@@ -394,21 +394,6 @@
 				}
 			},
 			{
-				"id": 40567,
-				"address": "14301 Vanowen St, Van Nuys, CA 91405, USA",
-				"name": "Evacuation Shelter - Van Nuys Recreation Center",
-				"lat": 34.1942651,
-				"lng": -118.4451057,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An Evacuation Shelter is now open at the Van Nuys Recreation Center located at 14301 Vanowen St, Van Nuys, CA 91405, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0#:~:text=West%3A%20Louise%20Ave.-,EVACUATION/SHELTER%20CENTER%3A,-Westwood%20Recreation%20Center\">LAFD</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40568,
 				"address": "21816 Lanark St, Canoga Park, CA 91304, USA",
 				"name": "Evacuation Shelter - Lanark Recreation Center",
@@ -420,6 +405,36 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>An Evacuation Shelter is now open at the Lanark Recreation Center located at 21816 Lanark St, Canoga Park, CA 91304, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0#:~:text=West%3A%20Louise%20Ave.-,EVACUATION/SHELTER%20CENTER%3A,-Westwood%20Recreation%20Center\">LAFD</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40567,
+				"address": "14201 Huston St, Sherman Oaks, CA 91423",
+				"name": "Evacuation Shelter - Van Nuys /Sherman Oaks Recreation Center",
+				"lat": 34.1601133,
+				"lng": -118.4422436,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An Evacuation Shelter is now open at the Van Nuys /Sherman Oaks Recreation Center located at 14201 Huston St, Sherman Oaks, CA 91423, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0#:~:text=West%3A%20Louise%20Ave.-,EVACUATION/SHELTER%20CENTER%3A,-Westwood%20Recreation%20Center\">LAFD</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40569,
+				"address": "11127 Orcas Ave, Lake View Terrace, CA 91342, USA",
+				"name": "Large Animal Shelter - Hansen Dam Equestrian Center",
+				"lat": 34.2700416,
+				"lng": -118.3712741,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "",
 					"links": []
 				}
 			}
@@ -946,6 +961,21 @@
 					"information": "<p>Evacuation Shelter per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LACounty.gov</a></p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40569,
+				"address": "11127 Orcas Ave, Lake View Terrace, CA 91342, USA",
+				"name": "Large Animal Shelter - Hansen Dam Equestrian Center",
+				"lat": 34.2700416,
+				"lng": -118.3712741,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -1325,13 +1355,13 @@
 			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "L.A. County Emergency Information Genasys Protect Road Closures: Soledad Canyon Road between Agua Dulce Canyon Road and Crown Valley Road https://pw.lacounty.gov/roadclosures/ https://quickmap.dot.ca.gov/ The entire Angeles National Forest is temporarily closed for public safety and the protection of natural resources from January 8, 2025, at 5:00 p.m. through Wednesday, January 15, 2025, at 12:00 midnight. The closure order and prohibited activities may be found at this link.",
+			"evacuation_notes": "The entire Angeles National Forest is temporarily closed for public safety and the protection of natural resources from January 8, 2025, at 5:00 p.m. through Wednesday, January 15, 2025, at 12:00 midnight. The closure order and prohibited activities may be found at this link.",
 			"is_complex_parent": false,
 			"reporter_only_notes": "<p>CW: Unified Command with Los Angeles County Fire and Angeles National Forest</p>",
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T21:20:59Z",
-		"date_modified": "2025-01-11T03:48:11Z",
+		"date_modified": "2025-01-11T04:53:57Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
