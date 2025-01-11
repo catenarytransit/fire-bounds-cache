@@ -1719,7 +1719,7 @@
 	},
 	{
 		"id": 40564,
-		"is_active": true,
+		"is_active": false,
 		"name": "Club Fire",
 		"description": null,
 		"lat": 33.544071116138,
@@ -1747,7 +1747,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-11T01:14:52Z",
-		"date_modified": "2025-01-11T01:46:52Z",
+		"date_modified": "2025-01-11T07:54:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
