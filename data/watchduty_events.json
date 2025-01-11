@@ -110,7 +110,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-11T14:48:25Z",
+		"date_modified": "2025-01-11T15:08:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1300,7 +1300,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": 98,
+			"containment": 100,
 			"acreage": 395,
 			"links": [
 				{
@@ -1325,13 +1325,13 @@
 			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "The entire Angeles National Forest is temporarily closed for public safety and the protection of natural resources from January 8, 2025, at 5:00 p.m. through Wednesday, January 15, 2025, at 12:00 midnight. The closure order and prohibited activities may be found at this link.",
+			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": "<p>CW: Unified Command with Los Angeles County Fire and Angeles National Forest</p>",
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T21:20:59Z",
-		"date_modified": "2025-01-11T04:56:44Z",
+		"date_modified": "2025-01-11T15:02:00Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
