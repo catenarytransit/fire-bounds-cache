@@ -1,4 +1,4 @@
-const min_number_of_elements = 3;
+const min_number_of_elements = 10;
 const fs = require('fs');
 const path = require('path');
 
@@ -32,3 +32,61 @@ fetch(url)
 
     })
     .catch(error => console.error(error));
+
+    /*Format is like
+
+    [
+        {
+            "id": 31,
+            "name": "orange-CA_US",
+            "slug": "orange-CA_US",
+            "is_reporter_covered_for_fire": true,
+            "state": "CA",
+            "display_name": "Orange County",
+            "state_display_name": "California",
+            "date_created": "2022-05-31T17:37:42Z",
+            "date_modified": "2023-02-01T22:57:37Z",
+            "is_active": true
+          },
+    ]
+    */
+
+fetch("https://api.watchduty.org/api/v1/geo_events/?is_relevant=true&geo_event_types=wildfire")
+.then(response => response.json())
+.then(data => {
+//write data to file data/watchduty_events.json
+
+const data_dir = path.join(__dirname, 'data');
+
+if (!fs.existsSync(data_dir)) {
+    fs.mkdirSync(data_dir);
+}
+
+const data_copy = data.filter((fire) => fire.notification_type != "silent");
+
+for (let i = 0; i < data_copy.length; i++) {
+    //evacuation_orders_arr: fire.data.evacuation_orders.split(",").map((order) => order.trim()),
+
+    if (data_copy[i].data) {
+        if (data_copy[i].data.evacuation_orders) {
+            data_copy[i].evacuation_orders_arr = data_copy[i].data.evacuation_orders.split(",").map((order) => order.trim());
+        }
+
+        if (data_copy[i].data.evacuation_warnings) {
+            data_copy[i].evacuation_warnings_arr = data_copy[i].data.evacuation_warnings.split(",").map((warning) => warning.trim());
+        }
+    }
+}
+
+const file_path = path.join(data_dir, 'watchduty_events.json');
+
+fs.writeFile(file_path, JSON.stringify(data_copy , null, "\t"), (error) => {
+    if (error) {
+        console.error(error);
+        return;
+    }
+    console.log("Watchduty Data saved to file");
+});
+
+})
+.catch(error => console.error(error));

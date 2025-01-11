@@ -1,4 +1,4 @@
-name: Update Data
+name: Update Data for LA City
 
 on:
   workflow_call:
