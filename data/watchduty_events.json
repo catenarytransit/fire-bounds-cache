@@ -102,7 +102,7 @@
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": "DRY-U026-A, LOS-Q0762, LOS-Q0762-A, LOS-Q0762-B, LOS-Q0765, LOS-Q0767, LOS-Q0778-A, LOS-Q0779, LOS-Q0780, LOS-Q0781-A, LOS-Q0782-A, LOS-Q0782-B, LOS-Q0798, LOS-Q1118, MAL-C111-A, MAL-C111-B, MAL-C112-B, MTN-U028, RMB-U030-A, RMB-U030-B, RMB-U030-D, RMB-U030-E, RRC-U027, SAN-Q1395-B, SAN-Q1396-B, SDP-U029, SSM-U010-A, SSM-U010-B, TOP-U001, TOP-U002, TOP-U003, TOP-U004, TOP-U005, TOP-U006, TOP-U007, TOP-U008, TOP-U009",
-			"evacuation_warnings": "CAL-C405, CAL-C406, CAL-C407, CAL-C408, CAL-C409, CAL-C410, CAL-C411, CAL-C412, CAL-C413, CAL-C414, CAL-C415, DRY-U026, DRY-U026-B, LOS-Q0406-A, LOS-Q0407, LOS-Q0751, LOS-Q0764, LOS-Q0772, LOS-Q0783, LOS-Q0800, LOS-Q1089, LOS-Q1115, LOS-Q1119, LOS-Q1163, MAL-C112, MAL-C112-A, MCR-U021-A, RMB-U030-C, SAN-Q1388-B, SAN-Q1395-A, SAN-Q1396-A",
+			"evacuation_warnings": "CAL-C405, CAL-C406, CAL-C407, CAL-C408, CAL-C409, CAL-C410, CAL-C411, CAL-C412, CAL-C413, CAL-C414, CAL-C415, DRY-U026-B, LOS-Q0406-A, LOS-Q0407, LOS-Q0751, LOS-Q0764, LOS-Q0772, LOS-Q0783, LOS-Q0800, LOS-Q1089, LOS-Q1115, LOS-Q1119, LOS-Q1163, MAL-C112-A, MCR-U021-A, RMB-U030-C, SAN-Q1388-B, SAN-Q1395-A Note that Zone LOS-Q0772 shows as an Evacuation Warning on the Genasys Evacuation Map but doesn't show as an Evacuation Warning on LA Citys Evacuation Map.The Watch Duty map currently aligns with the Genasys map for that zone as that zone is also listed as an Evacuation Warning on the LA County Emergency website",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map LA City Evacuation Map City of Santa Monica Evacuation Map Lyft & Uber Information - Lyft: Riders in need can use the code CAFIRERELIEF25, valid for 2 rides up to $25 each ($50 total) from now until 1/15 at 11:59 p.m. Uber: Use promo code WILDFIRE25 in the wallet section of your Uber app to redeem 2 free Uber rides up to $40/each for transportation to/from active shelters.",
 			"is_complex_parent": false,
@@ -110,7 +110,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-11T18:16:41Z",
+		"date_modified": "2025-01-11T18:22:34Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -491,7 +491,6 @@
 			"CAL-C413",
 			"CAL-C414",
 			"CAL-C415",
-			"DRY-U026",
 			"DRY-U026-B",
 			"LOS-Q0406-A",
 			"LOS-Q0407",
@@ -504,13 +503,11 @@
 			"LOS-Q1115",
 			"LOS-Q1119",
 			"LOS-Q1163",
-			"MAL-C112",
 			"MAL-C112-A",
 			"MCR-U021-A",
 			"RMB-U030-C",
 			"SAN-Q1388-B",
-			"SAN-Q1395-A",
-			"SAN-Q1396-A"
+			"SAN-Q1395-A Note that Zone LOS-Q0772 shows as an Evacuation Warning on the Genasys Evacuation Map but doesn't show as an Evacuation Warning on LA Citys Evacuation Map.The Watch Duty map currently aligns with the Genasys map for that zone as that zone is also listed as an Evacuation Warning on the LA County Emergency website"
 		]
 	},
 	{
