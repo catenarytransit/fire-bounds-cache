@@ -726,21 +726,6 @@
 				}
 			},
 			{
-				"id": 40479,
-				"address": "375 Campus Dr, Arcadia, CA 91007, USA",
-				"name": "Evacuation Shelter - Arcadia Community Center",
-				"lat": 34.1315457,
-				"lng": -118.0440871,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation shelter is available at Arcadia Community Center – 375 Campus Drive, Arcadia, CA 91007 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County emergency website</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40453,
 				"address": "38550 Sierra Hwy, Palmdale",
 				"name": "Small Animal Shelter - Palmdale Animal Care Center",
