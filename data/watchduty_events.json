@@ -437,6 +437,21 @@
 					"information": "<p>Hard Rock Cafe LA is offering free food in collaboration with World Central Kitchen to <strong>first responders</strong> at 6801 Hollywood Blvd Suite 105, Los Angeles, CA.<br><br>Free meal to <strong>First Responders</strong> and <strong>Firefighters</strong> from Hard Rock Cafe. Through their partnership with World Central Kitchen, they are providing meals to everyone in need while supplies last. </p><p><strong>Location:</strong> Hard Rock Cafe: 6801 Hollywood Blvd </p><p><strong>Hours: </strong></p><ul><li><p>Sunday - Thursday: 11 AM - 10 PM </p></li><li><p>Friday &amp; Saturday: 9 AM - 10 PM</p></li></ul>",
 					"links": []
 				}
+			},
+			{
+				"id": 40578,
+				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
+				"name": "WCK Meal Distribution - Palisades Fire Station 69",
+				"lat": 34.0450471,
+				"lng": -118.5224772,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, January 11th.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -929,21 +944,6 @@
 				}
 			},
 			{
-				"id": 40575,
-				"address": "200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA",
-				"name": "WCK Meal Distribution - Saint Francis H.S.",
-				"lat": 34.1953743,
-				"lng": -118.1819054,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Saint Francis High School located at 200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA.</p><p>Time of service is listed as 12pm.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40527,
 				"address": "Arco, Fair Oaks Avenue & E Woodbury Rd, Altadena, CA",
 				"name": "World Central Kitchen (Meal Service)",
@@ -977,6 +977,21 @@
 							"value": "https://www.cityofpasadena.net/"
 						}
 					]
+				}
+			},
+			{
+				"id": 40575,
+				"address": "200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA",
+				"name": "WCK Meal Distribution - Saint Francis H.S.",
+				"lat": 34.1953743,
+				"lng": -118.1819054,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Saint Francis High School located at 200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA.</p><p>Time of service is from 12pm to 8pm today, January 11th.</p>",
+					"links": []
 				}
 			}
 		],
