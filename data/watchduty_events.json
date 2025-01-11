@@ -24,28 +24,25 @@
 				}
 			],
 			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": true,
-			"has_custom_evacuation_advisories": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": true,
 			"evacuation_orders": null,
-			"evacuation_warnings": "Christopher Creek Hunter Creek Kohls Ranch R-C Scout Camp",
-			"evacuation_advisories": "Tonto Creek Estates Tonto Rim Christian Camp Tonto Fish Hatchery Zane Gray Cabins",
+			"evacuation_warnings": null,
+			"evacuation_advisories": "Christopher Creek Hunter Creek Kohls Ranch R-C Scout Camp Tonto Creek Estates Tonto Rim Christian Camp Tonto Fish Hatchery Zane Gray Cabins",
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2024-12-15T17:01:20Z",
-		"date_modified": "2025-01-10T19:17:51Z",
+		"date_modified": "2025-01-11T01:19:03Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [],
-		"parent_geo_events": [],
-		"evacuation_warnings_arr": [
-			"Christopher Creek Hunter Creek Kohls Ranch R-C Scout Camp"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 40335,
@@ -113,7 +110,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-10T23:59:25Z",
+		"date_modified": "2025-01-11T01:33:03Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -380,6 +377,21 @@
 					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at  WCK Cafe - Pasjoli<br>3PM - 8PM<br>2732 Main St, Santa Monica, CA 90405</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40565,
+				"address": "6801 Hollywood Blvd Suite 105, Los Angeles, CA 90028, USA",
+				"name": "First Responders Only - Meal Distribution - Hard Rock Cafe",
+				"lat": 34.1017979,
+				"lng": -118.3405078,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>Hard Rock Cafe LA is offering free food in collaboration with World Central Kitchen to <strong>first responders</strong> at 6801 Hollywood Blvd Suite 105, Los Angeles, CA.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -544,7 +556,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-11T00:25:38Z",
+		"date_modified": "2025-01-11T01:17:30Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -920,6 +932,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at  WCK Cafe - Pasjoli<br>3PM - 8PM<br>2732 Main St, Santa Monica, CA 90405</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40565,
+				"address": "6801 Hollywood Blvd Suite 105, Los Angeles, CA 90028, USA",
+				"name": "First Responders Only - Meal Distribution - Hard Rock Cafe",
+				"lat": 34.1017979,
+				"lng": -118.3405078,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>Hard Rock Cafe LA is offering free food in collaboration with World Central Kitchen to <strong>first responders</strong> at 6801 Hollywood Blvd Suite 105, Los Angeles, CA.</p>",
 					"links": []
 				}
 			}
@@ -1596,8 +1623,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": 35,
-			"acreage": 1000,
+			"containment": 50,
+			"acreage": 1052,
 			"links": [
 				{
 					"link_type": "phone",
@@ -1637,7 +1664,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-09T22:43:28Z",
-		"date_modified": "2025-01-10T14:45:30Z",
+		"date_modified": "2025-01-11T01:06:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1838,6 +1865,45 @@
 		"reporter_managed": false,
 		"external_id": "3e4333d8-bc34-4c34-a85d-189413446cce",
 		"external_source": "wildcad",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 40564,
+		"is_active": true,
+		"name": "Club Fire",
+		"description": null,
+		"lat": 33.544071116138,
+		"lng": -117.66313525189261,
+		"address": "28800 block Escalona Drive, Mission Viejo",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": null,
+			"links": [],
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-01-11T01:14:52Z",
+		"date_modified": "2025-01-11T01:21:21Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
 		"child_geo_events": [],
 		"parent_geo_events": []
 	}
