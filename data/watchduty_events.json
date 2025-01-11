@@ -831,21 +831,6 @@
 				}
 			},
 			{
-				"id": 40528,
-				"address": "2125 N Windsor Ave, Altadena, CA 91001",
-				"name": "World Central Kitchen (Meal Service)",
-				"lat": 34.1821492,
-				"lng": -118.169125,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>Jack in the Box Altadena</strong><br>Address: 2125 N Windsor Ave, Altadena, CA 91001<br>Time: 5:30 PM - 10:00 PM</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40553,
 				"address": "1605 Garfield Avenue, South Pasadena, CA",
 				"name": "South Pasadena San Marino YMCA Disaster Relief Services",
