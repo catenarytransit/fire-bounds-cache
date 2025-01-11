@@ -298,21 +298,6 @@
 				}
 			},
 			{
-				"id": 40473,
-				"address": "7600 Beverly Blvd, Los Angeles, CA 90036, USA",
-				"name": "Evacuation Center - Pan Pacific Recreational Center",
-				"lat": 34.0754453,
-				"lng": -118.3542672,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation center is available at the Pan Pacific Recreational Center, 7600 Beverly Blvd, Los Angeles per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40378,
 				"address": "7100 El Rancho Drive, Woodland Hills",
 				"name": "Large Animal Shelter (FULL)",
@@ -390,6 +375,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>Hard Rock Cafe LA is offering free food in collaboration with World Central Kitchen to <strong>first responders</strong> at 6801 Hollywood Blvd Suite 105, Los Angeles, CA.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40473,
+				"address": "7600 Beverly Blvd, Los Angeles, CA 90036, USA",
+				"name": "Evacuation Center - Pan Pacific Recreational Center",
+				"lat": 34.0754453,
+				"lng": -118.3542672,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An evacuation center is available at the Pan Pacific Recreational Center, 7600 Beverly Blvd, Los Angeles per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
 					"links": []
 				}
 			}
@@ -949,6 +949,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>Hard Rock Cafe LA is offering free food in collaboration with World Central Kitchen to <strong>first responders</strong> at 6801 Hollywood Blvd Suite 105, Los Angeles, CA.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40473,
+				"address": "7600 Beverly Blvd, Los Angeles, CA 90036, USA",
+				"name": "Evacuation Center - Pan Pacific Recreational Center",
+				"lat": 34.0754453,
+				"lng": -118.3542672,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An evacuation center is available at the Pan Pacific Recreational Center, 7600 Beverly Blvd, Los Angeles per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
 					"links": []
 				}
 			}
@@ -1755,7 +1770,7 @@
 	},
 	{
 		"id": 40536,
-		"is_active": true,
+		"is_active": false,
 		"name": "Mission Fire",
 		"description": null,
 		"lat": 33.34299418119754,
@@ -1783,7 +1798,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-10T18:05:31Z",
-		"date_modified": "2025-01-10T19:55:43Z",
+		"date_modified": "2025-01-11T02:09:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1816,13 +1831,13 @@
 			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "LA City Evacuation Map",
+			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-10T18:40:27Z",
-		"date_modified": "2025-01-10T21:40:47Z",
+		"date_modified": "2025-01-11T02:28:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1833,7 +1848,7 @@
 	},
 	{
 		"id": 40546,
-		"is_active": true,
+		"is_active": false,
 		"name": "Sacate Fire",
 		"description": null,
 		"lat": 33.118798,
@@ -1861,7 +1876,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-10T21:38:03Z",
-		"date_modified": "2025-01-10T22:10:01Z",
+		"date_modified": "2025-01-11T02:24:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
