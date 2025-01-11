@@ -106,11 +106,11 @@
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map LA City Evacuation Map City of Santa Monica Evacuation Map Lyft & Uber Information - Lyft: Riders in need can use the code CAFIRERELIEF25, valid for 2 rides up to $25 each ($50 total) from now until 1/15 at 11:59 p.m. Uber: Use promo code WILDFIRE25 in the wallet section of your Uber app to redeem 2 free Uber rides up to $40/each for transportation to/from active shelters.",
 			"is_complex_parent": false,
-			"reporter_only_notes": null,
+			"reporter_only_notes": "<p>The bottom-right zone is marked as an order (warning on Genasys) LOS-QO779. The split zone’s north side is also an order (warning on Genasys) (LOS-Q0762-B). Both zones are listed as orders on the LAFD evacuation map, Everbridge alerts, and LAFD tweets/media, so we’ve treated them as orders accordingly - <strong>Katlyn C at 5am Jan 11</strong></p>",
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-11T12:30:06Z",
+		"date_modified": "2025-01-11T13:17:00Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
