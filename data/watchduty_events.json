@@ -944,21 +944,6 @@
 				}
 			},
 			{
-				"id": 40527,
-				"address": "Arco, Fair Oaks Avenue & E Woodbury Rd, Altadena, CA",
-				"name": "World Central Kitchen (Meal Service)",
-				"lat": 34.18286991360304,
-				"lng": -118.1512344728054,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals for those affected by the fire at Arco<strong> </strong>on the southwest corner of Fair Oaks Avenue &amp; E Woodbury Rd in Altadena.<br>Address: &nbsp;Southwest Corner of Fair Oaks Avenue &amp; E Woodbury Rd, Altadena, CA<br>Time: 1:00 PM - 5:00 PM</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40556,
 				"address": "450 N Lake Avenue, Pasadena",
 				"name": "Bottled Water Distribution Center",
@@ -991,6 +976,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Saint Francis High School located at 200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA.</p><p>Time of service is from 12pm to 8pm today, January 11th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40527,
+				"address": "Arco, Fair Oaks Avenue & E Woodbury Rd, Altadena, CA",
+				"name": "WCK Meal Distribution - Arco",
+				"lat": 34.18286991360304,
+				"lng": -118.1512344728054,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals for those affected by the fire at Arco<strong> </strong>on the southwest corner of Fair Oaks Avenue &amp; E Woodbury Rd in Altadena.<br>Address: &nbsp;Southwest Corner of Fair Oaks Avenue &amp; E Woodbury Rd, Altadena, CA<br>Time: 1:00 PM - 5:00 PM</p>",
 					"links": []
 				}
 			}
