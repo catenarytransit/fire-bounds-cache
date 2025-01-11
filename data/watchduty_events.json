@@ -424,21 +424,6 @@
 				}
 			},
 			{
-				"id": 40565,
-				"address": "6801 Hollywood Blvd Suite 105, Los Angeles, CA 90028, USA",
-				"name": "First Responders Only - Meal Distribution - Hard Rock Cafe",
-				"lat": 34.1017979,
-				"lng": -118.3405078,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>Hard Rock Cafe LA is offering free food in collaboration with World Central Kitchen to <strong>first responders</strong> at 6801 Hollywood Blvd Suite 105, Los Angeles, CA.<br><br>Free meal to <strong>First Responders</strong> and <strong>Firefighters</strong> from Hard Rock Cafe. Through their partnership with World Central Kitchen, they are providing meals to everyone in need while supplies last. </p><p><strong>Location:</strong> Hard Rock Cafe: 6801 Hollywood Blvd </p><p><strong>Hours: </strong></p><ul><li><p>Sunday - Thursday: 11 AM - 10 PM </p></li><li><p>Friday &amp; Saturday: 9 AM - 10 PM</p></li></ul>",
-					"links": []
-				}
-			},
-			{
 				"id": 40578,
 				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
 				"name": "WCK Meal Distribution - Palisades Fire Station 69",
@@ -450,6 +435,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, January 11th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40565,
+				"address": "6801 Hollywood Blvd Suite 105, Los Angeles, CA 90028, USA",
+				"name": "First Responders Only - Meal Distribution - Hard Rock Cafe",
+				"lat": 34.1017979,
+				"lng": -118.3405078,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>Hard Rock Cafe LA is offering free food to <strong>first responders</strong> at 6801 Hollywood Blvd Suite 105, Los Angeles, CA.<br><br>Free meal to <strong>First Responders</strong> and <strong>Firefighters</strong> from Hard Rock Cafe. While supplies last.</p><p><strong>Location:</strong> Hard Rock Cafe: 6801 Hollywood Blvd</p><p><strong>Hours:</strong></p><ul><li><p>Sunday - Thursday: 11 AM - 10 PM</p></li><li><p>Friday &amp; Saturday: 9 AM - 10 PM</p></li></ul>",
 					"links": []
 				}
 			}
@@ -930,21 +930,6 @@
 				}
 			},
 			{
-				"id": 40565,
-				"address": "6801 Hollywood Blvd Suite 105, Los Angeles, CA 90028, USA",
-				"name": "First Responders Only - Meal Distribution - Hard Rock Cafe",
-				"lat": 34.1017979,
-				"lng": -118.3405078,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>Hard Rock Cafe LA is offering free food in collaboration with World Central Kitchen to <strong>first responders</strong> at 6801 Hollywood Blvd Suite 105, Los Angeles, CA.<br><br>Free meal to <strong>First Responders</strong> and <strong>Firefighters</strong> from Hard Rock Cafe. Through their partnership with World Central Kitchen, they are providing meals to everyone in need while supplies last. </p><p><strong>Location:</strong> Hard Rock Cafe: 6801 Hollywood Blvd </p><p><strong>Hours: </strong></p><ul><li><p>Sunday - Thursday: 11 AM - 10 PM </p></li><li><p>Friday &amp; Saturday: 9 AM - 10 PM</p></li></ul>",
-					"links": []
-				}
-			},
-			{
 				"id": 40556,
 				"address": "450 N Lake Avenue, Pasadena",
 				"name": "Bottled Water Distribution Center",
@@ -992,6 +977,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals for those affected by the fire at Arco<strong> </strong>on the southwest corner of Fair Oaks Avenue &amp; E Woodbury Rd in Altadena.<br>Address: &nbsp;Southwest Corner of Fair Oaks Avenue &amp; E Woodbury Rd, Altadena, CA<br>Time: 1:00 PM - 5:00 PM</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40565,
+				"address": "6801 Hollywood Blvd Suite 105, Los Angeles, CA 90028, USA",
+				"name": "First Responders Only - Meal Distribution - Hard Rock Cafe",
+				"lat": 34.1017979,
+				"lng": -118.3405078,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>Hard Rock Cafe LA is offering free food to <strong>first responders</strong> at 6801 Hollywood Blvd Suite 105, Los Angeles, CA.<br><br>Free meal to <strong>First Responders</strong> and <strong>Firefighters</strong> from Hard Rock Cafe. While supplies last.</p><p><strong>Location:</strong> Hard Rock Cafe: 6801 Hollywood Blvd</p><p><strong>Hours:</strong></p><ul><li><p>Sunday - Thursday: 11 AM - 10 PM</p></li><li><p>Friday &amp; Saturday: 9 AM - 10 PM</p></li></ul>",
 					"links": []
 				}
 			}
@@ -1691,7 +1691,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-11T22:05:55Z",
-		"date_modified": "2025-01-11T22:16:48Z",
+		"date_modified": "2025-01-11T23:57:23Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
