@@ -110,7 +110,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-11T20:57:18Z",
+		"date_modified": "2025-01-11T21:10:41Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -854,27 +854,6 @@
 				}
 			},
 			{
-				"id": 40556,
-				"address": "450 N Lake Avenue, Pasadena",
-				"name": "Bottled Water Distribution Center",
-				"lat": 34.14881020848415,
-				"lng": -118.13165420000001,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>For PWP customers in the Eaton Fire-impacted areas, the City of Pasadena and LA County Public Works are opening a bottled water distribution center at 450 N. Lake Ave, today, January 10, from noon to 5 p.m. and tomorrow, January 11, from 8 a.m. to 5 p.m. </p><p>Please enter, heading north on Lake Ave. At this time, there is a limit of one case per household. We do not need additional volunteers at this time. <br><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.cityofpasadena.net/\">https://www.cityofpasadena.net/</a></p>",
-					"links": [
-						{
-							"link_type": "website",
-							"label": "City of Pasadena",
-							"value": "https://www.cityofpasadena.net/"
-						}
-					]
-				}
-			},
-			{
 				"id": 40473,
 				"address": "7600 Beverly Blvd, Los Angeles, CA 90036, USA",
 				"name": "Evacuation Center - Pan Pacific Recreational Center",
@@ -977,6 +956,27 @@
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals for those affected by the fire at Arco<strong> </strong>on the southwest corner of Fair Oaks Avenue &amp; E Woodbury Rd in Altadena.<br>Address: &nbsp;Southwest Corner of Fair Oaks Avenue &amp; E Woodbury Rd, Altadena, CA<br>Time: 1:00 PM - 5:00 PM</p>",
 					"links": []
+				}
+			},
+			{
+				"id": 40556,
+				"address": "450 N Lake Avenue, Pasadena",
+				"name": "Bottled Water Distribution Center",
+				"lat": 34.14881020848415,
+				"lng": -118.13165420000001,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>For PWP customers in the Eaton Fire-impacted areas, the City of Pasadena and LA County Public Works are opening a bottled water distribution center at 450 N. Lake Ave, today, January 11, from 8 a.m. to 5 p.m.</p><p>Please enter, heading north on Lake Ave. At this time, there is a limit of one case per household. We do not need additional volunteers at this time. <br><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.cityofpasadena.net/\">https://www.cityofpasadena.net/</a></p>",
+					"links": [
+						{
+							"link_type": "website",
+							"label": "City of Pasadena",
+							"value": "https://www.cityofpasadena.net/"
+						}
+					]
 				}
 			}
 		],
