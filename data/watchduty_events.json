@@ -110,7 +110,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-11T03:34:23Z",
+		"date_modified": "2025-01-11T03:57:43Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -390,6 +390,36 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>An evacuation center is available at the Pan Pacific Recreational Center, 7600 Beverly Blvd, Los Angeles per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40515,
+				"address": "11003 Sports Arena Dr, Pico Rivera, CA 90601, USA",
+				"name": "Large Animal Shelter - Pico Rivera Sports Arena",
+				"lat": 34.0256996,
+				"lng": -118.0448532,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Free boarding to horse and large livestock owners in areas impacted by the area fires is available at the Pico Rivera Sports Arena per the press release from the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/photo?fbid=1005478311606148&amp;set=a.300215052132481\">City of Pico Rivera on Facebook</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40407,
+				"address": "10736 Laurel Canyon Blvd, Pacoima, CA 91331, USA",
+				"name": "Evacuation Shelter - Ritchie Valens Recreation Center",
+				"lat": 34.26566040000001,
+				"lng": -118.4386267,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>Evacuation Shelter per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LACounty.gov</a></p>",
 					"links": []
 				}
 			}
@@ -756,21 +786,6 @@
 				}
 			},
 			{
-				"id": 40515,
-				"address": "11003 Sports Arena Dr, Pico Rivera, CA 90601, USA",
-				"name": "Large Animal Shelter - Pico Rivera Sports Arena",
-				"lat": 34.0256996,
-				"lng": -118.0448532,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Free boarding to horse and large livestock owners in areas impacted by the area fires is available at the Pico Rivera Sports Arena per the press release from the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/photo?fbid=1005478311606148&amp;set=a.300215052132481\">City of Pico Rivera on Facebook</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40378,
 				"address": "7100 El Rancho Drive, Woodland Hills",
 				"name": "Large Animal Shelter (FULL)",
@@ -959,6 +974,36 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>An evacuation center is available at the Pan Pacific Recreational Center, 7600 Beverly Blvd, Los Angeles per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40515,
+				"address": "11003 Sports Arena Dr, Pico Rivera, CA 90601, USA",
+				"name": "Large Animal Shelter - Pico Rivera Sports Arena",
+				"lat": 34.0256996,
+				"lng": -118.0448532,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Free boarding to horse and large livestock owners in areas impacted by the area fires is available at the Pico Rivera Sports Arena per the press release from the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/photo?fbid=1005478311606148&amp;set=a.300215052132481\">City of Pico Rivera on Facebook</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40407,
+				"address": "10736 Laurel Canyon Blvd, Pacoima, CA 91331, USA",
+				"name": "Evacuation Shelter - Ritchie Valens Recreation Center",
+				"lat": 34.26566040000001,
+				"lng": -118.4386267,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>Evacuation Shelter per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LACounty.gov</a></p>",
 					"links": []
 				}
 			}
@@ -1264,21 +1309,6 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40407,
-				"address": "10736 Laurel Canyon Blvd, Pacoima, CA 91331, USA",
-				"name": "Evacuation Shelter - Ritchie Valens Recreation Center",
-				"lat": 34.26566040000001,
-				"lng": -118.4386267,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>Evacuation Shelter per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LACounty.gov</a></p>",
 					"links": []
 				}
 			},
