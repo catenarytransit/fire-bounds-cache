@@ -365,6 +365,21 @@
 					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>Xuntos </strong><br>4PM - 9PM<br>516 Santa Monica Blvd, Santa Monica, CA 90401</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40560,
+				"address": "2732 Main St, Santa Monica, CA 90405, USA",
+				"name": "World Central Kitchen (Meal Service)",
+				"lat": 34.0001818,
+				"lng": -118.4821129,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at  WCK Cafe - Pasjoli<br>3PM - 8PM<br>2732 Main St, Santa Monica, CA 90405</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -520,8 +535,8 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "ALD-ARROYOSECO, ALD-CALAVERAS, ALD-CANON, ALD-CASITAS, ALD-CHANEY, ALD-EASTLOMA, ALD-EATONCANYON, ALD-FARNSWORTH, ALD-GARDEN, ALD-GARFIAS, ALD-LAUREL, ALD-MEADOWS, ALD-MENDOCINO, ALD-MIDLOTHIAN, ALD-MILLARD, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK, ARC-001, KIN-KINNELOA, LAC-E165-B, LAC-E167, LAC-E168-A, LAC-E183, LCF-CROWN, LCF-JPL, LCF-STARLIGHT, MRV-101-B, MRV-201-B, PAS-E006, PAS-E008, PAS-E019, SMD-E001, SMD-E002, SMD-E003, SMD-E004, SMD-E005, SMD-E006, SMD-E007, SMD-E008, SMD-E009, SMD-E010, SMD-E011, SMD-E012, SMD-E013, SMD-E014, SMD-E015, SMD-E016, SMD-E019",
-			"evacuation_warnings": "ARC-002, ARC-004, BRA-001, BRA-002, BRA-003, BRA-004, DUA-001, DUA-002, DUA-005, DUA-008, LCF-COMMONWEALTH, LCF-CREST-B, LCF-FOOTHILLEAST, MRV-101-A, MRV-102, MRV-201-A, MRV-202, MRV-203, MRV-204, MRV-301, MRV-302, MRV-303, MRV-304, MRV-305, MRV-401, MRV-402, MRV-403, MRV-404, PAS-E010, PAS-E012, PAS-E014, PAS-E015, PAS-E017, PAS-E018, PAS-E022, SMD-E017-A",
+			"evacuation_orders": "ALD-ARROYOSECO, ALD-CALAVERAS, ALD-CANON, ALD-CASITAS, ALD-CHANEY, ALD-EASTLOMA, ALD-EATONCANYON, ALD-FARNSWORTH, ALD-GARDEN, ALD-GARFIAS, ALD-LAUREL, ALD-MEADOWS, ALD-MENDOCINO, ALD-MIDLOTHIAN, ALD-MILLARD, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK, ARC-001, KIN-KINNELOA, LAC-E165-B, LAC-E167, LAC-E168-A, LAC-E183, LCF-CROWN, LCF-JPL, LCF-STARLIGHT, MRV-101-B, MRV-201-B, PAS-E006, PAS-E019, SMD-E001, SMD-E002, SMD-E003, SMD-E004, SMD-E005, SMD-E006, SMD-E007, SMD-E008, SMD-E009, SMD-E010, SMD-E011, SMD-E012, SMD-E013, SMD-E014, SMD-E015, SMD-E016, SMD-E019",
+			"evacuation_warnings": "ARC-002, ARC-004, BRA-001, BRA-002, BRA-003, BRA-004, DUA-001, DUA-002, DUA-005, DUA-008, LCF-COMMONWEALTH, LCF-CREST-B, LCF-FOOTHILLEAST, MRV-101-A, MRV-102, MRV-201-A, MRV-202, MRV-203, MRV-204, MRV-301, MRV-302, MRV-303, MRV-304, MRV-305, MRV-401, MRV-402, MRV-403, MRV-404, PAS-E008, PAS-E010, PAS-E012, PAS-E014, PAS-E015, PAS-E017, PAS-E018, PAS-E022, SMD-E017-A",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Protect Evacuation Map The entire Angeles National Forest is temporarily closed for public safety and the protection of natural resources from today, January 8, 2025, at 5:00 p.m. through Wednesday, January 15, 2025, at 12:00 midnight. The closure order and prohibited activities may be found at this link. Do not drink water in the areas shaded in gray on the following linked map. Debris and elevated turbidity from the Eaton Fire potentially impacted Pasadena Water and Power’s (PWP) drinking water system in the Eaton Fire evacuated areas, per the City of Pasadena.",
 			"is_complex_parent": false,
@@ -529,7 +544,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-11T00:06:13Z",
+		"date_modified": "2025-01-11T00:25:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -892,6 +907,21 @@
 					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at <strong>Xuntos </strong><br>4PM - 9PM<br>516 Santa Monica Blvd, Santa Monica, CA 90401</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40560,
+				"address": "2732 Main St, Santa Monica, CA 90405, USA",
+				"name": "World Central Kitchen (Meal Service)",
+				"lat": 34.0001818,
+				"lng": -118.4821129,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) has open sites offering free meals for those affected by the fire at  WCK Cafe - Pasjoli<br>3PM - 8PM<br>2732 Main St, Santa Monica, CA 90405</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -928,7 +958,6 @@
 			"MRV-101-B",
 			"MRV-201-B",
 			"PAS-E006",
-			"PAS-E008",
 			"PAS-E019",
 			"SMD-E001",
 			"SMD-E002",
@@ -977,6 +1006,7 @@
 			"MRV-402",
 			"MRV-403",
 			"MRV-404",
+			"PAS-E008",
 			"PAS-E010",
 			"PAS-E012",
 			"PAS-E014",
