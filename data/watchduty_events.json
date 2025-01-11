@@ -110,7 +110,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-11T04:40:28Z",
+		"date_modified": "2025-01-11T05:13:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1391,61 +1391,6 @@
 		"reporter_managed": false,
 		"external_id": "{02016CFC-3328-4547-8168-003DF67E3FA9}",
 		"external_source": "nifc",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 40469,
-		"is_active": false,
-		"name": "Sunset Fire",
-		"description": null,
-		"lat": 34.10911622357422,
-		"lng": -118.35278574954788,
-		"address": "2300 block Solar Dr, Hollywood Hills",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": true,
-			"containment": null,
-			"acreage": 42.8,
-			"links": [
-				{
-					"link_type": "website",
-					"label": "LAFD Alerts on X",
-					"value": "https://x.com/LAFD"
-				},
-				{
-					"link_type": "website",
-					"label": "LAFD News",
-					"value": "https://lafd.org/news"
-				},
-				{
-					"link_type": "website",
-					"label": "LA County Emergency Website",
-					"value": "https://lacounty.gov/emergency/"
-				}
-			],
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-01-09T01:39:46Z",
-		"date_modified": "2025-01-10T05:09:07Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
 		"child_geo_events": [],
 		"parent_geo_events": []
 	},
