@@ -468,24 +468,39 @@
 				}
 			},
 			{
-				"id": 40597,
-				"address": "Canoga Park High School 6850 CA-27, Canoga Park, CA 91303, USA",
-				"name": "World Central Kitchen (Meal Service)",
-				"lat": 34.1949144,
-				"lng": -118.6055275,
+				"id": 40560,
+				"address": "2732 Main St, Santa Monica, CA 90405, USA",
+				"name": "WCK Meal Distribution - Pasjoli",
+				"lat": 34.0001818,
+				"lng": -118.4821129,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Canoga Park High School at 6850 CA-27, Canoga Park, CA 91303, USA</p><p>Time of service is from 12:00-4:00pm , January 12th.</p>",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Pasjoli located at 2732 Main St, Santa Monica, CA 90405, USA.</p><p>Time of service is from 11am to 3pm today, January 12th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40559,
+				"address": "516 Santa Monica Blvd, Santa Monica, CA 90401, USA",
+				"name": "WCK Meal Distribution - Xuntos",
+				"lat": 34.0174391,
+				"lng": -118.4937028,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Xuntos located at 516 Santa Monica Blvd, Santa Monica, CA 90401, USA.</p><p>Time of service is from 1pm to 6pm today, January 12th.</p>",
 					"links": []
 				}
 			},
 			{
 				"id": 40598,
 				"address": "Taft High School 5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
-				"name": "World Central Kitchen (Meal Service)",
+				"name": "WCK Meal Service - Taft H.S.",
 				"lat": 34.1693317,
 				"lng": -118.5713363,
 				"is_active": true,
@@ -498,9 +513,24 @@
 				}
 			},
 			{
+				"id": 40597,
+				"address": "Canoga Park High School 6850 CA-27, Canoga Park, CA 91303, USA",
+				"name": "WCK Meal Service - Canoga Park H.S.",
+				"lat": 34.1949144,
+				"lng": -118.6055275,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Canoga Park High School at 6850 CA-27, Canoga Park, CA 91303, USA</p><p>Time of service is from 12:00-4:00pm , January 12th.</p>",
+					"links": []
+				}
+			},
+			{
 				"id": 40599,
-				"address": "5304 Derry Ave z, Unit Zero, Agoura Hills, CA 91301.",
-				"name": "World Central Kitchen (Meal Service)",
+				"address": "5304 Derry Ave z, Unit Zero, Agoura Hills, CA 91301",
+				"name": "WCK Meal Service - Together We Thrive's HQ Warehouse",
 				"lat": 34.1454892,
 				"lng": -118.7471251,
 				"is_active": true,
@@ -508,22 +538,7 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;We Thrive’s Headquarter’s Warehouse located at 5304 Derry Ave z, Unit Zero, Agoura Hills, CA 91301, USA </p><p>Time of service is from 11:30-6pm, January 12th</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40560,
-				"address": "2732 Main St, Santa Monica, CA 90405, USA",
-				"name": "WCK Meal Distribution - Pasjoli",
-				"lat": 34.0001818,
-				"lng": -118.4821129,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Pasjoli located at 2732 Main St, Santa Monica, CA 90405, USA.</p><p>Time of service is from 11am to 3pm today, January 12th.</p>",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Together We Thrive's Headquarters Warehouse located at 5304 Derry Ave, Unit Z Agoura Hills, CA 91301.</p><p>Time of service is from 11:30-6pm, January 12th.</p><p>They are serving free hot meals from Food Trucks and a free farmers market for all fire evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.instagram.com/p/DEsrMqgyNgV/?img_index=1\">Together We Thrive's Instagram</a>.</p>",
 					"links": []
 				}
 			}
@@ -990,24 +1005,9 @@
 				}
 			},
 			{
-				"id": 40597,
-				"address": "Canoga Park High School 6850 CA-27, Canoga Park, CA 91303, USA",
-				"name": "World Central Kitchen (Meal Service)",
-				"lat": 34.1949144,
-				"lng": -118.6055275,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Canoga Park High School at 6850 CA-27, Canoga Park, CA 91303, USA</p><p>Time of service is from 12:00-4:00pm , January 12th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40598,
 				"address": "Taft High School 5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
-				"name": "World Central Kitchen (Meal Service)",
+				"name": "WCK Meal Service - Taft H.S.",
 				"lat": 34.1693317,
 				"lng": -118.5713363,
 				"is_active": true,
@@ -1020,9 +1020,24 @@
 				}
 			},
 			{
+				"id": 40597,
+				"address": "Canoga Park High School 6850 CA-27, Canoga Park, CA 91303, USA",
+				"name": "WCK Meal Service - Canoga Park H.S.",
+				"lat": 34.1949144,
+				"lng": -118.6055275,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Canoga Park High School at 6850 CA-27, Canoga Park, CA 91303, USA</p><p>Time of service is from 12:00-4:00pm , January 12th.</p>",
+					"links": []
+				}
+			},
+			{
 				"id": 40599,
-				"address": "5304 Derry Ave z, Unit Zero, Agoura Hills, CA 91301.",
-				"name": "World Central Kitchen (Meal Service)",
+				"address": "5304 Derry Ave z, Unit Zero, Agoura Hills, CA 91301",
+				"name": "WCK Meal Service - Together We Thrive's HQ Warehouse",
 				"lat": 34.1454892,
 				"lng": -118.7471251,
 				"is_active": true,
@@ -1030,7 +1045,7 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;We Thrive’s Headquarter’s Warehouse located at 5304 Derry Ave z, Unit Zero, Agoura Hills, CA 91301, USA </p><p>Time of service is from 11:30-6pm, January 12th</p>",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Together We Thrive's Headquarters Warehouse located at 5304 Derry Ave, Unit Z Agoura Hills, CA 91301.</p><p>Time of service is from 11:30-6pm, January 12th.</p><p>They are serving free hot meals from Food Trucks and a free farmers market for all fire evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.instagram.com/p/DEsrMqgyNgV/?img_index=1\">Together We Thrive's Instagram</a>.</p>",
 					"links": []
 				}
 			}
@@ -1306,61 +1321,6 @@
 				}
 			}
 		],
-		"parent_geo_events": []
-	},
-	{
-		"id": 40454,
-		"is_active": false,
-		"name": "Lidia Fire",
-		"description": null,
-		"lat": 34.4379993964624,
-		"lng": -118.23780114633881,
-		"address": "5700 Block of Soledad Canyon Rd, Acton",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": true,
-			"containment": 100,
-			"acreage": 395,
-			"links": [
-				{
-					"link_type": "website",
-					"label": "Lidia Fire InciWeb",
-					"value": "https://inciweb.wildfire.gov/incident-information/caanf-lidia-fire"
-				},
-				{
-					"link_type": "website",
-					"label": "Angeles NF on X",
-					"value": "https://x.com/Angeles_NF"
-				},
-				{
-					"link_type": "website",
-					"label": "Angeles NF on Facebook",
-					"value": "https://www.facebook.com/angelesnationalforest/"
-				}
-			],
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": "<p>CW: Unified Command with Los Angeles County Fire and Angeles National Forest</p>",
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-01-08T21:20:59Z",
-		"date_modified": "2025-01-11T23:09:08Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
