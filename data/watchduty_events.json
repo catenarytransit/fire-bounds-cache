@@ -64,7 +64,7 @@
 			"links": [
 				{
 					"link_type": "website",
-					"label": "LA County Fire Department Alerts",
+					"label": "LAFD Alerts",
 					"value": "https://lafd.org/alerts"
 				},
 				{
@@ -79,12 +79,7 @@
 				},
 				{
 					"link_type": "website",
-					"label": "LA County Fire Department X(Twitter)",
-					"value": "https://x.com/LAFD/status/1876701724880064695"
-				},
-				{
-					"link_type": "website",
-					"label": "City of Santa Monica",
+					"label": "Santa Monica Updates",
 					"value": "https://www.santamonica.gov/"
 				},
 				{
@@ -104,13 +99,13 @@
 			"evacuation_orders": "DRY-U026-A, LOS-Q0762, LOS-Q0762-A, LOS-Q0762-B, LOS-Q0765, LOS-Q0767, LOS-Q0778-A, LOS-Q0779, LOS-Q0780, LOS-Q0781-A, LOS-Q0782-A, LOS-Q0782-B, LOS-Q0798, LOS-Q1118, MAL-C111-A, MAL-C111-B, MAL-C112-B, MTN-U028, RMB-U030-A, RMB-U030-B, RMB-U030-D, RMB-U030-E, RRC-U027, SAN-Q1395-B, SAN-Q1396-B, SDP-U029, SSM-U010-A, SSM-U010-B, TOP-U001, TOP-U002, TOP-U003, TOP-U004, TOP-U005, TOP-U006, TOP-U007, TOP-U008, TOP-U009",
 			"evacuation_warnings": "CAL-C405, CAL-C406, CAL-C407, CAL-C408, CAL-C409, CAL-C410, CAL-C411, CAL-C412, CAL-C413, CAL-C414, CAL-C415, DRY-U026-B, LOS-Q0406-A, LOS-Q0407, LOS-Q0751, LOS-Q0764, LOS-Q0772, LOS-Q0783, LOS-Q0800, LOS-Q1089, LOS-Q1115-A, LOS-Q1115-B, LOS-Q1119, LOS-Q1163, MAL-C112-A, MCR-U021-A, RMB-U030-C, SAN-Q1388-B, SAN-Q1395-A Note that Zone LOS-Q0772 shows as an Evacuation Warning on the Genasys Evacuation Map but doesn't show as an Evacuation Warning on LA Citys Evacuation Map.The Watch Duty map currently aligns with the Genasys map for that zone as that zone is also listed as an Evacuation Warning on the LA County Emergency website",
 			"evacuation_advisories": null,
-			"evacuation_notes": "Genasys Evacuation Map LA City Evacuation Map City of Santa Monica Evacuation Map -- Additional Information -- LADWP has issued a DO NOT DRINK NOTICE to Pacific Palisades Zip Codes 90272 & adjacent communities in the LADWP service area N. of San Vicente Blvd under evacuation orders due to the potential of fire-related contaminants that may have entered the water system. Airbnb.org is providing free, emergency housing for people who have been displaced by the Los Angeles wildfires. You can get help - or provide help – at Airbnb.org/lawildfires. Lyft & Uber Information - Lyft: Riders in need can use the code CAFIRERELIEF25, valid for 2 rides up to $25 each ($50 total) from now until 1/15 at 11:59 p.m. Uber: Use promo code WILDFIRE25 in the wallet section of your Uber app to redeem 2 free Uber rides up to $40/each for transportation to/from active shelters.",
+			"evacuation_notes": "Genasys Evacuation Map LA City Evacuation Map City of Santa Monica Evacuation Map -- Additional Information -- LADWP has issued a DO NOT DRINK NOTICE to Pacific Palisades Zip Codes 90272 & adjacent communities in the LADWP service area N. of San Vicente Blvd under evacuation orders due to the potential of fire-related contaminants that may have entered the water system. For information on damage assessments and recovery resources, please see the following links: https://emergency.lacity.gov/recoveryhttps://recovery.lacounty.gov/palisades-fire/ Airbnb.org is providing free, emergency housing for people who have been displaced by the Los Angeles wildfires. You can get help - or provide help – at Airbnb.org/lawildfires. Lyft & Uber Information - Lyft: Riders in need can use the code CAFIRERELIEF25, valid for 2 rides up to $25 each ($50 total) from now until 1/15 at 11:59 p.m. Uber: Use promo code WILDFIRE25 in the wallet section of your Uber app to redeem 2 free Uber rides up to $40/each for transportation to/from active shelters.",
 			"is_complex_parent": false,
 			"reporter_only_notes": "<p>The bottom-right zone is marked as an order (warning on Genasys) LOS-QO779. The split zone’s north side is also an order (warning on Genasys) (LOS-Q0762-B). Both zones are listed as orders on the LAFD evacuation map, Everbridge alerts, and LAFD tweets/media, so we’ve treated them as orders accordingly - <strong>Katlyn C at 5am Jan 11</strong></p>",
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-12T00:53:48Z",
+		"date_modified": "2025-01-12T01:20:58Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -585,38 +580,43 @@
 			"links": [
 				{
 					"link_type": "website",
-					"label": "City of Pasadena",
-					"value": "https://www.cityofpasadena.net/"
+					"label": "LA County Emergency Info",
+					"value": "https://lacounty.gov/emergency/"
 				},
 				{
 					"link_type": "website",
-					"label": "Pasadena Unified School District",
-					"value": "https://www.pusd.us/"
+					"label": "School Closures - LACOE",
+					"value": "https://www.lacoe.edu/about/newsroom/emergency-resources/wildfire-and-windstorm"
 				},
 				{
 					"link_type": "website",
-					"label": "LA County Office of Education",
-					"value": "https://www.lacoe.edu/"
+					"label": "City of Pasadena News",
+					"value": "https://www.cityofpasadena.net/city-manager/news/"
 				},
 				{
 					"link_type": "website",
-					"label": "Inciweb",
-					"value": "https://inciweb.wildfire.gov/incident-information/caanf-eaton-fire"
+					"label": "LA County Recovers Resources",
+					"value": "https://recovery.lacounty.gov/resources/"
 				},
 				{
 					"link_type": "website",
-					"label": "LA County Fire Department",
-					"value": "https://fire.lacounty.gov/#"
-				},
-				{
-					"link_type": "website",
-					"label": "LA County Fire Department X(Twitter)",
-					"value": "https://x.com/LAFD/status/1876701724880064695"
+					"label": "211 LA Recovery Resources",
+					"value": "https://211la.org/LA-Wildfires#:~:text=parks.lacounty.gov/-,Food%20Resources,-Los%20Angeles%20Regional"
 				},
 				{
 					"link_type": "website",
 					"label": "Airbnb.org Wildfire Support",
 					"value": "https://www.airbnb.org/lawildfires"
+				},
+				{
+					"link_type": "website",
+					"label": "FEMA Assistance",
+					"value": "https://www.disasterassistance.gov/"
+				},
+				{
+					"link_type": "website",
+					"label": "Inciweb",
+					"value": "https://inciweb.wildfire.gov/incident-information/caanf-eaton-fire"
 				}
 			],
 			"has_custom_evacuation_orders": true,
@@ -631,7 +631,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-12T00:47:41Z",
+		"date_modified": "2025-01-12T01:36:51Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
