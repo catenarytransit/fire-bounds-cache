@@ -115,7 +115,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-12T22:45:45Z",
+		"date_modified": "2025-01-12T22:59:53Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -423,21 +423,6 @@
 				}
 			},
 			{
-				"id": 40560,
-				"address": "2732 Main St, Santa Monica, CA 90405, USA",
-				"name": "WCK Meal Distribution - Pasjoli",
-				"lat": 34.0001818,
-				"lng": -118.4821129,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Pasjoli located at 2732 Main St, Santa Monica, CA 90405, USA.</p><p>Time of service is from 12pm to 6pm today, January 12th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40578,
 				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
 				"name": "WCK Meal Distribution - Palisades Fire Station 69",
@@ -524,6 +509,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;We Thrive’s Headquarter’s Warehouse located at 5304 Derry Ave z, Unit Zero, Agoura Hills, CA 91301, USA </p><p>Time of service is from 11:30-6pm, January 12th</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40560,
+				"address": "2732 Main St, Santa Monica, CA 90405, USA",
+				"name": "WCK Meal Distribution - Pasjoli",
+				"lat": 34.0001818,
+				"lng": -118.4821129,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Pasjoli located at 2732 Main St, Santa Monica, CA 90405, USA.</p><p>Time of service is from 11am to 3pm today, January 12th.</p>",
 					"links": []
 				}
 			}
