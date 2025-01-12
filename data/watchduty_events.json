@@ -60,7 +60,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 11,
-			"acreage": 22660.5,
+			"acreage": 23342.8,
 			"links": [
 				{
 					"link_type": "website",
@@ -110,7 +110,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-12T00:26:49Z",
+		"date_modified": "2025-01-12T00:53:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -631,7 +631,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-12T00:00:41Z",
+		"date_modified": "2025-01-12T00:47:41Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -966,21 +966,6 @@
 				}
 			},
 			{
-				"id": 40527,
-				"address": "Arco, Fair Oaks Avenue & E Woodbury Rd, Altadena, CA",
-				"name": "WCK Meal Distribution - Arco",
-				"lat": 34.18286991360304,
-				"lng": -118.1512344728054,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals for those affected by the fire at Arco<strong> </strong>on the southwest corner of Fair Oaks Avenue &amp; E Woodbury Rd in Altadena.<br>Address: &nbsp;Southwest Corner of Fair Oaks Avenue &amp; E Woodbury Rd, Altadena, CA<br>Time: 1:00 PM - 5:00 PM</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40565,
 				"address": "6801 Hollywood Blvd Suite 105, Los Angeles, CA 90028, USA",
 				"name": "First Responders Only - Meal Distribution - Hard Rock Cafe",
@@ -992,6 +977,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>Hard Rock Cafe LA is offering free food to <strong>first responders</strong> at 6801 Hollywood Blvd Suite 105, Los Angeles, CA.<br><br>Free meal to <strong>First Responders</strong> and <strong>Firefighters</strong> from Hard Rock Cafe. While supplies last.</p><p><strong>Location:</strong> Hard Rock Cafe: 6801 Hollywood Blvd</p><p><strong>Hours:</strong></p><ul><li><p>Sunday - Thursday: 11 AM - 10 PM</p></li><li><p>Friday &amp; Saturday: 9 AM - 10 PM</p></li></ul>",
+					"links": []
+				}
+			},
+			{
+				"id": 40529,
+				"address": "Student Parking Lot 3, 1570 E Colorado Blvd, Pasadena, CA 91106, USA",
+				"name": "WCK Meal Distribution - Pasadena City College Lot 3",
+				"lat": 34.14269326896729,
+				"lng": -118.12084928669128,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals for those affected by the fire at <strong>Pasadena City College Lot 3.</strong><br>Address: 1570 E Colorado Blvd, Pasadena, CA 91106<br>Time: 5:00 PM - 8:00 PM on January 11th</p>",
 					"links": []
 				}
 			}
