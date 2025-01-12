@@ -1522,7 +1522,7 @@
 	},
 	{
 		"id": 40579,
-		"is_active": true,
+		"is_active": false,
 		"name": "Brier Fire",
 		"description": null,
 		"lat": 34.072604460687245,
@@ -1550,7 +1550,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-11T22:05:55Z",
-		"date_modified": "2025-01-12T00:14:52Z",
+		"date_modified": "2025-01-12T04:24:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
