@@ -699,21 +699,6 @@
 				}
 			},
 			{
-				"id": 40406,
-				"address": "361 S Raymond Ave, Pasadena, CA 91105, USA",
-				"name": "Small Animal Shelter - Pasadena Humane Society",
-				"lat": 34.1399349,
-				"lng": -118.1492414,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A small animal shelter is established at the Pasadena Humane Society for emergency sheltering. The shelter is located at 361 S Raymond Ave, Pasadena, CA 91105. The shelter states, \"If you are being evacuated and can go somewhere with your pets–such as a friend or family member’s home–that is ideal. If you are evacuating, please take your animals with you. We are very thankful that the Pasadena Civic Center has allowed people to stay with their pets. We are helping in any way that we can–providing them with resources such as food and leashes for the displaced families. We also have pet food available at the shelter for those who need it. If you cannot go somewhere that allows your pet to stay with you, you can bring your animals to the shelter where we are offering emergency boarding.\"</p><p>More details are located <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://pasadenahumane.org/eaton-canyon-fire-update/\">at this link</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40453,
 				"address": "38550 Sierra Hwy, Palmdale",
 				"name": "Small Animal Shelter - Palmdale Animal Care Center",
@@ -873,6 +858,21 @@
 							"value": "https://www.cityofpasadena.net/"
 						}
 					]
+				}
+			},
+			{
+				"id": 40406,
+				"address": "361 S Raymond Ave, Pasadena, CA 91105, USA",
+				"name": "Small Animal Shelter - Pasadena Humane Society",
+				"lat": 34.1399349,
+				"lng": -118.1492414,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>A small animal shelter is established at the Pasadena Humane Society for emergency sheltering. The shelter is located at 361 S Raymond Ave, Pasadena, CA 91105. The shelter states, \"If you are being evacuated and can go somewhere with your pets–such as a friend or family member’s home–that is ideal. If you are evacuating, please take your animals with you. We are very thankful that the Pasadena Civic Center has allowed people to stay with their pets. We are helping in any way that we can–providing them with resources such as food and leashes for the displaced families. We also have pet food available at the shelter for those who need it. If you cannot go somewhere that allows your pet to stay with you, you can bring your animals to the shelter where we are offering emergency boarding.</p><p>Pets: If you have been impacted by the Eaton Fire and need help with a pet you’ve lost, found or had to leave behind in the fire zone, please contact our Dispatch at <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link c-link--underline\" href=\"tel:6267927151\">626-792-7151</a> x 970. </p><p>Wildlife: If you need help with injured wildlife, please text or call <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link c-link--underline\" href=\"tel:6263441129\">626-344-1129</a>.\" per&nbsp; <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link c-link--underline\" href=\"https://www.facebook.com/pasadenahumane?__cft__[0]=AZX8Poik_3Lpx3mUHg9uFkluts49e_hVTqxWaRBaMhf6Ueaab0hemlv5TAeUtKQUtwS1HWxU3qzs6YFjs2QsU8jRfkotAu3vHRvGXCdXL565bV_HynkKt-ztZEuJtCZ2OGhFyPfGb9Ok_--EdNDIMXPW53JKk2Cipai-6BDK-1bd7smROWbe2kUkTVT3QOScpBg&amp;__tn__=-UC%2CP-R\">Pasadena Humane</a></p><p>More details are located <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://pasadenahumane.org/eaton-canyon-fire-update/\">at this link</a>.</p>",
+					"links": []
 				}
 			}
 		],
