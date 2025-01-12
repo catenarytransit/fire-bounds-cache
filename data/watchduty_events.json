@@ -561,7 +561,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-12T16:47:17Z",
+		"date_modified": "2025-01-12T17:21:51Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1342,7 +1342,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-09T22:43:28Z",
-		"date_modified": "2025-01-12T13:56:06Z",
+		"date_modified": "2025-01-12T17:20:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
