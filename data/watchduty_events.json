@@ -607,8 +607,8 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "ALD-ARROYOSECO, ALD-CALAVERAS, ALD-CANON, ALD-CASITAS, ALD-CHANEY, ALD-EASTLOMA, ALD-EATONCANYON, ALD-FARNSWORTH, ALD-GARDEN, ALD-GARFIAS, ALD-LAUREL, ALD-MEADOWS, ALD-MENDOCINO, ALD-MIDLOTHIAN, ALD-MILLARD, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK, ARC-001, KIN-KINNELOA, LAC-E165-B, LAC-E167, LAC-E168-A, LAC-E183, PAS-E006, PAS-E019, SMD-E001, SMD-E002, SMD-E003, SMD-E004, SMD-E005, SMD-E006, SMD-E007, SMD-E008, SMD-E009, SMD-E010, SMD-E011, SMD-E012, SMD-E013, SMD-E014, SMD-E015, SMD-E016, SMD-E019",
-			"evacuation_warnings": "ARC-002, ARC-004, LCF-CROWN, LCF-JPL, LCF-STARLIGHT, MRV-101-B, MRV-201-B, PAS-E008, PAS-E010, PAS-E012, PAS-E014, PAS-E015, PAS-E017, PAS-E018, PAS-E022, SMD-E017-A",
+			"evacuation_orders": "ALD-ARROYOSECO, ALD-CALAVERAS, ALD-CANON, ALD-CASITAS, ALD-CHANEY, ALD-EASTLOMA, ALD-EATONCANYON, ALD-FARNSWORTH, ALD-GARDEN, ALD-GARFIAS, ALD-LAUREL, ALD-MEADOWS, ALD-MENDOCINO, ALD-MIDLOTHIAN, ALD-MILLARD, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK, ARC-001, KIN-KINNELOA, LAC-E165-B, LAC-E167, LAC-E168-A, LAC-E183, PAS-E006, PAS-E019, PAS-E022-A, SMD-E001, SMD-E002, SMD-E003, SMD-E004, SMD-E005, SMD-E006, SMD-E007, SMD-E008, SMD-E009, SMD-E010, SMD-E011, SMD-E012, SMD-E013, SMD-E014, SMD-E015, SMD-E016, SMD-E019",
+			"evacuation_warnings": "ARC-002, ARC-004, LCF-CROWN, LCF-JPL, LCF-STARLIGHT, MRV-101-B, MRV-201-B, PAS-E008, PAS-E010, PAS-E012, PAS-E014, PAS-E015, PAS-E017, PAS-E018, PAS-E022, PAS-E022-B, SMD-E017-A",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map Angeles National Forest is closed in its entirety 1/8/2025 at 5 p.m. through 1/15/2025, at 12 a.m. The closure order and prohibited activities may be found at this link. City of Pasadena issued a do not drink water notice in the areas shaded in gray on the linked map. More information can be found HERE.  Airbnb.org is providing free, emergency housing for people who have been displaced by the Los Angeles wildfires. You can get help - or provide help – at Airbnb.org/lawildfires Youth between the ages of 5 to 17 can be signed up for Care Camps offered at 4 LA County parks. See more. Lyft & Uber Information - Discount codes available Here Red Flag/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.”",
 			"is_complex_parent": false,
@@ -616,7 +616,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-12T19:30:11Z",
+		"date_modified": "2025-01-12T20:58:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -960,6 +960,7 @@
 			"LAC-E183",
 			"PAS-E006",
 			"PAS-E019",
+			"PAS-E022-A",
 			"SMD-E001",
 			"SMD-E002",
 			"SMD-E003",
@@ -994,6 +995,7 @@
 			"PAS-E017",
 			"PAS-E018",
 			"PAS-E022",
+			"PAS-E022-B",
 			"SMD-E017-A"
 		]
 	},
