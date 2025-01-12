@@ -91,6 +91,11 @@
 					"link_type": "website",
 					"label": "LA County State Park Closures",
 					"value": "https://www.parks.ca.gov/?page_id=681&fbclid=IwZXh0bgNhZW0CMTEAAR24YUHdsUpIUHgrFKmwWjObwFHUkS1s7T8mHDLvG-_OtZGmPC2oJh9YseA_aem_WLY_A5p28l7uNnGXMZwh9g"
+				},
+				{
+					"link_type": "website",
+					"label": "LA City Emergency Information Hub",
+					"value": "https://lacity.gov/"
 				}
 			],
 			"has_custom_evacuation_orders": true,
@@ -105,7 +110,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-12T16:13:13Z",
+		"date_modified": "2025-01-12T16:37:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -500,7 +505,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 15,
+			"containment": 27,
 			"acreage": 14117,
 			"links": [
 				{
@@ -556,7 +561,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-12T15:44:20Z",
+		"date_modified": "2025-01-12T16:36:16Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
