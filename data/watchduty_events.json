@@ -228,21 +228,6 @@
 				}
 			},
 			{
-				"id": 40348,
-				"address": "1350 S Sepulveda Blvd, Los Angeles, CA 90025, USA",
-				"name": "Evacuation Shelter - Westwood Recreation Center",
-				"lat": 34.0532429,
-				"lng": -118.4484711,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An Evacuation Shelter is located at Westwood Recreation Center, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0\">LAFD</a>. Small animals are accepted. Residents may remain overnight.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40453,
 				"address": "38550 Sierra Hwy, Palmdale",
 				"name": "Small Animal Shelter - Palmdale Animal Care Center",
@@ -453,21 +438,6 @@
 				}
 			},
 			{
-				"id": 40594,
-				"address": "851 Alma Real Dr, Pacific Palisades, CA 90272, USA",
-				"name": "LADWP Bottled Water Distribution",
-				"lat": 34.0422011,
-				"lng": -118.5245752,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>To provide additional support, <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link\" href=\"https://www.ladwpnews.com/do-not-drink-the-tap-water-in-pacific-palisades-zip-code-90272-and-adjacent-communities-in-the-ladwp-service-area-north-of-san-vicente-blvd/\">LADWP</a> will be distributing bottled water to affected customers at the following distribution location: \"Palisades Recreation Center\". LADWP staff will be present to distribute. For more information, contact 1-800-DIAL-DWP.</p><p>Location:<br>Palisades Recreation Center:<br>851 Alma Real Dr<br>Pacific Palisades, CA 90272</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40560,
 				"address": "2732 Main St, Santa Monica, CA 90405, USA",
 				"name": "WCK Meal Distribution - Pasjoli",
@@ -539,6 +509,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Together We Thrive's Headquarters Warehouse located at 5304 Derry Ave, Unit Z Agoura Hills, CA 91301.</p><p>Time of service is from 11:30-6pm, January 12th.</p><p>They are serving free hot meals from Food Trucks and a free farmers market for all fire evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.instagram.com/p/DEsrMqgyNgV/?img_index=1\">Together We Thrive's Instagram</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40348,
+				"address": "1350 S Sepulveda Blvd, Los Angeles, CA 90025, USA",
+				"name": "Evacuation Shelter - Westwood Recreation Center",
+				"lat": 34.0532429,
+				"lng": -118.4484711,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An Evacuation Shelter is located at Westwood Recreation Center, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0\">LAFD</a>. Small animals are accepted. Residents may remain overnight.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.ladwpnews.com/bottled-water-distribution-locations-for-customers-affected-by-do-not-drink-notice/\">LADWP</a> will be distributing bottled water to affected customers at the Westwood Recreation Center. The distribution is open 24 hours in coordination with American Red Cross.</p>",
 					"links": []
 				}
 			}
@@ -804,21 +789,6 @@
 				}
 			},
 			{
-				"id": 40348,
-				"address": "1350 S Sepulveda Blvd, Los Angeles, CA 90025, USA",
-				"name": "Evacuation Shelter - Westwood Recreation Center",
-				"lat": 34.0532429,
-				"lng": -118.4484711,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An Evacuation Shelter is located at Westwood Recreation Center, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0\">LAFD</a>. Small animals are accepted. Residents may remain overnight.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40477,
 				"address": "1101 W McKinley Ave, Pomona, CA 91768, USA",
 				"name": "Evacuation Shelter - Pomona Fairplex",
@@ -1046,6 +1016,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Together We Thrive's Headquarters Warehouse located at 5304 Derry Ave, Unit Z Agoura Hills, CA 91301.</p><p>Time of service is from 11:30-6pm, January 12th.</p><p>They are serving free hot meals from Food Trucks and a free farmers market for all fire evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.instagram.com/p/DEsrMqgyNgV/?img_index=1\">Together We Thrive's Instagram</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40348,
+				"address": "1350 S Sepulveda Blvd, Los Angeles, CA 90025, USA",
+				"name": "Evacuation Shelter - Westwood Recreation Center",
+				"lat": 34.0532429,
+				"lng": -118.4484711,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An Evacuation Shelter is located at Westwood Recreation Center, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0\">LAFD</a>. Small animals are accepted. Residents may remain overnight.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.ladwpnews.com/bottled-water-distribution-locations-for-customers-affected-by-do-not-drink-notice/\">LADWP</a> will be distributing bottled water to affected customers at the Westwood Recreation Center. The distribution is open 24 hours in coordination with American Red Cross.</p>",
 					"links": []
 				}
 			}
