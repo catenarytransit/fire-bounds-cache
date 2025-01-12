@@ -96,6 +96,11 @@
 					"link_type": "website",
 					"label": "LA City Emergency Information Hub",
 					"value": "https://lacity.gov/"
+				},
+				{
+					"link_type": "website",
+					"label": "YMCA of Metropolitan Los Angeles",
+					"value": "https://ymcala.org/community-response?fbclid=IwY2xjawHw9E1leHRuA2FlbQIxMAABHfPUmRBM848vsoZEZ_KnLkXCe5l_GnsGJ3K5ubXK58TdiylT5Bggh8DgyA_aem_Uz4EfLiJ3nVhu2qU2EWdyA#close"
 				}
 			],
 			"has_custom_evacuation_orders": true,
@@ -110,7 +115,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-12T19:20:16Z",
+		"date_modified": "2025-01-12T19:30:59Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -547,6 +552,11 @@
 					"link_type": "website",
 					"label": "Inciweb",
 					"value": "https://inciweb.wildfire.gov/incident-information/caanf-eaton-fire"
+				},
+				{
+					"link_type": "website",
+					"label": "YMCA of Metropolitan Los Angeles",
+					"value": "https://ymcala.org/community-response?fbclid=IwY2xjawHw9E1leHRuA2FlbQIxMAABHfPUmRBM848vsoZEZ_KnLkXCe5l_GnsGJ3K5ubXK58TdiylT5Bggh8DgyA_aem_Uz4EfLiJ3nVhu2qU2EWdyA#close"
 				}
 			],
 			"has_custom_evacuation_orders": true,
@@ -561,7 +571,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-12T18:41:25Z",
+		"date_modified": "2025-01-12T19:30:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -746,27 +756,6 @@
 					"location_type": "animal_shelter",
 					"information": "<p>A large animal shelter is set up at the Pierce College Equestrian Center located at 7100 El Rancho Drive, Woodland Hills, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County</a>.</p><p><strong>Update: </strong>The Pierce College 6201 Winnetka Ave, Woodland Hills, CA 91367 is<br>at capacity with 200 horses; staffed by DACC – FULL per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://animalcare.lacounty.gov/emergency-animal-shelter-information-los-angeles-county-fires/\">The LA County Website </a> on Jan 8th</p>",
 					"links": []
-				}
-			},
-			{
-				"id": 40553,
-				"address": "1605 Garfield Avenue, South Pasadena, CA",
-				"name": "South Pasadena San Marino YMCA Disaster Relief Services",
-				"lat": 34.1076161,
-				"lng": -118.1366805,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>Anyone affected by the fires is welcome to use our facilities—our showers, our Wi-Fi, workout, and child activity center—or just come for community. We have toiletries, non-perishable food, water, clothes of all sizes, shoes, blankets, bedding, pillows, baby supplies, diapers, pet supplies, phones, and chargers.<br><br>(626) 799-9119</p>",
-					"links": [
-						{
-							"link_type": "website",
-							"label": "South Pasadena San Marino YMCA Disaster Relief Services Facebook",
-							"value": "https://www.facebook.com/SouthPasadenaSanMarinoYMCA"
-						}
-					]
 				}
 			},
 			{
