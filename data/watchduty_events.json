@@ -15,7 +15,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 75,
-			"acreage": 8337,
+			"acreage": 8346,
 			"links": [
 				{
 					"link_type": "website",
@@ -35,7 +35,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2024-12-15T17:01:20Z",
-		"date_modified": "2025-01-11T17:23:03Z",
+		"date_modified": "2025-01-12T01:59:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -105,7 +105,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-12T01:20:58Z",
+		"date_modified": "2025-01-12T02:14:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -625,13 +625,13 @@
 			"evacuation_orders": "ALD-ARROYOSECO, ALD-CALAVERAS, ALD-CANON, ALD-CASITAS, ALD-CHANEY, ALD-EASTLOMA, ALD-EATONCANYON, ALD-FARNSWORTH, ALD-GARDEN, ALD-GARFIAS, ALD-LAUREL, ALD-MEADOWS, ALD-MENDOCINO, ALD-MIDLOTHIAN, ALD-MILLARD, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK, ARC-001, KIN-KINNELOA, LAC-E165-B, LAC-E167, LAC-E168-A, LAC-E183, PAS-E006, PAS-E019, SMD-E001, SMD-E002, SMD-E003, SMD-E004, SMD-E005, SMD-E006, SMD-E007, SMD-E008, SMD-E009, SMD-E010, SMD-E011, SMD-E012, SMD-E013, SMD-E014, SMD-E015, SMD-E016, SMD-E019",
 			"evacuation_warnings": "ARC-002, ARC-004, LCF-CROWN, LCF-JPL, LCF-STARLIGHT, MRV-101-B, MRV-201-B, PAS-E008, PAS-E010, PAS-E012, PAS-E014, PAS-E015, PAS-E017, PAS-E018, PAS-E022, SMD-E017-A",
 			"evacuation_advisories": null,
-			"evacuation_notes": "Genasys Protect Evacuation Map The entire Angeles National Forest is temporarily closed for public safety and the protection of natural resources from today, January 8, 2025, at 5:00 p.m. through Wednesday, January 15, 2025, at 12:00 midnight. The closure order and prohibited activities may be found at this link. Do not drink water in the areas shaded in gray on the following linked map. Debris and elevated turbidity from the Eaton Fire potentially impacted Pasadena Water and Power’s (PWP) drinking water system in the Eaton Fire evacuated areas, per the City of Pasadena. Airbnb.org is providing free, emergency housing for people who have been displaced by the Los Angeles wildfires. You can get help - or provide help – at Airbnb.org/lawildfires.",
+			"evacuation_notes": "Genasys Protect Evacuation Map The entire Angeles National Forest is temporarily closed for public safety and the protection of natural resources from today, January 8, 2025, at 5:00 p.m. through Wednesday, January 15, 2025, at 12:00 midnight. The closure order and prohibited activities may be found at this link. Do not drink water in the areas shaded in gray on the following linked map. Debris and elevated turbidity from the Eaton Fire potentially impacted Pasadena Water and Power’s (PWP) drinking water system in the Eaton Fire evacuated areas, per the City of Pasadena. Airbnb.org is providing free, emergency housing for people who have been displaced by the Los Angeles wildfires. You can get help - or provide help – at Airbnb.org/lawildfires. Youth between the ages of 5 to 17 can be signed up for Care Camps offered at 4 LA County parks. See more at https://parks.lacounty.gov/care-camps/",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-12T01:36:51Z",
+		"date_modified": "2025-01-12T01:54:13Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -992,6 +992,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals for those affected by the fire at <strong>Pasadena City College Lot 3.</strong><br>Address: 1570 E Colorado Blvd, Pasadena, CA 91106<br>Time: 5:00 PM - 8:00 PM on January 11th</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40528,
+				"address": "2125 N Windsor Ave, Altadena, CA 91001",
+				"name": "WCK Meal Distribution - Jack in the Box Altadena",
+				"lat": 34.1821492,
+				"lng": -118.169125,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) has is serving free meals for those affected by the fire at <strong>Jack in the Box Altadena</strong><br>Address: 2125 N Windsor Ave, Altadena, CA 91001<br>Time: 5:45 PM - 8:00 PM on January 11th</p>",
 					"links": []
 				}
 			}
@@ -1416,7 +1431,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": 80,
+			"containment": 90,
 			"acreage": 1052,
 			"links": [
 				{
@@ -1457,46 +1472,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-09T22:43:28Z",
-		"date_modified": "2025-01-11T18:05:03Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 40536,
-		"is_active": false,
-		"name": "Mission Fire",
-		"description": null,
-		"lat": 33.34299418119754,
-		"lng": -117.24045311100835,
-		"address": "2700 Block of South Mission Road, Fallbrook",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": true,
-			"containment": null,
-			"acreage": 3,
-			"links": [],
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-01-10T18:05:31Z",
-		"date_modified": "2025-01-11T02:09:08Z",
+		"date_modified": "2025-01-12T01:47:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
