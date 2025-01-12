@@ -481,6 +481,36 @@
 					"information": "<p>To provide additional support, <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link\" href=\"https://www.ladwpnews.com/do-not-drink-the-tap-water-in-pacific-palisades-zip-code-90272-and-adjacent-communities-in-the-ladwp-service-area-north-of-san-vicente-blvd/\">LADWP</a> will be distributing bottled water to affected customers at the following distribution location: \"Palisades Recreation Center\". LADWP staff will be present to distribute. For more information, contact 1-800-DIAL-DWP.</p><p>Location:<br>Palisades Recreation Center:<br>851 Alma Real Dr<br>Pacific Palisades, CA 90272</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40597,
+				"address": "Canoga Park High School 6850 CA-27, Canoga Park, CA 91303, USA",
+				"name": "World Central Kitchen (Meal Service)",
+				"lat": 34.1949144,
+				"lng": -118.6055275,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Canoga Park High School at 6850 CA-27, Canoga Park, CA 91303, USA</p><p>Time of service is from 12:00-4:00pm , January 12th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40598,
+				"address": "Taft High School 5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
+				"name": "World Central Kitchen (Meal Service)",
+				"lat": 34.1693317,
+				"lng": -118.5713363,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Taft High School located  5461 Winnetka Ave, Woodland Hills, CA 91364, USA</p><p>Time of service is from 12pm to 4pm today, January 12th.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -941,6 +971,36 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Saint Francis High School located at 200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA.</p><p>Time of service is from 12pm to 8pm today, January 12th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40597,
+				"address": "Canoga Park High School 6850 CA-27, Canoga Park, CA 91303, USA",
+				"name": "World Central Kitchen (Meal Service)",
+				"lat": 34.1949144,
+				"lng": -118.6055275,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Canoga Park High School at 6850 CA-27, Canoga Park, CA 91303, USA</p><p>Time of service is from 12:00-4:00pm , January 12th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40598,
+				"address": "Taft High School 5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
+				"name": "World Central Kitchen (Meal Service)",
+				"lat": 34.1693317,
+				"lng": -118.5713363,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Taft High School located  5461 Winnetka Ave, Woodland Hills, CA 91364, USA</p><p>Time of service is from 12pm to 4pm today, January 12th.</p>",
 					"links": []
 				}
 			}
