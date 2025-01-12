@@ -891,21 +891,6 @@
 				}
 			},
 			{
-				"id": 40575,
-				"address": "200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA",
-				"name": "WCK Meal Distribution - Saint Francis H.S.",
-				"lat": 34.1953743,
-				"lng": -118.1819054,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Saint Francis High School located at 200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA.</p><p>Time of service is from 12pm to 8pm today, January 11th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40565,
 				"address": "6801 Hollywood Blvd Suite 105, Los Angeles, CA 90028, USA",
 				"name": "First Responders Only - Meal Distribution - Hard Rock Cafe",
@@ -917,36 +902,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>Hard Rock Cafe LA is offering free food to <strong>first responders</strong> at 6801 Hollywood Blvd Suite 105, Los Angeles, CA.<br><br>Free meal to <strong>First Responders</strong> and <strong>Firefighters</strong> from Hard Rock Cafe. While supplies last.</p><p><strong>Location:</strong> Hard Rock Cafe: 6801 Hollywood Blvd</p><p><strong>Hours:</strong></p><ul><li><p>Sunday - Thursday: 11 AM - 10 PM</p></li><li><p>Friday &amp; Saturday: 9 AM - 10 PM</p></li></ul>",
-					"links": []
-				}
-			},
-			{
-				"id": 40529,
-				"address": "Student Parking Lot 3, 1570 E Colorado Blvd, Pasadena, CA 91106, USA",
-				"name": "WCK Meal Distribution - Pasadena City College Lot 3",
-				"lat": 34.14269326896729,
-				"lng": -118.12084928669128,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals for those affected by the fire at <strong>Pasadena City College Lot 3.</strong><br>Address: 1570 E Colorado Blvd, Pasadena, CA 91106<br>Time: 5:00 PM - 8:00 PM on January 11th</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "2125 N Windsor Ave, Altadena, CA 91001",
-				"name": "WCK Meal Distribution - Jack in the Box Altadena",
-				"lat": 34.1821492,
-				"lng": -118.169125,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) has is serving free meals for those affected by the fire at <strong>Jack in the Box Altadena</strong><br>Address: 2125 N Windsor Ave, Altadena, CA 91001<br>Time: 5:45 PM - 8:00 PM on January 11th</p>",
 					"links": []
 				}
 			},
