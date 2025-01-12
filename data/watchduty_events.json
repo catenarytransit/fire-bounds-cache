@@ -466,6 +466,21 @@
 					"information": "<p>To provide additional support, <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link\" href=\"https://www.ladwpnews.com/do-not-drink-the-tap-water-in-pacific-palisades-zip-code-90272-and-adjacent-communities-in-the-ladwp-service-area-north-of-san-vicente-blvd/\">LADWP</a> will be distributing bottled water to affected customers at the following distribution location: \"Adjacent to the Brentwood Country Club\". LADWP staff will be present to distribute. For more information, contact 1-800-DIAL-DWP.<br><br>Location:<br>Adjacent to the Brentwood Country Club<br>741 S. Greta Green Way<br>Los Angeles, CA 90049<br>Sunday, January 12, 9am to 2pm<br>Monday, January, 11am to 5pm</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40594,
+				"address": "851 Alma Real Dr, Pacific Palisades, CA 90272, USA",
+				"name": "LADWP Bottled Water Distribution",
+				"lat": 34.0422011,
+				"lng": -118.5245752,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>To provide additional support, <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link\" href=\"https://www.ladwpnews.com/do-not-drink-the-tap-water-in-pacific-palisades-zip-code-90272-and-adjacent-communities-in-the-ladwp-service-area-north-of-san-vicente-blvd/\">LADWP</a> will be distributing bottled water to affected customers at the following distribution location: \"Palisades Recreation Center\". LADWP staff will be present to distribute. For more information, contact 1-800-DIAL-DWP.</p><p>Location:<br>Palisades Recreation Center:<br>851 Alma Real Dr<br>Pacific Palisades, CA 90272</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
