@@ -1043,7 +1043,7 @@
 	},
 	{
 		"id": 40395,
-		"is_active": true,
+		"is_active": false,
 		"name": "Ranch Fire",
 		"description": null,
 		"lat": 32.7338098625459,
@@ -1071,7 +1071,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T05:56:22Z",
-		"date_modified": "2025-01-10T23:55:06Z",
+		"date_modified": "2025-01-13T09:42:26Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1142,7 +1142,7 @@
 	},
 	{
 		"id": 40463,
-		"is_active": true,
+		"is_active": false,
 		"name": "West Easment Fire",
 		"description": null,
 		"lat": 29.574617,
@@ -1170,7 +1170,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T23:00:56Z",
-		"date_modified": "2025-01-08T23:00:56Z",
+		"date_modified": "2025-01-13T09:39:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
