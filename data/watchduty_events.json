@@ -148,81 +148,6 @@
 				}
 			},
 			{
-				"id": 40442,
-				"address": "Pomona Fairplex, 1101 W McKinley Ave. Pomona",
-				"name": "Large Animal Shelter",
-				"lat": 34.0858734,
-				"lng": -117.7679419,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> </p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40444,
-				"address": "Industry Hills Expo 16200 Temple Ave, City of Industry, CA 91744",
-				"name": "Large Animal Shelter",
-				"lat": 34.025991,
-				"lng": -117.938656,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is available at the Industry Hills Expo at 16200 Temple Ave, City of Industry, CA 91744 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40449,
-				"address": "216 W Victoria St, Gardena, CA",
-				"name": "Small Animal Shelter - Carson Animal Care Center",
-				"lat": 33.8643652,
-				"lng": -118.2774155,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40451,
-				"address": "11258 Garfield Ave, Downey",
-				"name": "Small Animal Shelter - Downey Animal Care Center",
-				"lat": 33.9249938,
-				"lng": -118.1689665,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40448,
-				"address": "4275 Elton St, Baldwin Park",
-				"name": "Small Animal Shelter - Baldwin Park Animal Care Center",
-				"lat": 34.09132,
-				"lng": -117.9511907,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40396,
 				"address": "300 E Green St, Pasadena, CA 91101, USA",
 				"name": "Evacuation Shelter - Pasadena Convention Center",
@@ -446,6 +371,81 @@
 					"information": "<p>An Evacuation Shelter is located at Westwood Recreation Center, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0\">LAFD</a>. Small animals are accepted. Residents may remain overnight.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.ladwpnews.com/bottled-water-distribution-locations-for-customers-affected-by-do-not-drink-notice/\">LADWP</a> will be distributing bottled water to affected customers at the Westwood Recreation Center. The distribution is open 24 hours in coordination with American Red Cross.</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40442,
+				"address": "Pomona Fairplex, 1101 W McKinley Ave. Pomona",
+				"name": "Large Animal Shelter",
+				"lat": 34.0858734,
+				"lng": -117.7679419,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> </p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40444,
+				"address": "Industry Hills Expo 16200 Temple Ave, City of Industry, CA 91744",
+				"name": "Large Animal Shelter",
+				"lat": 34.025991,
+				"lng": -117.938656,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>A large animal shelter is available at the Industry Hills Expo at 16200 Temple Ave, City of Industry, CA 91744 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40448,
+				"address": "4275 Elton St, Baldwin Park",
+				"name": "Small Animal Shelter - Baldwin Park Animal Care Center",
+				"lat": 34.09132,
+				"lng": -117.9511907,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40449,
+				"address": "216 W Victoria St, Gardena, CA",
+				"name": "Small Animal Shelter - Carson Animal Care Center",
+				"lat": 33.8643652,
+				"lng": -118.2774155,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40451,
+				"address": "11258 Garfield Ave, Downey",
+				"name": "Small Animal Shelter - Downey Animal Care Center",
+				"lat": 33.9249938,
+				"lng": -118.1689665,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -620,81 +620,6 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>A small animal shelter is set up at the Agoura Animal Care Center located at 29525 Agoura Rd, Agoura Hills, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40442,
-				"address": "Pomona Fairplex, 1101 W McKinley Ave. Pomona",
-				"name": "Large Animal Shelter",
-				"lat": 34.0858734,
-				"lng": -117.7679419,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> </p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40444,
-				"address": "Industry Hills Expo 16200 Temple Ave, City of Industry, CA 91744",
-				"name": "Large Animal Shelter",
-				"lat": 34.025991,
-				"lng": -117.938656,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is available at the Industry Hills Expo at 16200 Temple Ave, City of Industry, CA 91744 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40449,
-				"address": "216 W Victoria St, Gardena, CA",
-				"name": "Small Animal Shelter - Carson Animal Care Center",
-				"lat": 33.8643652,
-				"lng": -118.2774155,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40451,
-				"address": "11258 Garfield Ave, Downey",
-				"name": "Small Animal Shelter - Downey Animal Care Center",
-				"lat": 33.9249938,
-				"lng": -118.1689665,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40448,
-				"address": "4275 Elton St, Baldwin Park",
-				"name": "Small Animal Shelter - Baldwin Park Animal Care Center",
-				"lat": 34.09132,
-				"lng": -117.9511907,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
 					"links": []
 				}
 			},
@@ -898,6 +823,81 @@
 					"information": "<p>An Evacuation Shelter is located at Westwood Recreation Center, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0\">LAFD</a>. Small animals are accepted. Residents may remain overnight.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.ladwpnews.com/bottled-water-distribution-locations-for-customers-affected-by-do-not-drink-notice/\">LADWP</a> will be distributing bottled water to affected customers at the Westwood Recreation Center. The distribution is open 24 hours in coordination with American Red Cross.</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40442,
+				"address": "Pomona Fairplex, 1101 W McKinley Ave. Pomona",
+				"name": "Large Animal Shelter",
+				"lat": 34.0858734,
+				"lng": -117.7679419,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> </p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40444,
+				"address": "Industry Hills Expo 16200 Temple Ave, City of Industry, CA 91744",
+				"name": "Large Animal Shelter",
+				"lat": 34.025991,
+				"lng": -117.938656,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>A large animal shelter is available at the Industry Hills Expo at 16200 Temple Ave, City of Industry, CA 91744 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40448,
+				"address": "4275 Elton St, Baldwin Park",
+				"name": "Small Animal Shelter - Baldwin Park Animal Care Center",
+				"lat": 34.09132,
+				"lng": -117.9511907,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40449,
+				"address": "216 W Victoria St, Gardena, CA",
+				"name": "Small Animal Shelter - Carson Animal Care Center",
+				"lat": 33.8643652,
+				"lng": -118.2774155,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40451,
+				"address": "11258 Garfield Ave, Downey",
+				"name": "Small Animal Shelter - Downey Animal Care Center",
+				"lat": 33.9249938,
+				"lng": -118.1689665,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -1015,7 +1015,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 89,
+			"containment": 95,
 			"acreage": 799,
 			"links": [
 				{
@@ -1051,88 +1051,13 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T06:23:30Z",
-		"date_modified": "2025-01-12T17:01:03Z",
+		"date_modified": "2025-01-13T04:21:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [
-			{
-				"id": 40442,
-				"address": "Pomona Fairplex, 1101 W McKinley Ave. Pomona",
-				"name": "Large Animal Shelter",
-				"lat": 34.0858734,
-				"lng": -117.7679419,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> </p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40444,
-				"address": "Industry Hills Expo 16200 Temple Ave, City of Industry, CA 91744",
-				"name": "Large Animal Shelter",
-				"lat": 34.025991,
-				"lng": -117.938656,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is available at the Industry Hills Expo at 16200 Temple Ave, City of Industry, CA 91744 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40449,
-				"address": "216 W Victoria St, Gardena, CA",
-				"name": "Small Animal Shelter - Carson Animal Care Center",
-				"lat": 33.8643652,
-				"lng": -118.2774155,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40451,
-				"address": "11258 Garfield Ave, Downey",
-				"name": "Small Animal Shelter - Downey Animal Care Center",
-				"lat": 33.9249938,
-				"lng": -118.1689665,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40448,
-				"address": "4275 Elton St, Baldwin Park",
-				"name": "Small Animal Shelter - Baldwin Park Animal Care Center",
-				"lat": 34.09132,
-				"lng": -117.9511907,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
 			{
 				"id": 40453,
 				"address": "38550 Sierra Hwy, Palmdale",
