@@ -101,6 +101,16 @@
 					"link_type": "website",
 					"label": "YMCA of Metropolitan Los Angeles",
 					"value": "https://ymcala.org/community-response?fbclid=IwY2xjawHw9E1leHRuA2FlbQIxMAABHfPUmRBM848vsoZEZ_KnLkXCe5l_GnsGJ3K5ubXK58TdiylT5Bggh8DgyA_aem_Uz4EfLiJ3nVhu2qU2EWdyA#close"
+				},
+				{
+					"link_type": "website",
+					"label": "211 LA, or dial 211",
+					"value": "https://211la.org/LA-Wildfires"
+				},
+				{
+					"link_type": "phone",
+					"label": "LA211.org access from outside the county",
+					"value": "8003396993"
 				}
 			],
 			"has_custom_evacuation_orders": true,
@@ -115,7 +125,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-13T02:37:45Z",
+		"date_modified": "2025-01-13T03:06:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -599,6 +609,11 @@
 					"value": "https://211la.org/LA-Wildfires#:~:text=parks.lacounty.gov/-,Food%20Resources,-Los%20Angeles%20Regional"
 				},
 				{
+					"link_type": "phone",
+					"label": "LA 211 access from outside LA County",
+					"value": "8003396993"
+				},
+				{
 					"link_type": "website",
 					"label": "Airbnb.org Wildfire Support",
 					"value": "https://www.airbnb.org/lawildfires"
@@ -631,7 +646,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-13T02:58:28Z",
+		"date_modified": "2025-01-13T03:11:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
