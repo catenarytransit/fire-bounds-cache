@@ -107,15 +107,15 @@
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": "DRY-U026-A, LOS-Q0762, LOS-Q0762-A, LOS-Q0765, LOS-Q0767, LOS-Q0778-A, LOS-Q0780, LOS-Q0781-A, LOS-Q0782-A, LOS-Q0782-B, LOS-Q0798, LOS-Q1118, MAL-C111-A, MAL-C111-B, MAL-C112-B, MTN-U028, RMB-U030-A, RMB-U030-B, RMB-U030-D, RMB-U030-E, RRC-U027, SAN-Q1395-B, SAN-Q1396-B, SDP-U029, SSM-U010-A, SSM-U010-B, TOP-U001, TOP-U002, TOP-U003, TOP-U004, TOP-U005, TOP-U006, TOP-U007, TOP-U008, TOP-U009",
-			"evacuation_warnings": "CAL-C405, CAL-C406, CAL-C407, CAL-C408, CAL-C409, CAL-C410, CAL-C411, CAL-C412, CAL-C413, CAL-C414, CAL-C415, DRY-U026-B, LOS-Q0406-A, LOS-Q0407, LOS-Q0751, LOS-Q0764, LOS-Q0772, LOS-Q0762-B, LOS-Q0783, LOS-Q0800, LOS-Q1089, LOS-Q1115-A, LOS-Q1115-B, LOS-Q1119, LOS-Q1163, MAL-C112-A, MCR-U021-A, RMB-U030-C, SAN-Q1388-B, SAN-Q1395-A, LOS-Q0779 Note that Zone LOS-Q0772 shows as an Evacuation Warning on the Genasys Evacuation Map but doesn't show as an Evacuation Warning on LA Citys Evacuation Map.The Watch Duty map currently aligns with the Genasys map for that zone as that zone is also listed as an Evacuation Warning on the LA County Emergency website",
+			"evacuation_warnings": "CAL-C405, CAL-C406, CAL-C407, CAL-C408, CAL-C409, CAL-C410, CAL-C411, CAL-C412, CAL-C413, CAL-C414, CAL-C415, DRY-U026-B, LOS-Q0406-A, LOS-Q0407, LOS-Q0751, LOS-Q0764, LOS-Q0772, LOS-Q0762-B, LOS-Q0783, LOS-Q0800, LOS-Q1089, LOS-Q1115-A, LOS-Q1115-B, LOS-Q1119, LOS-Q1163, MAL-C112-A, MCR-U021-A, RMB-U030-C, SAN-Q1388-B, SAN-Q1395-A, LOS-Q0779",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map LA City Evacuation Map City of Santa Monica Evacuation Map -- Additional Information -- LADWP has issued a DO NOT DRINK NOTICE to Pacific Palisades Zip Codes 90272 & adjacent communities in the LADWP service area N. of San Vicente Blvd under evacuation orders due to the potential of fire-related contaminants that may have entered the water system. For information on damage assessments and recovery resources, please see these links:LA City Fire RecoveryLA County Recovers Airbnb.org is providing free, emergency housing for people who have been displaced by the Los Angeles wildfires. You can get help - or provide help – at Airbnb.org/lawildfires Lyft & Uber Information - Discount codes available Here Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings\"",
 			"is_complex_parent": false,
-			"reporter_only_notes": "<p>The bottom-right zone is marked as an order (warning on Genasys) LOS-QO779. The split zone’s north side is also an order (warning on Genasys) (LOS-Q0762-B). Both zones are listed as orders on the LAFD evacuation map, Everbridge alerts, and LAFD tweets/media, so we’ve treated them as orders accordingly - <strong>Katlyn C at 5am Jan 11</strong></p>",
+			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-12T22:59:53Z",
+		"date_modified": "2025-01-13T00:54:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -438,21 +438,6 @@
 				}
 			},
 			{
-				"id": 40560,
-				"address": "2732 Main St, Santa Monica, CA 90405, USA",
-				"name": "WCK Meal Distribution - Pasjoli",
-				"lat": 34.0001818,
-				"lng": -118.4821129,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Pasjoli located at 2732 Main St, Santa Monica, CA 90405, USA.</p><p>Time of service is from 11am to 3pm today, January 12th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40559,
 				"address": "516 Santa Monica Blvd, Santa Monica, CA 90401, USA",
 				"name": "WCK Meal Distribution - Xuntos",
@@ -464,36 +449,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Xuntos located at 516 Santa Monica Blvd, Santa Monica, CA 90401, USA.</p><p>Time of service is from 1pm to 6pm today, January 12th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40598,
-				"address": "Taft High School 5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
-				"name": "WCK Meal Service - Taft H.S.",
-				"lat": 34.1693317,
-				"lng": -118.5713363,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Taft High School located  5461 Winnetka Ave, Woodland Hills, CA 91364, USA</p><p>Time of service is from 12pm to 4pm today, January 12th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40597,
-				"address": "Canoga Park High School 6850 CA-27, Canoga Park, CA 91303, USA",
-				"name": "WCK Meal Service - Canoga Park H.S.",
-				"lat": 34.1949144,
-				"lng": -118.6055275,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Canoga Park High School at 6850 CA-27, Canoga Park, CA 91303, USA</p><p>Time of service is from 12:00-4:00pm , January 12th.</p>",
 					"links": []
 				}
 			},
@@ -597,7 +552,7 @@
 			"RMB-U030-C",
 			"SAN-Q1388-B",
 			"SAN-Q1395-A",
-			"LOS-Q0779 Note that Zone LOS-Q0772 shows as an Evacuation Warning on the Genasys Evacuation Map but doesn't show as an Evacuation Warning on LA Citys Evacuation Map.The Watch Duty map currently aligns with the Genasys map for that zone as that zone is also listed as an Evacuation Warning on the LA County Emergency website"
+			"LOS-Q0779"
 		]
 	},
 	{
@@ -975,36 +930,6 @@
 				}
 			},
 			{
-				"id": 40598,
-				"address": "Taft High School 5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
-				"name": "WCK Meal Service - Taft H.S.",
-				"lat": 34.1693317,
-				"lng": -118.5713363,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Taft High School located  5461 Winnetka Ave, Woodland Hills, CA 91364, USA</p><p>Time of service is from 12pm to 4pm today, January 12th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40597,
-				"address": "Canoga Park High School 6850 CA-27, Canoga Park, CA 91303, USA",
-				"name": "WCK Meal Service - Canoga Park H.S.",
-				"lat": 34.1949144,
-				"lng": -118.6055275,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Canoga Park High School at 6850 CA-27, Canoga Park, CA 91303, USA</p><p>Time of service is from 12:00-4:00pm , January 12th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40599,
 				"address": "5304 Derry Ave z, Unit Zero, Agoura Hills, CA 91301",
 				"name": "WCK Meal Service - Together We Thrive's HQ Warehouse",
@@ -1031,6 +956,21 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>An Evacuation Shelter is located at Westwood Recreation Center, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0\">LAFD</a>. Small animals are accepted. Residents may remain overnight.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.ladwpnews.com/bottled-water-distribution-locations-for-customers-affected-by-do-not-drink-notice/\">LADWP</a> will be distributing bottled water to affected customers at the Westwood Recreation Center. The distribution is open 24 hours in coordination with American Red Cross.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40529,
+				"address": "Student Parking Lot 3, 1570 E Colorado Blvd, Pasadena, CA 91106, USA",
+				"name": "WCK Meal Distribution - Pasadena City College Lot 3",
+				"lat": 34.14269326896729,
+				"lng": -118.12084928669128,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals for those affected by the fire at <strong>Pasadena City College Lot 3.</strong><br>Address: 1570 E Colorado Blvd, Pasadena, CA 91106<br>Time: 5:00 PM - 8:00 PM on January 12th</p>",
 					"links": []
 				}
 			}
