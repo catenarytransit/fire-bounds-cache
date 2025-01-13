@@ -545,6 +545,11 @@
 				},
 				{
 					"link_type": "website",
+					"label": "LA County Eaton Recovery Information",
+					"value": "https://recovery.lacounty.gov/eaton-fire/"
+				},
+				{
+					"link_type": "website",
 					"label": "School Closures - LACOE",
 					"value": "https://www.lacoe.edu/about/newsroom/emergency-resources/wildfire-and-windstorm"
 				},
@@ -555,17 +560,12 @@
 				},
 				{
 					"link_type": "website",
-					"label": "LA County Recovers Resources",
-					"value": "https://recovery.lacounty.gov/resources/"
-				},
-				{
-					"link_type": "website",
 					"label": "211 LA Recovery Resources",
 					"value": "https://211la.org/LA-Wildfires#:~:text=parks.lacounty.gov/-,Food%20Resources,-Los%20Angeles%20Regional"
 				},
 				{
 					"link_type": "phone",
-					"label": "LA 211 access from outside LA County",
+					"label": "LA 211 (Outside LA County Number)",
 					"value": "8003396993"
 				},
 				{
@@ -580,13 +580,18 @@
 				},
 				{
 					"link_type": "website",
-					"label": "Inciweb",
-					"value": "https://inciweb.wildfire.gov/incident-information/caanf-eaton-fire"
+					"label": "YMCA Community Resources",
+					"value": "https://ymcala.org/community-response"
 				},
 				{
 					"link_type": "website",
-					"label": "YMCA of Metropolitan Los Angeles",
-					"value": "https://ymcala.org/community-response?fbclid=IwY2xjawHw9E1leHRuA2FlbQIxMAABHfPUmRBM848vsoZEZ_KnLkXCe5l_GnsGJ3K5ubXK58TdiylT5Bggh8DgyA_aem_Uz4EfLiJ3nVhu2qU2EWdyA#close"
+					"label": "Do Not Use Water Notices",
+					"value": "https://waterforla.lacounty.gov/water-alerts/"
+				},
+				{
+					"link_type": "website",
+					"label": "Inciweb",
+					"value": "https://inciweb.wildfire.gov/incident-information/caanf-eaton-fire"
 				}
 			],
 			"has_custom_evacuation_orders": true,
@@ -601,7 +606,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-13T05:30:26Z",
+		"date_modified": "2025-01-13T05:36:57Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
