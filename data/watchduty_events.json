@@ -1321,7 +1321,7 @@
 	},
 	{
 		"id": 40508,
-		"is_active": true,
+		"is_active": false,
 		"name": "Kenneth Fire",
 		"description": null,
 		"lat": 34.185220913491676,
@@ -1375,7 +1375,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-09T22:43:28Z",
-		"date_modified": "2025-01-12T17:20:32Z",
+		"date_modified": "2025-01-13T01:24:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
