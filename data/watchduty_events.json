@@ -448,21 +448,6 @@
 				}
 			},
 			{
-				"id": 40599,
-				"address": "5304 Derry Ave z, Unit Zero, Agoura Hills, CA 91301",
-				"name": "WCK Meal Service - Together We Thrive's HQ Warehouse",
-				"lat": 34.1454892,
-				"lng": -118.7471251,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Together We Thrive's Headquarters Warehouse located at 5304 Derry Ave, Unit Z Agoura Hills, CA 91301.</p><p>Time of service is from 11:30-6pm, January 13th.</p><p>They are serving free hot meals from Food Trucks and a free farmers market for all fire evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.instagram.com/p/DEsrMqgyNgV/?img_index=1\">Together We Thrive's Instagram</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40598,
 				"address": "Taft High School 5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
 				"name": "WCK Meal Service - Taft H.S.",
@@ -474,21 +459,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Taft High School located 5461 Winnetka Ave, Woodland Hills, CA 91364, USA</p><p>Time of service is from 12pm to 8pm today, January 13th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40597,
-				"address": "Canoga Park High School 6850 CA-27, Canoga Park, CA 91303, USA",
-				"name": "WCK Meal Service - Canoga Park H.S.",
-				"lat": 34.1949144,
-				"lng": -118.6055275,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Canoga Park High School at 6850 CA-27, Canoga Park, CA 91303, USA</p><p>Time of service is from 12:00-8:00pm, January 13th.</p>",
 					"links": []
 				}
 			},
@@ -519,6 +489,36 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, January 13th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40597,
+				"address": "Canoga Park High School 6850 CA-27, Canoga Park, CA 91303, USA",
+				"name": "WCK Meal Distribution - Canoga Park H.S.",
+				"lat": 34.1949144,
+				"lng": -118.6055275,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Canoga Park High School at 6850 CA-27, Canoga Park, CA 91303, USA</p><p>Time of service is from 12:00-8:00pm, January 13th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40599,
+				"address": "5304 Derry Ave z, Unit Zero, Agoura Hills, CA 91301",
+				"name": "WCK Meal Distribution - Together We Thrive's HQ Warehouse",
+				"lat": 34.1454892,
+				"lng": -118.7471251,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Together We Thrive's Headquarters Warehouse located at 5304 Derry Ave, Unit Z Agoura Hills, CA 91301.</p><p>Time of service is from 11:30am-6pm, January 13th.</p><p>They are serving free hot meals from Food Trucks and a free farmers market for all fire evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.instagram.com/p/DEsrMqgyNgV/?img_index=1\">Together We Thrive's Instagram</a>.</p>",
 					"links": []
 				}
 			}
@@ -1023,21 +1023,6 @@
 				}
 			},
 			{
-				"id": 40599,
-				"address": "5304 Derry Ave z, Unit Zero, Agoura Hills, CA 91301",
-				"name": "WCK Meal Service - Together We Thrive's HQ Warehouse",
-				"lat": 34.1454892,
-				"lng": -118.7471251,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Together We Thrive's Headquarters Warehouse located at 5304 Derry Ave, Unit Z Agoura Hills, CA 91301.</p><p>Time of service is from 11:30-6pm, January 13th.</p><p>They are serving free hot meals from Food Trucks and a free farmers market for all fire evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.instagram.com/p/DEsrMqgyNgV/?img_index=1\">Together We Thrive's Instagram</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40598,
 				"address": "Taft High School 5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
 				"name": "WCK Meal Service - Taft H.S.",
@@ -1053,9 +1038,24 @@
 				}
 			},
 			{
+				"id": 40575,
+				"address": "200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA",
+				"name": "WCK Meal Distribution - Saint Francis H.S.",
+				"lat": 34.1953743,
+				"lng": -118.1819054,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Saint Francis High School located at 200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA.</p><p>Time of service is from 12pm to 8pm today, January 13th.</p>",
+					"links": []
+				}
+			},
+			{
 				"id": 40597,
 				"address": "Canoga Park High School 6850 CA-27, Canoga Park, CA 91303, USA",
-				"name": "WCK Meal Service - Canoga Park H.S.",
+				"name": "WCK Meal Distribution - Canoga Park H.S.",
 				"lat": 34.1949144,
 				"lng": -118.6055275,
 				"is_active": true,
@@ -1068,17 +1068,17 @@
 				}
 			},
 			{
-				"id": 40575,
-				"address": "200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA",
-				"name": "WCK Meal Distribution - Saint Francis H.S.",
-				"lat": 34.1953743,
-				"lng": -118.1819054,
+				"id": 40599,
+				"address": "5304 Derry Ave z, Unit Zero, Agoura Hills, CA 91301",
+				"name": "WCK Meal Distribution - Together We Thrive's HQ Warehouse",
+				"lat": 34.1454892,
+				"lng": -118.7471251,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Saint Francis High School located at 200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA.</p><p>Time of service is from 12pm to 8pm today, January 13th.</p>",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Together We Thrive's Headquarters Warehouse located at 5304 Derry Ave, Unit Z Agoura Hills, CA 91301.</p><p>Time of service is from 11:30am-6pm, January 13th.</p><p>They are serving free hot meals from Food Trucks and a free farmers market for all fire evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.instagram.com/p/DEsrMqgyNgV/?img_index=1\">Together We Thrive's Instagram</a>.</p>",
 					"links": []
 				}
 			}
