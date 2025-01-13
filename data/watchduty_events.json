@@ -448,36 +448,6 @@
 				}
 			},
 			{
-				"id": 40559,
-				"address": "516 Santa Monica Blvd, Santa Monica, CA 90401, USA",
-				"name": "WCK Meal Distribution - Xuntos",
-				"lat": 34.0174391,
-				"lng": -118.4937028,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Xuntos located at 516 Santa Monica Blvd, Santa Monica, CA 90401, USA.</p><p>Time of service is from 1pm to 6pm today, January 12th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40599,
-				"address": "5304 Derry Ave z, Unit Zero, Agoura Hills, CA 91301",
-				"name": "WCK Meal Service - Together We Thrive's HQ Warehouse",
-				"lat": 34.1454892,
-				"lng": -118.7471251,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Together We Thrive's Headquarters Warehouse located at 5304 Derry Ave, Unit Z Agoura Hills, CA 91301.</p><p>Time of service is from 11:30-6pm, January 12th.</p><p>They are serving free hot meals from Food Trucks and a free farmers market for all fire evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.instagram.com/p/DEsrMqgyNgV/?img_index=1\">Together We Thrive's Instagram</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40348,
 				"address": "1350 S Sepulveda Blvd, Los Angeles, CA 90025, USA",
 				"name": "Evacuation Shelter - Westwood Recreation Center",
@@ -646,7 +616,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-13T03:11:11Z",
+		"date_modified": "2025-01-13T03:41:59Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -945,21 +915,6 @@
 				}
 			},
 			{
-				"id": 40599,
-				"address": "5304 Derry Ave z, Unit Zero, Agoura Hills, CA 91301",
-				"name": "WCK Meal Service - Together We Thrive's HQ Warehouse",
-				"lat": 34.1454892,
-				"lng": -118.7471251,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Together We Thrive's Headquarters Warehouse located at 5304 Derry Ave, Unit Z Agoura Hills, CA 91301.</p><p>Time of service is from 11:30-6pm, January 12th.</p><p>They are serving free hot meals from Food Trucks and a free farmers market for all fire evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.instagram.com/p/DEsrMqgyNgV/?img_index=1\">Together We Thrive's Instagram</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40348,
 				"address": "1350 S Sepulveda Blvd, Los Angeles, CA 90025, USA",
 				"name": "Evacuation Shelter - Westwood Recreation Center",
@@ -986,6 +941,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals for those affected by the fire at <strong>Pasadena City College Lot 3.</strong><br>Address: 1570 E Colorado Blvd, Pasadena, CA 91106<br>Time: 5:00 PM - 8:00 PM on January 12th</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40528,
+				"address": "2125 N Windsor Ave, Altadena, CA 91001",
+				"name": "WCK Meal Distribution - Jack in the Box Altadena",
+				"lat": 34.1821492,
+				"lng": -118.169125,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Jack in the Box Altadena located at 2125 N Windsor Ave, Altadena, CA 91001.</p><p>Time of service is from 5:45pm to 8pm today, January 12th.</p>",
 					"links": []
 				}
 			}
