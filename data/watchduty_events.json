@@ -163,36 +163,6 @@
 				}
 			},
 			{
-				"id": 40453,
-				"address": "38550 Sierra Hwy, Palmdale",
-				"name": "Small Animal Shelter - Palmdale Animal Care Center",
-				"lat": 34.5831349,
-				"lng": -118.1167387,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40452,
-				"address": "5210 W Ave I, Lancaster",
-				"name": "Small Animal Shelter - Lancaster Animal Care Center",
-				"lat": 34.7037175,
-				"lng": -118.223189,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40517,
 				"address": "5495 Via Rocas, Westlake Village, CA 91362, USA",
 				"name": "Evacuation Shelter - Calvary Community Church",
@@ -446,6 +416,36 @@
 					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40452,
+				"address": "5210 W Ave I, Lancaster",
+				"name": "Small Animal Shelter - Lancaster Animal Care Center",
+				"lat": 34.7037175,
+				"lng": -118.223189,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40453,
+				"address": "38550 Sierra Hwy, Palmdale",
+				"name": "Small Animal Shelter - Palmdale Animal Care Center",
+				"lat": 34.5831349,
+				"lng": -118.1167387,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -650,36 +650,6 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/redcrossla/posts/pfbid02TMT1HEfDhjGPhyoaquCEUo3hVFSdAkXbQufiDuUohk38WjHuJoj3ihszN36rUQxNl\">Red Cross Shelter</a> at the Pomona Fairplex, located at 1101 W McKinley Ave, Pomona, CA 91768</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40453,
-				"address": "38550 Sierra Hwy, Palmdale",
-				"name": "Small Animal Shelter - Palmdale Animal Care Center",
-				"lat": 34.5831349,
-				"lng": -118.1167387,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40452,
-				"address": "5210 W Ave I, Lancaster",
-				"name": "Small Animal Shelter - Lancaster Animal Care Center",
-				"lat": 34.7037175,
-				"lng": -118.223189,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
 					"links": []
 				}
 			},
@@ -898,6 +868,36 @@
 					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40452,
+				"address": "5210 W Ave I, Lancaster",
+				"name": "Small Animal Shelter - Lancaster Animal Care Center",
+				"lat": 34.7037175,
+				"lng": -118.223189,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40453,
+				"address": "38550 Sierra Hwy, Palmdale",
+				"name": "Small Animal Shelter - Palmdale Animal Care Center",
+				"lat": 34.5831349,
+				"lng": -118.1167387,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -1057,38 +1057,7 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 40453,
-				"address": "38550 Sierra Hwy, Palmdale",
-				"name": "Small Animal Shelter - Palmdale Animal Care Center",
-				"lat": 34.5831349,
-				"lng": -118.1167387,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40452,
-				"address": "5210 W Ave I, Lancaster",
-				"name": "Small Animal Shelter - Lancaster Animal Care Center",
-				"lat": 34.7037175,
-				"lng": -118.223189,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
@@ -1226,45 +1195,6 @@
 		},
 		"date_created": "2025-01-09T22:43:28Z",
 		"date_modified": "2025-01-13T01:24:08Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 40579,
-		"is_active": false,
-		"name": "Brier Fire",
-		"description": null,
-		"lat": 34.072604460687245,
-		"lng": -117.2733677453648,
-		"address": "Santa Ana River near the 600 block of Brier Dr, San Bernardino",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": false,
-			"containment": 100,
-			"acreage": 9,
-			"links": [],
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-01-11T22:05:55Z",
-		"date_modified": "2025-01-12T04:24:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
