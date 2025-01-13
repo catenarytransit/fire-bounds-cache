@@ -125,7 +125,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-13T14:53:13Z",
+		"date_modified": "2025-01-13T15:59:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -621,7 +621,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-13T15:44:12Z",
+		"date_modified": "2025-01-13T15:59:57Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -746,27 +746,6 @@
 					"location_type": "food",
 					"information": "<p>Hard Rock Cafe LA is offering free food to <strong>first responders</strong> at 6801 Hollywood Blvd Suite 105, Los Angeles, CA.<br><br>Free meal to <strong>First Responders</strong> and <strong>Firefighters</strong> from Hard Rock Cafe. While supplies last.</p><p><strong>Location:</strong> Hard Rock Cafe: 6801 Hollywood Blvd</p><p><strong>Hours:</strong></p><ul><li><p>Sunday - Thursday: 11 AM - 10 PM</p></li><li><p>Friday &amp; Saturday: 9 AM - 10 PM</p></li></ul>",
 					"links": []
-				}
-			},
-			{
-				"id": 40556,
-				"address": "450 N Lake Avenue, Pasadena",
-				"name": "Bottled Water Distribution Center",
-				"lat": 34.14881020848415,
-				"lng": -118.13165420000001,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>For PWP customers in the Eaton Fire-impacted areas, the City of Pasadena and LA County Public Works are opening a bottled water distribution center at 450 N. Lake Ave, Sunday, January 12th, from 10 a.m. to 3 p.m.</p><p>Please enter, heading north on Lake Ave. At this time, there is a limit of one case per household. We do not need additional volunteers at this time. <br><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.cityofpasadena.net/\">https://www.cityofpasadena.net/</a></p>",
-					"links": [
-						{
-							"link_type": "website",
-							"label": "City of Pasadena",
-							"value": "https://www.cityofpasadena.net/"
-						}
-					]
 				}
 			},
 			{
@@ -977,6 +956,27 @@
 					"location_type": "evac_shelter",
 					"information": "<p>An evacuation shelter is available at the Stoner Recreation Center, 1835 Stoner Ave, Los Angeles, CA 90025 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
 					"links": []
+				}
+			},
+			{
+				"id": 40556,
+				"address": "450 N Lake Avenue, Pasadena",
+				"name": "Bottled Water Distribution Center",
+				"lat": 34.14881020848415,
+				"lng": -118.13165420000001,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>The bottled water distribution center for Pasadena and Altadena residents in the Eaton Fire-impacted areas will be open on Monday, January 13 from 10 am-3 pm at 450 N. Lake Ave. The center is operated by the<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg xo1l8bm\" href=\"https://www.facebook.com/cityofpasadena?__cft__[0]=AZWTuw4L-9iftbNoS0nw3bxp1XbL-81RMlFsRINYxeQbAW5BeZBccRSArTzgr9ceeEFJtPL4lO6dzl4aRiua7oPiUIT1WG62gEgsUQZie2s_AD7z9f81iMKnQh7DQUf1HHm19A5LmOgX3qFqXS_MpXz2BmSmWw3eOjA5XcYArl-1rmYU96vAFd5DN6tBRCT2QF2vk7T24tdPDhDPV2uYD_ff-_JYzqil0WbsAJPD9OlrJA&amp;__tn__=-]K-y-R\"> </a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 xzsf02u x1s688f\" href=\"https://www.facebook.com/cityofpasadena?__cft__[0]=AZU5XkmgwZBIs3ubgxuVVzr8GPp53hM_ePTNAPGUDl1fX5HxvwXB1ALX_PKBiVO6Qu2PHmpRx54ph9V0ARpA7U6uhTDUtaViNJjEktPr5kuZLWc1fnkSiiZTsn3gMw6WIQdqvxWFXaofFN3EnBt6A_Odq-a2PFZFLDoS4qdAy5U_X_V8XpkPbTs9QMt9SOMsnWT3rnAzyaJyiMRKR-gdQM4oPZfIkbkKdB4u5cxOobSYjw&amp;__tn__=-UC%2CP-R\"><strong>City of Pasadena - Public Agency</strong></a> in partnership with the<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg xo1l8bm\" href=\"https://www.facebook.com/LACoPublicWorks?__cft__[0]=AZWTuw4L-9iftbNoS0nw3bxp1XbL-81RMlFsRINYxeQbAW5BeZBccRSArTzgr9ceeEFJtPL4lO6dzl4aRiua7oPiUIT1WG62gEgsUQZie2s_AD7z9f81iMKnQh7DQUf1HHm19A5LmOgX3qFqXS_MpXz2BmSmWw3eOjA5XcYArl-1rmYU96vAFd5DN6tBRCT2QF2vk7T24tdPDhDPV2uYD_ff-_JYzqil0WbsAJPD9OlrJA&amp;__tn__=-]K-y-R\"> </a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 xzsf02u x1s688f\" href=\"https://www.facebook.com/LACoPublicWorks?__cft__[0]=AZU2U-3P6wl1oyWeYm_oLwVu5YYbmYMikoZFPJ44mdkHeGZMYPZuQRBbmclDOcpwXOOwCx4bRva_SPiAEExggRpe3Xf3IMosITJAHgIfejJ0aJ9GiCFddAbHB4xtEn_fdsD6YfxMujDoywuYI0Zze36GhrnKJasL-9kUIDhOKZeti9amkcziGK7CzrdTrAF0jbc&amp;__tn__=-UC*F\"><strong>Los Angeles County Public Works</strong></a></p><p>Please enter, heading north on Lake Ave. At this time, there is a limit of one case per household. We do not need additional volunteers at this time. <br><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.cityofpasadena.net/\"><strong>https://www.cityofpasadena.net/</strong></a></p>",
+					"links": [
+						{
+							"link_type": "website",
+							"label": "City of Pasadena",
+							"value": "https://www.cityofpasadena.net/"
+						}
+					]
 				}
 			}
 		],
