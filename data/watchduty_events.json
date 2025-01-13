@@ -125,7 +125,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-13T06:49:44Z",
+		"date_modified": "2025-01-13T08:02:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -159,36 +159,6 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>An evacuation shelter is available at the Pasadena Convention Center, 300 East Green Street, Pasadena, CA 91101 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p><p>Parking is available at the parking structure across the street from the Convention Center, located at 155 E. Green St. Please enter from Marengo Ave.</p><p>Parking is also available at the Paseo parking structure, located at 360 E. Colorado Blvd. You are able to enter the structure from Colorado Blvd. or Green St.</p><p>The Humane Society is on-site to accept pets for boarding. Service animals will be allowed inside the Convention Center.</p><p>Residents are able to call 211 for information regarding shelters, and social and health services.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40517,
-				"address": "5495 Via Rocas, Westlake Village, CA 91362, USA",
-				"name": "Evacuation Shelter - Calvary Community Church",
-				"lat": 34.1522256,
-				"lng": -118.8087878,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation shelter is available at the Calvary Community Church, 5495 Via Rocas, Westlake Village, CA 91362 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40518,
-				"address": "1835 Stoner Ave, Los Angeles, CA 90025, USA",
-				"name": "Evacuation Shelter - Stoner Recreation Center",
-				"lat": 34.0384849,
-				"lng": -118.4535928,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation shelter is available at the Stoner Recreation Center, 1835 Stoner Ave, Los Angeles, CA 90025 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
 					"links": []
 				}
 			},
@@ -249,36 +219,6 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>Evacuation Shelter per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LACounty.gov</a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40568,
-				"address": "21816 Lanark St, Canoga Park, CA 91304, USA",
-				"name": "Evacuation Shelter - Lanark Recreation Center",
-				"lat": 34.2171004,
-				"lng": -118.6041543,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An Evacuation Shelter is now open at the Lanark Recreation Center located at 21816 Lanark St, Canoga Park, CA 91304, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0#:~:text=West%3A%20Louise%20Ave.-,EVACUATION/SHELTER%20CENTER%3A,-Westwood%20Recreation%20Center\">LAFD</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40567,
-				"address": "14201 Huston St, Sherman Oaks, CA 91423",
-				"name": "Evacuation Shelter - Van Nuys /Sherman Oaks Recreation Center",
-				"lat": 34.1601133,
-				"lng": -118.4422436,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An Evacuation Shelter is now open at the Van Nuys /Sherman Oaks Recreation Center located at 14201 Huston St, Sherman Oaks, CA 91423, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0#:~:text=West%3A%20Louise%20Ave.-,EVACUATION/SHELTER%20CENTER%3A,-Westwood%20Recreation%20Center\">LAFD</a>.</p>",
 					"links": []
 				}
 			},
@@ -444,6 +384,81 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40477,
+				"address": "1101 W McKinley Ave, Pomona, CA 91768, USA",
+				"name": "Evacuation Shelter - Pomona Fairplex",
+				"lat": 34.08940076465245,
+				"lng": -117.76511393571025,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/redcrossla/posts/pfbid02TMT1HEfDhjGPhyoaquCEUo3hVFSdAkXbQufiDuUohk38WjHuJoj3ihszN36rUQxNl\">Red Cross Shelter</a> at the Pomona Fairplex, located at 1101 W McKinley Ave, Pomona, CA 91768</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40567,
+				"address": "14201 Huston St, Sherman Oaks, CA 91423",
+				"name": "Evacuation Shelter - Van Nuys /Sherman Oaks Recreation Center",
+				"lat": 34.1601133,
+				"lng": -118.4422436,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An Evacuation Shelter is now open at the Van Nuys /Sherman Oaks Recreation Center located at 14201 Huston St, Sherman Oaks, CA 91423, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0#:~:text=West%3A%20Louise%20Ave.-,EVACUATION/SHELTER%20CENTER%3A,-Westwood%20Recreation%20Center\">LAFD</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40568,
+				"address": "21816 Lanark St, Canoga Park, CA 91304, USA",
+				"name": "Evacuation Shelter - Lanark Recreation Center",
+				"lat": 34.2171004,
+				"lng": -118.6041543,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An Evacuation Shelter is now open at the Lanark Recreation Center located at 21816 Lanark St, Canoga Park, CA 91304, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0#:~:text=West%3A%20Louise%20Ave.-,EVACUATION/SHELTER%20CENTER%3A,-Westwood%20Recreation%20Center\">LAFD</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40517,
+				"address": "5495 Via Rocas, Westlake Village, CA 91362, USA",
+				"name": "Evacuation Shelter - Calvary Community Church",
+				"lat": 34.1522256,
+				"lng": -118.8087878,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An evacuation shelter is available at the Calvary Community Church, 5495 Via Rocas, Westlake Village, CA 91362 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40518,
+				"address": "1835 Stoner Ave, Los Angeles, CA 90025, USA",
+				"name": "Evacuation Shelter - Stoner Recreation Center",
+				"lat": 34.0384849,
+				"lng": -118.4535928,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An evacuation shelter is available at the Stoner Recreation Center, 1835 Stoner Ave, Los Angeles, CA 90025 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
 					"links": []
 				}
 			}
@@ -640,21 +655,6 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>An evacuation shelter is available at the Pasadena Convention Center, 300 East Green Street, Pasadena, CA 91101 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p><p>Parking is available at the parking structure across the street from the Convention Center, located at 155 E. Green St. Please enter from Marengo Ave.</p><p>Parking is also available at the Paseo parking structure, located at 360 E. Colorado Blvd. You are able to enter the structure from Colorado Blvd. or Green St.</p><p>The Humane Society is on-site to accept pets for boarding. Service animals will be allowed inside the Convention Center.</p><p>Residents are able to call 211 for information regarding shelters, and social and health services.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40477,
-				"address": "1101 W McKinley Ave, Pomona, CA 91768, USA",
-				"name": "Evacuation Shelter - Pomona Fairplex",
-				"lat": 34.08940076465245,
-				"lng": -117.76511393571025,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/redcrossla/posts/pfbid02TMT1HEfDhjGPhyoaquCEUo3hVFSdAkXbQufiDuUohk38WjHuJoj3ihszN36rUQxNl\">Red Cross Shelter</a> at the Pomona Fairplex, located at 1101 W McKinley Ave, Pomona, CA 91768</p>",
 					"links": []
 				}
 			},
@@ -901,6 +901,81 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40477,
+				"address": "1101 W McKinley Ave, Pomona, CA 91768, USA",
+				"name": "Evacuation Shelter - Pomona Fairplex",
+				"lat": 34.08940076465245,
+				"lng": -117.76511393571025,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/redcrossla/posts/pfbid02TMT1HEfDhjGPhyoaquCEUo3hVFSdAkXbQufiDuUohk38WjHuJoj3ihszN36rUQxNl\">Red Cross Shelter</a> at the Pomona Fairplex, located at 1101 W McKinley Ave, Pomona, CA 91768</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40567,
+				"address": "14201 Huston St, Sherman Oaks, CA 91423",
+				"name": "Evacuation Shelter - Van Nuys /Sherman Oaks Recreation Center",
+				"lat": 34.1601133,
+				"lng": -118.4422436,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An Evacuation Shelter is now open at the Van Nuys /Sherman Oaks Recreation Center located at 14201 Huston St, Sherman Oaks, CA 91423, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0#:~:text=West%3A%20Louise%20Ave.-,EVACUATION/SHELTER%20CENTER%3A,-Westwood%20Recreation%20Center\">LAFD</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40568,
+				"address": "21816 Lanark St, Canoga Park, CA 91304, USA",
+				"name": "Evacuation Shelter - Lanark Recreation Center",
+				"lat": 34.2171004,
+				"lng": -118.6041543,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An Evacuation Shelter is now open at the Lanark Recreation Center located at 21816 Lanark St, Canoga Park, CA 91304, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0#:~:text=West%3A%20Louise%20Ave.-,EVACUATION/SHELTER%20CENTER%3A,-Westwood%20Recreation%20Center\">LAFD</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40517,
+				"address": "5495 Via Rocas, Westlake Village, CA 91362, USA",
+				"name": "Evacuation Shelter - Calvary Community Church",
+				"lat": 34.1522256,
+				"lng": -118.8087878,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An evacuation shelter is available at the Calvary Community Church, 5495 Via Rocas, Westlake Village, CA 91362 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40518,
+				"address": "1835 Stoner Ave, Los Angeles, CA 90025, USA",
+				"name": "Evacuation Shelter - Stoner Recreation Center",
+				"lat": 34.0384849,
+				"lng": -118.4535928,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An evacuation shelter is available at the Stoner Recreation Center, 1835 Stoner Ave, Los Angeles, CA 90025 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
 					"links": []
 				}
 			}
