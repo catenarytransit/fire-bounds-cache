@@ -448,21 +448,6 @@
 				}
 			},
 			{
-				"id": 40598,
-				"address": "Taft High School 5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
-				"name": "WCK Meal Service - Taft H.S.",
-				"lat": 34.1693317,
-				"lng": -118.5713363,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Taft High School located 5461 Winnetka Ave, Woodland Hills, CA 91364, USA</p><p>Time of service is from 12pm to 8pm today, January 13th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40559,
 				"address": "516 Santa Monica Blvd, Santa Monica, CA 90401, USA",
 				"name": "WCK Meal Distribution - Xuntos",
@@ -519,6 +504,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Together We Thrive's Headquarters Warehouse located at 5304 Derry Ave, Unit Z Agoura Hills, CA 91301.</p><p>Time of service is from 11:30am-6pm, January 13th.</p><p>They are serving free hot meals from Food Trucks and a free farmers market for all fire evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.instagram.com/p/DEsrMqgyNgV/?img_index=1\">Together We Thrive's Instagram</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40598,
+				"address": "Taft High School 5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
+				"name": "WCK Meal Distribution - Taft H.S.",
+				"lat": 34.1693317,
+				"lng": -118.5713363,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Taft High School located 5461 Winnetka Ave, Woodland Hills, CA 91364, USA</p><p>Time of service is from 12pm to 8pm today, January 13th.</p>",
 					"links": []
 				}
 			}
@@ -1023,21 +1023,6 @@
 				}
 			},
 			{
-				"id": 40598,
-				"address": "Taft High School 5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
-				"name": "WCK Meal Service - Taft H.S.",
-				"lat": 34.1693317,
-				"lng": -118.5713363,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Taft High School located 5461 Winnetka Ave, Woodland Hills, CA 91364, USA</p><p>Time of service is from 12pm to 8pm today, January 13th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40575,
 				"address": "200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA",
 				"name": "WCK Meal Distribution - Saint Francis H.S.",
@@ -1079,6 +1064,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Together We Thrive's Headquarters Warehouse located at 5304 Derry Ave, Unit Z Agoura Hills, CA 91301.</p><p>Time of service is from 11:30am-6pm, January 13th.</p><p>They are serving free hot meals from Food Trucks and a free farmers market for all fire evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.instagram.com/p/DEsrMqgyNgV/?img_index=1\">Together We Thrive's Instagram</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40598,
+				"address": "Taft High School 5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
+				"name": "WCK Meal Distribution - Taft H.S.",
+				"lat": 34.1693317,
+				"lng": -118.5713363,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Taft High School located 5461 Winnetka Ave, Woodland Hills, CA 91364, USA</p><p>Time of service is from 12pm to 8pm today, January 13th.</p>",
 					"links": []
 				}
 			}
