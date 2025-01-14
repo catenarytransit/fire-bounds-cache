@@ -679,7 +679,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-14T00:13:04Z",
+		"date_modified": "2025-01-14T01:36:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1323,71 +1323,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 40508,
-		"is_active": false,
-		"name": "Kenneth Fire",
-		"description": null,
-		"lat": 34.185220913491676,
-		"lng": -118.67032904151962,
-		"address": "Victory Boulevard west of Gilmore St, West Hills",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": true,
-			"containment": 100,
-			"acreage": 1052,
-			"links": [
-				{
-					"link_type": "phone",
-					"label": "Incident Hotline",
-					"value": "8054656650"
-				},
-				{
-					"link_type": "website",
-					"label": "VC Emergency",
-					"value": "https://www.vcemergency.com/"
-				},
-				{
-					"link_type": "website",
-					"label": "LA City Evacuation Map",
-					"value": "https://lafd.maps.arcgis.com/apps/Media/index.html?appid=ba8cfed4b4a04d49b7489eb8300727a8"
-				},
-				{
-					"link_type": "website",
-					"label": "Ventura County Fire Twitter",
-					"value": "https://x.com/VCFD"
-				},
-				{
-					"link_type": "website",
-					"label": "Ventura County Incident Dashboard Map",
-					"value": "https://vcoes.maps.arcgis.com/apps/dashboards/e15ca0d2737d43cea6514043e61f1a7c"
-				}
-			],
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-01-09T22:43:28Z",
-		"date_modified": "2025-01-13T01:24:08Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 40645,
 		"is_active": true,
 		"name": "Miramar Fire",
@@ -1468,7 +1403,7 @@
 	{
 		"id": 40669,
 		"is_active": true,
-		"name": "Jurupa/Clay Fire",
+		"name": "Jurupa Fire",
 		"description": null,
 		"lat": 33.96206354852987,
 		"lng": -117.46963323866734,
@@ -1484,24 +1419,27 @@
 			"acreage": null,
 			"links": [],
 			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": null,
-			"evacuation_warnings": null,
+			"evacuation_warnings": "RIV-0182-B",
 			"evacuation_advisories": null,
-			"evacuation_notes": null,
+			"evacuation_notes": "Genasys Evacuation Map",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-14T00:54:15Z",
-		"date_modified": "2025-01-14T01:00:23Z",
+		"date_modified": "2025-01-14T01:34:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [],
-		"parent_geo_events": []
+		"parent_geo_events": [],
+		"evacuation_warnings_arr": [
+			"RIV-0182-B"
+		]
 	}
 ]
