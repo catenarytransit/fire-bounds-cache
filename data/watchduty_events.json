@@ -633,21 +633,6 @@
 				}
 			},
 			{
-				"id": 40727,
-				"address": "550 Foothill Blvd, La Cañada Flintridge, CA 91011, USA",
-				"name": "WCK Meal Distribution - Arco Station - Woodbury Rd",
-				"lat": 34.2000709,
-				"lng": -118.1912111,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Arco Station - Woodbury Rdlocated at 550 Foothill Blvd, La Cañada Flintridge, CA 91011, USA</p><p>Time of service is from 1pm to 8pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40724,
 				"address": "6850 CA-27, Canoga Park, CA 91303, USA",
 				"name": "WCK Meal Distribution - Canoga Park High School",
@@ -674,6 +659,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the Portola Middle School located at 18720 Linnet St, Tarzana, CA 91356.</p><p>Time of service is from 12pm to 8pm today, January 14th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40727,
+				"address": "2171 N Fair Oaks Ave, Altadena, CA 91001",
+				"name": "WCK Meal Distribution - Arco, Woodbury Rd",
+				"lat": 34.1828443,
+				"lng": -118.1511141,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Arco Station - Woodbury Rd located at 2171 N Fair Oaks Ave, Altadena, CA 91001.</p><p>Time of service is from 1pm to 8pm today, January 14th.</p>",
 					"links": []
 				}
 			}
@@ -1393,21 +1393,6 @@
 				}
 			},
 			{
-				"id": 40727,
-				"address": "550 Foothill Blvd, La Cañada Flintridge, CA 91011, USA",
-				"name": "WCK Meal Distribution - Arco Station - Woodbury Rd",
-				"lat": 34.2000709,
-				"lng": -118.1912111,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Arco Station - Woodbury Rdlocated at 550 Foothill Blvd, La Cañada Flintridge, CA 91011, USA</p><p>Time of service is from 1pm to 8pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40724,
 				"address": "6850 CA-27, Canoga Park, CA 91303, USA",
 				"name": "WCK Meal Distribution - Canoga Park High School",
@@ -1434,6 +1419,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the Portola Middle School located at 18720 Linnet St, Tarzana, CA 91356.</p><p>Time of service is from 12pm to 8pm today, January 14th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40727,
+				"address": "2171 N Fair Oaks Ave, Altadena, CA 91001",
+				"name": "WCK Meal Distribution - Arco, Woodbury Rd",
+				"lat": 34.1828443,
+				"lng": -118.1511141,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Arco Station - Woodbury Rd located at 2171 N Fair Oaks Ave, Altadena, CA 91001.</p><p>Time of service is from 1pm to 8pm today, January 14th.</p>",
 					"links": []
 				}
 			}
@@ -1809,7 +1809,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": null,
+			"containment": 25,
 			"acreage": 2.6,
 			"links": [],
 			"has_custom_evacuation_orders": true,
@@ -1824,7 +1824,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-14T20:13:42Z",
-		"date_modified": "2025-01-14T22:01:41Z",
+		"date_modified": "2025-01-14T22:11:30Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
