@@ -125,7 +125,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-14T17:00:48Z",
+		"date_modified": "2025-01-14T18:36:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -414,6 +414,21 @@
 					"geo_event_type": "location",
 					"location_type": "info",
 					"information": "<p>Disaster Resource Centers will open to the public on Tuesday January 14th from 1 PM to 8 PM. Starting Wed. January 15th the Disaster Resource Centers will be available to the public from 9 AM to 8 PM. For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40578,
+				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
+				"name": "WCK Meal Distribution - Palisades Fire Station 69",
+				"lat": 34.0450471,
+				"lng": -118.5224772,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am-8pm January 14th</p>",
 					"links": []
 				}
 			}
@@ -914,6 +929,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected by the Eaton Fire and Palisades fires, including first responders, at the following location 455 E Woodbury Rd, Altadena, CA 91001, USA</p><p>Time of Service: 10am - 4pm </p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40578,
+				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
+				"name": "WCK Meal Distribution - Palisades Fire Station 69",
+				"lat": 34.0450471,
+				"lng": -118.5224772,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am-8pm January 14th</p>",
 					"links": []
 				}
 			}
