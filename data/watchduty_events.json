@@ -1444,8 +1444,8 @@
 		"is_active": true,
 		"name": "Auto Fire",
 		"description": null,
-		"lat": 34.2419873,
-		"lng": -119.1925166,
+		"lat": 34.236766293308946,
+		"lng": -119.20225070931434,
 		"address": "Santa Clara River near Ventura Rd & Auto Center Dr, Ventura",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1469,7 +1469,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-14T03:12:25Z",
-		"date_modified": "2025-01-14T03:24:07Z",
+		"date_modified": "2025-01-14T03:32:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
