@@ -130,7 +130,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-14T21:22:53Z",
+		"date_modified": "2025-01-14T23:15:30Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -543,21 +543,6 @@
 				}
 			},
 			{
-				"id": 40721,
-				"address": "1466 S Westgate Ave, Los Angeles, CA 90025, USA",
-				"name": "WCK Meal Distribution - Collins & Katz Family YMCA",
-				"lat": 34.0432708,
-				"lng": -118.459205,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Collins &amp; Katz Family YMCA located at 1466 S Westgate Ave, Los Angeles, CA 90025</p><p>Time of service is from 11:30am - 1:30pm pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40717,
 				"address": "412 S Raymond Ave, Pasadena, CA 91105, USA",
 				"name": "WCK Meal Distribution-Union Station Adult Services",
@@ -569,21 +554,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Union Station Adult Services located at 412 S Raymond Ave, Pasadena, CA 91105, USA</p><p>Time of service is from 11am to 5pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40716,
-				"address": "500 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Pasadena Community Job Center",
-				"lat": 34.1372351,
-				"lng": -118.1319605,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the  Pasadena Community Job Center at 500 N Lake Ave, Pasadena, CA 91101, USA</p><p>Time of service is from 11am to 4pm today, January 14th.</p>",
 					"links": []
 				}
 			},
@@ -830,8 +800,8 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "ALD-ARROYOSECO, ALD-CALAVERAS, ALD-CANON, ALD-CASITAS, ALD-CHANEY, ALD-EASTLOMA, ALD-EATONCANYON, ALD-FARNSWORTH, ALD-GARDEN, ALD-LAUREL, ALD-MEADOWS, ALD-MENDOCINO, ALD-MIDLOTHIAN, ALD-MILLARD, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK, KIN-KINNELOA-A, LAC-E165-B, LAC-E167, LAC-E168-A, LAC-E183",
-			"evacuation_warnings": "ALD-GARFIAS, ARC-001, KIN-KINNELOA-B, LCF-CROWN, LCF-JPL, LCF-STARLIGHT, PAS-E006, PAS-E008, PAS-E010, PAS-E012, PAS-E014, PAS-E018, PAS-E019, PAS-E022-A, PAS-E022-B, SMD-E001, SMD-E002, SMD-E003, SMD-E004, SMD-E005, SMD-E006, SMD-E007, SMD-E008, SMD-E009, SMD-E010, SMD-E011, SMD-E012, SMD-E013, SMD-E014, SMD-E015, SMD-E016, SMD-E019",
+			"evacuation_orders": "ALD-CALAVERAS, ALD-CANON, ALD-CHANEY, ALD-EASTLOMA, ALD-EATONCANYON, ALD-FARNSWORTH, ALD-GARDEN, ALD-LAUREL, ALD-MEADOWS, ALD-MENDOCINO, ALD-MIDLOTHIAN, ALD-MILLARD, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK, KIN-KINNELOA-A, LAC-E165-B, LAC-E167, LAC-E168-A, LAC-E183",
+			"evacuation_warnings": "ALD-ARROYOSECO, ALD-CASITAS, ALD-GARFIAS, ARC-001, KIN-KINNELOA-B, LCF-CROWN, LCF-JPL, LCF-STARLIGHT, PAS-E006, PAS-E008, PAS-E010, PAS-E012, PAS-E014, PAS-E018, PAS-E019, PAS-E022-A, PAS-E022-B, SMD-E001, SMD-E002, SMD-E003, SMD-E004, SMD-E005, SMD-E006, SMD-E007, SMD-E008, SMD-E009, SMD-E010, SMD-E011, SMD-E012, SMD-E013, SMD-E014, SMD-E015, SMD-E016, SMD-E019",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map A Do-Not-Use-Water Notice is in effect for some impacted areas. An update from 1/13/25 to this notice, as well as a map of areas with potentially impacted water quality, can be found at this link. Angeles National Forest will remain closed in its entirety from January 14, 2025, at 12 a.m. through Sunday, January 19, 2025, at 12 a.m. The closure order and prohibited activities may be found at this link. Official Recovery Information & Damage Inspection Dashboard Airbnb.org is providing free, emergency housing for people who have been displaced by the Los Angeles wildfires. You can get help - or provide help – at Airbnb.org/lawildfires Youth between the ages of 5 to 17 can be signed up for Care Camps offered at 4 LA County parks, see more here. YMCA is also providing child care and other resources, see more here. Lyft & Uber - Discount codes to shelters available here. Red Flag/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.”",
 			"is_complex_parent": false,
@@ -839,7 +809,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-14T21:22:02Z",
+		"date_modified": "2025-01-14T23:14:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1303,21 +1273,6 @@
 				}
 			},
 			{
-				"id": 40721,
-				"address": "1466 S Westgate Ave, Los Angeles, CA 90025, USA",
-				"name": "WCK Meal Distribution - Collins & Katz Family YMCA",
-				"lat": 34.0432708,
-				"lng": -118.459205,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Collins &amp; Katz Family YMCA located at 1466 S Westgate Ave, Los Angeles, CA 90025</p><p>Time of service is from 11:30am - 1:30pm pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40717,
 				"address": "412 S Raymond Ave, Pasadena, CA 91105, USA",
 				"name": "WCK Meal Distribution-Union Station Adult Services",
@@ -1329,21 +1284,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Union Station Adult Services located at 412 S Raymond Ave, Pasadena, CA 91105, USA</p><p>Time of service is from 11am to 5pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40716,
-				"address": "500 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Pasadena Community Job Center",
-				"lat": 34.1372351,
-				"lng": -118.1319605,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the  Pasadena Community Job Center at 500 N Lake Ave, Pasadena, CA 91101, USA</p><p>Time of service is from 11am to 4pm today, January 14th.</p>",
 					"links": []
 				}
 			},
@@ -1440,10 +1380,8 @@
 		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"ALD-ARROYOSECO",
 			"ALD-CALAVERAS",
 			"ALD-CANON",
-			"ALD-CASITAS",
 			"ALD-CHANEY",
 			"ALD-EASTLOMA",
 			"ALD-EATONCANYON",
@@ -1466,6 +1404,8 @@
 			"LAC-E183"
 		],
 		"evacuation_warnings_arr": [
+			"ALD-ARROYOSECO",
+			"ALD-CASITAS",
 			"ALD-GARFIAS",
 			"ARC-001",
 			"KIN-KINNELOA-B",
