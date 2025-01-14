@@ -1802,10 +1802,10 @@
 			"containment": null,
 			"acreage": 2,
 			"links": [],
-			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
+			"evacuation_orders": "RIV-0112-B",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -1814,14 +1814,17 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-14T20:13:42Z",
-		"date_modified": "2025-01-14T20:47:12Z",
+		"date_modified": "2025-01-14T20:54:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [],
-		"parent_geo_events": []
+		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"RIV-0112-B"
+		]
 	},
 	{
 		"id": 40733,
