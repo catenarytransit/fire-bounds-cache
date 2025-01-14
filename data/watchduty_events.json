@@ -401,6 +401,21 @@
 					"information": "<p>An evacuation shelter is available at the Stoner Recreation Center, 1835 Stoner Ave, Los Angeles, CA 90025 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40713,
+				"address": "10850 W Pico Blvd, Los Angeles, CA 90064",
+				"name": "Disaster Resource Center",
+				"lat": 34.0394262,
+				"lng": -118.4289973,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "info",
+					"information": "<p>Disaster Resource Centers will open to the public on Tuesday January 14th from 1 PM to 8 PM. Starting Wed. January 15th the Disaster Resource Centers will be available to the public from 9 AM to 8 PM. For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -871,6 +886,36 @@
 						}
 					]
 				}
+			},
+			{
+				"id": 40714,
+				"address": "3035 E Foothill Blvd, Pasadena, CA 91107",
+				"name": "Disaster Resource Center",
+				"lat": 34.1504734,
+				"lng": -118.086438,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "info",
+					"information": "<p>Disaster Resource Centers will open to the public on Tuesday January 14th from 1 PM to 8 PM. Starting Wed. January 15th the Disaster Resource Centers will be available to the public from 9 AM to 8 PM. For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40715,
+				"address": "455 E Woodbury Rd, Altadena, CA 91001, USA",
+				"name": "World Central Kitchen (Meal Service) - Fraternal Order of Eagles",
+				"lat": 34.1814808,
+				"lng": -118.1412497,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected by the Eaton Fire and Palisades fires, including first responders, at the following location 455 E Woodbury Rd, Altadena, CA 91001, USA</p><p>Time of Service: 10am - 4pm </p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -1209,7 +1254,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": true,
 			"containment": null,
-			"acreage": 5,
+			"acreage": 3.5,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1223,7 +1268,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-14T14:44:53Z",
-		"date_modified": "2025-01-14T15:26:36Z",
+		"date_modified": "2025-01-14T18:26:23Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
