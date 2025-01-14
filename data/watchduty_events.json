@@ -178,21 +178,6 @@
 				}
 			},
 			{
-				"id": 40473,
-				"address": "7600 Beverly Blvd, Los Angeles, CA 90036, USA",
-				"name": "Evacuation Center - Pan Pacific Recreational Center",
-				"lat": 34.0754453,
-				"lng": -118.3542672,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation center is available at the Pan Pacific Recreational Center, 7600 Beverly Blvd, Los Angeles per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40515,
 				"address": "11003 Sports Arena Dr, Pico Rivera, CA 90601, USA",
 				"name": "Large Animal Shelter - Pico Rivera Sports Arena",
@@ -249,21 +234,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>Hard Rock Cafe LA is offering free food to <strong>first responders</strong> at 6801 Hollywood Blvd Suite 105, Los Angeles, CA.<br><br>Free meal to <strong>First Responders</strong> and <strong>Firefighters</strong> from Hard Rock Cafe. While supplies last.</p><p><strong>Location:</strong> Hard Rock Cafe: 6801 Hollywood Blvd</p><p><strong>Hours:</strong></p><ul><li><p>Sunday - Thursday: 11 AM - 10 PM</p></li><li><p>Friday &amp; Saturday: 9 AM - 10 PM</p></li></ul>",
-					"links": []
-				}
-			},
-			{
-				"id": 40593,
-				"address": "741 S Gretna Green Way, Los Angeles, CA 90049",
-				"name": "LADWP Bottled Water Distribution",
-				"lat": 34.050738,
-				"lng": -118.4757205,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>To provide additional support, <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link\" href=\"https://www.ladwpnews.com/do-not-drink-the-tap-water-in-pacific-palisades-zip-code-90272-and-adjacent-communities-in-the-ladwp-service-area-north-of-san-vicente-blvd/\">LADWP</a> will be distributing bottled water to affected customers at the following distribution location: \"Adjacent to the Brentwood Country Club\". LADWP staff will be present to distribute. For more information, contact 1-800-DIAL-DWP.<br><br>Location:<br>Adjacent to the Brentwood Country Club<br>741 S. Greta Green Way<br>Los Angeles, CA 90049<br>Sunday, January 12, 9am to 2pm<br>Monday, January, 11am to 5pm</p>",
 					"links": []
 				}
 			},
@@ -653,21 +623,6 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>A large animal shelter is set up at the Pierce College Equestrian Center located at 7100 El Rancho Drive, Woodland Hills, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County</a>.</p><p><strong>Update: </strong>The Pierce College 6201 Winnetka Ave, Woodland Hills, CA 91367 is<br>at capacity with 200 horses; staffed by DACC – FULL per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://animalcare.lacounty.gov/emergency-animal-shelter-information-los-angeles-county-fires/\">The LA County Website </a> on Jan 8th</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40473,
-				"address": "7600 Beverly Blvd, Los Angeles, CA 90036, USA",
-				"name": "Evacuation Center - Pan Pacific Recreational Center",
-				"lat": 34.0754453,
-				"lng": -118.3542672,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation center is available at the Pan Pacific Recreational Center, 7600 Beverly Blvd, Los Angeles per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
 					"links": []
 				}
 			},
