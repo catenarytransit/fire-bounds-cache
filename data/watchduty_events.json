@@ -116,6 +116,11 @@
 					"link_type": "website",
 					"label": "LA County Emergency Resources for Workers and Businesses",
 					"value": "https://opportunity.lacounty.gov/how-we-help/emergency-resources/?utm_content=&utm_medium=email&utm_name=&utm_source=govdelivery&utm_term="
+				},
+				{
+					"link_type": "phone",
+					"label": "Animal Services - Pet Reunification",
+					"value": "8884527381"
 				}
 			],
 			"has_custom_evacuation_orders": true,
@@ -130,7 +135,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-15T01:26:42Z",
+		"date_modified": "2025-01-15T01:56:03Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -408,21 +413,6 @@
 				}
 			},
 			{
-				"id": 40713,
-				"address": "10850 W Pico Blvd, Los Angeles, CA 90064",
-				"name": "Disaster Resource Center",
-				"lat": 34.0394262,
-				"lng": -118.4289973,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "info",
-					"information": "<p>Disaster Resource Centers will open to the public on Tuesday January 14th from 1 PM to 8 PM. Starting Wed. January 15th the Disaster Resource Centers will be available to the public from 9 AM to 8 PM. For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40578,
 				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
 				"name": "WCK Meal Distribution - Palisades Fire Station 69",
@@ -434,21 +424,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am-8pm January 14th</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40575,
-				"address": "200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA",
-				"name": "WCK Meal Distribution - Saint Francis H.S.",
-				"lat": 34.1953743,
-				"lng": -118.1819054,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Saint Francis High School located at 200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA.</p><p>Time of service is from 12pm to 5pm today, January 14th.</p>",
 					"links": []
 				}
 			},
@@ -528,66 +503,6 @@
 				}
 			},
 			{
-				"id": 40725,
-				"address": "2033 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - God's Waiting Room Church",
-				"lat": 34.1694695,
-				"lng": -118.1087329,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the God's Waiting Room Church located at 2033 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 12pm to 4pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40717,
-				"address": "412 S Raymond Ave, Pasadena, CA 91105, USA",
-				"name": "WCK Meal Distribution-Union Station Adult Services",
-				"lat": 34.1386826,
-				"lng": -118.1483804,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Union Station Adult Services located at 412 S Raymond Ave, Pasadena, CA 91105, USA</p><p>Time of service is from 11am to 5pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40718,
-				"address": "2640 E Orange Grove Blvd, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution-Assumption of the Blessed Virgin Mary Catholic Church",
-				"lat": 34.1579002,
-				"lng": -118.096005,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Assumption of the Blessed Virgin Mary Catholic Church at 2640 E Orange Grove Blvd, Pasadena, CA 91107</p><p>Time of service is from 11am to 5pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40722,
-				"address": "3880 E Sierra Madre Blvd, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - La Salle College Prep",
-				"lat": 34.1612832,
-				"lng": -118.0703492,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;La Salle College Prep located at 3880 E Sierra Madre Blvd, Pasadena, CA 91107, USA</p><p>Time of service is from 12pm to 4pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40720,
 				"address": "611 E Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
 				"name": "WCK Meal Distribution - Pasadena-Sierra Madre YMCA",
@@ -644,6 +559,36 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Arco Station - Woodbury Rd located at 2171 N Fair Oaks Ave, Altadena, CA 91001.</p><p>Time of service is from 1pm to 8pm today, January 14th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40713,
+				"address": "10850 W Pico Blvd, Los Angeles, CA 90064",
+				"name": "Disaster Resource Center",
+				"lat": 34.0394262,
+				"lng": -118.4289973,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "info",
+					"information": "<p>Disaster Resource Centers will open to the public on Tuesday January 14th from 1 PM to 8 PM. Starting Wed. January 15th the Disaster Resource Centers will be available to the public from 9 AM to 8 PM. For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40714,
+				"address": "3035 E Foothill Blvd, Pasadena, CA 91107",
+				"name": "Disaster Resource Center",
+				"lat": 34.1504734,
+				"lng": -118.086438,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "info",
+					"information": "<p>Disaster Resource Centers will open to the public on Tuesday January 14th from 1 PM to 8 PM. Starting Wed. January 15th the Disaster Resource Centers will be available to the public from 9 AM to 8 PM. For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
 					"links": []
 				}
 			}
@@ -1123,21 +1068,6 @@
 				}
 			},
 			{
-				"id": 40714,
-				"address": "3035 E Foothill Blvd, Pasadena, CA 91107",
-				"name": "Disaster Resource Center",
-				"lat": 34.1504734,
-				"lng": -118.086438,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "info",
-					"information": "<p>Disaster Resource Centers will open to the public on Tuesday January 14th from 1 PM to 8 PM. Starting Wed. January 15th the Disaster Resource Centers will be available to the public from 9 AM to 8 PM. For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40578,
 				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
 				"name": "WCK Meal Distribution - Palisades Fire Station 69",
@@ -1149,21 +1079,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am-8pm January 14th</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40575,
-				"address": "200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA",
-				"name": "WCK Meal Distribution - Saint Francis H.S.",
-				"lat": 34.1953743,
-				"lng": -118.1819054,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Saint Francis High School located at 200 Foothill Blvd, La Cañada Flintridge, CA 91011, USA.</p><p>Time of service is from 12pm to 5pm today, January 14th.</p>",
 					"links": []
 				}
 			},
@@ -1243,81 +1158,6 @@
 				}
 			},
 			{
-				"id": 40715,
-				"address": "455 E Woodbury Rd, Altadena, CA 91001, USA",
-				"name": "WCK Meal Distribution - Fraternal Order of Eagles",
-				"lat": 34.1814808,
-				"lng": -118.1412497,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected by the Eaton Fire and Palisades fires, including first responders, at the following location 455 E Woodbury Rd, Altadena, CA 91001, USA</p><p>Time of Service: 10am - 4pm </p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40725,
-				"address": "2033 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - God's Waiting Room Church",
-				"lat": 34.1694695,
-				"lng": -118.1087329,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the God's Waiting Room Church located at 2033 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 12pm to 4pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40717,
-				"address": "412 S Raymond Ave, Pasadena, CA 91105, USA",
-				"name": "WCK Meal Distribution-Union Station Adult Services",
-				"lat": 34.1386826,
-				"lng": -118.1483804,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Union Station Adult Services located at 412 S Raymond Ave, Pasadena, CA 91105, USA</p><p>Time of service is from 11am to 5pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40718,
-				"address": "2640 E Orange Grove Blvd, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution-Assumption of the Blessed Virgin Mary Catholic Church",
-				"lat": 34.1579002,
-				"lng": -118.096005,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Assumption of the Blessed Virgin Mary Catholic Church at 2640 E Orange Grove Blvd, Pasadena, CA 91107</p><p>Time of service is from 11am to 5pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40722,
-				"address": "3880 E Sierra Madre Blvd, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - La Salle College Prep",
-				"lat": 34.1612832,
-				"lng": -118.0703492,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;La Salle College Prep located at 3880 E Sierra Madre Blvd, Pasadena, CA 91107, USA</p><p>Time of service is from 12pm to 4pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40720,
 				"address": "611 E Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
 				"name": "WCK Meal Distribution - Pasadena-Sierra Madre YMCA",
@@ -1374,6 +1214,36 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Arco Station - Woodbury Rd located at 2171 N Fair Oaks Ave, Altadena, CA 91001.</p><p>Time of service is from 1pm to 8pm today, January 14th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40713,
+				"address": "10850 W Pico Blvd, Los Angeles, CA 90064",
+				"name": "Disaster Resource Center",
+				"lat": 34.0394262,
+				"lng": -118.4289973,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "info",
+					"information": "<p>Disaster Resource Centers will open to the public on Tuesday January 14th from 1 PM to 8 PM. Starting Wed. January 15th the Disaster Resource Centers will be available to the public from 9 AM to 8 PM. For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40714,
+				"address": "3035 E Foothill Blvd, Pasadena, CA 91107",
+				"name": "Disaster Resource Center",
+				"lat": 34.1504734,
+				"lng": -118.086438,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "info",
+					"information": "<p>Disaster Resource Centers will open to the public on Tuesday January 14th from 1 PM to 8 PM. Starting Wed. January 15th the Disaster Resource Centers will be available to the public from 9 AM to 8 PM. For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
 					"links": []
 				}
 			}
@@ -1671,8 +1541,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": 25,
-			"acreage": 55.7,
+			"containment": 47,
+			"acreage": 61,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1686,7 +1556,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-14T03:12:25Z",
-		"date_modified": "2025-01-14T22:49:29Z",
+		"date_modified": "2025-01-15T02:05:02Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1775,7 +1645,7 @@
 	},
 	{
 		"id": 40733,
-		"is_active": true,
+		"is_active": false,
 		"name": "Stone Fire",
 		"description": null,
 		"lat": 33.7729051,
@@ -1803,7 +1673,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-14T20:16:27Z",
-		"date_modified": "2025-01-14T21:23:17Z",
+		"date_modified": "2025-01-15T01:53:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1865,7 +1735,7 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": false,
+			"is_fps": true,
 			"containment": null,
 			"acreage": 0.5,
 			"links": [],
@@ -1881,7 +1751,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-15T01:17:27Z",
-		"date_modified": "2025-01-15T01:25:22Z",
+		"date_modified": "2025-01-15T01:41:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
