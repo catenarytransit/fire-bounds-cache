@@ -123,6 +123,11 @@
 					"value": "8884527381"
 				},
 				{
+					"link_type": "phone",
+					"label": "L.A. Fire Evacuation Area Animal Services Hotline",
+					"value": "2132708155"
+				},
+				{
 					"link_type": "website",
 					"label": "LA County Mail Service Info",
 					"value": "https://recovery.lacounty.gov/mail-services/"
@@ -140,7 +145,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-15T16:04:41Z",
+		"date_modified": "2025-01-15T16:39:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
