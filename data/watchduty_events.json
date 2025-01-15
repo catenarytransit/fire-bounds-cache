@@ -418,21 +418,6 @@
 				}
 			},
 			{
-				"id": 40728,
-				"address": "928 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - 928 E Washington",
-				"lat": 34.1688148,
-				"lng": -118.1314348,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at 928 E Washington Blvd, Pasadena, CA 91104, USA.</p><p>Time of service is from 6pm to 9pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40713,
 				"address": "10850 W Pico Blvd, Los Angeles, CA 90064",
 				"name": "Disaster Resource Center",
@@ -935,21 +920,6 @@
 							"value": "https://www.cityofpasadena.net/"
 						}
 					]
-				}
-			},
-			{
-				"id": 40728,
-				"address": "928 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - 928 E Washington",
-				"lat": 34.1688148,
-				"lng": -118.1314348,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at 928 E Washington Blvd, Pasadena, CA 91104, USA.</p><p>Time of service is from 6pm to 9pm today, January 14th.</p>",
-					"links": []
 				}
 			},
 			{
