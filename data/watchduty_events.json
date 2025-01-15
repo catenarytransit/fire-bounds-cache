@@ -723,21 +723,6 @@
 				}
 			},
 			{
-				"id": 40753,
-				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
-				"name": "WCK Meal Distribution - Malibu Brewing Company",
-				"lat": 34.0313066,
-				"lng": -118.8431276,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 15th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40752,
 				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
 				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
@@ -1004,7 +989,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-15T16:47:41Z",
+		"date_modified": "2025-01-15T16:57:57Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1597,21 +1582,6 @@
 				}
 			},
 			{
-				"id": 40753,
-				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
-				"name": "WCK Meal Distribution - Malibu Brewing Company",
-				"lat": 34.0313066,
-				"lng": -118.8431276,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 15th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40752,
 				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
 				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
@@ -1914,7 +1884,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": 47,
+			"containment": 50,
 			"acreage": 61,
 			"links": [],
 			"has_custom_evacuation_orders": false,
@@ -1929,7 +1899,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-14T03:12:25Z",
-		"date_modified": "2025-01-15T02:05:02Z",
+		"date_modified": "2025-01-15T17:01:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
