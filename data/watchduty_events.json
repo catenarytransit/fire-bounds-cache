@@ -418,36 +418,6 @@
 				}
 			},
 			{
-				"id": 40598,
-				"address": "Taft High School 5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
-				"name": "WCK Meal Distribution - Taft H.S.",
-				"lat": 34.1693317,
-				"lng": -118.5713363,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Taft High School located 5461 Winnetka Ave, Woodland Hills, CA 91364, USA</p><p>Time of service is from 12pm to 8pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "2125 N Windsor Ave, Altadena, CA 91001",
-				"name": "WCK Meal Distribution - Jack in the Box Altadena",
-				"lat": 34.1821492,
-				"lng": -118.169125,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Jack in the Box Altadena located at 2125 N Windsor Ave, Altadena, CA 91001.</p><p>Time of service is from 5pm to 8pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40728,
 				"address": "928 E Washington Blvd, Pasadena, CA 91104, USA",
 				"name": "WCK Meal Distribution - 928 E Washington",
@@ -459,66 +429,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at 928 E Washington Blvd, Pasadena, CA 91104, USA.</p><p>Time of service is from 6pm to 9pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40720,
-				"address": "611 E Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
-				"name": "WCK Meal Distribution - Pasadena-Sierra Madre YMCA",
-				"lat": 34.1623265,
-				"lng": -118.0401529,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena-Sierra Madre YMCA at 611 E Sierra Madre Blvd, Sierra Madre, CA 91024</p><p>Time of service is from 11am to 5pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40724,
-				"address": "6850 CA-27, Canoga Park, CA 91303, USA",
-				"name": "WCK Meal Distribution - Canoga Park High School",
-				"lat": 34.1949144,
-				"lng": -118.6055275,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Canoga Park High School located at 6850 CA-27, Canoga Park, CA 91303, USA</p><p>Time of service is from 12pm to 8pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40726,
-				"address": "18720 Linnet St, Tarzana, CA 91356, USA",
-				"name": "WCK Meal Distribution-Portola Middle School",
-				"lat": 34.1672422,
-				"lng": -118.5420438,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the Portola Middle School located at 18720 Linnet St, Tarzana, CA 91356.</p><p>Time of service is from 12pm to 8pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40727,
-				"address": "2171 N Fair Oaks Ave, Altadena, CA 91001",
-				"name": "WCK Meal Distribution - Arco, Woodbury Rd",
-				"lat": 34.1828443,
-				"lng": -118.1511141,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Arco Station - Woodbury Rd located at 2171 N Fair Oaks Ave, Altadena, CA 91001.</p><p>Time of service is from 1pm to 8pm today, January 14th.</p>",
 					"links": []
 				}
 			},
@@ -1028,36 +938,6 @@
 				}
 			},
 			{
-				"id": 40598,
-				"address": "Taft High School 5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
-				"name": "WCK Meal Distribution - Taft H.S.",
-				"lat": 34.1693317,
-				"lng": -118.5713363,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Taft High School located 5461 Winnetka Ave, Woodland Hills, CA 91364, USA</p><p>Time of service is from 12pm to 8pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "2125 N Windsor Ave, Altadena, CA 91001",
-				"name": "WCK Meal Distribution - Jack in the Box Altadena",
-				"lat": 34.1821492,
-				"lng": -118.169125,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Jack in the Box Altadena located at 2125 N Windsor Ave, Altadena, CA 91001.</p><p>Time of service is from 5pm to 8pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40728,
 				"address": "928 E Washington Blvd, Pasadena, CA 91104, USA",
 				"name": "WCK Meal Distribution - 928 E Washington",
@@ -1069,66 +949,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at 928 E Washington Blvd, Pasadena, CA 91104, USA.</p><p>Time of service is from 6pm to 9pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40720,
-				"address": "611 E Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
-				"name": "WCK Meal Distribution - Pasadena-Sierra Madre YMCA",
-				"lat": 34.1623265,
-				"lng": -118.0401529,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena-Sierra Madre YMCA at 611 E Sierra Madre Blvd, Sierra Madre, CA 91024</p><p>Time of service is from 11am to 5pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40724,
-				"address": "6850 CA-27, Canoga Park, CA 91303, USA",
-				"name": "WCK Meal Distribution - Canoga Park High School",
-				"lat": 34.1949144,
-				"lng": -118.6055275,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Canoga Park High School located at 6850 CA-27, Canoga Park, CA 91303, USA</p><p>Time of service is from 12pm to 8pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40726,
-				"address": "18720 Linnet St, Tarzana, CA 91356, USA",
-				"name": "WCK Meal Distribution-Portola Middle School",
-				"lat": 34.1672422,
-				"lng": -118.5420438,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the Portola Middle School located at 18720 Linnet St, Tarzana, CA 91356.</p><p>Time of service is from 12pm to 8pm today, January 14th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40727,
-				"address": "2171 N Fair Oaks Ave, Altadena, CA 91001",
-				"name": "WCK Meal Distribution - Arco, Woodbury Rd",
-				"lat": 34.1828443,
-				"lng": -118.1511141,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Arco Station - Woodbury Rd located at 2171 N Fair Oaks Ave, Altadena, CA 91001.</p><p>Time of service is from 1pm to 8pm today, January 14th.</p>",
 					"links": []
 				}
 			},
