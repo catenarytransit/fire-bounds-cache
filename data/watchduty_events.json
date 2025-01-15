@@ -806,6 +806,21 @@
 					"information": "<p><br>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the  Lake Street Washington Ave at 928 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 5:00pm - 9:00pm today, January 15th.</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40727,
+				"address": "2171 N Fair Oaks Ave, Altadena, CA 91001",
+				"name": "WCK Meal Distribution - Arco, Woodbury Rd",
+				"lat": 34.1828443,
+				"lng": -118.1511141,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Arco Station - Woodbury Rd located at 2171 N Fair Oaks Ave, Altadena, CA 91001.</p><p>Time of service is from 1pm to 8pm today, January 15th.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -969,7 +984,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-15T14:48:00Z",
+		"date_modified": "2025-01-15T15:16:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1669,6 +1684,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p><br>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the  Lake Street Washington Ave at 928 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 5:00pm - 9:00pm today, January 15th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40727,
+				"address": "2171 N Fair Oaks Ave, Altadena, CA 91001",
+				"name": "WCK Meal Distribution - Arco, Woodbury Rd",
+				"lat": 34.1828443,
+				"lng": -118.1511141,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Arco Station - Woodbury Rd located at 2171 N Fair Oaks Ave, Altadena, CA 91001.</p><p>Time of service is from 1pm to 8pm today, January 15th.</p>",
 					"links": []
 				}
 			}
