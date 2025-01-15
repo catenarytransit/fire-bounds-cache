@@ -163,21 +163,6 @@
 				}
 			},
 			{
-				"id": 40396,
-				"address": "300 E Green St, Pasadena, CA 91101, USA",
-				"name": "Evacuation Shelter - Pasadena Convention Center",
-				"lat": 34.14386382028022,
-				"lng": -118.14422219569809,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation shelter is available at the Pasadena Convention Center, 300 East Green Street, Pasadena, CA 91101 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p><p>Parking is available at the parking structure across the street from the Convention Center, located at 155 E. Green St. Please enter from Marengo Ave.</p><p>Parking is also available at the Paseo parking structure, located at 360 E. Colorado Blvd. You are able to enter the structure from Colorado Blvd. or Green St.</p><p>The Humane Society is on-site to accept pets for boarding. Service animals will be allowed inside the Convention Center.</p><p>Residents are able to call 211 for information regarding shelters, and social and health services.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40378,
 				"address": "7100 El Rancho Drive, Woodland Hills",
 				"name": "Large Animal Shelter (FULL)",
@@ -264,21 +249,6 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>An Evacuation Shelter is located at Westwood Recreation Center, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0\">LAFD</a>. Small animals are accepted. Residents may remain overnight.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.ladwpnews.com/bottled-water-distribution-locations-for-customers-affected-by-do-not-drink-notice/\">LADWP</a> will be distributing bottled water to affected customers at the Westwood Recreation Center. The distribution is open 24 hours in coordination with American Red Cross.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40442,
-				"address": "Pomona Fairplex, 1101 W McKinley Ave. Pomona",
-				"name": "Large Animal Shelter",
-				"lat": 34.0858734,
-				"lng": -117.7679419,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> </p>",
 					"links": []
 				}
 			},
@@ -418,9 +388,39 @@
 				}
 			},
 			{
+				"id": 40442,
+				"address": "Gate 3, Pomona Fairplex, 1101 W McKinley Ave. Pomona",
+				"name": "Large Animal Shelter",
+				"lat": 34.0858734,
+				"lng": -117.7679419,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave, enter through Gate 3. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40396,
+				"address": "300 E Green St, Pasadena, CA 91101, USA",
+				"name": "Evacuation Shelter - Pasadena Convention Center",
+				"lat": 34.14386382028022,
+				"lng": -118.14422219569809,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An evacuation shelter is available at the Pasadena Convention Center Exhibition Hall, 300 East Green Street, Pasadena, CA 91101 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p><p>Parking is available at the parking structure across the street from the Convention Center, located at 155 E. Green St. Please enter from Marengo Ave.</p><p>Parking is also available at the Paseo parking structure, located at 360 E. Colorado Blvd. You are able to enter the structure from Colorado Blvd. or Green St.</p><p>The Humane Society is on-site to accept pets for boarding. Service animals will be allowed inside the Convention Center.</p><p>Residents are able to call 211 for information regarding shelters, and social and health services.</p>",
+					"links": []
+				}
+			},
+			{
 				"id": 40713,
 				"address": "10850 W Pico Blvd, Los Angeles, CA 90064",
-				"name": "Disaster Resource Center",
+				"name": "Disaster Recovery Center",
 				"lat": 34.0394262,
 				"lng": -118.4289973,
 				"is_active": true,
@@ -428,14 +428,14 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "info",
-					"information": "<p>Disaster Resource Centers will open to the public on Tuesday January 14th from 1 PM to 8 PM. Starting Wed. January 15th the Disaster Resource Centers will be available to the public from 9 AM to 8 PM. For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
+					"information": "<p>A FEMA Disaster Recovery Center at UCLA Research Park</p><p>January 15 - 25, 9am to 8 pm</p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
 					"links": []
 				}
 			},
 			{
 				"id": 40714,
 				"address": "3035 E Foothill Blvd, Pasadena, CA 91107",
-				"name": "Disaster Resource Center",
+				"name": "Disaster Recovery Center",
 				"lat": 34.1504734,
 				"lng": -118.086438,
 				"is_active": true,
@@ -443,7 +443,7 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "info",
-					"information": "<p>Disaster Resource Centers will open to the public on Tuesday January 14th from 1 PM to 8 PM. Starting Wed. January 15th the Disaster Resource Centers will be available to the public from 9 AM to 8 PM. For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
+					"information": "<p>FEMA Disaster Recovery Center at Pasadena City College</p><p>January 15 - 25, 9am to 8 pm</p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
 					"links": []
 				}
 			}
@@ -632,21 +632,6 @@
 				}
 			},
 			{
-				"id": 40396,
-				"address": "300 E Green St, Pasadena, CA 91101, USA",
-				"name": "Evacuation Shelter - Pasadena Convention Center",
-				"lat": 34.14386382028022,
-				"lng": -118.14422219569809,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation shelter is available at the Pasadena Convention Center, 300 East Green Street, Pasadena, CA 91101 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p><p>Parking is available at the parking structure across the street from the Convention Center, located at 155 E. Green St. Please enter from Marengo Ave.</p><p>Parking is also available at the Paseo parking structure, located at 360 E. Colorado Blvd. You are able to enter the structure from Colorado Blvd. or Green St.</p><p>The Humane Society is on-site to accept pets for boarding. Service animals will be allowed inside the Convention Center.</p><p>Residents are able to call 211 for information regarding shelters, and social and health services.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40378,
 				"address": "7100 El Rancho Drive, Woodland Hills",
 				"name": "Large Animal Shelter (FULL)",
@@ -748,21 +733,6 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>An Evacuation Shelter is located at Westwood Recreation Center, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0\">LAFD</a>. Small animals are accepted. Residents may remain overnight.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.ladwpnews.com/bottled-water-distribution-locations-for-customers-affected-by-do-not-drink-notice/\">LADWP</a> will be distributing bottled water to affected customers at the Westwood Recreation Center. The distribution is open 24 hours in coordination with American Red Cross.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40442,
-				"address": "Pomona Fairplex, 1101 W McKinley Ave. Pomona",
-				"name": "Large Animal Shelter",
-				"lat": 34.0858734,
-				"lng": -117.7679419,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> </p>",
 					"links": []
 				}
 			},
@@ -923,9 +893,39 @@
 				}
 			},
 			{
+				"id": 40442,
+				"address": "Gate 3, Pomona Fairplex, 1101 W McKinley Ave. Pomona",
+				"name": "Large Animal Shelter",
+				"lat": 34.0858734,
+				"lng": -117.7679419,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave, enter through Gate 3. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40396,
+				"address": "300 E Green St, Pasadena, CA 91101, USA",
+				"name": "Evacuation Shelter - Pasadena Convention Center",
+				"lat": 34.14386382028022,
+				"lng": -118.14422219569809,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An evacuation shelter is available at the Pasadena Convention Center Exhibition Hall, 300 East Green Street, Pasadena, CA 91101 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p><p>Parking is available at the parking structure across the street from the Convention Center, located at 155 E. Green St. Please enter from Marengo Ave.</p><p>Parking is also available at the Paseo parking structure, located at 360 E. Colorado Blvd. You are able to enter the structure from Colorado Blvd. or Green St.</p><p>The Humane Society is on-site to accept pets for boarding. Service animals will be allowed inside the Convention Center.</p><p>Residents are able to call 211 for information regarding shelters, and social and health services.</p>",
+					"links": []
+				}
+			},
+			{
 				"id": 40713,
 				"address": "10850 W Pico Blvd, Los Angeles, CA 90064",
-				"name": "Disaster Resource Center",
+				"name": "Disaster Recovery Center",
 				"lat": 34.0394262,
 				"lng": -118.4289973,
 				"is_active": true,
@@ -933,14 +933,14 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "info",
-					"information": "<p>Disaster Resource Centers will open to the public on Tuesday January 14th from 1 PM to 8 PM. Starting Wed. January 15th the Disaster Resource Centers will be available to the public from 9 AM to 8 PM. For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
+					"information": "<p>A FEMA Disaster Recovery Center at UCLA Research Park</p><p>January 15 - 25, 9am to 8 pm</p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
 					"links": []
 				}
 			},
 			{
 				"id": 40714,
 				"address": "3035 E Foothill Blvd, Pasadena, CA 91107",
-				"name": "Disaster Resource Center",
+				"name": "Disaster Recovery Center",
 				"lat": 34.1504734,
 				"lng": -118.086438,
 				"is_active": true,
@@ -948,7 +948,7 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "info",
-					"information": "<p>Disaster Resource Centers will open to the public on Tuesday January 14th from 1 PM to 8 PM. Starting Wed. January 15th the Disaster Resource Centers will be available to the public from 9 AM to 8 PM. For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
+					"information": "<p>FEMA Disaster Recovery Center at Pasadena City College</p><p>January 15 - 25, 9am to 8 pm</p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
 					"links": []
 				}
 			}
