@@ -826,6 +826,21 @@
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Pasjoli located at 2732 Main St, Santa Monica, CA 90405, USA.</p><p>Time of service is from 5pm to 8pm today, January 15th.</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40770,
+				"address": "5371 CA-27, Woodland Hills",
+				"name": "WCK Meal Distribution - Monty's Steakhouse",
+				"lat": 34.1678747,
+				"lng": -118.6063446,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Monty's Steakhouse at 5371 CA-27, Woodland Hills.</p><p>Time of service is from 11:00am - 5:00pm, January 15th.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -1704,6 +1719,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Pasjoli located at 2732 Main St, Santa Monica, CA 90405, USA.</p><p>Time of service is from 5pm to 8pm today, January 15th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40770,
+				"address": "5371 CA-27, Woodland Hills",
+				"name": "WCK Meal Distribution - Monty's Steakhouse",
+				"lat": 34.1678747,
+				"lng": -118.6063446,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Monty's Steakhouse at 5371 CA-27, Woodland Hills.</p><p>Time of service is from 11:00am - 5:00pm, January 15th.</p>",
 					"links": []
 				}
 			}
