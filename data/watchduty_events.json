@@ -14,7 +14,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 80,
+			"containment": 89,
 			"acreage": 8346,
 			"links": [
 				{
@@ -35,7 +35,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2024-12-15T17:01:20Z",
-		"date_modified": "2025-01-14T18:17:20Z",
+		"date_modified": "2025-01-15T17:57:43Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -145,7 +145,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-15T16:39:49Z",
+		"date_modified": "2025-01-15T17:56:30Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -678,21 +678,6 @@
 				}
 			},
 			{
-				"id": 40754,
-				"address": "122 N Topanga Canyon Blvd, Topanga, CA 90290, USA",
-				"name": "WCK Meal Distribution - Monty's Firefighters Lounge",
-				"lat": 34.0899054,
-				"lng": -118.6035252,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Monty's Firefighters Lounge (Topanga Library) located at 122 N Topanga Canyon Blvd, Topanga, CA 90290, USA.</p><p>Time of service is from 11am to 3pm today, January 15th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40720,
 				"address": "611 E Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
 				"name": "WCK Meal Distribution - Pasadena-Sierra Madre YMCA",
@@ -1004,7 +989,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-15T16:57:57Z",
+		"date_modified": "2025-01-15T17:55:02Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1548,21 +1533,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Pasadena Church East located at 425 Sierra Madre Villa Ave, Pasadena, CA 91107, USA.</p><p>Time of service is from 11am to 3pm today, January 15th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40754,
-				"address": "122 N Topanga Canyon Blvd, Topanga, CA 90290, USA",
-				"name": "WCK Meal Distribution - Monty's Firefighters Lounge",
-				"lat": 34.0899054,
-				"lng": -118.6035252,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Monty's Firefighters Lounge (Topanga Library) located at 122 N Topanga Canyon Blvd, Topanga, CA 90290, USA.</p><p>Time of service is from 11am to 3pm today, January 15th.</p>",
 					"links": []
 				}
 			},
