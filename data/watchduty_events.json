@@ -168,21 +168,6 @@
 				}
 			},
 			{
-				"id": 40378,
-				"address": "7100 El Rancho Drive, Woodland Hills",
-				"name": "Large Animal Shelter (FULL)",
-				"lat": 34.18501373244824,
-				"lng": -118.58687688440695,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is set up at the Pierce College Equestrian Center located at 7100 El Rancho Drive, Woodland Hills, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County</a>.</p><p><strong>Update: </strong>The Pierce College 6201 Winnetka Ave, Woodland Hills, CA 91367 is<br>at capacity with 200 horses; staffed by DACC – FULL per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://animalcare.lacounty.gov/emergency-animal-shelter-information-los-angeles-county-fires/\">The LA County Website </a> on Jan 8th</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40515,
 				"address": "11003 Sports Arena Dr, Pico Rivera, CA 90601, USA",
 				"name": "Large Animal Shelter - Pico Rivera Sports Arena",
@@ -254,21 +239,6 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>A large animal shelter is available at the Industry Hills Expo at 16200 Temple Ave, City of Industry, CA 91744 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40448,
-				"address": "4275 Elton St, Baldwin Park",
-				"name": "Small Animal Shelter - Baldwin Park Animal Care Center",
-				"lat": 34.09132,
-				"lng": -117.9511907,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
 					"links": []
 				}
 			},
@@ -796,6 +766,21 @@
 					"information": "<p>Small and Large animal shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40829,
+				"address": "2551 W Avenue H, Lancaster, CA 93536",
+				"name": "Large Animal Shelter - Antelope Valley Fairgrounds",
+				"lat": 34.7238911,
+				"lng": -118.1738095,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Large Animal Shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County Website</a></p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -987,21 +972,6 @@
 				}
 			},
 			{
-				"id": 40378,
-				"address": "7100 El Rancho Drive, Woodland Hills",
-				"name": "Large Animal Shelter (FULL)",
-				"lat": 34.18501373244824,
-				"lng": -118.58687688440695,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is set up at the Pierce College Equestrian Center located at 7100 El Rancho Drive, Woodland Hills, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County</a>.</p><p><strong>Update: </strong>The Pierce College 6201 Winnetka Ave, Woodland Hills, CA 91367 is<br>at capacity with 200 horses; staffed by DACC – FULL per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://animalcare.lacounty.gov/emergency-animal-shelter-information-los-angeles-county-fires/\">The LA County Website </a> on Jan 8th</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40515,
 				"address": "11003 Sports Arena Dr, Pico Rivera, CA 90601, USA",
 				"name": "Large Animal Shelter - Pico Rivera Sports Arena",
@@ -1088,21 +1058,6 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>A large animal shelter is available at the Industry Hills Expo at 16200 Temple Ave, City of Industry, CA 91744 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40448,
-				"address": "4275 Elton St, Baldwin Park",
-				"name": "Small Animal Shelter - Baldwin Park Animal Care Center",
-				"lat": 34.09132,
-				"lng": -117.9511907,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
 					"links": []
 				}
 			},
@@ -1649,6 +1604,21 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>Small and Large animal shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40829,
+				"address": "2551 W Avenue H, Lancaster, CA 93536",
+				"name": "Large Animal Shelter - Antelope Valley Fairgrounds",
+				"lat": 34.7238911,
+				"lng": -118.1738095,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Large Animal Shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County Website</a></p>",
 					"links": []
 				}
 			}
