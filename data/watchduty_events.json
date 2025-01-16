@@ -1354,7 +1354,7 @@
 	},
 	{
 		"id": 40398,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hurst Fire",
 		"description": null,
 		"lat": 34.32576237121435,
@@ -1403,7 +1403,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T06:23:30Z",
-		"date_modified": "2025-01-16T17:52:04Z",
+		"date_modified": "2025-01-16T23:24:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1505,7 +1505,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 5,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1520,7 +1520,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-15T21:10:21Z",
-		"date_modified": "2025-01-15T21:10:22Z",
+		"date_modified": "2025-01-16T23:23:27Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
