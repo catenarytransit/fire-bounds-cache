@@ -528,21 +528,6 @@
 				}
 			},
 			{
-				"id": 40756,
-				"address": "285 W Huntington Dr, Arcadia, CA 91007, USA",
-				"name": "WCK Meal Distribution - Santa Anita Racetrack",
-				"lat": 34.1374175961533,
-				"lng": -118.04310554426579,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Santa Anita Racetrack located at 285 W Huntington Dr, Arcadia, CA 91007, USA.</p><p>Time of service is from 10am to 5pm today, January 15th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40752,
 				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
 				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
@@ -618,21 +603,6 @@
 				}
 			},
 			{
-				"id": 40727,
-				"address": "2171 N Fair Oaks Ave, Altadena, CA 91001",
-				"name": "WCK Meal Distribution - Arco, Woodbury Rd",
-				"lat": 34.1828443,
-				"lng": -118.1511141,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Arco Station - Woodbury Rd located at 2171 N Fair Oaks Ave, Altadena, CA 91001.</p><p>Time of service is from 1pm to 8pm today, January 15th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40762,
 				"address": "1816 S Figueroa St, Los Angeles, CA 90015, USA",
 				"name": "Evacuation Shelter - Bob Hope Patriotic Hall",
@@ -659,21 +629,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Pasjoli located at 2732 Main St, Santa Monica, CA 90405, USA.</p><p>Time of service is from 5pm to 8pm today, January 15th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40770,
-				"address": "5371 CA-27, Woodland Hills",
-				"name": "WCK Meal Distribution - Monty's Steakhouse",
-				"lat": 34.1678747,
-				"lng": -118.6063446,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Monty's Steakhouse at 5371 CA-27, Woodland Hills.</p><p>Time of service is from 11:00am - 5:00pm, January 15th.</p>",
 					"links": []
 				}
 			}
@@ -1242,21 +1197,6 @@
 				}
 			},
 			{
-				"id": 40756,
-				"address": "285 W Huntington Dr, Arcadia, CA 91007, USA",
-				"name": "WCK Meal Distribution - Santa Anita Racetrack",
-				"lat": 34.1374175961533,
-				"lng": -118.04310554426579,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Santa Anita Racetrack located at 285 W Huntington Dr, Arcadia, CA 91007, USA.</p><p>Time of service is from 10am to 5pm today, January 15th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40752,
 				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
 				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
@@ -1332,21 +1272,6 @@
 				}
 			},
 			{
-				"id": 40727,
-				"address": "2171 N Fair Oaks Ave, Altadena, CA 91001",
-				"name": "WCK Meal Distribution - Arco, Woodbury Rd",
-				"lat": 34.1828443,
-				"lng": -118.1511141,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Arco Station - Woodbury Rd located at 2171 N Fair Oaks Ave, Altadena, CA 91001.</p><p>Time of service is from 1pm to 8pm today, January 15th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40762,
 				"address": "1816 S Figueroa St, Los Angeles, CA 90015, USA",
 				"name": "Evacuation Shelter - Bob Hope Patriotic Hall",
@@ -1394,21 +1319,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Pasjoli located at 2732 Main St, Santa Monica, CA 90405, USA.</p><p>Time of service is from 5pm to 8pm today, January 15th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40770,
-				"address": "5371 CA-27, Woodland Hills",
-				"name": "WCK Meal Distribution - Monty's Steakhouse",
-				"lat": 34.1678747,
-				"lng": -118.6063446,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Monty's Steakhouse at 5371 CA-27, Woodland Hills.</p><p>Time of service is from 11:00am - 5:00pm, January 15th.</p>",
 					"links": []
 				}
 			}
@@ -1557,7 +1467,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": 50,
+			"containment": 85,
 			"acreage": 61,
 			"links": [],
 			"has_custom_evacuation_orders": false,
@@ -1566,13 +1476,13 @@
 			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "VC Sheriff's Evacuation Map/Dashboard",
+			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-14T03:12:25Z",
-		"date_modified": "2025-01-15T17:01:08Z",
+		"date_modified": "2025-01-16T01:05:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
