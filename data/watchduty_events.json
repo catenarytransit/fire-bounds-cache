@@ -393,141 +393,6 @@
 				}
 			},
 			{
-				"id": 40808,
-				"address": "21150 Ventura Blvd, Woodland Hills, CA 91364, USA",
-				"name": "WCK Meal Distribution - Gasolina Cafe",
-				"lat": 34.1670052,
-				"lng": -118.5945039,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Gasolina Cafe located at 21150 Ventura Blvd, Woodland Hills, CA 91364</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40721,
-				"address": "1466 S Westgate Ave, Los Angeles, CA 90025, USA",
-				"name": "WCK Meal Distribution - Collins & Katz Family YMCA",
-				"lat": 34.0432708,
-				"lng": -118.459205,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Collins &amp; Katz Family YMCA located at 1466 S Westgate Ave, Los Angeles, CA 90025</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40725,
-				"address": "2033 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - God's Waiting Room Church",
-				"lat": 34.1694695,
-				"lng": -118.1087329,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the God's Waiting Room Church located at 2033 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40716,
-				"address": "500 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Pasadena Community Job Center",
-				"lat": 34.1372351,
-				"lng": -118.1319605,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena Community Job Center at 500 N Lake Ave, Pasadena, CA 91101, USA</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40717,
-				"address": "412 S Raymond Ave, Pasadena, CA 91105, USA",
-				"name": "WCK Meal Distribution-Union Station Adult Services",
-				"lat": 34.1386826,
-				"lng": -118.1483804,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Union Station Adult Services located at 412 S Raymond Ave, Pasadena, CA 91105, USA</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40715,
-				"address": "455 E Woodbury Rd, Altadena, CA 91001, USA",
-				"name": "WCK Meal Distribution - Fraternal Order of Eagles",
-				"lat": 34.1814808,
-				"lng": -118.1412497,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected by the Eaton Fire and Palisades fires, including first responders, at the following location 455 E Woodbury Rd, Altadena, CA 91001, USA</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40718,
-				"address": "2640 E Orange Grove Blvd, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution-Assumption of the Blessed Virgin Mary Catholic Church",
-				"lat": 34.1579002,
-				"lng": -118.096005,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Assumption of the Blessed Virgin Mary Catholic Church at 2640 E Orange Grove Blvd, Pasadena, CA 91107</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40756,
-				"address": "285 W Huntington Dr, Arcadia, CA 91007, USA",
-				"name": "WCK Meal Distribution - Santa Anita Racetrack",
-				"lat": 34.1374175961533,
-				"lng": -118.04310554426579,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Santa Anita Racetrack located at 285 W Huntington Dr, Arcadia, CA 91007, USA.</p><p>Time of service is from 10am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40720,
-				"address": "611 E Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
-				"name": "WCK Meal Distribution - Pasadena-Sierra Madre YMCA",
-				"lat": 34.1623265,
-				"lng": -118.0401529,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena-Sierra Madre YMCA at 611 E Sierra Madre Blvd, Sierra Madre, CA 91024</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40722,
 				"address": "3880 E Sierra Madre Blvd, Pasadena, CA 91107, USA",
 				"name": "WCK Meal Distribution - La Salle College Prep",
@@ -753,21 +618,6 @@
 				}
 			},
 			{
-				"id": 40807,
-				"address": "380 E Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal Distribution - Refuge Christian Center",
-				"lat": 34.1814647,
-				"lng": -118.1427832,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Refuge Christian Center located at 380 E Woodbury Rd, Altadena, CA 91001.</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40754,
 				"address": "5371 CA-27, Woodland Hills, CA 91364",
 				"name": "WCK Meal Distribution - Monty's Steakhouse",
@@ -939,7 +789,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "ALD-CALAVERAS, ALD-CALAVERAS-A, ALD-CALAVERAS-B, ALD-CALAVERAS-C, ALD-CANON, ALD-CHANEY, ALD-EASTLOMA, ALD-EATONCANYON, ALD-FARNSWORTH, ALD-GARDEN, ALD-LAUREL, ALD-MENDOCINO, ALD-MENDOCINO-A, ALD-MENDOCINO-B, ALD-MENDOCINO-C, ALD-MIDLOTHIAN, ALD-MILLARD, ALD-MILLARD-A, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK, ALD-WHITEPARK-A, ALD-WHITEPARK-B, ALD-WHITEPARK-C, KIN-KINNELOA-A, LAC-E165-B, LAC-E167, LAC-E168-A",
+			"evacuation_orders": "ALD-CALAVERAS, ALD-CANON, ALD-CHANEY, ALD-EASTLOMA, ALD-EATONCANYON, ALD-FARNSWORTH, ALD-GARDEN, ALD-LAUREL, ALD-MENDOCINO, ALD-MIDLOTHIAN, ALD-MILLARD-A, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK, KIN-KINNELOA-A, LAC-E165-B, LAC-E167, LAC-E168-A",
 			"evacuation_warnings": "ALD-CASITAS, ALD-MEADOWS, ALD-MILLARD-B, ALD-MILLARD-C",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map A Do-Not-Use-Water Notice is in effect for some impacted areas. An update from 1/13/25 to this notice, as well as a map of areas with potentially impacted water quality, can be found at this link. Angeles National Forest will remain closed in its entirety from January 14, 2025, at 12 a.m. through Sunday, January 19, 2025, at 12 a.m. The closure order and prohibited activities may be found at this link. Official Recovery Information & Damage Inspection Dashboard Airbnb.org is providing free, emergency housing for people who have been displaced by the Los Angeles wildfires. You can get help - or provide help – at Airbnb.org/lawildfires Youth between the ages of 5 to 17 can be signed up for Care Camps offered at 4 LA County parks, see more here. YMCA is also providing child care and other resources, see more here. Lyft & Uber - Discount codes to shelters available here. Red Flag/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.”",
@@ -948,7 +798,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-16T23:09:02Z",
+		"date_modified": "2025-01-16T23:15:03Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1211,141 +1061,6 @@
 				}
 			},
 			{
-				"id": 40808,
-				"address": "21150 Ventura Blvd, Woodland Hills, CA 91364, USA",
-				"name": "WCK Meal Distribution - Gasolina Cafe",
-				"lat": 34.1670052,
-				"lng": -118.5945039,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Gasolina Cafe located at 21150 Ventura Blvd, Woodland Hills, CA 91364</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40721,
-				"address": "1466 S Westgate Ave, Los Angeles, CA 90025, USA",
-				"name": "WCK Meal Distribution - Collins & Katz Family YMCA",
-				"lat": 34.0432708,
-				"lng": -118.459205,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Collins &amp; Katz Family YMCA located at 1466 S Westgate Ave, Los Angeles, CA 90025</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40725,
-				"address": "2033 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - God's Waiting Room Church",
-				"lat": 34.1694695,
-				"lng": -118.1087329,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the God's Waiting Room Church located at 2033 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40716,
-				"address": "500 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Pasadena Community Job Center",
-				"lat": 34.1372351,
-				"lng": -118.1319605,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena Community Job Center at 500 N Lake Ave, Pasadena, CA 91101, USA</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40717,
-				"address": "412 S Raymond Ave, Pasadena, CA 91105, USA",
-				"name": "WCK Meal Distribution-Union Station Adult Services",
-				"lat": 34.1386826,
-				"lng": -118.1483804,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Union Station Adult Services located at 412 S Raymond Ave, Pasadena, CA 91105, USA</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40715,
-				"address": "455 E Woodbury Rd, Altadena, CA 91001, USA",
-				"name": "WCK Meal Distribution - Fraternal Order of Eagles",
-				"lat": 34.1814808,
-				"lng": -118.1412497,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected by the Eaton Fire and Palisades fires, including first responders, at the following location 455 E Woodbury Rd, Altadena, CA 91001, USA</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40718,
-				"address": "2640 E Orange Grove Blvd, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution-Assumption of the Blessed Virgin Mary Catholic Church",
-				"lat": 34.1579002,
-				"lng": -118.096005,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Assumption of the Blessed Virgin Mary Catholic Church at 2640 E Orange Grove Blvd, Pasadena, CA 91107</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40756,
-				"address": "285 W Huntington Dr, Arcadia, CA 91007, USA",
-				"name": "WCK Meal Distribution - Santa Anita Racetrack",
-				"lat": 34.1374175961533,
-				"lng": -118.04310554426579,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Santa Anita Racetrack located at 285 W Huntington Dr, Arcadia, CA 91007, USA.</p><p>Time of service is from 10am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40720,
-				"address": "611 E Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
-				"name": "WCK Meal Distribution - Pasadena-Sierra Madre YMCA",
-				"lat": 34.1623265,
-				"lng": -118.0401529,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena-Sierra Madre YMCA at 611 E Sierra Madre Blvd, Sierra Madre, CA 91024</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40722,
 				"address": "3880 E Sierra Madre Blvd, Pasadena, CA 91107, USA",
 				"name": "WCK Meal Distribution - La Salle College Prep",
@@ -1592,21 +1307,6 @@
 				}
 			},
 			{
-				"id": 40807,
-				"address": "380 E Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal Distribution - Refuge Christian Center",
-				"lat": 34.1814647,
-				"lng": -118.1427832,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Refuge Christian Center located at 380 E Woodbury Rd, Altadena, CA 91001.</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40754,
 				"address": "5371 CA-27, Woodland Hills, CA 91364",
 				"name": "WCK Meal Distribution - Monty's Steakhouse",
@@ -1625,9 +1325,6 @@
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"ALD-CALAVERAS",
-			"ALD-CALAVERAS-A",
-			"ALD-CALAVERAS-B",
-			"ALD-CALAVERAS-C",
 			"ALD-CANON",
 			"ALD-CHANEY",
 			"ALD-EASTLOMA",
@@ -1636,20 +1333,13 @@
 			"ALD-GARDEN",
 			"ALD-LAUREL",
 			"ALD-MENDOCINO",
-			"ALD-MENDOCINO-A",
-			"ALD-MENDOCINO-B",
-			"ALD-MENDOCINO-C",
 			"ALD-MIDLOTHIAN",
-			"ALD-MILLARD",
 			"ALD-MILLARD-A",
 			"ALD-MOUNTLOWE",
 			"ALD-PALM",
 			"ALD-RUBIO",
 			"ALD-WAPELLO",
 			"ALD-WHITEPARK",
-			"ALD-WHITEPARK-A",
-			"ALD-WHITEPARK-B",
-			"ALD-WHITEPARK-C",
 			"KIN-KINNELOA-A",
 			"LAC-E165-B",
 			"LAC-E167",
