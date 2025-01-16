@@ -59,7 +59,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 19,
+			"containment": 21,
 			"acreage": 23713,
 			"links": [
 				{
@@ -145,7 +145,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-15T23:11:50Z",
+		"date_modified": "2025-01-16T02:32:13Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -509,21 +509,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals for those affected by the fire at <strong>Pasadena City College Lot 3.</strong><br>Address: 1570 E Colorado Blvd, Pasadena, CA 91106<br>Time: 4:00 PM - 8:00 PM on January 15th</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "2125 N Windsor Ave, Altadena, CA 91001",
-				"name": "WCK Meal Distribution - Jack in the Box Altadena",
-				"lat": 34.1821492,
-				"lng": -118.169125,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Jack in the Box Altadena located at 2125 N Windsor Ave, Altadena, CA 91001.</p><p>Time of service is from 4pm to 8pm today, January 15th.</p>",
 					"links": []
 				}
 			},
@@ -1182,21 +1167,6 @@
 				}
 			},
 			{
-				"id": 40528,
-				"address": "2125 N Windsor Ave, Altadena, CA 91001",
-				"name": "WCK Meal Distribution - Jack in the Box Altadena",
-				"lat": 34.1821492,
-				"lng": -118.169125,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Jack in the Box Altadena located at 2125 N Windsor Ave, Altadena, CA 91001.</p><p>Time of service is from 4pm to 8pm today, January 15th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40752,
 				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
 				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
@@ -1428,7 +1398,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 90,
+			"containment": 100,
 			"acreage": 3,
 			"links": [],
 			"has_custom_evacuation_orders": false,
@@ -1443,7 +1413,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-09T21:51:36Z",
-		"date_modified": "2025-01-12T02:42:50Z",
+		"date_modified": "2025-01-16T02:48:41Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
