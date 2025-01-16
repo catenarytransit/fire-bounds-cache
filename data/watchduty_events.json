@@ -939,8 +939,8 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "ALD-CALAVERAS, ALD-CALAVERAS-A, ALD-CALAVERAS-B, ALD-CALAVERAS-C, ALD-CANON, ALD-CHANEY, ALD-EASTLOMA, ALD-EATONCANYON, ALD-FARNSWORTH, ALD-GARDEN, ALD-LAUREL, ALD-MEADOWS, ALD-MENDOCINO, ALD-MENDOCINO-A, ALD-MENDOCINO-B, ALD-MENDOCINO-C, ALD-MIDLOTHIAN, ALD-MILLARD, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK, ALD-WHITEPARK-A, ALD-WHITEPARK-B, ALD-WHITEPARK-C, KIN-KINNELOA-A, LAC-E165-B, LAC-E167, LAC-E168-A",
-			"evacuation_warnings": "ALD-ARROYOSECO, ALD-CASITAS, LAC-E183",
+			"evacuation_orders": "ALD-CALAVERAS, ALD-CALAVERAS-A, ALD-CALAVERAS-B, ALD-CALAVERAS-C, ALD-CANON, ALD-CHANEY, ALD-EASTLOMA, ALD-EATONCANYON, ALD-FARNSWORTH, ALD-GARDEN, ALD-LAUREL, ALD-MENDOCINO, ALD-MENDOCINO-A, ALD-MENDOCINO-B, ALD-MENDOCINO-C, ALD-MIDLOTHIAN, ALD-MILLARD, ALD-MILLARD-A, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK, ALD-WHITEPARK-A, ALD-WHITEPARK-B, ALD-WHITEPARK-C, KIN-KINNELOA-A, LAC-E165-B, LAC-E167, LAC-E168-A",
+			"evacuation_warnings": "ALD-CASITAS, ALD-MEADOWS, ALD-MILLARD-B, ALD-MILLARD-C",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map A Do-Not-Use-Water Notice is in effect for some impacted areas. An update from 1/13/25 to this notice, as well as a map of areas with potentially impacted water quality, can be found at this link. Angeles National Forest will remain closed in its entirety from January 14, 2025, at 12 a.m. through Sunday, January 19, 2025, at 12 a.m. The closure order and prohibited activities may be found at this link. Official Recovery Information & Damage Inspection Dashboard Airbnb.org is providing free, emergency housing for people who have been displaced by the Los Angeles wildfires. You can get help - or provide help – at Airbnb.org/lawildfires Youth between the ages of 5 to 17 can be signed up for Care Camps offered at 4 LA County parks, see more here. YMCA is also providing child care and other resources, see more here. Lyft & Uber - Discount codes to shelters available here. Red Flag/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.”",
 			"is_complex_parent": false,
@@ -948,7 +948,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-16T21:36:44Z",
+		"date_modified": "2025-01-16T22:59:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1635,13 +1635,13 @@
 			"ALD-FARNSWORTH",
 			"ALD-GARDEN",
 			"ALD-LAUREL",
-			"ALD-MEADOWS",
 			"ALD-MENDOCINO",
 			"ALD-MENDOCINO-A",
 			"ALD-MENDOCINO-B",
 			"ALD-MENDOCINO-C",
 			"ALD-MIDLOTHIAN",
 			"ALD-MILLARD",
+			"ALD-MILLARD-A",
 			"ALD-MOUNTLOWE",
 			"ALD-PALM",
 			"ALD-RUBIO",
@@ -1656,9 +1656,10 @@
 			"LAC-E168-A"
 		],
 		"evacuation_warnings_arr": [
-			"ALD-ARROYOSECO",
 			"ALD-CASITAS",
-			"LAC-E183"
+			"ALD-MEADOWS",
+			"ALD-MILLARD-B",
+			"ALD-MILLARD-C"
 		]
 	},
 	{
