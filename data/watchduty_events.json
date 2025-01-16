@@ -528,21 +528,6 @@
 				}
 			},
 			{
-				"id": 40807,
-				"address": "119 E Washington Blvd, Pasadena, CA 91103, USA",
-				"name": "WCK Meal Distribution - Refuge Christian Center",
-				"lat": 34.1692392,
-				"lng": -118.1482969,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Refuge Christian Center located at 119 E Washington Blvd, Pasadena, CA 91103.</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40722,
 				"address": "3880 E Sierra Madre Blvd, Pasadena, CA 91107, USA",
 				"name": "WCK Meal Distribution - La Salle College Prep",
@@ -779,6 +764,21 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>Large Animal Shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County Website</a></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40807,
+				"address": "380 E Woodbury Rd, Altadena, CA 91001",
+				"name": "WCK Meal Distribution - Refuge Christian Center",
+				"lat": 34.1814647,
+				"lng": -118.1427832,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Refuge Christian Center located at 380 E Woodbury Rd, Altadena, CA 91001.</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
 					"links": []
 				}
 			}
@@ -1347,21 +1347,6 @@
 				}
 			},
 			{
-				"id": 40807,
-				"address": "119 E Washington Blvd, Pasadena, CA 91103, USA",
-				"name": "WCK Meal Distribution - Refuge Christian Center",
-				"lat": 34.1692392,
-				"lng": -118.1482969,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Refuge Christian Center located at 119 E Washington Blvd, Pasadena, CA 91103.</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40722,
 				"address": "3880 E Sierra Madre Blvd, Pasadena, CA 91107, USA",
 				"name": "WCK Meal Distribution - La Salle College Prep",
@@ -1619,6 +1604,21 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>Large Animal Shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County Website</a></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40807,
+				"address": "380 E Woodbury Rd, Altadena, CA 91001",
+				"name": "WCK Meal Distribution - Refuge Christian Center",
+				"lat": 34.1814647,
+				"lng": -118.1427832,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the&nbsp;Refuge Christian Center located at 380 E Woodbury Rd, Altadena, CA 91001.</p><p>Time of service is from 11am to 3pm today, January 16th.</p>",
 					"links": []
 				}
 			}
