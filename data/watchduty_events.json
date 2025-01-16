@@ -2078,7 +2078,7 @@
 	},
 	{
 		"id": 40803,
-		"is_active": true,
+		"is_active": false,
 		"name": "Yellow Fire",
 		"description": null,
 		"lat": 33.289167,
@@ -2106,7 +2106,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-16T02:08:14Z",
-		"date_modified": "2025-01-16T04:42:22Z",
+		"date_modified": "2025-01-16T10:54:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
