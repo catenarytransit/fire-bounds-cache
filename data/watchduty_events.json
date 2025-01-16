@@ -1397,7 +1397,7 @@
 	},
 	{
 		"id": 40798,
-		"is_active": true,
+		"is_active": false,
 		"name": "Mar Vista Fire",
 		"description": null,
 		"lat": 33.18010809695261,
@@ -1425,7 +1425,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-16T00:06:52Z",
-		"date_modified": "2025-01-16T00:21:46Z",
+		"date_modified": "2025-01-16T06:24:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
