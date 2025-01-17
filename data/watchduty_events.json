@@ -64,13 +64,13 @@
 			"links": [
 				{
 					"link_type": "website",
-					"label": "LAFD Alerts",
-					"value": "https://lafd.org/alerts"
+					"label": "CALFIRE Incident Page",
+					"value": "https://www.fire.ca.gov/incidents/2025/1/7/palisades-fire"
 				},
 				{
 					"link_type": "website",
-					"label": "CALFIRE Incident Page",
-					"value": "https://www.fire.ca.gov/incidents/2025/1/7/palisades-fire"
+					"label": "LAFD Alerts",
+					"value": "https://lafd.org/alerts"
 				},
 				{
 					"link_type": "website",
@@ -104,6 +104,11 @@
 				},
 				{
 					"link_type": "website",
+					"label": "LA County Emergency Resources for Workers and Businesses",
+					"value": "https://opportunity.lacounty.gov/how-we-help/emergency-resources/?utm_content=&utm_medium=email&utm_name=&utm_source=govdelivery&utm_term="
+				},
+				{
+					"link_type": "website",
 					"label": "211 LA, or dial 211",
 					"value": "https://211la.org/LA-Wildfires"
 				},
@@ -111,11 +116,6 @@
 					"link_type": "phone",
 					"label": "LA211.org access from outside the county",
 					"value": "8003396993"
-				},
-				{
-					"link_type": "website",
-					"label": "LA County Emergency Resources for Workers and Businesses",
-					"value": "https://opportunity.lacounty.gov/how-we-help/emergency-resources/?utm_content=&utm_medium=email&utm_name=&utm_source=govdelivery&utm_term="
 				},
 				{
 					"link_type": "phone",
@@ -155,7 +155,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-17T20:14:59Z",
+		"date_modified": "2025-01-17T20:33:26Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
