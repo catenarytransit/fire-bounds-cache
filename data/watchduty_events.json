@@ -393,36 +393,6 @@
 				}
 			},
 			{
-				"id": 40578,
-				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
-				"name": "WCK Meal Distribution - Palisades Fire Station 69",
-				"lat": 34.0450471,
-				"lng": -118.5224772,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40598,
-				"address": "5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
-				"name": "WCK Meal Distribution - Taft H.S.",
-				"lat": 34.1693317,
-				"lng": -118.5713363,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Taft High School located at 5461 Winnetka Ave, Woodland Hills, CA 91364, USA</p><p>Time of service is from 11am to 8pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40529,
 				"address": "Student Parking Lot 3, 1570 E Colorado Blvd, Pasadena, CA 91106, USA",
 				"name": "WCK Meal Distribution - Pasadena City College Lot 3",
@@ -479,21 +449,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 4pm to 8pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40560,
-				"address": "2732 Main St, Santa Monica, CA 90405, USA",
-				"name": "WCK Meal Distribution - Pasjoli",
-				"lat": 34.0001818,
-				"lng": -118.4821129,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Pasjoli located at 2732 Main St, Santa Monica, CA 90405, USA.</p><p>Time of service is from 4pm to 9pm today, January 16th.</p>",
 					"links": []
 				}
 			},
@@ -991,36 +946,6 @@
 				}
 			},
 			{
-				"id": 40578,
-				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
-				"name": "WCK Meal Distribution - Palisades Fire Station 69",
-				"lat": 34.0450471,
-				"lng": -118.5224772,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40598,
-				"address": "5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
-				"name": "WCK Meal Distribution - Taft H.S.",
-				"lat": 34.1693317,
-				"lng": -118.5713363,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Taft High School located at 5461 Winnetka Ave, Woodland Hills, CA 91364, USA</p><p>Time of service is from 11am to 8pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40529,
 				"address": "Student Parking Lot 3, 1570 E Colorado Blvd, Pasadena, CA 91106, USA",
 				"name": "WCK Meal Distribution - Pasadena City College Lot 3",
@@ -1077,21 +1002,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 4pm to 8pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40560,
-				"address": "2732 Main St, Santa Monica, CA 90405, USA",
-				"name": "WCK Meal Distribution - Pasjoli",
-				"lat": 34.0001818,
-				"lng": -118.4821129,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Pasjoli located at 2732 Main St, Santa Monica, CA 90405, USA.</p><p>Time of service is from 4pm to 9pm today, January 16th.</p>",
 					"links": []
 				}
 			},
