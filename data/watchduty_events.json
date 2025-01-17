@@ -155,7 +155,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-17T23:13:21Z",
+		"date_modified": "2025-01-17T23:17:59Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -816,8 +816,8 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "ALD-CALAVERAS, ALD-CANON, ALD-CHANEY, ALD-EASTLOMA, ALD-EATONCANYON, ALD-FARNSWORTH, ALD-GARDEN, ALD-LAUREL, ALD-MENDOCINO, ALD-MIDLOTHIAN, ALD-MILLARD-A, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK, KIN-KINNELOA-A, LAC-E165-B, LAC-E167, LAC-E168-A",
-			"evacuation_warnings": "ALD-CASITAS, ALD-MEADOWS, ALD-MILLARD-B, ALD-MILLARD-C",
+			"evacuation_orders": "ALD-CALAVERAS, ALD-CANON, ALD-CHANEY, ALD-EASTLOMA, ALD-FARNSWORTH, ALD-GARDEN, ALD-LAUREL, ALD-MENDOCINO, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK, LAC-E165-B, LAC-E167, LAC-E168-A",
+			"evacuation_warnings": "ALD-EATONCANYON, ALD-MIDLOTHIAN, ALD-MILLARD-A, ALD-MILLARD-B, ALD-MILLARD-C, KIN-KINNELOA-A",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map A Do-Not-Use-Water Notice is in effect for some impacted areas. An update from 1/13/25 to this notice, as well as a map of areas with potentially impacted water quality, can be found at this link. Official Recovery Information & Damage Inspection Dashboard 211 LA Eaton Fire Resources Angeles National Forest will remain closed in its entirety from January 14, 2025, at 12 a.m. through Sunday, January 19, 2025, at 12 a.m. The closure order and prohibited activities may be found at this link.",
 			"is_complex_parent": false,
@@ -825,7 +825,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-17T20:32:19Z",
+		"date_modified": "2025-01-17T23:21:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1370,28 +1370,26 @@
 			"ALD-CANON",
 			"ALD-CHANEY",
 			"ALD-EASTLOMA",
-			"ALD-EATONCANYON",
 			"ALD-FARNSWORTH",
 			"ALD-GARDEN",
 			"ALD-LAUREL",
 			"ALD-MENDOCINO",
-			"ALD-MIDLOTHIAN",
-			"ALD-MILLARD-A",
 			"ALD-MOUNTLOWE",
 			"ALD-PALM",
 			"ALD-RUBIO",
 			"ALD-WAPELLO",
 			"ALD-WHITEPARK",
-			"KIN-KINNELOA-A",
 			"LAC-E165-B",
 			"LAC-E167",
 			"LAC-E168-A"
 		],
 		"evacuation_warnings_arr": [
-			"ALD-CASITAS",
-			"ALD-MEADOWS",
+			"ALD-EATONCANYON",
+			"ALD-MIDLOTHIAN",
+			"ALD-MILLARD-A",
 			"ALD-MILLARD-B",
-			"ALD-MILLARD-C"
+			"ALD-MILLARD-C",
+			"KIN-KINNELOA-A"
 		]
 	},
 	{
