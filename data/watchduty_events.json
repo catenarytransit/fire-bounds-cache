@@ -1647,5 +1647,70 @@
 		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
+	},
+	{
+		"id": 40849,
+		"is_active": true,
+		"name": "Moss Landing Fire (Power Plant)",
+		"description": null,
+		"lat": 36.80637015164487,
+		"lng": -121.7784873470234,
+		"address": "Moss Landing Power Plant, Dolan Rd & Hwy 1, Moss Landing",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": null,
+			"links": [],
+			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": "MRY-B037, MRY-B047, MRY-B050, MRY-B051, MRY-B053, MRY-B056, MRY-B058, MRY-B060",
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": "Genasys Evacuation Map",
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-01-17T03:06:11Z",
+		"date_modified": "2025-01-17T03:09:16Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
+		"child_geo_events": [
+			{
+				"id": 40850,
+				"address": "11261 Crane St, Castroville, CA 95012, USA",
+				"name": "Temporary Evacuation Point - Castroville Rec Center",
+				"lat": 36.767483,
+				"lng": -121.7554686,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>The Temporary Evacuation Point is at the Castroville Rec Center<strong>, </strong>11261 Crane St, Castroville, CA 95012 - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://protect.genasys.com/search?z=12.651078392456375&amp;latlon=36.79787033471821%2C-121.74330583076397\">Genasys Evacuation Map</a>.</p>",
+					"links": []
+				}
+			}
+		],
+		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"MRY-B037",
+			"MRY-B047",
+			"MRY-B050",
+			"MRY-B051",
+			"MRY-B053",
+			"MRY-B056",
+			"MRY-B058",
+			"MRY-B060"
+		]
 	}
 ]
