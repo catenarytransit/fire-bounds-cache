@@ -1854,7 +1854,7 @@
 	},
 	{
 		"id": 40842,
-		"is_active": true,
+		"is_active": false,
 		"name": "Troy Fire",
 		"description": null,
 		"lat": 33.390889,
@@ -1882,7 +1882,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-16T22:50:08Z",
-		"date_modified": "2025-01-17T09:01:40Z",
+		"date_modified": "2025-01-17T13:09:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
