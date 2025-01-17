@@ -131,6 +131,16 @@
 					"link_type": "website",
 					"label": "LA County Mail Service Info",
 					"value": "https://recovery.lacounty.gov/mail-services/"
+				},
+				{
+					"link_type": "website",
+					"label": "Airbnb Information",
+					"value": "https://www.airbnb.com/e/lawildfires?c=.pi130.pklawildfires"
+				},
+				{
+					"link_type": "website",
+					"label": "Uber & Lyft Information",
+					"value": "https://lacounty.gov/emergency/#:~:text=%C2%A0%20and%20FAQ-,Lyft,-%3A%20Riders%20in"
 				}
 			],
 			"has_custom_evacuation_orders": true,
@@ -139,13 +149,13 @@
 			"evacuation_orders": "DRY-U026-A, DRY-U026-C, LOS-767-A, LOS-767-B, LOS-767-C, LOS-Q0762, LOS-Q0762-A, LOS-Q0765, LOS-Q0767-A, LOS-Q0767-B, LOS-Q0778-A, LOS-Q0780, LOS-Q0781-A, LOS-Q0782-A, LOS-Q0782-B, LOS-Q0782-C, LOS-Q0798, LOS-Q1118, MAL-C111-A, MAL-C111-B, MAL-C112-B, MTN-U028-A, MTN-U028-B, RMB-U030-A, RMB-U030-B, RMB-U030-D, RMB-U030-E, RMB-U030-F, RMB-U030-G, RRC-U027-A, RRC-U027-B, RRC-U027-C, SDP-U029-A, SDP-U029-B, SSM-U010-A, SSM-U010-B, TOP-U001, TOP-U002, TOP-U003, TOP-U004, TOP-U005, TOP-U006, TOP-U007-A, TOP-U007-B, TOP-U008-A, TOP-U008-B, TOP-U009-A, TOP-U009-B",
 			"evacuation_warnings": "CAL-C407, CAL-C411, CAL-C413, CAL-C415, DRY-U026-B, LOS-Q0406-A, LOS-Q0407, LOS-Q0751, LOS-Q0762-B, LOS-Q0764, LOS-Q0772, LOS-Q0779, LOS-Q0783, LOS-Q0800, LOS-Q1089, LOS-Q1115-A, LOS-Q1115-B, LOS-Q1119, LOS-Q1163, MAL-C112-A, MAL-C112-C, MCR-U021-C, RMB-U030-C, RMB-U030-H, SAN-Q1395-B, SAN-Q1396-B",
 			"evacuation_advisories": null,
-			"evacuation_notes": "Genasys Evacuation Map LA City Evacuation Map City of Santa Monica Evacuation Map -- Additional Information -- LADWP has issued a DO NOT DRINK NOTICE to Pacific Palisades Zip Code 90272 & the portion of ZIP Code 90402 within the LADWP service area N. of San Vicente Blvd due to the potential of fire-related contaminants that may have entered the water system.Link to the full Unsafe Water Alert official press release For information on damage assessments and recovery resources, please see these links:LA City Fire Recovery & LA County Recovers Airbnb.org is providing free, emergency housing for people who have been displaced by the Los Angeles wildfires. You can get help - or provide help – at Airbnb.org/lawildfires Lyft & Uber Information - Discount codes available Here",
+			"evacuation_notes": "Genasys Evacuation Map LA City Evacuation Map City of Santa Monica Evacuation Map -- Additional Information -- LADWP has issued a DO NOT DRINK NOTICE to Pacific Palisades Zip Code 90272 & the portion of ZIP Code 90402 within the LADWP service area N. of San Vicente Blvd due to the potential of fire-related contaminants that may have entered the water system.Link to the full Unsafe Water Alert official press release For information on damage assessments and recovery resources, please see these links:LA City Fire Recovery & LA County Recovers 211 LA Palisades Fire Resources",
 			"is_complex_parent": false,
 			"reporter_only_notes": "<p>All future updates should be a silent report with the exception of evacuation status level changes (always normal) NR 1/16</p>",
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-17T20:08:16Z",
+		"date_modified": "2025-01-17T20:14:59Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -924,7 +934,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-17T19:06:23Z",
+		"date_modified": "2025-01-17T20:24:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
