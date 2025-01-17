@@ -393,21 +393,6 @@
 				}
 			},
 			{
-				"id": 40752,
-				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
-				"lat": 34.1545211,
-				"lng": -118.1321314,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 7pm today, January 16th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40578,
 				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
 				"name": "WCK Meal Distribution - Palisades Fire Station 69",
@@ -743,7 +728,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-17T01:59:24Z",
+		"date_modified": "2025-01-17T03:30:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1002,21 +987,6 @@
 					"geo_event_type": "location",
 					"location_type": "info",
 					"information": "<p>FEMA Disaster Recovery Center at UCLA Research Park</p><p>January 15 - 25, 9am to 8 pm</p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40752,
-				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
-				"lat": 34.1545211,
-				"lng": -118.1321314,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 7pm today, January 16th.</p>",
 					"links": []
 				}
 			},
@@ -1377,7 +1347,7 @@
 	},
 	{
 		"id": 40785,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cochise Fire",
 		"description": null,
 		"lat": 31.619233,
@@ -1405,7 +1375,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-15T21:10:21Z",
-		"date_modified": "2025-01-16T23:23:27Z",
+		"date_modified": "2025-01-17T03:24:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
