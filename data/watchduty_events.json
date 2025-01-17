@@ -816,8 +816,8 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "ALD-CALAVERAS, ALD-CANON, ALD-CHANEY, ALD-EASTLOMA, ALD-FARNSWORTH, ALD-GARDEN, ALD-LAUREL, ALD-MENDOCINO, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK, LAC-E165-B, LAC-E167, LAC-E168-A",
-			"evacuation_warnings": "ALD-EATONCANYON, ALD-MIDLOTHIAN, ALD-MILLARD-A, ALD-MILLARD-B, ALD-MILLARD-C, KIN-KINNELOA-A",
+			"evacuation_orders": "ALD-CALAVERAS-A, ALD-CALAVERAS-B, ALD-CANON, ALD-CHANEY, ALD-EASTLOMA, ALD-FARNSWORTH, ALD-GARDEN, ALD-LAUREL, ALD-MENDOCINO-A, ALD-MENDOCINO-B, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK-A, ALD-WHITEPARK-B",
+			"evacuation_warnings": "ALD-EATONCANYON, ALD-MIDLOTHIAN, ALD-MILLARD, KIN-KINNELOA-A",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map A Do-Not-Use-Water Notice is in effect for some impacted areas. An update from 1/13/25 to this notice, as well as a map of areas with potentially impacted water quality, can be found at this link. Official Recovery Information & Damage Inspection Dashboard 211 LA Eaton Fire Resources Angeles National Forest will remain closed in its entirety from January 14, 2025, at 12 a.m. through Sunday, January 19, 2025, at 12 a.m. The closure order and prohibited activities may be found at this link.",
 			"is_complex_parent": false,
@@ -825,7 +825,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-17T23:21:35Z",
+		"date_modified": "2025-01-17T23:29:27Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1366,91 +1366,29 @@
 		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"ALD-CALAVERAS",
+			"ALD-CALAVERAS-A",
+			"ALD-CALAVERAS-B",
 			"ALD-CANON",
 			"ALD-CHANEY",
 			"ALD-EASTLOMA",
 			"ALD-FARNSWORTH",
 			"ALD-GARDEN",
 			"ALD-LAUREL",
-			"ALD-MENDOCINO",
+			"ALD-MENDOCINO-A",
+			"ALD-MENDOCINO-B",
 			"ALD-MOUNTLOWE",
 			"ALD-PALM",
 			"ALD-RUBIO",
 			"ALD-WAPELLO",
-			"ALD-WHITEPARK",
-			"LAC-E165-B",
-			"LAC-E167",
-			"LAC-E168-A"
+			"ALD-WHITEPARK-A",
+			"ALD-WHITEPARK-B"
 		],
 		"evacuation_warnings_arr": [
 			"ALD-EATONCANYON",
 			"ALD-MIDLOTHIAN",
-			"ALD-MILLARD-A",
-			"ALD-MILLARD-B",
-			"ALD-MILLARD-C",
+			"ALD-MILLARD",
 			"KIN-KINNELOA-A"
 		]
-	},
-	{
-		"id": 40398,
-		"is_active": false,
-		"name": "Hurst Fire",
-		"description": null,
-		"lat": 34.32576237121435,
-		"lng": -118.47877519527187,
-		"address": "Yarnell and Cir Diamond Rd area, Sylmar",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": false,
-			"containment": 100,
-			"acreage": 799,
-			"links": [
-				{
-					"link_type": "website",
-					"label": "Hurst Fire InciWeb",
-					"value": "https://inciweb.wildfire.gov/incident-information/caanf-hurst-fire"
-				},
-				{
-					"link_type": "website",
-					"label": "LA County Emergency Website",
-					"value": "https://lacounty.gov/emergency/"
-				},
-				{
-					"link_type": "website",
-					"label": "Angeles NF on Facebook",
-					"value": "https://www.facebook.com/angelesnationalforest/"
-				},
-				{
-					"link_type": "website",
-					"label": "Angeles NF on X",
-					"value": "https://x.com/Angeles_NF"
-				}
-			],
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-01-08T06:23:30Z",
-		"date_modified": "2025-01-16T23:24:08Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
 	},
 	{
 		"id": 40675,
