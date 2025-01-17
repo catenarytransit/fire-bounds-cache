@@ -155,7 +155,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-17T21:11:45Z",
+		"date_modified": "2025-01-17T21:23:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1962,5 +1962,44 @@
 			"MRY-B058",
 			"MRY-B060"
 		]
+	},
+	{
+		"id": 40865,
+		"is_active": true,
+		"name": "Coyote Run Fire",
+		"description": null,
+		"lat": 33.605738,
+		"lng": -102.465941,
+		"address": null,
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": 0,
+			"acreage": 850,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-01-17T21:25:20Z",
+		"date_modified": "2025-01-17T21:25:20Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "{A92916E4-5811-4D44-BB37-A1086AB9C1C2}",
+		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
 	}
 ]
