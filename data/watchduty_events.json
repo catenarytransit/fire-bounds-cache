@@ -59,7 +59,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 31,
+			"containment": 39,
 			"acreage": 23713,
 			"links": [
 				{
@@ -155,7 +155,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-18T01:35:55Z",
+		"date_modified": "2025-01-18T02:29:00Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -478,21 +478,6 @@
 				}
 			},
 			{
-				"id": 40751,
-				"address": "1081 N Fair Oaks Ave, Pasadena, CA 91103, USA",
-				"name": "WCK Meal Distribution - Robinson Park Rec Center",
-				"lat": 34.1645663,
-				"lng": -118.1515067,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Robinson Park Recreation Center located at 1081 N Fair Oaks Ave, Pasadena, CA 91103, USA.</p><p>Time of service is from 4pm to 8pm today, January 17th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40749,
 				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
 				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
@@ -568,8 +553,23 @@
 				}
 			},
 			{
+				"id": 40442,
+				"address": "34.091608, -117.765438",
+				"name": "Large Animal Shelter - Pomona Fairplex Gate 12",
+				"lat": 34.091482896475185,
+				"lng": -117.76543199257529,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave, enter through Gate 12. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
+					"links": []
+				}
+			},
+			{
 				"id": 40477,
-				"address": "1101 W McKinley Ave, Pomona, CA 91768, USA",
+				"address": "34.0780787, -117.761278",
 				"name": "Evacuation Shelter - Pomona Fairplex Gate 3",
 				"lat": 34.0779651,
 				"lng": -117.7613782,
@@ -579,21 +579,6 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/redcrossla/posts/pfbid02TMT1HEfDhjGPhyoaquCEUo3hVFSdAkXbQufiDuUohk38WjHuJoj3ihszN36rUQxNl\">Red Cross Shelter</a> at the Pomona Fairplex, located at 1101 W McKinley Ave, Pomona, CA 91768. This can be accessed from Gate 3.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40442,
-				"address": "36RM+JWV, Pomona, CA (Gate 12, Pomona Fairplex, 1101 W McKinley Ave)",
-				"name": "Large Animal Shelter",
-				"lat": 34.091482896475185,
-				"lng": -117.76543199257529,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave, enter through Gate 12. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
 					"links": []
 				}
 			}
@@ -1141,21 +1126,6 @@
 				}
 			},
 			{
-				"id": 40751,
-				"address": "1081 N Fair Oaks Ave, Pasadena, CA 91103, USA",
-				"name": "WCK Meal Distribution - Robinson Park Rec Center",
-				"lat": 34.1645663,
-				"lng": -118.1515067,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Robinson Park Recreation Center located at 1081 N Fair Oaks Ave, Pasadena, CA 91103, USA.</p><p>Time of service is from 4pm to 8pm today, January 17th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40749,
 				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
 				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
@@ -1231,8 +1201,23 @@
 				}
 			},
 			{
+				"id": 40442,
+				"address": "34.091608, -117.765438",
+				"name": "Large Animal Shelter - Pomona Fairplex Gate 12",
+				"lat": 34.091482896475185,
+				"lng": -117.76543199257529,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave, enter through Gate 12. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
+					"links": []
+				}
+			},
+			{
 				"id": 40477,
-				"address": "1101 W McKinley Ave, Pomona, CA 91768, USA",
+				"address": "34.0780787, -117.761278",
 				"name": "Evacuation Shelter - Pomona Fairplex Gate 3",
 				"lat": 34.0779651,
 				"lng": -117.7613782,
@@ -1242,21 +1227,6 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/redcrossla/posts/pfbid02TMT1HEfDhjGPhyoaquCEUo3hVFSdAkXbQufiDuUohk38WjHuJoj3ihszN36rUQxNl\">Red Cross Shelter</a> at the Pomona Fairplex, located at 1101 W McKinley Ave, Pomona, CA 91768. This can be accessed from Gate 3.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40442,
-				"address": "36RM+JWV, Pomona, CA (Gate 12, Pomona Fairplex, 1101 W McKinley Ave)",
-				"name": "Large Animal Shelter",
-				"lat": 34.091482896475185,
-				"lng": -117.76543199257529,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave, enter through Gate 12. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
 					"links": []
 				}
 			}
