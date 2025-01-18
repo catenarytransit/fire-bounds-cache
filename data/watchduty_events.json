@@ -388,21 +388,6 @@
 				}
 			},
 			{
-				"id": 40829,
-				"address": "2551 W Avenue H, Lancaster, CA 93536",
-				"name": "Large Animal Shelter - Antelope Valley Fairgrounds",
-				"lat": 34.7238911,
-				"lng": -118.1738095,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Large Animal Shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County Website</a></p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40442,
 				"address": "34.091608, -117.765438",
 				"name": "Large Animal Shelter - Pomona Fairplex Gate 12",
@@ -903,21 +888,6 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>Small and Large animal shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40829,
-				"address": "2551 W Avenue H, Lancaster, CA 93536",
-				"name": "Large Animal Shelter - Antelope Valley Fairgrounds",
-				"lat": 34.7238911,
-				"lng": -118.1738095,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Large Animal Shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County Website</a></p>",
 					"links": []
 				}
 			},
