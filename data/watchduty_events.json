@@ -433,36 +433,6 @@
 				}
 			},
 			{
-				"id": 40753,
-				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
-				"name": "WCK Meal Distribution - Malibu Brewing Company",
-				"lat": 34.0313066,
-				"lng": -118.8431276,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 17th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40754,
-				"address": "5371 CA-27, Woodland Hills, CA 91364",
-				"name": "WCK Meal Distribution - Monty's Steakhouse",
-				"lat": 34.1678747,
-				"lng": -118.6063446,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Monty's Steakhouse located at 5371 CA-27, Woodland Hills, CA 91364.</p><p>Time of service is from 11am to 5pm today, January 17th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40752,
 				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
 				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
@@ -797,13 +767,13 @@
 			"evacuation_orders": "ALD-CALAVERAS-A, ALD-CALAVERAS-B, ALD-CANON, ALD-CHANEY, ALD-EASTLOMA, ALD-FARNSWORTH, ALD-GARDEN, ALD-LAUREL, ALD-MENDOCINO-A, ALD-MENDOCINO-B, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK-A, ALD-WHITEPARK-B",
 			"evacuation_warnings": "ALD-EATONCANYON, ALD-MIDLOTHIAN, ALD-MILLARD, KIN-KINNELOA-A",
 			"evacuation_advisories": null,
-			"evacuation_notes": "Genasys Evacuation Map A Do-Not-Use-Water Notice is in effect for some impacted areas. An update from 1/13/25 to this notice, as well as a map of areas with potentially impacted water quality, can be found at this link. Official Recovery Information & Damage Inspection Dashboard 211 LA Eaton Fire Resources Angeles National Forest will remain closed in its entirety from January 14, 2025, at 12 a.m. through Sunday, January 19, 2025, at 12 a.m. The closure order and prohibited activities may be found at this link.",
+			"evacuation_notes": "Genasys Evacuation Map A Do-Not-Use-Water Notice is in effect for some impacted areas. An update from 1/13/25 to this notice, as well as a map of areas with potentially impacted water quality, can be found at this link. Official Recovery Information & Damage Inspection Dashboard 211 LA Eaton Fire Resources The entire Angeles National Forest is temporarily closed for public safety and the protection of natural resources through Friday, January 24, 2025, at 12:00 midnight. This closure is tied to critical fire danger. The closure order and prohibited activities may be found at this link.Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings",
 			"is_complex_parent": false,
 			"reporter_only_notes": "<p>All future updates should be a silent report with the exception of evacuation status level changes (always normal) NR 1/16</p>",
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-18T00:05:16Z",
+		"date_modified": "2025-01-18T01:22:42Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1113,36 +1083,6 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>Large Animal Shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County Website</a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40753,
-				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
-				"name": "WCK Meal Distribution - Malibu Brewing Company",
-				"lat": 34.0313066,
-				"lng": -118.8431276,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 17th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40754,
-				"address": "5371 CA-27, Woodland Hills, CA 91364",
-				"name": "WCK Meal Distribution - Monty's Steakhouse",
-				"lat": 34.1678747,
-				"lng": -118.6063446,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Monty's Steakhouse located at 5371 CA-27, Woodland Hills, CA 91364.</p><p>Time of service is from 11am to 5pm today, January 17th.</p>",
 					"links": []
 				}
 			},
