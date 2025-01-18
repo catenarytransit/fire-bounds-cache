@@ -298,21 +298,6 @@
 				}
 			},
 			{
-				"id": 40477,
-				"address": "1101 W McKinley Ave, Pomona, CA 91768, USA",
-				"name": "Evacuation Shelter - Pomona Fairplex",
-				"lat": 34.08940076465245,
-				"lng": -117.76511393571025,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/redcrossla/posts/pfbid02TMT1HEfDhjGPhyoaquCEUo3hVFSdAkXbQufiDuUohk38WjHuJoj3ihszN36rUQxNl\">Red Cross Shelter</a> at the Pomona Fairplex, located at 1101 W McKinley Ave, Pomona, CA 91768</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40567,
 				"address": "14201 Huston St, Sherman Oaks, CA 91423",
 				"name": "Evacuation Shelter - Van Nuys /Sherman Oaks Recreation Center",
@@ -339,21 +324,6 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>An evacuation shelter is available at the Stoner Recreation Center, 1835 Stoner Ave, Los Angeles, CA 90025 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40442,
-				"address": "Gate 3, Pomona Fairplex, 1101 W McKinley Ave. Pomona",
-				"name": "Large Animal Shelter",
-				"lat": 34.0858734,
-				"lng": -117.7679419,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave, enter through Gate 3. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
 					"links": []
 				}
 			},
@@ -594,6 +564,36 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena-Sierra Madre YMCA at 611 E Sierra Madre Blvd, Sierra Madre, CA 91024</p><p>Time of service is from 11am to 7pm today, January 17th.<br><br><strong>Note: This location is now staying open until 7pm today per WCK, as of 3pm.</strong></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40477,
+				"address": "1101 W McKinley Ave, Pomona, CA 91768, USA",
+				"name": "Evacuation Shelter - Pomona Fairplex Gate 3",
+				"lat": 34.0779651,
+				"lng": -117.7613782,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/redcrossla/posts/pfbid02TMT1HEfDhjGPhyoaquCEUo3hVFSdAkXbQufiDuUohk38WjHuJoj3ihszN36rUQxNl\">Red Cross Shelter</a> at the Pomona Fairplex, located at 1101 W McKinley Ave, Pomona, CA 91768. This can be accessed from Gate 3.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40442,
+				"address": "36RM+JWV, Pomona, CA (Gate 12, Pomona Fairplex, 1101 W McKinley Ave)",
+				"name": "Large Animal Shelter",
+				"lat": 34.091482896475185,
+				"lng": -117.76543199257529,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave, enter through Gate 12. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
 					"links": []
 				}
 			}
@@ -940,21 +940,6 @@
 				}
 			},
 			{
-				"id": 40477,
-				"address": "1101 W McKinley Ave, Pomona, CA 91768, USA",
-				"name": "Evacuation Shelter - Pomona Fairplex",
-				"lat": 34.08940076465245,
-				"lng": -117.76511393571025,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/redcrossla/posts/pfbid02TMT1HEfDhjGPhyoaquCEUo3hVFSdAkXbQufiDuUohk38WjHuJoj3ihszN36rUQxNl\">Red Cross Shelter</a> at the Pomona Fairplex, located at 1101 W McKinley Ave, Pomona, CA 91768</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40567,
 				"address": "14201 Huston St, Sherman Oaks, CA 91423",
 				"name": "Evacuation Shelter - Van Nuys /Sherman Oaks Recreation Center",
@@ -981,21 +966,6 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>An evacuation shelter is available at the Stoner Recreation Center, 1835 Stoner Ave, Los Angeles, CA 90025 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40442,
-				"address": "Gate 3, Pomona Fairplex, 1101 W McKinley Ave. Pomona",
-				"name": "Large Animal Shelter",
-				"lat": 34.0858734,
-				"lng": -117.7679419,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave, enter through Gate 3. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
 					"links": []
 				}
 			},
@@ -1259,6 +1229,36 @@
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena-Sierra Madre YMCA at 611 E Sierra Madre Blvd, Sierra Madre, CA 91024</p><p>Time of service is from 11am to 7pm today, January 17th.<br><br><strong>Note: This location is now staying open until 7pm today per WCK, as of 3pm.</strong></p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40477,
+				"address": "1101 W McKinley Ave, Pomona, CA 91768, USA",
+				"name": "Evacuation Shelter - Pomona Fairplex Gate 3",
+				"lat": 34.0779651,
+				"lng": -117.7613782,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/redcrossla/posts/pfbid02TMT1HEfDhjGPhyoaquCEUo3hVFSdAkXbQufiDuUohk38WjHuJoj3ihszN36rUQxNl\">Red Cross Shelter</a> at the Pomona Fairplex, located at 1101 W McKinley Ave, Pomona, CA 91768. This can be accessed from Gate 3.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40442,
+				"address": "36RM+JWV, Pomona, CA (Gate 12, Pomona Fairplex, 1101 W McKinley Ave)",
+				"name": "Large Animal Shelter",
+				"lat": 34.091482896475185,
+				"lng": -117.76543199257529,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave, enter through Gate 12. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -1500,52 +1500,26 @@
 			"containment": null,
 			"acreage": null,
 			"links": [],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "MRY-B037, MRY-B047, MRY-B050, MRY-B051, MRY-B053, MRY-B056, MRY-B058, MRY-B060",
+			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "Genasys Evacuation Map",
+			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-17T03:06:11Z",
-		"date_modified": "2025-01-17T23:54:28Z",
+		"date_modified": "2025-01-18T02:12:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 40850,
-				"address": "11261 Crane St, Castroville, CA 95012, USA",
-				"name": "Evacuation Shelter - Castroville Rec Center",
-				"lat": 36.767483,
-				"lng": -121.7554686,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>A shelter is located is at the Castroville Rec Center<strong>, </strong>11261 Crane St, Castroville, CA 95012 - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://protect.genasys.com/search?z=12.651078392456375&amp;latlon=36.79787033471821%2C-121.74330583076397\">Genasys Evacuation Map</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross map</a>.</p>",
-					"links": []
-				}
-			}
-		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"MRY-B037",
-			"MRY-B047",
-			"MRY-B050",
-			"MRY-B051",
-			"MRY-B053",
-			"MRY-B056",
-			"MRY-B058",
-			"MRY-B060"
-		]
+		"child_geo_events": [],
+		"parent_geo_events": []
 	},
 	{
 		"id": 40865,
