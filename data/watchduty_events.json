@@ -1408,7 +1408,7 @@
 		"description": null,
 		"lat": 33.593017,
 		"lng": -102.49785,
-		"address": null,
+		"address": "about 3.5 miles west of Levelland Tx",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1417,7 +1417,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": 40,
-			"acreage": 850,
+			"acreage": 555,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1431,7 +1431,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-17T21:25:20Z",
-		"date_modified": "2025-01-17T23:45:22Z",
+		"date_modified": "2025-01-18T03:40:25Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
