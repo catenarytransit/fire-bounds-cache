@@ -437,6 +437,21 @@
 						}
 					]
 				}
+			},
+			{
+				"id": 40721,
+				"address": "1466 S Westgate Ave, Los Angeles, CA 90025, USA",
+				"name": "WCK Meal Distribution - Collins & Katz Family YMCA",
+				"lat": 34.0432708,
+				"lng": -118.459205,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Collins &amp; Katz Family YMCA located at 1466 S Westgate Ave, Los Angeles, CA 90025</p><p>Time of service is from 11am to 3pm today, January 18th.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -940,6 +955,21 @@
 							"value": "https://www.wwccoc.org/"
 						}
 					]
+				}
+			},
+			{
+				"id": 40721,
+				"address": "1466 S Westgate Ave, Los Angeles, CA 90025, USA",
+				"name": "WCK Meal Distribution - Collins & Katz Family YMCA",
+				"lat": 34.0432708,
+				"lng": -118.459205,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Collins &amp; Katz Family YMCA located at 1466 S Westgate Ave, Los Angeles, CA 90025</p><p>Time of service is from 11am to 3pm today, January 18th.</p>",
+					"links": []
 				}
 			}
 		],
