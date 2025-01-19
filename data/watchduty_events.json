@@ -437,21 +437,6 @@
 						}
 					]
 				}
-			},
-			{
-				"id": 40560,
-				"address": "2732 Main St, Santa Monica, CA 90405, USA",
-				"name": "WCK Meal Distribution - Pasjoli",
-				"lat": 34.0001818,
-				"lng": -118.4821129,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Pasjoli located at 2732 Main St, Santa Monica, CA 90405, USA.</p><p>Time of service is from 4pm to 9pm today, January 18th.</p>",
-					"links": []
-				}
 			}
 		],
 		"parent_geo_events": [],
@@ -930,21 +915,6 @@
 							"value": "https://www.wwccoc.org/"
 						}
 					]
-				}
-			},
-			{
-				"id": 40560,
-				"address": "2732 Main St, Santa Monica, CA 90405, USA",
-				"name": "WCK Meal Distribution - Pasjoli",
-				"lat": 34.0001818,
-				"lng": -118.4821129,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Pasjoli located at 2732 Main St, Santa Monica, CA 90405, USA.</p><p>Time of service is from 4pm to 9pm today, January 18th.</p>",
-					"links": []
 				}
 			}
 		],
