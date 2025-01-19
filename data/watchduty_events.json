@@ -178,21 +178,6 @@
 				}
 			},
 			{
-				"id": 40515,
-				"address": "11003 Sports Arena Dr, Pico Rivera, CA 90601, USA",
-				"name": "Large Animal Shelter - Pico Rivera Sports Arena",
-				"lat": 34.0256996,
-				"lng": -118.0448532,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Free boarding to horse and large livestock owners in areas impacted by the area fires is available at the Pico Rivera Sports Arena per the press release from the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/photo?fbid=1005478311606148&amp;set=a.300215052132481\">City of Pico Rivera on Facebook</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40407,
 				"address": "10736 Laurel Canyon Blvd, Pacoima, CA 91331, USA",
 				"name": "Evacuation Shelter - Ritchie Valens Recreation Center",
@@ -932,21 +917,6 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>A small animal shelter is set up at the Agoura Animal Care Center located at 29525 Agoura Rd, Agoura Hills, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40515,
-				"address": "11003 Sports Arena Dr, Pico Rivera, CA 90601, USA",
-				"name": "Large Animal Shelter - Pico Rivera Sports Arena",
-				"lat": 34.0256996,
-				"lng": -118.0448532,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Free boarding to horse and large livestock owners in areas impacted by the area fires is available at the Pico Rivera Sports Arena per the press release from the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/photo?fbid=1005478311606148&amp;set=a.300215052132481\">City of Pico Rivera on Facebook</a>.</p>",
 					"links": []
 				}
 			},
