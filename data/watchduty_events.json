@@ -424,36 +424,6 @@
 				}
 			},
 			{
-				"id": 40753,
-				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
-				"name": "WCK Meal Distribution - Malibu Brewing Company",
-				"lat": 34.0313066,
-				"lng": -118.8431276,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 19th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40754,
-				"address": "5371 CA-27, Woodland Hills, CA 91364",
-				"name": "WCK Meal Distribution - Monty's Steakhouse",
-				"lat": 34.1678747,
-				"lng": -118.6063446,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Monty's Steakhouse located at 5371 CA-27, Woodland Hills, CA 91364.</p><p>Time of service is from 11am to 5pm today, January 19th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40559,
 				"address": "516 Santa Monica Blvd, Santa Monica, CA 90401, USA",
 				"name": "WCK Meal Distribution - Xuntos",
@@ -1032,36 +1002,6 @@
 							"value": "https://www.wwccoc.org/"
 						}
 					]
-				}
-			},
-			{
-				"id": 40753,
-				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
-				"name": "WCK Meal Distribution - Malibu Brewing Company",
-				"lat": 34.0313066,
-				"lng": -118.8431276,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 19th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40754,
-				"address": "5371 CA-27, Woodland Hills, CA 91364",
-				"name": "WCK Meal Distribution - Monty's Steakhouse",
-				"lat": 34.1678747,
-				"lng": -118.6063446,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Monty's Steakhouse located at 5371 CA-27, Woodland Hills, CA 91364.</p><p>Time of service is from 11am to 5pm today, January 19th.</p>",
-					"links": []
 				}
 			},
 			{
