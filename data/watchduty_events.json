@@ -388,21 +388,6 @@
 				}
 			},
 			{
-				"id": 40477,
-				"address": "34.0780787, -117.761278",
-				"name": "Evacuation Shelter - Pomona Fairplex Gate 3",
-				"lat": 34.0779651,
-				"lng": -117.7613782,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/redcrossla/posts/pfbid02TMT1HEfDhjGPhyoaquCEUo3hVFSdAkXbQufiDuUohk38WjHuJoj3ihszN36rUQxNl\">Red Cross Shelter</a> at the Pomona Fairplex, located at 1101 W McKinley Ave, Pomona, CA 91768. This can be accessed from Gate 3.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40887,
 				"address": "21900 Pacific Coast Hwy, Huntington Beach, CA 92646, USA",
 				"name": "Wildlife Assistance - Wetlands & Wildlife Care Center",
@@ -830,21 +815,6 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave, enter through Gate 12. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40477,
-				"address": "34.0780787, -117.761278",
-				"name": "Evacuation Shelter - Pomona Fairplex Gate 3",
-				"lat": 34.0779651,
-				"lng": -117.7613782,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/redcrossla/posts/pfbid02TMT1HEfDhjGPhyoaquCEUo3hVFSdAkXbQufiDuUohk38WjHuJoj3ihszN36rUQxNl\">Red Cross Shelter</a> at the Pomona Fairplex, located at 1101 W McKinley Ave, Pomona, CA 91768. This can be accessed from Gate 3.</p>",
 					"links": []
 				}
 			},
