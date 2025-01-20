@@ -1666,9 +1666,9 @@
 		"is_active": true,
 		"name": "Ted Williams Fire",
 		"description": null,
-		"lat": 32.97821,
-		"lng": -117.065671,
-		"address": "Ted Williams & Pomerado Road, Poway",
+		"lat": 32.977125204536875,
+		"lng": -117.06516008516702,
+		"address": "Ted Williams Parkway & Pomerado Road, Poway",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1691,7 +1691,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-20T21:24:59Z",
-		"date_modified": "2025-01-20T21:24:59Z",
+		"date_modified": "2025-01-20T21:29:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
