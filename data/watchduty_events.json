@@ -1031,7 +1031,7 @@
 	},
 	{
 		"id": 40902,
-		"is_active": true,
+		"is_active": false,
 		"name": "Post Oak Fire",
 		"description": null,
 		"lat": 27.966564,
@@ -1059,7 +1059,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-19T20:35:52Z",
-		"date_modified": "2025-01-19T23:55:52Z",
+		"date_modified": "2025-01-20T04:09:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1070,7 +1070,7 @@
 	},
 	{
 		"id": 40903,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cherokee 0176 Fire",
 		"description": null,
 		"lat": 31.87717,
@@ -1098,7 +1098,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-19T21:10:52Z",
-		"date_modified": "2025-01-19T21:55:52Z",
+		"date_modified": "2025-01-20T04:09:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
