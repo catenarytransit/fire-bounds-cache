@@ -828,10 +828,10 @@
 				}
 			],
 			"has_custom_evacuation_orders": true,
-			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": "ALD-CALAVERAS-A, ALD-CANON, ALD-CHANEY, ALD-EASTLOMA, ALD-FARNSWORTH, ALD-GARDEN, ALD-LAUREL, ALD-MENDOCINO-A, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO, ALD-WHITEPARK-A",
-			"evacuation_warnings": "ALD-CALAVERAS-B, ALD-WHITEPARK-B",
+			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map A Do-Not-Use-Water Notice is in effect for some impacted areas. For more information, see this link. Official Recovery Information & Damage Inspection Dashboard 211 LA Eaton Fire Resources The entire Angeles National Forest is temporarily closed for public safety and the protection of natural resources through Friday, January 24, 2025, at 12:00 midnight. This closure is tied to critical fire danger. The closure order and prohibited activities may be found at this link.Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings",
 			"is_complex_parent": false,
@@ -839,7 +839,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-20T18:20:28Z",
+		"date_modified": "2025-01-20T20:05:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1423,10 +1423,6 @@
 			"ALD-RUBIO",
 			"ALD-WAPELLO",
 			"ALD-WHITEPARK-A"
-		],
-		"evacuation_warnings_arr": [
-			"ALD-CALAVERAS-B",
-			"ALD-WHITEPARK-B"
 		]
 	},
 	{
