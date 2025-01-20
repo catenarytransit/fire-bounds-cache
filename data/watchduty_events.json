@@ -407,6 +407,21 @@
 						}
 					]
 				}
+			},
+			{
+				"id": 40909,
+				"address": "2245 Lake Ave, Altadena, CA 91001, USA",
+				"name": "WCK Meal Distribution - Full Circle Thrift",
+				"lat": 34.1843956,
+				"lng": -118.1318373,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Full Circle Thrift located at 2245 Lake Ave, Altadena, CA 91001, USA</p><p>Time of service is from 11am to 3pm today, January 20th.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -816,6 +831,21 @@
 							"value": "https://www.wwccoc.org/"
 						}
 					]
+				}
+			},
+			{
+				"id": 40909,
+				"address": "2245 Lake Ave, Altadena, CA 91001, USA",
+				"name": "WCK Meal Distribution - Full Circle Thrift",
+				"lat": 34.1843956,
+				"lng": -118.1318373,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Full Circle Thrift located at 2245 Lake Ave, Altadena, CA 91001, USA</p><p>Time of service is from 11am to 3pm today, January 20th.</p>",
+					"links": []
 				}
 			}
 		],
