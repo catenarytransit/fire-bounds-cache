@@ -664,24 +664,9 @@
 				}
 			},
 			{
-				"id": 40885,
-				"address": "695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
-				"name": "WCK Meal Distribution - Sierra Madre United Methodist",
-				"lat": 34.1625823,
-				"lng": -118.0674819,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 11am to 3pm today, January 21st.</p><p><strong>Additionally, </strong>World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at  Sierra Madre United Methodist located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024. Free 5 gallon bladders will also be available.</p><p>Time of Service: 2:30am - 5:30pm today, January 21st</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40528,
 				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal Distribution - Gordy's Garage",
+				"name": "WCK Meal & Water Distribution - Gordy's Garage",
 				"lat": 34.18337933733453,
 				"lng": -118.16820616577323,
 				"is_active": true,
@@ -690,6 +675,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 21st.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 6:00pm - 8:00pm</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40885,
+				"address": "695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
+				"name": "WCK Meal & Water Distribution - Sierra Madre United Methodist",
+				"lat": 34.1625823,
+				"lng": -118.0674819,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 11am to 3pm today, January 21st.</p><p><strong>Additionally, </strong>World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at  Sierra Madre United Methodist located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024. Free 5 gallon bladders will also be available.</p><p>Time of Service: 2:30am - 5:30pm today, January 21st</p>",
 					"links": []
 				}
 			}
@@ -1348,24 +1348,9 @@
 				}
 			},
 			{
-				"id": 40885,
-				"address": "695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
-				"name": "WCK Meal Distribution - Sierra Madre United Methodist",
-				"lat": 34.1625823,
-				"lng": -118.0674819,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 11am to 3pm today, January 21st.</p><p><strong>Additionally, </strong>World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at  Sierra Madre United Methodist located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024. Free 5 gallon bladders will also be available.</p><p>Time of Service: 2:30am - 5:30pm today, January 21st</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40528,
 				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal Distribution - Gordy's Garage",
+				"name": "WCK Meal & Water Distribution - Gordy's Garage",
 				"lat": 34.18337933733453,
 				"lng": -118.16820616577323,
 				"is_active": true,
@@ -1374,6 +1359,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 21st.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 6:00pm - 8:00pm</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40885,
+				"address": "695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
+				"name": "WCK Meal & Water Distribution - Sierra Madre United Methodist",
+				"lat": 34.1625823,
+				"lng": -118.0674819,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 11am to 3pm today, January 21st.</p><p><strong>Additionally, </strong>World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at  Sierra Madre United Methodist located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024. Free 5 gallon bladders will also be available.</p><p>Time of Service: 2:30am - 5:30pm today, January 21st</p>",
 					"links": []
 				}
 			}
@@ -1856,28 +1856,13 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T09:02:57Z",
-		"date_modified": "2025-01-21T18:58:41Z",
+		"date_modified": "2025-01-21T19:17:57Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [
-			{
-				"id": 40933,
-				"address": "8797 Circle R Dr, Escondido, CA 92026, USA",
-				"name": "Evacuation Point - Castle Creek Country Club",
-				"lat": 33.25479079999999,
-				"lng": -117.1452812,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>Residents are advised to evacuate to the Castle Creek Golf Course at 8797 Circle R Dr, Escondido, CA 92026 - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\">Wireless Emergency Alert</a> issued by San Diego County Sheriff's &amp; <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://protect.genasys.com/search?z=13.147473637856795&amp;latlon=33.30188917835571%2C-117.1418626786122\">Genasys</a>.</p>",
-					"links": []
-				}
-			},
 			{
 				"id": 40937,
 				"address": "43101 Anza Rd, Temecula, CA 92592, USA",
@@ -1890,6 +1875,21 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>If you own large animals and had to evacuate your home/property due to the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-1loqt21\" href=\"https://x.com/hashtag/LilacFire?src=hashtag_click\">#LilacFire</a> or any of the fires in the Fallbrook/Bonsall area, you can take them to: CRC Ranch 43101 Anza Road, Temecula - per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/SDSheriff/status/1881692655115256175\">San Diego Sheriff's on X</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40933,
+				"address": "4980 Sweetgrass Ln, Bonsall",
+				"name": "Temporary Evacuation Point - Riverview Evangelical Free Church",
+				"lat": 33.3010999,
+				"lng": -117.218119,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>A temporary evacuation point is set up at the Riverview Evangelical Free Church (4980 Sweetgrass Ln, Bonsall), per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/SoCal_RedCross/status/1881781680433963053\">American Red Cross Southern California Region on X</a>. Red Cross volunteers are providing snacks, hydration, &amp; more.</p>",
 					"links": []
 				}
 			}
