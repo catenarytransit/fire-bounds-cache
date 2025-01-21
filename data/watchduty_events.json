@@ -2161,8 +2161,8 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "SDC-1894-A, SDC-1975-B",
-			"evacuation_warnings": "SDC-1892, SDC-1894-B, SDC-1895, SDC-1975-A",
+			"evacuation_orders": "SDC-1894-A, SDC-1895, SDC-1975-B",
+			"evacuation_warnings": "SDC-1892, SDC-1894-B, SDC-1896, SDC-1975-A",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map",
 			"is_complex_parent": false,
@@ -2170,22 +2170,39 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T20:18:27Z",
-		"date_modified": "2025-01-21T20:58:28Z",
+		"date_modified": "2025-01-21T21:04:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 40978,
+				"address": "Ironwood St & Stadium Wy, San Diego, CA 92108, USA",
+				"name": "Temporary Evacuation Point - Snapdragon Stadium (West Side)",
+				"lat": 32.784543,
+				"lng": -117.1235604,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>A temporary evacuation point is established on the west side of Snapdragon Stadium located near the intersection of Ironwood St &amp; Stadium Wy, San Diego, CA 92108, USA. Per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://protect.genasys.com/zones/US-CA-XSD-SDC-1895\">Genasys</a>.</p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"SDC-1894-A",
+			"SDC-1895",
 			"SDC-1975-B"
 		],
 		"evacuation_warnings_arr": [
 			"SDC-1892",
 			"SDC-1894-B",
-			"SDC-1895",
+			"SDC-1896",
 			"SDC-1975-A"
 		]
 	}
