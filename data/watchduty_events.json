@@ -409,21 +409,6 @@
 				}
 			},
 			{
-				"id": 40752,
-				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
-				"lat": 34.1545211,
-				"lng": -118.1321314,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 7pm today, January 20th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40598,
 				"address": "5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
 				"name": "WCK Meal Distribution - Taft H.S.",
@@ -910,21 +895,6 @@
 							"value": "https://www.wwccoc.org/"
 						}
 					]
-				}
-			},
-			{
-				"id": 40752,
-				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
-				"lat": 34.1545211,
-				"lng": -118.1321314,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 7pm today, January 20th.</p>",
-					"links": []
 				}
 			},
 			{
