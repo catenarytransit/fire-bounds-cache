@@ -1432,7 +1432,7 @@
 	},
 	{
 		"id": 40865,
-		"is_active": true,
+		"is_active": false,
 		"name": "Coyote Run Fire",
 		"description": null,
 		"lat": 33.593017,
@@ -1460,7 +1460,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-17T21:25:20Z",
-		"date_modified": "2025-01-21T14:30:19Z",
+		"date_modified": "2025-01-21T22:39:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2215,7 +2215,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
+			"containment": 20,
 			"acreage": 8,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -2230,7 +2230,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T21:55:29Z",
-		"date_modified": "2025-01-21T21:55:30Z",
+		"date_modified": "2025-01-21T22:40:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
