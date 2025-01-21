@@ -1102,7 +1102,7 @@
 	},
 	{
 		"id": 40925,
-		"is_active": true,
+		"is_active": false,
 		"name": "Chambers Fire",
 		"description": null,
 		"lat": 33.720842542267945,
@@ -1130,7 +1130,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T02:09:38Z",
-		"date_modified": "2025-01-21T03:32:35Z",
+		"date_modified": "2025-01-21T09:39:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1141,7 +1141,7 @@
 	},
 	{
 		"id": 40927,
-		"is_active": true,
+		"is_active": false,
 		"name": "Kudu Fire",
 		"description": null,
 		"lat": 34.039333,
@@ -1169,7 +1169,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T03:07:58Z",
-		"date_modified": "2025-01-21T05:36:44Z",
+		"date_modified": "2025-01-21T09:39:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1286,7 +1286,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T09:02:57Z",
-		"date_modified": "2025-01-21T09:27:13Z",
+		"date_modified": "2025-01-21T09:40:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
