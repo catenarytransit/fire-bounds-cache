@@ -155,7 +155,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-21T19:01:48Z",
+		"date_modified": "2025-01-21T21:15:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2156,7 +2156,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": 1.5,
+			"acreage": 2.5,
 			"links": [],
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
@@ -2170,7 +2170,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T20:18:27Z",
-		"date_modified": "2025-01-21T21:04:18Z",
+		"date_modified": "2025-01-21T21:13:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2205,5 +2205,44 @@
 			"SDC-1896",
 			"SDC-1975-A"
 		]
+	},
+	{
+		"id": 40979,
+		"is_active": true,
+		"name": "Cass 0189 Fire",
+		"description": null,
+		"lat": 32.962188,
+		"lng": -94.59968,
+		"address": "2300 Block of Co Rd 2984, Hughes Springs, TX 75656",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": 0,
+			"acreage": 8,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-01-21T21:10:21Z",
+		"date_modified": "2025-01-21T21:10:21Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "{B174E6A7-C0CC-4B19-A563-4FC6E155F2AF}",
+		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
 	}
 ]
