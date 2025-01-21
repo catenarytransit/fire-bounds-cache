@@ -1886,7 +1886,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T09:02:57Z",
-		"date_modified": "2025-01-21T12:49:53Z",
+		"date_modified": "2025-01-21T13:21:42Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1905,6 +1905,21 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>Residents are advised to evacuate to the Castle Creek Golf Course at 8797 Circle R Dr, Escondido, CA 92026 - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\">Wireless Emergency Alert</a> issued by San Diego County Sheriff's &amp; <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://protect.genasys.com/search?z=13.147473637856795&amp;latlon=33.30188917835571%2C-117.1418626786122\">Genasys</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40937,
+				"address": "43101 Anza Rd, Temecula, CA 92592, USA",
+				"name": "Large Animal Shelter - CRC Ranch",
+				"lat": 33.4983528,
+				"lng": -117.0545491,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>If you own large animals and had to evacuate your home/property due to the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-1loqt21\" href=\"https://x.com/hashtag/LilacFire?src=hashtag_click\">#LilacFire</a> or any of the fires in the Fallbrook/Bonsall area, you can take them to: CRC Ranch 43101 Anza Road, Temecula - per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/SDSheriff/status/1881692655115256175\">San Diego Sheriff's on X</a>.</p>",
 					"links": []
 				}
 			}
