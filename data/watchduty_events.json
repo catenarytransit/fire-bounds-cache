@@ -484,21 +484,6 @@
 				}
 			},
 			{
-				"id": 40528,
-				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal Distribution - Gordy's Garage",
-				"lat": 34.18337933733453,
-				"lng": -118.16820616577323,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 20th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40749,
 				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
 				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
@@ -659,7 +644,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-20T23:55:31Z",
+		"date_modified": "2025-01-21T02:46:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -999,21 +984,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at HomeState located at 1992 Lincoln Ave, Pasadena, CA 91103, USA.</p><p>Time of service is from 4pm to 8pm today, January 20th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal Distribution - Gordy's Garage",
-				"lat": 34.18337933733453,
-				"lng": -118.16820616577323,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 20th.</p>",
 					"links": []
 				}
 			},
@@ -1394,8 +1364,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 25,
-			"acreage": 30,
+			"containment": 35,
+			"acreage": 80,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1409,7 +1379,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T01:50:16Z",
-		"date_modified": "2025-01-21T01:50:16Z",
+		"date_modified": "2025-01-21T02:40:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1445,10 +1415,10 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": true
 		},
 		"date_created": "2025-01-21T02:09:38Z",
-		"date_modified": "2025-01-21T02:30:20Z",
+		"date_modified": "2025-01-21T02:51:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
