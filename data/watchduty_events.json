@@ -409,81 +409,6 @@
 				}
 			},
 			{
-				"id": 40598,
-				"address": "5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
-				"name": "WCK Meal Distribution - Taft H.S.",
-				"lat": 34.1693317,
-				"lng": -118.5713363,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Taft High School located at 5461 Winnetka Ave, Woodland Hills, CA 91364, USA</p><p>Time of service is from 11am to 8pm today, January 20th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40578,
-				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
-				"name": "WCK Meal Distribution - Palisades Fire Station 69",
-				"lat": 34.0450471,
-				"lng": -118.5224772,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, January 20th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40751,
-				"address": "1081 N Fair Oaks Ave, Pasadena, CA 91103, USA",
-				"name": "WCK Meal Distribution - Robinson Park Rec Center",
-				"lat": 34.1645663,
-				"lng": -118.1515067,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Robinson Park Recreation Center located at 1081 N Fair Oaks Ave, Pasadena, CA 91103, USA.</p><p>Time of service is from 4pm to 8pm today, January 20th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40750,
-				"address": "1992 Lincoln Ave, Pasadena, CA 91103, USA",
-				"name": "WCK Meal Distribution - HomeState",
-				"lat": 34.1799591,
-				"lng": -118.1592603,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at HomeState located at 1992 Lincoln Ave, Pasadena, CA 91103, USA.</p><p>Time of service is from 4pm to 8pm today, January 20th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40749,
-				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
-				"lat": 34.1444939,
-				"lng": -118.0780778,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 5am to 8pm today, January 20th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40760,
 				"address": "928 E Washington Blvd, Pasadena, CA 91104, USA",
 				"name": "WCK Meal Distribution - Lake Street Washington Ave",
@@ -898,81 +823,6 @@
 				}
 			},
 			{
-				"id": 40598,
-				"address": "5461 Winnetka Ave, Woodland Hills, CA 91364, USA",
-				"name": "WCK Meal Distribution - Taft H.S.",
-				"lat": 34.1693317,
-				"lng": -118.5713363,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Taft High School located at 5461 Winnetka Ave, Woodland Hills, CA 91364, USA</p><p>Time of service is from 11am to 8pm today, January 20th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40578,
-				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
-				"name": "WCK Meal Distribution - Palisades Fire Station 69",
-				"lat": 34.0450471,
-				"lng": -118.5224772,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, January 20th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40751,
-				"address": "1081 N Fair Oaks Ave, Pasadena, CA 91103, USA",
-				"name": "WCK Meal Distribution - Robinson Park Rec Center",
-				"lat": 34.1645663,
-				"lng": -118.1515067,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Robinson Park Recreation Center located at 1081 N Fair Oaks Ave, Pasadena, CA 91103, USA.</p><p>Time of service is from 4pm to 8pm today, January 20th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40750,
-				"address": "1992 Lincoln Ave, Pasadena, CA 91103, USA",
-				"name": "WCK Meal Distribution - HomeState",
-				"lat": 34.1799591,
-				"lng": -118.1592603,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at HomeState located at 1992 Lincoln Ave, Pasadena, CA 91103, USA.</p><p>Time of service is from 4pm to 8pm today, January 20th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40749,
-				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
-				"lat": 34.1444939,
-				"lng": -118.0780778,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 5am to 8pm today, January 20th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40760,
 				"address": "928 E Washington Blvd, Pasadena, CA 91104, USA",
 				"name": "WCK Meal Distribution - Lake Street Washington Ave",
@@ -1334,7 +1184,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 35,
+			"containment": 50,
 			"acreage": 80,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1349,7 +1199,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T01:50:16Z",
-		"date_modified": "2025-01-21T02:40:15Z",
+		"date_modified": "2025-01-21T04:00:16Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
