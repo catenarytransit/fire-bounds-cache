@@ -2159,10 +2159,10 @@
 			"acreage": 3,
 			"links": [],
 			"has_custom_evacuation_orders": true,
-			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": "SDC-1894-A, SDC-1895, SDC-1975-B",
-			"evacuation_warnings": "SDC-1892, SDC-1894-B, SDC-1896, SDC-1975-A",
+			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map",
 			"is_complex_parent": false,
@@ -2170,7 +2170,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T20:18:27Z",
-		"date_modified": "2025-01-21T21:23:07Z",
+		"date_modified": "2025-01-21T21:31:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2198,12 +2198,6 @@
 			"SDC-1894-A",
 			"SDC-1895",
 			"SDC-1975-B"
-		],
-		"evacuation_warnings_arr": [
-			"SDC-1892",
-			"SDC-1894-B",
-			"SDC-1896",
-			"SDC-1975-A"
 		]
 	},
 	{
