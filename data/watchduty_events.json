@@ -1840,9 +1840,9 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": false,
+			"is_fps": true,
 			"containment": 10,
-			"acreage": 80.1,
+			"acreage": 80.8,
 			"links": [],
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
@@ -1856,7 +1856,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T09:02:57Z",
-		"date_modified": "2025-01-21T15:49:27Z",
+		"date_modified": "2025-01-21T17:52:27Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2032,7 +2032,7 @@
 	{
 		"id": 40951,
 		"is_active": true,
-		"name": "Spitz Fire",
+		"name": "Stump Fire",
 		"description": null,
 		"lat": 35.255272682064515,
 		"lng": -111.98446433698378,
@@ -2059,7 +2059,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T16:49:44Z",
-		"date_modified": "2025-01-21T17:30:56Z",
+		"date_modified": "2025-01-21T17:49:53Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
