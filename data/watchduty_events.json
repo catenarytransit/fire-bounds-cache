@@ -1314,5 +1314,44 @@
 			"SDC-0288",
 			"SDC-0289"
 		]
+	},
+	{
+		"id": 40934,
+		"is_active": true,
+		"name": "Vegetation Fire",
+		"description": null,
+		"lat": 33.4084416067179,
+		"lng": -117.24365104248157,
+		"address": "2000 Block of Santa Margarita Drive, Fallbrook",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": null,
+			"links": [],
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-01-21T09:33:25Z",
+		"date_modified": "2025-01-21T09:33:26Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
+		"child_geo_events": [],
+		"parent_geo_events": []
 	}
 ]
