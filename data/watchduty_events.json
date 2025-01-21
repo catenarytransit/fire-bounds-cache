@@ -813,10 +813,10 @@
 				}
 			],
 			"has_custom_evacuation_orders": true,
-			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": "ALD-CANON, ALD-CHANEY, ALD-FARNSWORTH, ALD-GARDEN, ALD-LAUREL, ALD-MOUNTLOWE, ALD-PALM, ALD-RUBIO, ALD-WAPELLO",
-			"evacuation_warnings": "ALD-CALAVERAS-A, ALD-EASTLOMA, ALD-MENDOCINO-A, ALD-WHITEPARK-A",
+			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map A Do-Not-Use-Water Notice is in effect for some impacted areas. For more information, see this link. Official Recovery Information & Damage Inspection Dashboard 211 LA Eaton Fire Resources The entire Angeles National Forest is temporarily closed for public safety and the protection of natural resources through Friday, January 24, 2025, at 12:00 midnight. This closure is tied to critical fire danger. The closure order and prohibited activities may be found at this link.Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings",
 			"is_complex_parent": false,
@@ -824,7 +824,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-21T18:55:58Z",
+		"date_modified": "2025-01-21T20:14:54Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1389,12 +1389,6 @@
 			"ALD-PALM",
 			"ALD-RUBIO",
 			"ALD-WAPELLO"
-		],
-		"evacuation_warnings_arr": [
-			"ALD-CALAVERAS-A",
-			"ALD-EASTLOMA",
-			"ALD-MENDOCINO-A",
-			"ALD-WHITEPARK-A"
 		]
 	},
 	{
@@ -2143,6 +2137,45 @@
 		"reporter_managed": false,
 		"external_id": "{7752AC76-5FA9-48BC-A742-E8E54104F1E3}",
 		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 40974,
+		"is_active": true,
+		"name": "Friars Fire",
+		"description": null,
+		"lat": 32.7694827,
+		"lng": -117.1696435,
+		"address": "Near Friars Rd & Via De La Moda, San Diego",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": null,
+			"links": [],
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-01-21T20:18:27Z",
+		"date_modified": "2025-01-21T20:18:27Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
 		"child_geo_events": [],
 		"parent_geo_events": []
 	}
