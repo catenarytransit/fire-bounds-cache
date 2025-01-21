@@ -1015,7 +1015,7 @@
 	},
 	{
 		"id": 40917,
-		"is_active": true,
+		"is_active": false,
 		"name": "Ted Williams Fire",
 		"description": null,
 		"lat": 32.977125204536875,
@@ -1043,7 +1043,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-20T21:24:59Z",
-		"date_modified": "2025-01-21T00:34:26Z",
+		"date_modified": "2025-01-21T06:39:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
