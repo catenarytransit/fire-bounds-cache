@@ -2038,7 +2038,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 90,
+			"containment": 100,
 			"acreage": 41,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -2053,7 +2053,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T19:50:20Z",
-		"date_modified": "2025-01-21T21:55:29Z",
+		"date_modified": "2025-01-21T22:35:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2127,8 +2127,8 @@
 		"is_active": false,
 		"name": "Cass 0189 Fire",
 		"description": null,
-		"lat": 32.962188,
-		"lng": -94.59968,
+		"lat": 32.957167,
+		"lng": -94.593167,
 		"address": "2300 Block of Co Rd 2984, Hughes Springs, TX 75656",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2152,7 +2152,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T21:10:21Z",
-		"date_modified": "2025-01-21T22:10:20Z",
+		"date_modified": "2025-01-21T22:35:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
