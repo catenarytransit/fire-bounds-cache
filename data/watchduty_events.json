@@ -2034,8 +2034,8 @@
 		"is_active": true,
 		"name": "Spitz Fire",
 		"description": null,
-		"lat": 35.25249230249075,
-		"lng": -111.9844460957724,
+		"lat": 35.255272682064515,
+		"lng": -111.98446433698378,
 		"address": "Spitz Spring Road, N of I-40, Parks",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2059,7 +2059,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T16:49:44Z",
-		"date_modified": "2025-01-21T16:58:08Z",
+		"date_modified": "2025-01-21T17:15:27Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
