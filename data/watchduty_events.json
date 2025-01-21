@@ -1222,8 +1222,8 @@
 		"is_active": true,
 		"name": "Pala Fire",
 		"description": null,
-		"lat": 33.3608960344324,
-		"lng": -117.15986455407037,
+		"lat": 33.36159660139664,
+		"lng": -117.16078408008526,
 		"address": "West of I-15, 2 miles north of Hwy 76, Pala Mesa",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1233,7 +1233,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": true,
 			"containment": 0,
-			"acreage": 30,
+			"acreage": 16.8,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1247,29 +1247,13 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T08:27:43Z",
-		"date_modified": "2025-01-21T11:19:03Z",
+		"date_modified": "2025-01-21T11:29:39Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 40933,
-				"address": "8797 Circle R Dr, Escondido, CA 92026, USA",
-				"name": "Evacuation Point - Castle Creek Country Club",
-				"lat": 33.25479079999999,
-				"lng": -117.1452812,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>Residents are advised to evacuate to the Castle Creek Golf Course at 8797 Circle R Dr, Escondido, CA 92026 - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\">Wireless Emergency Alert</a> issued by San Diego County Sheriff's &amp; <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://protect.genasys.com/search?z=13.147473637856795&amp;latlon=33.30188917835571%2C-117.1418626786122\">Genasys</a>.</p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
