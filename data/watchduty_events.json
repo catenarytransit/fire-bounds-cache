@@ -155,7 +155,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-21T14:50:54Z",
+		"date_modified": "2025-01-21T18:50:41Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -499,21 +499,6 @@
 				}
 			},
 			{
-				"id": 40885,
-				"address": "695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
-				"name": "WCK Meal Distribution - Sierra Madre United Methodist",
-				"lat": 34.1625823,
-				"lng": -118.0674819,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 11am to 3pm today, January 21st.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40852,
 				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
 				"name": "WCK Meal Distribution - LACoFD Station 12",
@@ -585,21 +570,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Xuntos located at 516 Santa Monica Blvd, Santa Monica, CA 90401, USA.</p><p>Time of service is from 1pm to 6pm today, January 21st.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal Distribution - Gordy's Garage",
-				"lat": 34.18337933733453,
-				"lng": -118.16820616577323,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 21st.</p>",
 					"links": []
 				}
 			},
@@ -690,6 +660,36 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at  Los Angeles County Fire Dept. Station 12 located at 2760 N Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11:00am - 2:00pm</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40885,
+				"address": "695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
+				"name": "WCK Meal Distribution - Sierra Madre United Methodist",
+				"lat": 34.1625823,
+				"lng": -118.0674819,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 11am to 3pm today, January 21st.</p><p><strong>Additionally, </strong>World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at  Sierra Madre United Methodist located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024. Free 5 gallon bladders will also be available.</p><p>Time of Service: 2:30am - 5:30pm today, January 21st</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40528,
+				"address": "843 W Woodbury Rd, Altadena, CA 91001",
+				"name": "WCK Meal Distribution - Gordy's Garage",
+				"lat": 34.18337933733453,
+				"lng": -118.16820616577323,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 21st.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 6:00pm - 8:00pm</p>",
 					"links": []
 				}
 			}
@@ -1183,21 +1183,6 @@
 				}
 			},
 			{
-				"id": 40885,
-				"address": "695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
-				"name": "WCK Meal Distribution - Sierra Madre United Methodist",
-				"lat": 34.1625823,
-				"lng": -118.0674819,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 11am to 3pm today, January 21st.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40852,
 				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
 				"name": "WCK Meal Distribution - LACoFD Station 12",
@@ -1269,21 +1254,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Xuntos located at 516 Santa Monica Blvd, Santa Monica, CA 90401, USA.</p><p>Time of service is from 1pm to 6pm today, January 21st.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal Distribution - Gordy's Garage",
-				"lat": 34.18337933733453,
-				"lng": -118.16820616577323,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 21st.</p>",
 					"links": []
 				}
 			},
@@ -1374,6 +1344,36 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at  Los Angeles County Fire Dept. Station 12 located at 2760 N Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11:00am - 2:00pm</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40885,
+				"address": "695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
+				"name": "WCK Meal Distribution - Sierra Madre United Methodist",
+				"lat": 34.1625823,
+				"lng": -118.0674819,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 11am to 3pm today, January 21st.</p><p><strong>Additionally, </strong>World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at  Sierra Madre United Methodist located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024. Free 5 gallon bladders will also be available.</p><p>Time of Service: 2:30am - 5:30pm today, January 21st</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40528,
+				"address": "843 W Woodbury Rd, Altadena, CA 91001",
+				"name": "WCK Meal Distribution - Gordy's Garage",
+				"lat": 34.18337933733453,
+				"lng": -118.16820616577323,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 21st.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 6:00pm - 8:00pm</p>",
 					"links": []
 				}
 			}
@@ -1646,7 +1646,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 50,
+			"containment": 60,
 			"acreage": 80,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1661,7 +1661,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T01:50:16Z",
-		"date_modified": "2025-01-21T04:00:16Z",
+		"date_modified": "2025-01-21T18:50:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
