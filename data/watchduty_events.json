@@ -2258,7 +2258,7 @@
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": "CAS-CASTAICLAKE, CAS-PARADISERANCH, CAS-RIDGE, LAC-E008",
-			"evacuation_warnings": "CAS-BITTERCANYON, CAS-CHARLIECANYON, CAS-GREENHILL, CAS-SLOAN, LAC-E016",
+			"evacuation_warnings": "CAS-BITTERCANYON, CAS-CHARLIECANYON, CAS-GOLDENSTATE, CAS-GREENHILL, CAS-SLOAN, GOR-E004, LAC-E005, LAC-E009-B, LAC-E011-A, LAC-E011-B, LAC-E016",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map",
 			"is_complex_parent": false,
@@ -2266,7 +2266,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-22T19:24:00Z",
+		"date_modified": "2025-01-22T19:34:59Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2314,8 +2314,14 @@
 		"evacuation_warnings_arr": [
 			"CAS-BITTERCANYON",
 			"CAS-CHARLIECANYON",
+			"CAS-GOLDENSTATE",
 			"CAS-GREENHILL",
 			"CAS-SLOAN",
+			"GOR-E004",
+			"LAC-E005",
+			"LAC-E009-B",
+			"LAC-E011-A",
+			"LAC-E011-B",
 			"LAC-E016"
 		]
 	}
