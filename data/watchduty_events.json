@@ -1130,23 +1130,7 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 40937,
-				"address": "43101 Anza Rd, Temecula, CA 92592, USA",
-				"name": "Large Animal Shelter - CRC Ranch",
-				"lat": 33.4983528,
-				"lng": -117.0545491,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>If you own large animals and had to evacuate your home/property due to the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-1loqt21\" href=\"https://x.com/hashtag/LilacFire?src=hashtag_click\">#LilacFire</a> or any of the fires in the Fallbrook/Bonsall area, you can take them to: CRC Ranch 43101 Anza Road, Temecula - per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/SDSheriff/status/1881692655115256175\">San Diego Sheriff's on X</a>.</p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
