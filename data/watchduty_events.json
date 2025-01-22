@@ -1884,11 +1884,6 @@
 					"link_type": "website",
 					"label": "InciWeb - Hughes Fire",
 					"value": "https://inciweb.wildfire.gov/incident-information/caanf-hughes-fire"
-				},
-				{
-					"link_type": "website",
-					"label": "Newhall CHP X Account",
-					"value": "https://x.com/CHP_Newhall"
 				}
 			],
 			"has_custom_evacuation_orders": true,
@@ -1903,7 +1898,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-22T23:34:45Z",
+		"date_modified": "2025-01-22T23:56:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
