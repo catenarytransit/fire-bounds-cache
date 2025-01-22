@@ -2189,25 +2189,51 @@
 			"containment": null,
 			"acreage": 3,
 			"links": [],
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
+			"evacuation_orders": "SDC-1219, SDC-1220, SDC-1299",
+			"evacuation_warnings": "SDC-1215, SDC-1217, SDC-1297",
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
 			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": true
+			"reporter_only_notes": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://protect.genasys.com/zones/US-CA-XSD-SDC-1219?z=13.68213634241849&amp;latlon=33.008040666947196%2C-117.10395523633997\">Genasys Evacuation Map</a></p>",
+			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T17:18:35Z",
-		"date_modified": "2025-01-22T17:46:25Z",
+		"date_modified": "2025-01-22T17:58:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
+		"child_geo_events": [
+			{
+				"id": 41036,
+				"address": "12080 Carmel Mountain Rd, San Diego, CA 92128, USA",
+				"name": "Evacuation Point - Carmel Mountain Plaza (N/E Corner)",
+				"lat": 32.9849262,
+				"lng": -117.0777533,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>Evacuees may go to the northeast portion of Carmel Mountain Plaza near the \"At Home\" store located at 12080 Carmel Mountain Rd, San Diego, CA 92128, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://protect.genasys.com/zones/US-CA-XSD-SDC-1220\">Genasys</a>.</p>",
+					"links": []
+				}
+			}
+		],
+		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"SDC-1219",
+			"SDC-1220",
+			"SDC-1299"
+		],
+		"evacuation_warnings_arr": [
+			"SDC-1215",
+			"SDC-1217",
+			"SDC-1297"
+		]
 	}
 ]
