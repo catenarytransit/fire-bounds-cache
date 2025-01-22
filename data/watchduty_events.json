@@ -2260,15 +2260,15 @@
 			{
 				"id": 41042,
 				"address": "27801 Dickason Dr, Valencia, CA 91355, USA",
-				"name": "Evacuation Center - Valencia High School",
+				"name": "Temporary Evacuation Point - Valencia High School",
 				"lat": 34.4421187,
 				"lng": -118.5623693,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
 					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An Evacuation Center has been established at Valencia High School located at 27801 Dickason Dr, Valencia, CA 91355, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/Angeles_NF/status/1882166116111520061\">Angeles National Forest on X</a>.</p>",
+					"location_type": "general",
+					"information": "<p>An Temporary Evacuation Point has been established at Valencia High School located at 27801 Dickason Dr, Valencia, CA 91355, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/Angeles_NF/status/1882168298730889487\">Angeles National Forest on X</a>.</p>",
 					"links": []
 				}
 			}
