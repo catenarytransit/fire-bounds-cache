@@ -1991,7 +1991,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": null,
+			"containment": 100,
 			"acreage": 11.7,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -2006,7 +2006,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T23:15:21Z",
-		"date_modified": "2025-01-22T16:43:40Z",
+		"date_modified": "2025-01-22T19:24:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2176,8 +2176,8 @@
 		"is_active": true,
 		"name": "Bernardo Fire",
 		"description": null,
-		"lat": 33.00132238979181,
-		"lng": -117.08873874127435,
+		"lat": 33.00040463696004,
+		"lng": -117.08853118186036,
 		"address": "Near Camino Del Norte & Paseo Montanoso, San Diego, CA",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2201,7 +2201,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T17:18:35Z",
-		"date_modified": "2025-01-22T19:07:44Z",
+		"date_modified": "2025-01-22T19:21:39Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2257,8 +2257,8 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "CAS-CASTAICLAKE, CAS-PARADISERANCH, CAS-RIDGE",
-			"evacuation_warnings": "CAS-BITTERCANYON, CAS-CHARLIECANYON, CAS-GREENHILL, CAS-SLOAN, LAC-E008, LAC-E016",
+			"evacuation_orders": "CAS-CASTAICLAKE, CAS-PARADISERANCH, CAS-RIDGE, LAC-E008",
+			"evacuation_warnings": "CAS-BITTERCANYON, CAS-CHARLIECANYON, CAS-GREENHILL, CAS-SLOAN, LAC-E016",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map",
 			"is_complex_parent": false,
@@ -2266,7 +2266,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-22T19:19:23Z",
+		"date_modified": "2025-01-22T19:24:00Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2308,14 +2308,14 @@
 		"evacuation_orders_arr": [
 			"CAS-CASTAICLAKE",
 			"CAS-PARADISERANCH",
-			"CAS-RIDGE"
+			"CAS-RIDGE",
+			"LAC-E008"
 		],
 		"evacuation_warnings_arr": [
 			"CAS-BITTERCANYON",
 			"CAS-CHARLIECANYON",
 			"CAS-GREENHILL",
 			"CAS-SLOAN",
-			"LAC-E008",
 			"LAC-E016"
 		]
 	}
