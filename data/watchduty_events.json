@@ -2206,7 +2206,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 0,
-			"acreage": 3400,
+			"acreage": 3407,
 			"links": [],
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
@@ -2220,7 +2220,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-22T20:31:08Z",
+		"date_modified": "2025-01-22T20:41:27Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2254,6 +2254,21 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 41042,
+				"address": "27801 Dickason Dr, Valencia, CA 91355, USA",
+				"name": "Evacuation Center - Valencia High School",
+				"lat": 34.4421187,
+				"lng": -118.5623693,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An Evacuation Center has been established at Valencia High School located at 27801 Dickason Dr, Valencia, CA 91355, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/Angeles_NF/status/1882166116111520061\">Angeles National Forest on X</a>.</p>",
 					"links": []
 				}
 			}
