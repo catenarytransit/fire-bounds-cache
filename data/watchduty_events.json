@@ -1776,7 +1776,7 @@
 	},
 	{
 		"id": 40971,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cass 0188 Fire",
 		"description": null,
 		"lat": 33.0585,
@@ -1804,7 +1804,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T19:25:21Z",
-		"date_modified": "2025-01-21T20:30:21Z",
+		"date_modified": "2025-01-22T00:39:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1946,7 +1946,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 30,
+			"acreage": 133,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1960,7 +1960,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T21:25:21Z",
-		"date_modified": "2025-01-21T23:00:21Z",
+		"date_modified": "2025-01-22T00:40:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2023,7 +2023,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 60,
+			"containment": 80,
 			"acreage": 60,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -2038,7 +2038,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T21:55:29Z",
-		"date_modified": "2025-01-21T23:35:21Z",
+		"date_modified": "2025-01-22T00:35:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
