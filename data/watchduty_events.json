@@ -1400,19 +1400,19 @@
 			"containment": 50,
 			"acreage": 85,
 			"links": [],
-			"has_custom_evacuation_orders": true,
-			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "SDC-0235, SDC-0236, SDC-0285, SDC-0286, SDC-0287, SDC-0288, SDC-0289",
-			"evacuation_warnings": "SDC-0281, SDC-0282, SDC-0283, SDC-0325, SDC-0326",
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "Genasys Evacuation MapNote - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.",
+			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T09:02:57Z",
-		"date_modified": "2025-01-22T00:06:24Z",
+		"date_modified": "2025-01-22T04:01:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1433,40 +1433,9 @@
 					"information": "<p>If you own large animals and had to evacuate your home/property due to the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-1loqt21\" href=\"https://x.com/hashtag/LilacFire?src=hashtag_click\">#LilacFire</a> or any of the fires in the Fallbrook/Bonsall area, you can take them to: CRC Ranch 43101 Anza Road, Temecula - per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/SDSheriff/status/1881692655115256175\">San Diego Sheriff's on X</a>.</p>",
 					"links": []
 				}
-			},
-			{
-				"id": 40933,
-				"address": "4980 Sweetgrass Ln, Bonsall",
-				"name": "Temporary Evacuation Point - Riverview Evangelical Free Church",
-				"lat": 33.3010999,
-				"lng": -117.218119,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>A temporary evacuation point is set up at the Riverview Evangelical Free Church (4980 Sweetgrass Ln, Bonsall), per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/SoCal_RedCross/status/1881781680433963053\">American Red Cross Southern California Region on X</a>. Red Cross volunteers are providing snacks, hydration, &amp; more.</p>",
-					"links": []
-				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"SDC-0235",
-			"SDC-0236",
-			"SDC-0285",
-			"SDC-0286",
-			"SDC-0287",
-			"SDC-0288",
-			"SDC-0289"
-		],
-		"evacuation_warnings_arr": [
-			"SDC-0281",
-			"SDC-0282",
-			"SDC-0283",
-			"SDC-0325",
-			"SDC-0326"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 40934,
@@ -1960,13 +1929,13 @@
 			"evacuation_orders": null,
 			"evacuation_warnings": "JUR-0177, JUR-0178, JUR-0179, JUR-0181",
 			"evacuation_advisories": null,
-			"evacuation_notes": null,
+			"evacuation_notes": "Genasys Evacuation Map Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings\".",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T01:15:40Z",
-		"date_modified": "2025-01-22T03:46:12Z",
+		"date_modified": "2025-01-22T04:05:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
