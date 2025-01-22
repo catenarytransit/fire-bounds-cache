@@ -394,51 +394,6 @@
 				}
 			},
 			{
-				"id": 40852,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Meal Distribution - LACoFD Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001, USA.</p><p>Time of service is from 11am to 4pm today, January 21st.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40754,
-				"address": "5371 CA-27, Woodland Hills, CA 91364",
-				"name": "WCK Meal Distribution - Monty's Steakhouse",
-				"lat": 34.1678747,
-				"lng": -118.6063446,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Monty's Steakhouse located at 5371 CA-27, Woodland Hills, CA 91364.</p><p>Time of service is from 11am to 5pm today, January 21st.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40752,
-				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
-				"lat": 34.1545211,
-				"lng": -118.1321314,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 7pm today, January 21st.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40578,
 				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
 				"name": "WCK Meal Distribution - Palisades Fire Station 69",
@@ -540,21 +495,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p><br>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Lake Street Washington Ave at 928 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 5:00pm - 9:00pm today, January 21st.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40966,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Water Distribution -  Los Angeles County Fire Dept. Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at  Los Angeles County Fire Dept. Station 12 located at 2760 N Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11:00am - 2:00pm</p>",
 					"links": []
 				}
 			},
@@ -973,51 +913,6 @@
 				}
 			},
 			{
-				"id": 40852,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Meal Distribution - LACoFD Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001, USA.</p><p>Time of service is from 11am to 4pm today, January 21st.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40754,
-				"address": "5371 CA-27, Woodland Hills, CA 91364",
-				"name": "WCK Meal Distribution - Monty's Steakhouse",
-				"lat": 34.1678747,
-				"lng": -118.6063446,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Monty's Steakhouse located at 5371 CA-27, Woodland Hills, CA 91364.</p><p>Time of service is from 11am to 5pm today, January 21st.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40752,
-				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
-				"lat": 34.1545211,
-				"lng": -118.1321314,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 7pm today, January 21st.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40578,
 				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
 				"name": "WCK Meal Distribution - Palisades Fire Station 69",
@@ -1119,21 +1014,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p><br>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Lake Street Washington Ave at 928 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 5:00pm - 9:00pm today, January 21st.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40966,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Water Distribution -  Los Angeles County Fire Dept. Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at  Los Angeles County Fire Dept. Station 12 located at 2760 N Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11:00am - 2:00pm</p>",
 					"links": []
 				}
 			},
@@ -1495,7 +1375,7 @@
 	},
 	{
 		"id": 40930,
-		"is_active": true,
+		"is_active": false,
 		"name": "Pala Fire",
 		"description": null,
 		"lat": 33.36159660139664,
@@ -1523,7 +1403,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T08:27:43Z",
-		"date_modified": "2025-01-21T19:07:48Z",
+		"date_modified": "2025-01-22T01:09:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2083,6 +1963,45 @@
 		"reporter_managed": false,
 		"external_id": "{93FED39F-A9CF-4E56-973F-8D42624C916A}",
 		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 41005,
+		"is_active": true,
+		"name": "Clay Fire",
+		"description": null,
+		"lat": 33.9654417,
+		"lng": -117.4659201,
+		"address": "Pedley Rd & Van Buren Blvd (Santa Ana River Bottom), Jurupa Valley",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": 1,
+			"links": [],
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-01-22T01:15:40Z",
+		"date_modified": "2025-01-22T01:26:58Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
 		"child_geo_events": [],
 		"parent_geo_events": []
 	}
