@@ -1577,7 +1577,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T09:02:57Z",
-		"date_modified": "2025-01-22T15:10:51Z",
+		"date_modified": "2025-01-22T21:29:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2135,7 +2135,7 @@
 	{
 		"id": 41033,
 		"is_active": true,
-		"name": "Bernardo Fire",
+		"name": "Center Fire",
 		"description": null,
 		"lat": 33.00040463696004,
 		"lng": -117.08853118186036,
@@ -2162,7 +2162,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T17:18:35Z",
-		"date_modified": "2025-01-22T20:25:14Z",
+		"date_modified": "2025-01-22T21:33:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2207,7 +2207,18 @@
 			"is_fps": false,
 			"containment": 0,
 			"acreage": 5054,
-			"links": [],
+			"links": [
+				{
+					"link_type": "website",
+					"label": "Genasys Evacuation Map",
+					"value": "https://protect.genasys.com/fullscreenMap?z=10.284928081686177&latlon=34.5991229572073%2C-118.60958287087567"
+				},
+				{
+					"link_type": "website",
+					"label": "LA County Evacuation Map",
+					"value": "https://lacounty.gov/emergency/"
+				}
+			],
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
@@ -2220,7 +2231,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-22T21:21:33Z",
+		"date_modified": "2025-01-22T21:29:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2315,8 +2326,8 @@
 		"is_active": true,
 		"name": "Marion 0206 Fire",
 		"description": null,
-		"lat": 32.877744,
-		"lng": -94.61838,
+		"lat": 32.878783,
+		"lng": -94.61855,
 		"address": "300 Block of State Hwy 155, Avinger, TX 75630",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2340,7 +2351,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T21:25:24Z",
-		"date_modified": "2025-01-22T21:25:25Z",
+		"date_modified": "2025-01-22T21:30:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
