@@ -2237,8 +2237,8 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "CAS-BITTERCANYON, CAS-CAMBRIDGE, CAS-CASTAICLAKE, CAS-CHARLIECANYON, CAS-GOLDENSTATE, CAS-GREENHILL, CAS-HASLEY, CAS-HILLCREST, CAS-PARADISERANCH, CAS-RIDGE, CAS-ROMERO, CAS-SLOAN, LAC-E008, VNC Zone 1",
-			"evacuation_warnings": "CAS-BISCAILUZ, CAS-INDUSTRY, CAS-LIVEOAK, CAS-OAKCANYON, CAS-VALVERDE, GOR-E004, GOR-HUNGRYVALLEY, LAC-E005, LAC-E009-B, LAC-E011-A, LAC-E011-B, LAC-E016, LAC-E029, LAC-FRANCISQUITO, SCL-KELLYJOHNSON, SCL-REYESADOBE, SCL-STERLING, SCL-TESORODELVALLE",
+			"evacuation_orders": "CAS-BISCAILUZ, CAS-BITTERCANYON, CAS-CAMBRIDGE, CAS-CASTAICLAKE, CAS-CHARLIECANYON, CAS-GOLDENSTATE, CAS-GREENHILL, CAS-HASLEY, CAS-HILLCREST, CAS-PARADISERANCH, CAS-RIDGE, CAS-ROMERO, CAS-SLOAN, LAC-E008, LAC-E029, LAC-FRANCISQUITO, SCL-KELLYJOHNSON, SCL-REYESADOBE, SCL-STERLING, SCL-TESORODELVALLE, VNC Zone 1",
+			"evacuation_warnings": "CAS-INDUSTRY, CAS-LIVEOAK, CAS-OAKCANYON, CAS-VALVERDE, GOR-E004, GOR-HUNGRYVALLEY, LAC-E005, LAC-E009-B, LAC-E011-A, LAC-E011-B, LAC-E016, LAC-E018, LAC-E030, SCL-BLACKPINE, SCL-CALEX, SCL-DECORO, SCL-MOUNTAINVIEW, SCL-PACIFICCREST, SCL-RANCHOTESORO, SCL-RIONORTE, SCL-RYE, SCL-WESTHILLS",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map Ventura County Evacuation Map Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.",
 			"is_complex_parent": false,
@@ -2246,7 +2246,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-22T21:52:11Z",
+		"date_modified": "2025-01-22T22:02:53Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2301,6 +2301,7 @@
 		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
+			"CAS-BISCAILUZ",
 			"CAS-BITTERCANYON",
 			"CAS-CAMBRIDGE",
 			"CAS-CASTAICLAKE",
@@ -2314,10 +2315,15 @@
 			"CAS-ROMERO",
 			"CAS-SLOAN",
 			"LAC-E008",
+			"LAC-E029",
+			"LAC-FRANCISQUITO",
+			"SCL-KELLYJOHNSON",
+			"SCL-REYESADOBE",
+			"SCL-STERLING",
+			"SCL-TESORODELVALLE",
 			"VNC Zone 1"
 		],
 		"evacuation_warnings_arr": [
-			"CAS-BISCAILUZ",
 			"CAS-INDUSTRY",
 			"CAS-LIVEOAK",
 			"CAS-OAKCANYON",
@@ -2329,12 +2335,17 @@
 			"LAC-E011-A",
 			"LAC-E011-B",
 			"LAC-E016",
-			"LAC-E029",
-			"LAC-FRANCISQUITO",
-			"SCL-KELLYJOHNSON",
-			"SCL-REYESADOBE",
-			"SCL-STERLING",
-			"SCL-TESORODELVALLE"
+			"LAC-E018",
+			"LAC-E030",
+			"SCL-BLACKPINE",
+			"SCL-CALEX",
+			"SCL-DECORO",
+			"SCL-MOUNTAINVIEW",
+			"SCL-PACIFICCREST",
+			"SCL-RANCHOTESORO",
+			"SCL-RIONORTE",
+			"SCL-RYE",
+			"SCL-WESTHILLS"
 		]
 	},
 	{
