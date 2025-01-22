@@ -1744,7 +1744,7 @@
 	},
 	{
 		"id": 40974,
-		"is_active": true,
+		"is_active": false,
 		"name": "Friars Fire",
 		"description": null,
 		"lat": 32.76977450583004,
@@ -1772,7 +1772,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T20:18:27Z",
-		"date_modified": "2025-01-22T18:38:02Z",
+		"date_modified": "2025-01-22T21:33:58Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2148,7 +2148,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": true,
 			"containment": null,
-			"acreage": 4,
+			"acreage": 7,
 			"links": [],
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
@@ -2162,7 +2162,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T17:18:35Z",
-		"date_modified": "2025-01-22T21:33:04Z",
+		"date_modified": "2025-01-22T21:33:46Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2217,6 +2217,21 @@
 					"link_type": "website",
 					"label": "LA County Evacuation Map",
 					"value": "https://lacounty.gov/emergency/"
+				},
+				{
+					"link_type": "website",
+					"label": "Angeles National Forest Facebook Page",
+					"value": "https://www.facebook.com/angelesnationalforest"
+				},
+				{
+					"link_type": "website",
+					"label": "Angeles National Forest X Account",
+					"value": "https://x.com/Angeles_NF"
+				},
+				{
+					"link_type": "website",
+					"label": "Los Angeles Fire Department Alerts",
+					"value": "https://lafd.org/alerts"
 				}
 			],
 			"has_custom_evacuation_orders": true,
@@ -2227,11 +2242,11 @@
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.",
 			"is_complex_parent": false,
-			"reporter_only_notes": null,
+			"reporter_only_notes": "<p>For Note - The fire jumping the 5 is my trigger point for adding Ventura - CE</p>",
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-22T21:29:48Z",
+		"date_modified": "2025-01-22T21:35:26Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
