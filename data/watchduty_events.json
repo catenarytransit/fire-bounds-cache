@@ -2215,9 +2215,9 @@
 		"is_active": true,
 		"name": "Center Fire",
 		"description": null,
-		"lat": 33.005022,
-		"lng": -117.092385,
-		"address": "Bernardo Center Dr & Camino del Norte, San Diego, CA",
+		"lat": 33.00132238979181,
+		"lng": -117.08873874127435,
+		"address": "Near Bernardo Center Dr & Paseo Montanoso, San Diego, CA",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -2240,7 +2240,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T17:18:35Z",
-		"date_modified": "2025-01-22T17:23:54Z",
+		"date_modified": "2025-01-22T17:37:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
