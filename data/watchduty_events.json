@@ -1810,10 +1810,10 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T21:25:21Z",
-		"date_modified": "2025-01-22T00:40:21Z",
+		"date_modified": "2025-01-22T03:51:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "{07D2B421-5D07-4A7D-A3D9-F2D62EC2C03E}",
 		"external_source": "nifc",
 		"child_geo_events": [],
@@ -1955,25 +1955,31 @@
 			"acreage": 38,
 			"links": [],
 			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": null,
-			"evacuation_warnings": null,
+			"evacuation_warnings": "JUR-0177, JUR-0178, JUR-0179, JUR-0181",
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": true
+			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T01:15:40Z",
-		"date_modified": "2025-01-22T03:05:11Z",
+		"date_modified": "2025-01-22T03:46:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [],
-		"parent_geo_events": []
+		"parent_geo_events": [],
+		"evacuation_warnings_arr": [
+			"JUR-0177",
+			"JUR-0178",
+			"JUR-0179",
+			"JUR-0181"
+		]
 	},
 	{
 		"id": 41006,
