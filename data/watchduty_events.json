@@ -163,21 +163,6 @@
 		"external_source": null,
 		"child_geo_events": [
 			{
-				"id": 40379,
-				"address": "29525 Agoura Rd, Agoura Hills, CA 91301, USA",
-				"name": "Small Animal Shelter - Agoura Animal Care Center",
-				"lat": 34.14651449999999,
-				"lng": -118.7688867,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A small animal shelter is set up at the Agoura Animal Care Center located at 29525 Agoura Rd, Agoura Hills, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40565,
 				"address": "6801 Hollywood Blvd Suite 105, Los Angeles, CA 90028, USA",
 				"name": "First Responders Only - Meal Distribution - Hard Rock Cafe",
@@ -692,6 +677,21 @@
 					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40379,
+				"address": "29525 Agoura Rd, Agoura Hills, CA 91301, USA",
+				"name": "Small Animal Shelter - Agoura Animal Care Center",
+				"lat": 34.14651449999999,
+				"lng": -118.7688867,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>A small animal shelter is set up at the Agoura Animal Care Center located at 29525 Agoura Rd, Agoura Hills, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County</a>.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -831,21 +831,6 @@
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [
-			{
-				"id": 40379,
-				"address": "29525 Agoura Rd, Agoura Hills, CA 91301, USA",
-				"name": "Small Animal Shelter - Agoura Animal Care Center",
-				"lat": 34.14651449999999,
-				"lng": -118.7688867,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A small animal shelter is set up at the Agoura Animal Care Center located at 29525 Agoura Rd, Agoura Hills, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County</a>.</p>",
-					"links": []
-				}
-			},
 			{
 				"id": 40565,
 				"address": "6801 Hollywood Blvd Suite 105, Los Angeles, CA 90028, USA",
@@ -1374,6 +1359,21 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40379,
+				"address": "29525 Agoura Rd, Agoura Hills, CA 91301, USA",
+				"name": "Small Animal Shelter - Agoura Animal Care Center",
+				"lat": 34.14651449999999,
+				"lng": -118.7688867,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>A small animal shelter is set up at the Agoura Animal Care Center located at 29525 Agoura Rd, Agoura Hills, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County</a>.</p>",
 					"links": []
 				}
 			}
@@ -2191,6 +2191,45 @@
 		]
 	},
 	{
+		"id": 41035,
+		"is_active": true,
+		"name": "Mountain Home Fire",
+		"description": null,
+		"lat": 40.372,
+		"lng": -110.3638,
+		"address": "19800 Block of 5750 N, Mountain Home, UT 84051",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": null,
+			"acreage": 20,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-01-22T17:56:07Z",
+		"date_modified": "2025-01-22T22:32:53Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "f1538c32-d1d7-4657-8017-6bab40fda3f9",
+		"external_source": "wildcad",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
 		"id": 41039,
 		"is_active": true,
 		"name": "Hughes Fire",
@@ -2240,13 +2279,13 @@
 			"evacuation_orders": "CAS-BISCAILUZ, CAS-BITTERCANYON, CAS-CAMBRIDGE, CAS-CASTAICLAKE, CAS-CHARLIECANYON, CAS-GOLDENSTATE, CAS-GREENHILL, CAS-HASLEY, CAS-HILLCREST, CAS-PARADISERANCH, CAS-RIDGE, CAS-ROMERO, CAS-SLOAN, LAC-E008, LAC-E029, LAC-FRANCISQUITO, SCL-KELLYJOHNSON, SCL-REYESADOBE, SCL-STERLING, SCL-TESORODELVALLE, VNC Zone 1",
 			"evacuation_warnings": "CAS-INDUSTRY, CAS-LIVEOAK, CAS-OAKCANYON, CAS-VALVERDE, GOR-E004, GOR-HUNGRYVALLEY, LAC-E005, LAC-E009-B, LAC-E011-A, LAC-E011-B, LAC-E016, LAC-E018, LAC-E030, SCL-BLACKPINE, SCL-CALEX, SCL-DECORO, SCL-MOUNTAINVIEW, SCL-PACIFICCREST, SCL-RANCHOTESORO, SCL-RIONORTE, SCL-RYE, SCL-WESTHILLS, VNC Zone 2",
 			"evacuation_advisories": null,
-			"evacuation_notes": "Genasys Evacuation Map Ventura County Evacuation Map Northbound I-5 ALL LANES are CLOSED just north of State Route 126 Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.",
+			"evacuation_notes": "Genasys Evacuation Map Ventura County Evacuation Map Northbound I-5 CLOSED just north of State Route 126Southbound I-5 CLOSED at Grapevine Rd Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-22T22:18:54Z",
+		"date_modified": "2025-01-22T22:33:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2295,6 +2334,36 @@
 					"geo_event_type": "location",
 					"location_type": "general",
 					"information": "<p>An Temporary Evacuation Point has been established at Valencia High School located at 27801 Dickason Dr, Valencia, CA 91355, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/Angeles_NF/status/1882168298730889487\">Angeles National Forest on X</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40379,
+				"address": "29525 Agoura Rd, Agoura Hills, CA 91301, USA",
+				"name": "Small Animal Shelter - Agoura Animal Care Center",
+				"lat": 34.14651449999999,
+				"lng": -118.7688867,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>A small animal shelter is set up at the Agoura Animal Care Center located at 29525 Agoura Rd, Agoura Hills, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 41054,
+				"address": "34.184974, -118.586671",
+				"name": "Large Animal Shelter - Pierce College",
+				"lat": 34.185027598932706,
+				"lng": -118.58658131308148,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>A Large Animal Shelter is open at Pierce College for Hughes Fire evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/Angeles_NF/status/1882192419250471326\">Angeles National Forest on X</a>.</p>",
 					"links": []
 				}
 			}
@@ -2432,8 +2501,8 @@
 		"is_active": true,
 		"name": "Panola 0207 Fire",
 		"description": null,
-		"lat": 32.077494,
-		"lng": -94.055898,
+		"lat": 32.079038,
+		"lng": -94.056821,
 		"address": "2800 Block of FM3359, Carthage, TX 75633",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2457,7 +2526,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T22:19:25Z",
-		"date_modified": "2025-01-22T22:19:25Z",
+		"date_modified": "2025-01-22T22:30:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
