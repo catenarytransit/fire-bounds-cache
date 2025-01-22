@@ -677,21 +677,6 @@
 					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
 					"links": []
 				}
-			},
-			{
-				"id": 40379,
-				"address": "29525 Agoura Rd, Agoura Hills, CA 91301, USA",
-				"name": "Small Animal Shelter - Agoura Animal Care Center",
-				"lat": 34.14651449999999,
-				"lng": -118.7688867,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A small animal shelter is set up at the Agoura Animal Care Center located at 29525 Agoura Rd, Agoura Hills, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County</a>.</p>",
-					"links": []
-				}
 			}
 		],
 		"parent_geo_events": [],
@@ -1359,21 +1344,6 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40379,
-				"address": "29525 Agoura Rd, Agoura Hills, CA 91301, USA",
-				"name": "Small Animal Shelter - Agoura Animal Care Center",
-				"lat": 34.14651449999999,
-				"lng": -118.7688867,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A small animal shelter is set up at the Agoura Animal Care Center located at 29525 Agoura Rd, Agoura Hills, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County</a>.</p>",
 					"links": []
 				}
 			}
@@ -2072,19 +2042,19 @@
 			"containment": null,
 			"acreage": 7,
 			"links": [],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "SDC-1220",
+			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "Genasys Evacuation Map The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.\"",
+			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T17:18:35Z",
-		"date_modified": "2025-01-22T21:33:46Z",
+		"date_modified": "2025-01-22T23:00:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2107,10 +2077,7 @@
 				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"SDC-1220"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 41035,
@@ -2198,6 +2165,11 @@
 					"link_type": "website",
 					"label": "InciWeb - Hughes Fire",
 					"value": "https://inciweb.wildfire.gov/incident-information/caanf-hughes-fire"
+				},
+				{
+					"link_type": "website",
+					"label": "Newhall CHP X Account",
+					"value": "https://x.com/CHP_Newhall"
 				}
 			],
 			"has_custom_evacuation_orders": true,
@@ -2212,7 +2184,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-22T22:47:14Z",
+		"date_modified": "2025-01-22T23:05:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2250,36 +2222,6 @@
 				}
 			},
 			{
-				"id": 41042,
-				"address": "27801 Dickason Dr, Valencia, CA 91355, USA",
-				"name": "Temporary Evacuation Point - Valencia High School",
-				"lat": 34.4421187,
-				"lng": -118.5623693,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>An Temporary Evacuation Point has been established at Valencia High School located at 27801 Dickason Dr, Valencia, CA 91355, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/Angeles_NF/status/1882168298730889487\">Angeles National Forest on X</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40379,
-				"address": "29525 Agoura Rd, Agoura Hills, CA 91301, USA",
-				"name": "Small Animal Shelter - Agoura Animal Care Center",
-				"lat": 34.14651449999999,
-				"lng": -118.7688867,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A small animal shelter is set up at the Agoura Animal Care Center located at 29525 Agoura Rd, Agoura Hills, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 41054,
 				"address": "34.184974, -118.586671",
 				"name": "Large Animal Shelter - Pierce College",
@@ -2291,6 +2233,21 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>A Large Animal Shelter is open at Pierce College for Hughes Fire evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/Angeles_NF/status/1882192419250471326\">Angeles National Forest on X</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 41042,
+				"address": "24825 Newhall Ave, Santa Clarita, CA 91321",
+				"name": "Temporary Evacuation Point - Hart High School",
+				"lat": 34.3845283,
+				"lng": -118.537107,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>An Temporary Evacuation Point (TEP) has been established at Hart High School located at 24825 Newhall Ave, Santa Clarita, CA 91321, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/angeles_nf/status/1882201908225708108\">Angeles National Forest on X</a>.</p><p>Note: The TEP was previously located at Valencia H.S. and has since moved to Hart H.S.</p>",
 					"links": []
 				}
 			}
@@ -2492,7 +2449,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T22:19:52Z",
-		"date_modified": "2025-01-22T22:51:57Z",
+		"date_modified": "2025-01-22T23:02:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
