@@ -253,21 +253,6 @@
 				}
 			},
 			{
-				"id": 40453,
-				"address": "38550 Sierra Hwy, Palmdale",
-				"name": "Small Animal Shelter - Palmdale Animal Care Center",
-				"lat": 34.5831349,
-				"lng": -118.1167387,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40567,
 				"address": "14201 Huston St, Sherman Oaks, CA 91423",
 				"name": "Evacuation Shelter - Van Nuys /Sherman Oaks Recreation Center",
@@ -339,21 +324,6 @@
 					"geo_event_type": "location",
 					"location_type": "info",
 					"information": "<p>FEMA Disaster Recovery Center at UCLA Research Park</p><p>January 15 - 25, 9am to 8 pm</p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40452,
-				"address": "5210 W Ave I, Lancaster",
-				"name": "Small/Large Animal Shelter - Lancaster Animal Care Center",
-				"lat": 34.7037175,
-				"lng": -118.223189,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small and Large animal shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
 					"links": []
 				}
 			},
@@ -690,6 +660,36 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 11am to 3pm today, January 22nd</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40452,
+				"address": "5210 W Ave I, Lancaster",
+				"name": "Small/Large Animal Shelter - Lancaster Animal Care Center",
+				"lat": 34.7037175,
+				"lng": -118.223189,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small and Large animal shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40453,
+				"address": "38550 Sierra Hwy, Palmdale",
+				"name": "Small Animal Shelter - Palmdale Animal Care Center",
+				"lat": 34.5831349,
+				"lng": -118.1167387,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
 					"links": []
 				}
 			}
@@ -937,21 +937,6 @@
 				}
 			},
 			{
-				"id": 40453,
-				"address": "38550 Sierra Hwy, Palmdale",
-				"name": "Small Animal Shelter - Palmdale Animal Care Center",
-				"lat": 34.5831349,
-				"lng": -118.1167387,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40567,
 				"address": "14201 Huston St, Sherman Oaks, CA 91423",
 				"name": "Evacuation Shelter - Van Nuys /Sherman Oaks Recreation Center",
@@ -1023,21 +1008,6 @@
 					"geo_event_type": "location",
 					"location_type": "info",
 					"information": "<p>FEMA Disaster Recovery Center at UCLA Research Park</p><p>January 15 - 25, 9am to 8 pm</p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40452,
-				"address": "5210 W Ave I, Lancaster",
-				"name": "Small/Large Animal Shelter - Lancaster Animal Care Center",
-				"lat": 34.7037175,
-				"lng": -118.223189,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small and Large animal shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
 					"links": []
 				}
 			},
@@ -1374,6 +1344,36 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 11am to 3pm today, January 22nd</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40452,
+				"address": "5210 W Ave I, Lancaster",
+				"name": "Small/Large Animal Shelter - Lancaster Animal Care Center",
+				"lat": 34.7037175,
+				"lng": -118.223189,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small and Large animal shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40453,
+				"address": "38550 Sierra Hwy, Palmdale",
+				"name": "Small Animal Shelter - Palmdale Animal Care Center",
+				"lat": 34.5831349,
+				"lng": -118.1167387,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
 					"links": []
 				}
 			}
@@ -2252,13 +2252,13 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": 50,
+			"acreage": 500,
 			"links": [],
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "CAS-CASTAICLAKE",
-			"evacuation_warnings": "CAS-BITTERCANYON, CAS-CHARLIECANYON, CAS-GREENHILL, CAS-RIDGE, CAS-SLOAN",
+			"evacuation_orders": "CAS-CASTAICLAKE, CAS-PARADISERANCH, CAS-RIDGE",
+			"evacuation_warnings": "CAS-BITTERCANYON, CAS-CHARLIECANYON, CAS-GREENHILL, CAS-SLOAN, LAC-E008, LAC-E016",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map",
 			"is_complex_parent": false,
@@ -2266,23 +2266,57 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-22T19:08:40Z",
+		"date_modified": "2025-01-22T19:19:23Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 40452,
+				"address": "5210 W Ave I, Lancaster",
+				"name": "Small/Large Animal Shelter - Lancaster Animal Care Center",
+				"lat": 34.7037175,
+				"lng": -118.223189,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small and Large animal shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40453,
+				"address": "38550 Sierra Hwy, Palmdale",
+				"name": "Small Animal Shelter - Palmdale Animal Care Center",
+				"lat": 34.5831349,
+				"lng": -118.1167387,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"CAS-CASTAICLAKE"
+			"CAS-CASTAICLAKE",
+			"CAS-PARADISERANCH",
+			"CAS-RIDGE"
 		],
 		"evacuation_warnings_arr": [
 			"CAS-BITTERCANYON",
 			"CAS-CHARLIECANYON",
 			"CAS-GREENHILL",
-			"CAS-RIDGE",
-			"CAS-SLOAN"
+			"CAS-SLOAN",
+			"LAC-E008",
+			"LAC-E016"
 		]
 	}
 ]
