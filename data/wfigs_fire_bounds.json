@@ -26659,7 +26659,7 @@
       "properties" : {
         "OBJECTID" : 36658, 
         "poly_SourceOID" : 813, 
-        "poly_IncidentName" : "HUGHES", 
+        "poly_IncidentName" : "Hughes", 
         "poly_FeatureCategory" : "Wildfire Daily Fire Perimeter", 
         "poly_MapMethod" : "GPS-Flight", 
         "poly_GISAcres" : 9456.73895684818, 
@@ -26668,7 +26668,7 @@
         "poly_FeatureStatus" : "Approved", 
         "poly_IsVisible" : "Yes", 
         "poly_CreateDate" : 1737598588000, 
-        "poly_DateCurrent" : 1737598625000, 
+        "poly_DateCurrent" : 1737656472000, 
         "poly_PolygonDateTime" : 1737576076000, 
         "poly_IRWINID" : "{994072D2-E154-434A-BB95-6F6C94C40829}", 
         "poly_FORID" : null, 
