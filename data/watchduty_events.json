@@ -1419,8 +1419,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 0,
-			"acreage": 9457,
+			"containment": 14,
+			"acreage": 10176,
 			"links": [
 				{
 					"link_type": "website",
@@ -1470,7 +1470,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-23T05:30:52Z",
+		"date_modified": "2025-01-23T05:45:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1519,21 +1519,6 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>A Large Animal Shelter is open at Pierce College for Hughes Fire evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/Angeles_NF/status/1882192419250471326\">Angeles National Forest on X</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 41042,
-				"address": "24825 Newhall Ave, Santa Clarita, CA 91321",
-				"name": "Temporary Evacuation Point - Hart High School",
-				"lat": 34.3845283,
-				"lng": -118.537107,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>An Temporary Evacuation Point (TEP) has been established at Hart High School located at 24825 Newhall Ave, Santa Clarita, CA 91321, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/angeles_nf/status/1882201908225708108\">Angeles National Forest on X</a>.</p><p>Note: The TEP was previously located at Valencia H.S. and has since moved to Hart H.S.</p>",
 					"links": []
 				}
 			},
