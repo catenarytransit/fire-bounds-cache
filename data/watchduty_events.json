@@ -1508,7 +1508,7 @@
 	},
 	{
 		"id": 40980,
-		"is_active": true,
+		"is_active": false,
 		"name": "Sonsela Butte Fire",
 		"description": null,
 		"lat": 36.100556,
@@ -1536,7 +1536,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T21:25:21Z",
-		"date_modified": "2025-01-23T04:33:55Z",
+		"date_modified": "2025-01-23T12:39:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
