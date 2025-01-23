@@ -1742,7 +1742,7 @@
 	},
 	{
 		"id": 41031,
-		"is_active": true,
+		"is_active": false,
 		"name": "Modoc Prairie Fire",
 		"description": null,
 		"lat": 36.86455,
@@ -1770,7 +1770,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T16:35:23Z",
-		"date_modified": "2025-01-23T09:10:49Z",
+		"date_modified": "2025-01-23T13:24:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2357,7 +2357,7 @@
 	},
 	{
 		"id": 41071,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hueneme Fire",
 		"description": null,
 		"lat": 34.14017087174851,
@@ -2385,7 +2385,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T06:09:07Z",
-		"date_modified": "2025-01-23T07:14:06Z",
+		"date_modified": "2025-01-23T13:24:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
