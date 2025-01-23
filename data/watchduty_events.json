@@ -604,21 +604,6 @@
 				}
 			},
 			{
-				"id": 40725,
-				"address": "2033 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - God's Waiting Room Church",
-				"lat": 34.1694695,
-				"lng": -118.1087329,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the God's Waiting Room Church located at 2033 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 11am to 3pm today, January 23rd.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 41016,
 				"address": "1900 Pico Blvd, Santa Monica, CA 90405, USA",
 				"name": "WCK Meal Distribution - SMC Donation Center",
@@ -1269,21 +1254,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 11am to 3pm today, January 23rd.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40725,
-				"address": "2033 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - God's Waiting Room Church",
-				"lat": 34.1694695,
-				"lng": -118.1087329,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the God's Waiting Room Church located at 2033 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 11am to 3pm today, January 23rd.</p>",
 					"links": []
 				}
 			},
@@ -2514,7 +2484,7 @@
 	{
 		"id": 41106,
 		"is_active": true,
-		"name": "Vegetation Fire",
+		"name": "Baldy Fire",
 		"description": null,
 		"lat": 34.3550788,
 		"lng": -117.4378142,
@@ -2527,7 +2497,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": 1,
+			"acreage": 2,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2541,7 +2511,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T21:12:47Z",
-		"date_modified": "2025-01-23T21:15:01Z",
+		"date_modified": "2025-01-23T21:23:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
