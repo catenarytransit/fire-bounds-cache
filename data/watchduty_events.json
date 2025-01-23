@@ -513,7 +513,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 91,
+			"containment": 95,
 			"acreage": 14021,
 			"links": [
 				{
@@ -599,7 +599,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-22T23:16:36Z",
+		"date_modified": "2025-01-23T02:09:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1545,7 +1545,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T17:18:35Z",
-		"date_modified": "2025-01-22T23:00:20Z",
+		"date_modified": "2025-01-23T02:21:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1608,8 +1608,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 0,
-			"acreage": 9435,
+			"containment": 5,
+			"acreage": 9457,
 			"links": [
 				{
 					"link_type": "website",
@@ -1640,6 +1640,11 @@
 					"link_type": "website",
 					"label": "Los Angeles Fire Department Alerts",
 					"value": "https://lafd.org/alerts"
+				},
+				{
+					"link_type": "website",
+					"label": "LA County Road Closures",
+					"value": "https://pw.lacounty.gov/roadclosures/"
 				}
 			],
 			"has_custom_evacuation_orders": true,
@@ -1654,7 +1659,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-23T02:01:06Z",
+		"date_modified": "2025-01-23T02:20:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1830,7 +1835,7 @@
 	},
 	{
 		"id": 41045,
-		"is_active": true,
+		"is_active": false,
 		"name": "Marion 0206 Fire",
 		"description": null,
 		"lat": 32.878783,
@@ -1858,7 +1863,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T21:25:24Z",
-		"date_modified": "2025-01-22T22:19:24Z",
+		"date_modified": "2025-01-23T02:24:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
