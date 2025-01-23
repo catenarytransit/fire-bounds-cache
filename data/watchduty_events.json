@@ -2352,13 +2352,29 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T16:42:00Z",
-		"date_modified": "2025-01-23T17:32:46Z",
+		"date_modified": "2025-01-23T18:00:31Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 41093,
+				"address": "1605 Burnley St, Camarillo, CA 93010, USA",
+				"name": "Temporary Evacuation Point - Camarillo Community Center",
+				"lat": 34.2263227,
+				"lng": -119.0492657,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>A Temporary Evacuation Point (TEP) has been established at the Camarillo Community Center located at 1605 Burnley St, Camarillo, CA 93010, USA. Per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.vcemergency.com/\">VCEmergency</a></p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"CSU Channel Islands",
