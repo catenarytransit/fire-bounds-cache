@@ -2364,5 +2364,47 @@
 			"CSU Channel Islands",
 			"including University Glen (Laguna Zone 1) Laguna Zone 2 (Reference Ventura County's Evacuation Dashboard)"
 		]
+	},
+	{
+		"id": 41091,
+		"is_active": true,
+		"name": "Vegetation Fire",
+		"description": null,
+		"lat": 33.2937905,
+		"lng": -111.3004495,
+		"address": "300 block of East Burr Drive, Queen Valley",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": null,
+			"links": [],
+			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": "Residents in the area of the Southwest region of Queen Valley",
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-01-23T17:44:03Z",
+		"date_modified": "2025-01-23T17:44:50Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
+		"child_geo_events": [],
+		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"Residents in the area of the Southwest region of Queen Valley"
+		]
 	}
 ]
