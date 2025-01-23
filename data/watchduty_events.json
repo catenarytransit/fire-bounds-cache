@@ -2167,7 +2167,7 @@
 	{
 		"id": 41064,
 		"is_active": true,
-		"name": "Burnet 0210 Fire",
+		"name": "Jack Rabbit Fire",
 		"description": null,
 		"lat": 30.579248,
 		"lng": -98.237566,
@@ -2179,8 +2179,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 40,
-			"acreage": 13,
+			"containment": 50,
+			"acreage": 10,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2194,7 +2194,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T00:50:25Z",
-		"date_modified": "2025-01-23T03:40:25Z",
+		"date_modified": "2025-01-23T18:30:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2336,7 +2336,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": 15,
+			"acreage": 50,
 			"links": [],
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
@@ -2350,7 +2350,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T16:42:00Z",
-		"date_modified": "2025-01-23T18:14:35Z",
+		"date_modified": "2025-01-23T18:26:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2409,13 +2409,29 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T17:44:03Z",
-		"date_modified": "2025-01-23T18:19:45Z",
+		"date_modified": "2025-01-23T18:30:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 41097,
+				"address": "562 N Queen Ct, Queen Valley, AZ 85118",
+				"name": "Queen Valley Community Center",
+				"lat": 33.29908697592518,
+				"lng": -111.28784527444472,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>The evacuation center is at the Queen Valley Community Center per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/PinalCountySO\">Pinal County Sheriff's Office</a> on Facebook.</p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"Residents in the area of the Southwest region of Queen Valley"
