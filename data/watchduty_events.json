@@ -1944,7 +1944,7 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
-					"information": "<p>An evacuation center for small animals has been established at Ventura County Animal Services (Camarillo Airport) located at 600 Aviation Dr, Camarillo, CA 93010, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.vcemergency.com/\">VCEmergency</a>.</p>",
+					"information": "<p>A small animal shelter has been established at Ventura County Animal Services (Camarillo Airport) located at 600 Aviation Dr, Camarillo, CA 93010, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.vcemergency.com/\">VCEmergency</a>.</p>",
 					"links": []
 				}
 			}
@@ -2383,7 +2383,7 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
-					"information": "<p>An evacuation center for small animals has been established at Ventura County Animal Services (Camarillo Airport) located at 600 Aviation Dr, Camarillo, CA 93010, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.vcemergency.com/\">VCEmergency</a>.</p>",
+					"information": "<p>A small animal shelter has been established at Ventura County Animal Services (Camarillo Airport) located at 600 Aviation Dr, Camarillo, CA 93010, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.vcemergency.com/\">VCEmergency</a>.</p>",
 					"links": []
 				}
 			}
@@ -2433,10 +2433,10 @@
 		"child_geo_events": [
 			{
 				"id": 41097,
-				"address": "562 N Queen Ct, Queen Valley, AZ 85118",
+				"address": "1464 E Queen Valley Dr, Queen Valley, AZ 85118",
 				"name": "Queen Valley Community Center",
-				"lat": 33.29908697592518,
-				"lng": -111.28784527444472,
+				"lat": 33.2997451,
+				"lng": -111.2878095,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
