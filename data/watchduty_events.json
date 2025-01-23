@@ -349,36 +349,6 @@
 				}
 			},
 			{
-				"id": 40852,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Meal & Water Distribution - LACoFD Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, January 22nd.<br><br><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11am - 4pm.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40752,
-				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
-				"lat": 34.1545211,
-				"lng": -118.1321314,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 4pm today, January 22nd.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40754,
 				"address": "5371 CA-27, Woodland Hills, CA 91364",
 				"name": "WCK Meal Distribution - Monty's Steakhouse",
@@ -405,21 +375,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 22nd</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 41016,
-				"address": "1900 Pico Blvd, Santa Monica, CA 90405, USA",
-				"name": "WCK Meal Distribution - SMC Donation Center",
-				"lat": 34.0167814,
-				"lng": -118.4706934,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Santa Monica College Donation Center located at 1900 Pico Blvd, Santa Monica, CA 90405.</p><p>Time of service is from 11:30am to 3:30pm today, January 22nd.</p>",
 					"links": []
 				}
 			},
@@ -883,36 +838,6 @@
 				}
 			},
 			{
-				"id": 40852,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Meal & Water Distribution - LACoFD Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, January 22nd.<br><br><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11am - 4pm.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40752,
-				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
-				"lat": 34.1545211,
-				"lng": -118.1321314,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 4pm today, January 22nd.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40754,
 				"address": "5371 CA-27, Woodland Hills, CA 91364",
 				"name": "WCK Meal Distribution - Monty's Steakhouse",
@@ -939,21 +864,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 22nd</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 41016,
-				"address": "1900 Pico Blvd, Santa Monica, CA 90405, USA",
-				"name": "WCK Meal Distribution - SMC Donation Center",
-				"lat": 34.0167814,
-				"lng": -118.4706934,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Santa Monica College Donation Center located at 1900 Pico Blvd, Santa Monica, CA 90405.</p><p>Time of service is from 11:30am to 3:30pm today, January 22nd.</p>",
 					"links": []
 				}
 			},
@@ -1779,23 +1689,7 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 41036,
-				"address": "12080 Carmel Mountain Rd, San Diego, CA 92128, USA",
-				"name": "Evacuation Point - Carmel Mountain Plaza (N/E Corner)",
-				"lat": 32.9849262,
-				"lng": -117.0777533,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>Evacuees may go to the northeast portion of Carmel Mountain Plaza near the \"At Home\" store located at 12080 Carmel Mountain Rd, San Diego, CA 92128, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://protect.genasys.com/zones/US-CA-XSD-SDC-1220\">Genasys</a>.</p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
@@ -1853,17 +1747,17 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 0,
-			"acreage": 5054,
+			"acreage": 8096,
 			"links": [
-				{
-					"link_type": "website",
-					"label": "Genasys Evacuation Map",
-					"value": "https://protect.genasys.com/fullscreenMap?z=10.284928081686177&latlon=34.5991229572073%2C-118.60958287087567"
-				},
 				{
 					"link_type": "website",
 					"label": "LA County Evacuation Map",
 					"value": "https://lacounty.gov/emergency/"
+				},
+				{
+					"link_type": "website",
+					"label": "InciWeb - Hughes Fire",
+					"value": "https://inciweb.wildfire.gov/incident-information/caanf-hughes-fire"
 				},
 				{
 					"link_type": "website",
@@ -1877,20 +1771,20 @@
 				},
 				{
 					"link_type": "website",
-					"label": "Los Angeles Fire Department Alerts",
-					"value": "https://lafd.org/alerts"
+					"label": "Official Ventura County Incident Information Source",
+					"value": "https://www.vcemergency.com/"
 				},
 				{
 					"link_type": "website",
-					"label": "InciWeb - Hughes Fire",
-					"value": "https://inciweb.wildfire.gov/incident-information/caanf-hughes-fire"
+					"label": "Los Angeles Fire Department Alerts",
+					"value": "https://lafd.org/alerts"
 				}
 			],
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "CAS-BISCAILUZ, CAS-BITTERCANYON, CAS-CAMBRIDGE, CAS-CASTAICLAKE, CAS-CHARLIECANYON, CAS-GOLDENSTATE, CAS-GREENHILL, CAS-HASLEY, CAS-HILLCREST, CAS-PARADISERANCH, CAS-RIDGE, CAS-ROMERO, CAS-SLOAN, LAC-E008, LAC-E016, LAC-E029, LAC-FRANCISQUITO, SCL-KELLYJOHNSON, SCL-REYESADOBE, SCL-STERLING, SCL-TESORODELVALLE, VNC Zone 1",
-			"evacuation_warnings": "CAS-INDUSTRY, CAS-LIVEOAK, CAS-OAKCANYON, CAS-VALVERDE, GOR-E004, GOR-HUNGRYVALLEY, LAC-E005, LAC-E009-B, LAC-E011-A, LAC-E011-B, LAC-E017, LAC-E018, LAC-E030, SCL-BLACKPINE, SCL-CALEX, SCL-DECORO, SCL-MOUNTAINVIEW, SCL-PACIFICCREST, SCL-RANCHOTESORO, SCL-RIONORTE, SCL-RYE, SCL-WESTHILLS, VNC Zone 2",
+			"evacuation_orders": "-- LA County --CAS-BISCAILUZ, CAS-BITTERCANYON, CAS-CAMBRIDGE, CAS-CASTAICLAKE, CAS-CHARLIECANYON, CAS-GOLDENSTATE, CAS-GREENHILL, CAS-HASLEY, CAS-HILLCREST, CAS-PARADISERANCH, CAS-RIDGE, CAS-ROMERO, CAS-SLOAN, LAC-E008, LAC-E016, LAC-E029, LAC-FRANCISQUITO, SCL-KELLYJOHNSON, SCL-REYESADOBE, SCL-STERLING, SCL-TESORODELVALLE -- Ventura County --VNC Zone 1",
+			"evacuation_warnings": "-- LA County --CAS-INDUSTRY, CAS-LIVEOAK, CAS-OAKCANYON, CAS-VALVERDE, GOR-E004, GOR-HUNGRYVALLEY, LAC-E005, LAC-E009-B, LAC-E011-A, LAC-E011-B, LAC-E017, LAC-E018, LAC-E030, SCL-BLACKPINE, SCL-CALEX, SCL-DECORO, SCL-MOUNTAINVIEW, SCL-PACIFICCREST, SCL-RANCHOTESORO, SCL-RIONORTE, SCL-RYE, SCL-WESTHILLS -- Ventura County --VNC Zone 2, VNC Zone 3 - Piru, VNC 4 - Hopper, VNC Zone 5 - Hopper Mountain, VNC 6 - Lake Piru, VNC Zone 7 - Camulos, VNC Zone 8 - Guiberson",
 			"evacuation_advisories": null,
 			"evacuation_notes": "LA County - Genasys Evacuation Map Ventura County Evacuation Map Northbound I-5 CLOSED just north of State Route 126Southbound I-5 CLOSED at Grapevine Rd Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.",
 			"is_complex_parent": false,
@@ -1898,7 +1792,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-22T23:56:01Z",
+		"date_modified": "2025-01-23T00:20:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1968,7 +1862,7 @@
 		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"CAS-BISCAILUZ",
+			"-- LA County --CAS-BISCAILUZ",
 			"CAS-BITTERCANYON",
 			"CAS-CAMBRIDGE",
 			"CAS-CASTAICLAKE",
@@ -1988,11 +1882,10 @@
 			"SCL-KELLYJOHNSON",
 			"SCL-REYESADOBE",
 			"SCL-STERLING",
-			"SCL-TESORODELVALLE",
-			"VNC Zone 1"
+			"SCL-TESORODELVALLE -- Ventura County --VNC Zone 1"
 		],
 		"evacuation_warnings_arr": [
-			"CAS-INDUSTRY",
+			"-- LA County --CAS-INDUSTRY",
 			"CAS-LIVEOAK",
 			"CAS-OAKCANYON",
 			"CAS-VALVERDE",
@@ -2013,8 +1906,13 @@
 			"SCL-RANCHOTESORO",
 			"SCL-RIONORTE",
 			"SCL-RYE",
-			"SCL-WESTHILLS",
-			"VNC Zone 2"
+			"SCL-WESTHILLS -- Ventura County --VNC Zone 2",
+			"VNC Zone 3 - Piru",
+			"VNC 4 - Hopper",
+			"VNC Zone 5 - Hopper Mountain",
+			"VNC 6 - Lake Piru",
+			"VNC Zone 7 - Camulos",
+			"VNC Zone 8 - Guiberson"
 		]
 	},
 	{
@@ -2189,7 +2087,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": 100,
-			"acreage": 1,
+			"acreage": 0.6,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2203,7 +2101,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T23:10:25Z",
-		"date_modified": "2025-01-22T23:20:25Z",
+		"date_modified": "2025-01-23T00:00:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
