@@ -1855,7 +1855,7 @@
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": null,
-			"evacuation_warnings": "SOUTH of 1500 block of Casiano Rd, NORTH of Moraga Dr, EAST of Sepulveda Blvd, and WEST of Chalon Rd",
+			"evacuation_warnings": "LOS-Q0779-B, LOS-Q0800-A",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map",
 			"is_complex_parent": false,
@@ -1863,7 +1863,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T07:08:36Z",
-		"date_modified": "2025-01-23T08:09:16Z",
+		"date_modified": "2025-01-23T08:11:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1872,10 +1872,8 @@
 		"child_geo_events": [],
 		"parent_geo_events": [],
 		"evacuation_warnings_arr": [
-			"SOUTH of 1500 block of Casiano Rd",
-			"NORTH of Moraga Dr",
-			"EAST of Sepulveda Blvd",
-			"and WEST of Chalon Rd"
+			"LOS-Q0779-B",
+			"LOS-Q0800-A"
 		]
 	}
 ]
