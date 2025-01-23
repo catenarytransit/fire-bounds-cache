@@ -1440,7 +1440,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-23T05:45:01Z",
+		"date_modified": "2025-01-23T06:22:54Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1508,21 +1508,6 @@
 				}
 			},
 			{
-				"id": 41067,
-				"address": "26455 Rockwell Canyon Rd, Santa Clarita, CA 91355",
-				"name": "COC Valencia Campus East Gym - Evacuation Shelter",
-				"lat": 34.405580320871124,
-				"lng": -118.56902514386671,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>Evacuation Shelter per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross Shelter Map</a></p>",
-					"links": []
-				}
-			},
-			{
 				"id": 37836,
 				"address": "10 E Harbor Blvd, Ventura, CA 93001, USA",
 				"name": "Large Animal Shelter - Ventura County Fairgrounds",
@@ -1541,6 +1526,21 @@
 							"value": "8053884341"
 						}
 					]
+				}
+			},
+			{
+				"id": 41067,
+				"address": "26455 Rockwell Canyon Rd, Santa Clarita, CA 91355",
+				"name": "Evacuation Shelter - COC Valencia Campus East Gym",
+				"lat": 34.405580320871124,
+				"lng": -118.56902514386671,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>Evacuation Shelter per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross Shelter Map</a></p>",
+					"links": []
 				}
 			}
 		],
