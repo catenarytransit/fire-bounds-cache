@@ -59,7 +59,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 68,
+			"containment": 70,
 			"acreage": 23448,
 			"links": [
 				{
@@ -155,7 +155,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-22T20:08:46Z",
+		"date_modified": "2025-01-23T01:49:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -346,36 +346,6 @@
 							"value": "https://www.wwccoc.org/"
 						}
 					]
-				}
-			},
-			{
-				"id": 40754,
-				"address": "5371 CA-27, Woodland Hills, CA 91364",
-				"name": "WCK Meal Distribution - Monty's Steakhouse",
-				"lat": 34.1678747,
-				"lng": -118.6063446,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Monty's Steakhouse located at 5371 CA-27, Woodland Hills, CA 91364.</p><p>Time of service is from 11am to 5pm today, January 22nd</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40753,
-				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
-				"name": "WCK Meal Distribution - Malibu Brewing Company",
-				"lat": 34.0313066,
-				"lng": -118.8431276,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 22nd</p>",
-					"links": []
 				}
 			},
 			{
@@ -838,36 +808,6 @@
 				}
 			},
 			{
-				"id": 40754,
-				"address": "5371 CA-27, Woodland Hills, CA 91364",
-				"name": "WCK Meal Distribution - Monty's Steakhouse",
-				"lat": 34.1678747,
-				"lng": -118.6063446,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Monty's Steakhouse located at 5371 CA-27, Woodland Hills, CA 91364.</p><p>Time of service is from 11am to 5pm today, January 22nd</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40753,
-				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
-				"name": "WCK Meal Distribution - Malibu Brewing Company",
-				"lat": 34.0313066,
-				"lng": -118.8431276,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 22nd</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40578,
 				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
 				"name": "WCK Meal Distribution - Palisades Fire Station 69",
@@ -1083,7 +1023,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": 90,
+			"containment": 95,
 			"acreage": 85,
 			"links": [],
 			"has_custom_evacuation_orders": false,
@@ -1098,7 +1038,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T09:02:57Z",
-		"date_modified": "2025-01-22T21:29:09Z",
+		"date_modified": "2025-01-23T01:32:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1382,7 +1322,7 @@
 	},
 	{
 		"id": 40991,
-		"is_active": true,
+		"is_active": false,
 		"name": "Dry Gulch Fire",
 		"description": null,
 		"lat": 37.894468,
@@ -1410,7 +1350,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T23:15:21Z",
-		"date_modified": "2025-01-22T19:24:22Z",
+		"date_modified": "2025-01-23T01:39:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1708,13 +1648,13 @@
 			"evacuation_orders": "-- LA County --CAS-BISCAILUZ, CAS-BITTERCANYON, CAS-CAMBRIDGE, CAS-CASTAICLAKE, CAS-CHARLIECANYON, CAS-GOLDENSTATE, CAS-GREENHILL, CAS-HASLEY, CAS-HILLCREST, CAS-PARADISERANCH, CAS-RIDGE, CAS-ROMERO, CAS-SLOAN, LAC-E008, LAC-E016, LAC-E029, LAC-FRANCISQUITO, SCL-KELLYJOHNSON, SCL-REYESADOBE, SCL-STERLING, SCL-TESORODELVALLE -- Ventura County --VNC Zone 1",
 			"evacuation_warnings": "-- LA County --CAS-INDUSTRY, CAS-LIVEOAK, CAS-OAKCANYON, CAS-VALVERDE, GOR-E004, GOR-HUNGRYVALLEY, LAC-E005, LAC-E009-B, LAC-E011-A, LAC-E011-B, LAC-E017, LAC-E018, LAC-E030, SCL-BLACKPINE, SCL-CALEX, SCL-DECORO, SCL-MOUNTAINVIEW, SCL-PACIFICCREST, SCL-RANCHOTESORO, SCL-RIONORTE, SCL-RYE, SCL-WESTHILLS -- Ventura County --VNC Zone 2, VNC Zone 3 - Piru, VNC 4 - Hopper, VNC Zone 5 - Hopper Mountain, VNC 6 - Lake Piru, VNC Zone 7 - Camulos, VNC Zone 8 - Guiberson",
 			"evacuation_advisories": null,
-			"evacuation_notes": "LA County - Genasys Evacuation Map Ventura County Evacuation Map Northbound I-5 CLOSED just north of State Route 126Southbound I-5 CLOSED at Grapevine Rd Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.",
+			"evacuation_notes": "LA County - Genasys Evacuation Map Ventura County Evacuation Map I-5 Northbound and Southbound now OPEN Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-23T01:21:51Z",
+		"date_modified": "2025-01-23T02:01:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1779,6 +1719,57 @@
 					"location_type": "general",
 					"information": "<p>An Temporary Evacuation Point (TEP) has been established at Hart High School located at 24825 Newhall Ave, Santa Clarita, CA 91321, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/angeles_nf/status/1882201908225708108\">Angeles National Forest on X</a>.</p><p>Note: The TEP was previously located at Valencia H.S. and has since moved to Hart H.S.</p>",
 					"links": []
+				}
+			},
+			{
+				"id": 37838,
+				"address": "600 Aviation Dr, Camarillo, CA 93010, USA",
+				"name": "Small Animal Shelter - Ventura County Animal Services (Camarillo Airport)",
+				"lat": 34.2092912,
+				"lng": -119.08549,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>An evacuation center for small animals has been established at Ventura County Animal Services (Camarillo Airport) located at 600 Aviation Dr, Camarillo, CA 93010, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.vcemergency.com/\">VCEmergency</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 41067,
+				"address": "26455 Rockwell Canyon Rd, Santa Clarita, CA 91355",
+				"name": "COC Valencia Campus East Gym - Evacuation Shelter",
+				"lat": 34.405580320871124,
+				"lng": -118.56902514386671,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>Evacuation Shelter per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross Shelter Map</a></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 37836,
+				"address": "10 E Harbor Blvd, Ventura, CA 93001, USA",
+				"name": "Large Animal Shelter - Ventura County Fairgrounds",
+				"lat": 34.274808990571074,
+				"lng": -119.30025800501218,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>A large animal shelter is established at the Ventura County Fairgrounds located at 10 E Harbor Blvd, Ventura, CA 93001, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.vcemergency.com/\">VCEmergency</a>.</p><p>Residents are encouraged to call <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link\" href=\"tel:8053884341\">(805) 388-4341</a> to check availability.</p>",
+					"links": [
+						{
+							"link_type": "phone",
+							"label": "Ventura County Animal Services",
+							"value": "8053884341"
+						}
+					]
 				}
 			}
 		],
@@ -1956,7 +1947,7 @@
 	},
 	{
 		"id": 41053,
-		"is_active": true,
+		"is_active": false,
 		"name": "Pozo Fire",
 		"description": null,
 		"lat": 35.310431671629345,
@@ -1984,7 +1975,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T22:19:52Z",
-		"date_modified": "2025-01-22T23:02:24Z",
+		"date_modified": "2025-01-23T01:59:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
