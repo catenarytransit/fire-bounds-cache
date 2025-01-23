@@ -634,21 +634,6 @@
 				}
 			},
 			{
-				"id": 40720,
-				"address": "611 E Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
-				"name": "WCK Meal Distribution - Pasadena-Sierra Madre YMCA",
-				"lat": 34.1623265,
-				"lng": -118.0401529,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena-Sierra Madre YMCA at 611 E Sierra Madre Blvd, Sierra Madre, CA 91024</p><p>Time of service is from 11am to 3pm today, January 23rd.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40725,
 				"address": "2033 E Washington Blvd, Pasadena, CA 91104, USA",
 				"name": "WCK Meal Distribution - God's Waiting Room Church",
@@ -675,6 +660,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Santa Monica College Donation Center located at 1900 Pico Blvd, Santa Monica, CA 90405.</p><p>Time of service is from 11:30am to 3:30pm today, January 23rd.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40720,
+				"address": "611 E Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
+				"name": "WCK Meal & Water Distribution - Pasadena-Sierra Madre YMCA",
+				"lat": 34.1623265,
+				"lng": -118.0401529,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena-Sierra Madre YMCA at 611 E Sierra Madre Blvd, Sierra Madre, CA 91024</p><p>Time of service is from 11am to 3pm today, January 23rd.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at at this location. Free 5 gallon bladders will also be available.</p><p>Time of Service is from 11am-3pm</p>",
 					"links": []
 				}
 			}
@@ -1303,21 +1303,6 @@
 				}
 			},
 			{
-				"id": 40720,
-				"address": "611 E Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
-				"name": "WCK Meal Distribution - Pasadena-Sierra Madre YMCA",
-				"lat": 34.1623265,
-				"lng": -118.0401529,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena-Sierra Madre YMCA at 611 E Sierra Madre Blvd, Sierra Madre, CA 91024</p><p>Time of service is from 11am to 3pm today, January 23rd.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40725,
 				"address": "2033 E Washington Blvd, Pasadena, CA 91104, USA",
 				"name": "WCK Meal Distribution - God's Waiting Room Church",
@@ -1344,6 +1329,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Santa Monica College Donation Center located at 1900 Pico Blvd, Santa Monica, CA 90405.</p><p>Time of service is from 11:30am to 3:30pm today, January 23rd.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40720,
+				"address": "611 E Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
+				"name": "WCK Meal & Water Distribution - Pasadena-Sierra Madre YMCA",
+				"lat": 34.1623265,
+				"lng": -118.0401529,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena-Sierra Madre YMCA at 611 E Sierra Madre Blvd, Sierra Madre, CA 91024</p><p>Time of service is from 11am to 3pm today, January 23rd.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at at this location. Free 5 gallon bladders will also be available.</p><p>Time of Service is from 11am-3pm</p>",
 					"links": []
 				}
 			}
