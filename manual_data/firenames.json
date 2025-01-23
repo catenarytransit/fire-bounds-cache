@@ -1,19 +1,6 @@
 {
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Kenneth Fire"
-      },
-      "geometry": {
-        "coordinates": [
-          -118.668093,
-          34.184944
-        ],
-        "type": "Point"
-      },
-      "id": "cc0aeae591b8b9144aebcf056f5af860"
-    }
+    
   ],
   "type": "FeatureCollection"
 }
