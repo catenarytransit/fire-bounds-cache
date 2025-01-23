@@ -349,21 +349,6 @@
 				}
 			},
 			{
-				"id": 40760,
-				"address": "928 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - Lake Street Washington Ave",
-				"lat": 34.1688148,
-				"lng": -118.1314348,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p><br>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Lake Street Washington Ave at 928 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 5:00pm - 9:00pm today, January 22nd</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40452,
 				"address": "5210 W Ave I, Lancaster",
 				"name": "Small/Large Animal Shelter - Lancaster Animal Care Center",
@@ -730,21 +715,6 @@
 							"value": "https://www.wwccoc.org/"
 						}
 					]
-				}
-			},
-			{
-				"id": 40760,
-				"address": "928 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - Lake Street Washington Ave",
-				"lat": 34.1688148,
-				"lng": -118.1314348,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p><br>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Lake Street Washington Ave at 928 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 5:00pm - 9:00pm today, January 22nd</p>",
-					"links": []
 				}
 			},
 			{
@@ -1894,6 +1864,45 @@
 		},
 		"date_created": "2025-01-23T03:03:15Z",
 		"date_modified": "2025-01-23T04:03:32Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 41071,
+		"is_active": true,
+		"name": "Hueneme Fire",
+		"description": null,
+		"lat": 34.14017087174851,
+		"lng": -119.1753170948052,
+		"address": "E McWane Boulevard, West of Arcturus Avenue, Oxnard",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": 1.5,
+			"links": [],
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-01-23T06:09:07Z",
+		"date_modified": "2025-01-23T06:15:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
