@@ -1508,7 +1508,7 @@
 	},
 	{
 		"id": 40984,
-		"is_active": true,
+		"is_active": false,
 		"name": "Mesquite Fire",
 		"description": null,
 		"lat": 33.356667,
@@ -1520,7 +1520,7 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": null,
+			"is_fps": false,
 			"containment": null,
 			"acreage": 1,
 			"links": null,
@@ -1536,10 +1536,10 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T21:45:44Z",
-		"date_modified": "2025-01-21T22:48:58Z",
+		"date_modified": "2025-01-23T18:12:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "66d62117-5a18-4b48-a3bc-4e4b5c781e1c",
 		"external_source": "wildcad",
 		"child_geo_events": [],
@@ -1837,7 +1837,7 @@
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": "CAS-BITTERCANYON, CAS-CASTAICLAKE, CAS-CHARLIECANYON, LAC-E008, LAC-E016",
-			"evacuation_warnings": "CAS-BISCAILUZ, CAS-PARADISERANCH, CAS-RIDGE, LAC-E029, LAC-FRANCISQUITO, SCL-KELLYJOHNSON, SCL-REYESADOBE, SCL-STERLING, SCL-TESORODELVALLE, VNC Zone 1, VNC Zone 2",
+			"evacuation_warnings": "CAS-BISCAILUZ, CAS-PARADISERANCH, CAS-RIDGE, LAC-E029, LAC-FRANCISQUITO, SCL-KELLYJOHNSON, SCL-REYESADOBE, SCL-STERLING, SCL-TESORODELVALLE",
 			"evacuation_advisories": null,
 			"evacuation_notes": "LA County - Genasys Evacuation Map Ventura County Evacuation Map I-5 Northbound and Southbound now OPEN Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.",
 			"is_complex_parent": false,
@@ -1845,7 +1845,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-23T17:41:00Z",
+		"date_modified": "2025-01-23T18:21:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1966,9 +1966,7 @@
 			"SCL-KELLYJOHNSON",
 			"SCL-REYESADOBE",
 			"SCL-STERLING",
-			"SCL-TESORODELVALLE",
-			"VNC Zone 1",
-			"VNC Zone 2"
+			"SCL-TESORODELVALLE"
 		]
 	},
 	{
@@ -2352,7 +2350,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T16:42:00Z",
-		"date_modified": "2025-01-23T18:00:31Z",
+		"date_modified": "2025-01-23T18:14:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2384,7 +2382,7 @@
 	{
 		"id": 41091,
 		"is_active": true,
-		"name": "Vegetation Fire",
+		"name": "Burr Fire",
 		"description": null,
 		"lat": 33.2937905,
 		"lng": -111.3004495,
@@ -2405,13 +2403,13 @@
 			"evacuation_orders": "Residents in the area of the Southwest region of Queen Valley",
 			"evacuation_warnings": null,
 			"evacuation_advisories": "Residents in the area of the North and West regions of Queen Valley",
-			"evacuation_notes": null,
+			"evacuation_notes": "Pinal Emergency Notification System (PENS) Signup",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T17:44:03Z",
-		"date_modified": "2025-01-23T17:51:09Z",
+		"date_modified": "2025-01-23T18:19:45Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
