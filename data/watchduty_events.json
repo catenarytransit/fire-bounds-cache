@@ -1025,7 +1025,7 @@
 	},
 	{
 		"id": 40985,
-		"is_active": true,
+		"is_active": false,
 		"name": "Houston 0190 Fire",
 		"description": null,
 		"lat": 31.423637,
@@ -1053,7 +1053,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T21:55:29Z",
-		"date_modified": "2025-01-22T22:40:24Z",
+		"date_modified": "2025-01-23T06:54:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
