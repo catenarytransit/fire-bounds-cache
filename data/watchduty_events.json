@@ -1836,8 +1836,8 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "-- LA County --CAS-BISCAILUZ, CAS-BITTERCANYON, CAS-CAMBRIDGE, CAS-CASTAICLAKE, CAS-CHARLIECANYON, CAS-GOLDENSTATE, CAS-GREENHILL, CAS-HASLEY, CAS-HILLCREST, CAS-PARADISERANCH, CAS-RIDGE, CAS-ROMERO, CAS-SLOAN, LAC-E008, LAC-E016, LAC-E029, LAC-FRANCISQUITO, SCL-KELLYJOHNSON, SCL-REYESADOBE, SCL-STERLING, SCL-TESORODELVALLE -- Ventura County --VNC Zone 1",
-			"evacuation_warnings": "-- LA County --CAS-INDUSTRY, CAS-LIVEOAK, CAS-OAKCANYON, CAS-VALVERDE, GOR-E004, GOR-HUNGRYVALLEY, LAC-E005, LAC-E009-B, LAC-E011-A, LAC-E011-B, LAC-E017, LAC-E018, LAC-E030, SCL-BLACKPINE, SCL-CALEX, SCL-DECORO, SCL-MOUNTAINVIEW, SCL-PACIFICCREST, SCL-RANCHOTESORO, SCL-RIONORTE, SCL-RYE, SCL-WESTHILLS -- Ventura County --VNC Zone 2, VNC Zone 3 - Piru, VNC Zone 4 - Hopper, VNC Zone 5 - Hopper Mountain, VNC Zone 6 - Lake Piru, VNC Zone 7 - Camulos, VNC Zone 8 - Guiberson",
+			"evacuation_orders": "-- LA County --CAS-BISCAILUZ, CAS-BITTERCANYON, CAS-CAMBRIDGE, CAS-CASTAICLAKE, CAS-CHARLIECANYON, CAS-GOLDENSTATE, CAS-GREENHILL, CAS-HASLEY, CAS-HILLCREST, CAS-PARADISERANCH, CAS-RIDGE, CAS-ROMERO, CAS-SLOAN, LAC-E008, LAC-E016, LAC-E029, LAC-FRANCISQUITO, SCL-KELLYJOHNSON, SCL-REYESADOBE, SCL-STERLING, SCL-TESORODELVALLE",
+			"evacuation_warnings": "-- LA County --CAS-INDUSTRY, CAS-LIVEOAK, CAS-OAKCANYON, CAS-VALVERDE, GOR-E004, GOR-HUNGRYVALLEY, LAC-E005, LAC-E009-B, LAC-E011-A, LAC-E011-B, LAC-E017, LAC-E018, LAC-E030, SCL-BLACKPINE, SCL-CALEX, SCL-DECORO, SCL-MOUNTAINVIEW, SCL-PACIFICCREST, SCL-RANCHOTESORO, SCL-RIONORTE, SCL-RYE, SCL-WESTHILLS -- Ventura County --VNC Zone 1, VNC Zone 2",
 			"evacuation_advisories": null,
 			"evacuation_notes": "LA County - Genasys Evacuation Map Ventura County Evacuation Map I-5 Northbound and Southbound now OPEN Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.",
 			"is_complex_parent": false,
@@ -1845,7 +1845,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-23T15:22:08Z",
+		"date_modified": "2025-01-23T15:42:28Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1971,7 +1971,7 @@
 			"SCL-KELLYJOHNSON",
 			"SCL-REYESADOBE",
 			"SCL-STERLING",
-			"SCL-TESORODELVALLE -- Ventura County --VNC Zone 1"
+			"SCL-TESORODELVALLE"
 		],
 		"evacuation_warnings_arr": [
 			"-- LA County --CAS-INDUSTRY",
@@ -1995,13 +1995,8 @@
 			"SCL-RANCHOTESORO",
 			"SCL-RIONORTE",
 			"SCL-RYE",
-			"SCL-WESTHILLS -- Ventura County --VNC Zone 2",
-			"VNC Zone 3 - Piru",
-			"VNC Zone 4 - Hopper",
-			"VNC Zone 5 - Hopper Mountain",
-			"VNC Zone 6 - Lake Piru",
-			"VNC Zone 7 - Camulos",
-			"VNC Zone 8 - Guiberson"
+			"SCL-WESTHILLS -- Ventura County --VNC Zone 1",
+			"VNC Zone 2"
 		]
 	},
 	{
