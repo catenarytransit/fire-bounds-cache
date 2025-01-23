@@ -1855,15 +1855,15 @@
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": null,
-			"evacuation_warnings": "LOS-Q0779-B, LOS-Q0800-A",
+			"evacuation_warnings": "Zone LOS-Q0800-A on GenasysSOUTH of 1500 block of Casiano Rd, NORTH of Moraga Dr, EAST of Sepulveda Blvd, and WEST of Chalon Rd.",
 			"evacuation_advisories": null,
-			"evacuation_notes": "Genasys Evacuation Map",
+			"evacuation_notes": "Genasys Evacuation MapNote - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T07:08:36Z",
-		"date_modified": "2025-01-23T08:11:20Z",
+		"date_modified": "2025-01-23T08:22:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1872,8 +1872,10 @@
 		"child_geo_events": [],
 		"parent_geo_events": [],
 		"evacuation_warnings_arr": [
-			"LOS-Q0779-B",
-			"LOS-Q0800-A"
+			"Zone LOS-Q0800-A on GenasysSOUTH of 1500 block of Casiano Rd",
+			"NORTH of Moraga Dr",
+			"EAST of Sepulveda Blvd",
+			"and WEST of Chalon Rd."
 		]
 	}
 ]
