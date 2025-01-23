@@ -349,66 +349,6 @@
 				}
 			},
 			{
-				"id": 40578,
-				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
-				"name": "WCK Meal Distribution - Palisades Fire Station 69",
-				"lat": 34.0450471,
-				"lng": -118.5224772,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, January 22nd</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal & Water Distribution - Gordy's Garage",
-				"lat": 34.18337933733453,
-				"lng": -118.16820616577323,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 22nd.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40751,
-				"address": "1081 N Fair Oaks Ave, Pasadena, CA 91103, USA",
-				"name": "WCK Meal Distribution - Robinson Park Rec Center",
-				"lat": 34.1645663,
-				"lng": -118.1515067,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Robinson Park Recreation Center located at 1081 N Fair Oaks Ave, Pasadena, CA 91103, USA.</p><p>Time of service is from 4pm to 8pm today, January 22nd</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40749,
-				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
-				"lat": 34.1444939,
-				"lng": -118.0780778,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 5pm to 8pm today, January 22nd</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40760,
 				"address": "928 E Washington Blvd, Pasadena, CA 91104, USA",
 				"name": "WCK Meal Distribution - Lake Street Washington Ave",
@@ -793,66 +733,6 @@
 				}
 			},
 			{
-				"id": 40578,
-				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
-				"name": "WCK Meal Distribution - Palisades Fire Station 69",
-				"lat": 34.0450471,
-				"lng": -118.5224772,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, January 22nd</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal & Water Distribution - Gordy's Garage",
-				"lat": 34.18337933733453,
-				"lng": -118.16820616577323,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 22nd.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40751,
-				"address": "1081 N Fair Oaks Ave, Pasadena, CA 91103, USA",
-				"name": "WCK Meal Distribution - Robinson Park Rec Center",
-				"lat": 34.1645663,
-				"lng": -118.1515067,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Robinson Park Recreation Center located at 1081 N Fair Oaks Ave, Pasadena, CA 91103, USA.</p><p>Time of service is from 4pm to 8pm today, January 22nd</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40749,
-				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
-				"lat": 34.1444939,
-				"lng": -118.0780778,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 5pm to 8pm today, January 22nd</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40760,
 				"address": "928 E Washington Blvd, Pasadena, CA 91104, USA",
 				"name": "WCK Meal Distribution - Lake Street Washington Ave",
@@ -954,7 +834,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": 95,
+			"containment": 100,
 			"acreage": 85,
 			"links": [],
 			"has_custom_evacuation_orders": false,
@@ -969,7 +849,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T09:02:57Z",
-		"date_modified": "2025-01-23T01:32:07Z",
+		"date_modified": "2025-01-23T03:59:27Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1590,7 +1470,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-23T02:46:16Z",
+		"date_modified": "2025-01-23T04:02:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2012,7 +1892,7 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": false,
+			"is_fps": true,
 			"containment": null,
 			"acreage": 2,
 			"links": [],
@@ -2028,7 +1908,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T03:03:15Z",
-		"date_modified": "2025-01-23T03:49:35Z",
+		"date_modified": "2025-01-23T04:03:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
