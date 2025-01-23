@@ -1802,7 +1802,7 @@
 	},
 	{
 		"id": 41056,
-		"is_active": true,
+		"is_active": false,
 		"name": "Anderson 0211 Fire",
 		"description": null,
 		"lat": 31.703817,
@@ -1830,7 +1830,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T23:10:25Z",
-		"date_modified": "2025-01-23T00:00:24Z",
+		"date_modified": "2025-01-23T04:09:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
