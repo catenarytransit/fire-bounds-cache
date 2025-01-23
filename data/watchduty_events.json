@@ -2430,23 +2430,7 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 41097,
-				"address": "1464 E Queen Valley Dr, Queen Valley, AZ 85118",
-				"name": "Queen Valley Community Center",
-				"lat": 33.2997451,
-				"lng": -111.2878095,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>The evacuation center is at the Queen Valley Community Center per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/PinalCountySO\">Pinal County Sheriff's Office</a> on Facebook.</p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
