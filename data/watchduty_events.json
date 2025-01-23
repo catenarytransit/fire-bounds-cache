@@ -1391,7 +1391,7 @@
 	},
 	{
 		"id": 40938,
-		"is_active": true,
+		"is_active": false,
 		"name": "Prairie Fire",
 		"description": null,
 		"lat": 35.237861919712714,
@@ -1419,7 +1419,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-21T13:21:37Z",
-		"date_modified": "2025-01-23T09:01:28Z",
+		"date_modified": "2025-01-23T17:09:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2371,16 +2371,16 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "CSU Channel Islands, including University Glen",
+			"evacuation_orders": "CSU Channel Islands, including University Glen (Laguna Zone 1) Laguna Zone 2 (Reference Ventura County's Evacuation Dashboard)",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "Potrero Road is closed.",
+			"evacuation_notes": "Ventura County Evacuation Map/Dashboard Potrero Road is closed. Sign up for CSUCI alerts at https://www.csuci.edu/publicsafety/CI_Alert.htm",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T16:42:00Z",
-		"date_modified": "2025-01-23T17:03:50Z",
+		"date_modified": "2025-01-23T17:13:40Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2390,7 +2390,7 @@
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"CSU Channel Islands",
-			"including University Glen"
+			"including University Glen (Laguna Zone 1) Laguna Zone 2 (Reference Ventura County's Evacuation Dashboard)"
 		]
 	}
 ]
