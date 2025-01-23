@@ -1877,8 +1877,8 @@
 		"is_active": true,
 		"name": "Sepulveda Fire",
 		"description": null,
-		"lat": 34.0955918655327,
-		"lng": -118.47467684018982,
+		"lat": 34.09644575452569,
+		"lng": -118.47546956353818,
 		"address": "East of I-405, At the Getty Center Drive Exit, Sepulveda Pass",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1902,7 +1902,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T07:08:36Z",
-		"date_modified": "2025-01-23T07:26:22Z",
+		"date_modified": "2025-01-23T07:41:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
