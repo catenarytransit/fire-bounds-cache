@@ -1898,21 +1898,6 @@
 				}
 			},
 			{
-				"id": 37838,
-				"address": "600 Aviation Dr, Camarillo, CA 93010, USA",
-				"name": "Small Animal Shelter - Ventura County Animal Services (Camarillo Airport)",
-				"lat": 34.2092912,
-				"lng": -119.08549,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>An evacuation center for small animals has been established at Ventura County Animal Services (Camarillo Airport) located at 600 Aviation Dr, Camarillo, CA 93010, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.vcemergency.com/\">VCEmergency</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 37836,
 				"address": "10 E Harbor Blvd, Ventura, CA 93001, USA",
 				"name": "Large Animal Shelter - Ventura County Fairgrounds",
@@ -1945,6 +1930,21 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>Evacuation Shelter per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross Shelter Map</a></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 37838,
+				"address": "600 Aviation Dr, Camarillo, CA 93010, USA",
+				"name": "Small Animal Shelter - Ventura County Animal Services (Camarillo Airport)",
+				"lat": 34.2092912,
+				"lng": -119.08549,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>An evacuation center for small animals has been established at Ventura County Animal Services (Camarillo Airport) located at 600 Aviation Dr, Camarillo, CA 93010, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.vcemergency.com/\">VCEmergency</a>.</p>",
 					"links": []
 				}
 			}
@@ -2369,6 +2369,21 @@
 					"geo_event_type": "location",
 					"location_type": "general",
 					"information": "<p>A Temporary Evacuation Point (TEP) has been established at the Camarillo Community Center located at 1605 Burnley St, Camarillo, CA 93010, USA. Per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.vcemergency.com/\">VCEmergency</a></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 37838,
+				"address": "600 Aviation Dr, Camarillo, CA 93010, USA",
+				"name": "Small Animal Shelter - Ventura County Animal Services (Camarillo Airport)",
+				"lat": 34.2092912,
+				"lng": -119.08549,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>An evacuation center for small animals has been established at Ventura County Animal Services (Camarillo Airport) located at 600 Aviation Dr, Camarillo, CA 93010, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.vcemergency.com/\">VCEmergency</a>.</p>",
 					"links": []
 				}
 			}
