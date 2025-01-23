@@ -1794,8 +1794,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 14,
-			"acreage": 10176,
+			"containment": 24,
+			"acreage": 10278,
 			"links": [
 				{
 					"link_type": "website",
@@ -1845,7 +1845,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-23T18:21:05Z",
+		"date_modified": "2025-01-23T19:53:00Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2338,11 +2338,11 @@
 			"containment": null,
 			"acreage": 50,
 			"links": [],
-			"has_custom_evacuation_orders": true,
-			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "CSU Channel Islands, including University Glen (Laguna Zone 1) Laguna Zone 2 (Reference Ventura County's Evacuation Dashboard)",
-			"evacuation_warnings": null,
+			"evacuation_orders": null,
+			"evacuation_warnings": "Laguna Zone 1 - CSU Channel Islands, including University Glen Laguna Zone 2 (Reference Ventura County's Evacuation Dashboard)",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Ventura County Evacuation Map/Dashboard Road Closures in place for Potrero Road and Lewis Road south of Pleasant Valley. Sign up for CSUCI alerts at https://www.csuci.edu/publicsafety/CI_Alert.htm",
 			"is_complex_parent": false,
@@ -2350,7 +2350,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T16:42:00Z",
-		"date_modified": "2025-01-23T19:26:02Z",
+		"date_modified": "2025-01-23T19:53:57Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2389,9 +2389,9 @@
 			}
 		],
 		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"CSU Channel Islands",
-			"including University Glen (Laguna Zone 1) Laguna Zone 2 (Reference Ventura County's Evacuation Dashboard)"
+		"evacuation_warnings_arr": [
+			"Laguna Zone 1 - CSU Channel Islands",
+			"including University Glen Laguna Zone 2 (Reference Ventura County's Evacuation Dashboard)"
 		]
 	},
 	{
