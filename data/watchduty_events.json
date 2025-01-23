@@ -1900,7 +1900,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T21:25:24Z",
-		"date_modified": "2025-01-23T02:24:09Z",
+		"date_modified": "2025-01-23T23:20:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2506,7 +2506,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": 20,
+			"acreage": 50,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2520,7 +2520,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T22:00:29Z",
-		"date_modified": "2025-01-23T22:54:34Z",
+		"date_modified": "2025-01-23T23:25:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2559,13 +2559,29 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T22:21:11Z",
-		"date_modified": "2025-01-23T22:53:26Z",
+		"date_modified": "2025-01-23T23:25:41Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 41118,
+				"address": "9420 Athena Cir, La Jolla, CA 92037, USA",
+				"name": "Evacuation Point - Parking Lot P781",
+				"lat": 32.877986932348676,
+				"lng": -117.21894604014044,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>An Evacuation Point is established at Parking Lot P781 located northeast of 9420 Athena Cir, La Jolla, CA 92037, USA. Per a <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\">WEA via PBS WARN</a>.</p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"SDC-1648"
