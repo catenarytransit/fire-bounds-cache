@@ -1668,10 +1668,10 @@
 			"acreage": 800,
 			"links": [],
 			"has_custom_evacuation_orders": true,
-			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "SDC-2543",
-			"evacuation_warnings": "SDC-2464",
+			"evacuation_orders": "SDC-2464, SDC-2543",
+			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation MapAlta Road is closed to traffic just south of Otay Mesa Road.",
 			"is_complex_parent": false,
@@ -1679,7 +1679,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T22:00:29Z",
-		"date_modified": "2025-01-24T09:54:36Z",
+		"date_modified": "2025-01-24T10:47:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1688,10 +1688,8 @@
 		"child_geo_events": [],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
+			"SDC-2464",
 			"SDC-2543"
-		],
-		"evacuation_warnings_arr": [
-			"SDC-2464"
 		]
 	},
 	{
