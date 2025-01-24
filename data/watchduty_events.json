@@ -2346,8 +2346,8 @@
 		"is_active": true,
 		"name": "Henderson 0273 Fire",
 		"description": null,
-		"lat": 32.335863,
-		"lng": -95.81756,
+		"lat": 32.350556,
+		"lng": -95.798889,
 		"address": "2400 Block of Co Rd 3800, Athens, TX 75752",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2371,7 +2371,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T23:26:01Z",
-		"date_modified": "2025-01-24T23:26:01Z",
+		"date_modified": "2025-01-24T23:51:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
