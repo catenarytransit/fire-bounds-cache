@@ -1679,7 +1679,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T22:00:29Z",
-		"date_modified": "2025-01-24T11:17:50Z",
+		"date_modified": "2025-01-24T11:25:43Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1688,16 +1688,16 @@
 		"child_geo_events": [
 			{
 				"id": 41138,
-				"address": "900 Otay Lakes Rd, Chula Vista, CA 91910, USA",
-				"name": "Evacuation Point - Southwestern College",
-				"lat": 32.6400996,
-				"lng": -116.9978233,
+				"address": "2951 Jamacha Rd., El Cajon, CA 92019",
+				"name": "Evacuation Point - Edwards Theater",
+				"lat": 32.7371773,
+				"lng": -116.9395915,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "info",
-					"information": "<p>An evacuation point is available at Southwestern College, 900 Otay Lakes Rd, Chula Vista, CA 91910 per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://protect.genasys.com/search?z=12.288451358075413&amp;latlon=32.63993475629802%2C-116.85704867823301\">Genasys</a>.</p>",
+					"information": "<p>An evacuation point is available at Edwards Theater, 2951 Jamacha Rd., El Cajon, CA 92019 per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://protect.genasys.com/search?z=12.288451358075413&amp;latlon=32.63993475629802%2C-116.85704867823301\">Genasys</a>.</p>",
 					"links": []
 				}
 			}
