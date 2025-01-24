@@ -1930,7 +1930,7 @@
 	},
 	{
 		"id": 41106,
-		"is_active": true,
+		"is_active": false,
 		"name": "Baldy Fire",
 		"description": null,
 		"lat": 34.3550788,
@@ -1958,7 +1958,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T21:12:47Z",
-		"date_modified": "2025-01-24T02:08:53Z",
+		"date_modified": "2025-01-24T03:22:29Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1969,7 +1969,7 @@
 	},
 	{
 		"id": 41107,
-		"is_active": true,
+		"is_active": false,
 		"name": "Highland Fire",
 		"description": null,
 		"lat": 34.135905,
@@ -1997,7 +1997,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T21:25:17Z",
-		"date_modified": "2025-01-24T02:08:36Z",
+		"date_modified": "2025-01-24T03:22:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2176,7 +2176,7 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": false,
+			"is_fps": true,
 			"containment": null,
 			"acreage": 15,
 			"links": [],
@@ -2192,7 +2192,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T00:35:42Z",
-		"date_modified": "2025-01-24T02:06:44Z",
+		"date_modified": "2025-01-24T03:18:23Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2215,7 +2215,7 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": false,
+			"is_fps": true,
 			"containment": null,
 			"acreage": null,
 			"links": [],
@@ -2223,7 +2223,7 @@
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": "MUR-2150-A",
-			"evacuation_warnings": "MUR-2086, MUR-2149, MUR-2150, MUR-2150-B",
+			"evacuation_warnings": "MUR-2086, MUR-2149, MUR-2150-B",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map",
 			"is_complex_parent": false,
@@ -2231,7 +2231,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T02:27:11Z",
-		"date_modified": "2025-01-24T03:03:34Z",
+		"date_modified": "2025-01-24T03:21:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2245,7 +2245,6 @@
 		"evacuation_warnings_arr": [
 			"MUR-2086",
 			"MUR-2149",
-			"MUR-2150",
 			"MUR-2150-B"
 		]
 	},
