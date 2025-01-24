@@ -1715,10 +1715,10 @@
 			"evacuation_notes": "Alta Road is closed to traffic just south of Otay Mesa Road.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": true
 		},
 		"date_created": "2025-01-23T22:00:29Z",
-		"date_modified": "2025-01-24T09:11:10Z",
+		"date_modified": "2025-01-24T09:34:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
