@@ -2301,7 +2301,7 @@
 	},
 	{
 		"id": 41148,
-		"is_active": true,
+		"is_active": false,
 		"name": "Sunset Fire",
 		"description": null,
 		"lat": 34.224083,
@@ -2329,7 +2329,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T15:00:18Z",
-		"date_modified": "2025-01-24T15:11:35Z",
+		"date_modified": "2025-01-24T21:39:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
