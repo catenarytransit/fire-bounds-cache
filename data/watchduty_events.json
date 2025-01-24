@@ -1491,11 +1491,11 @@
 					"value": "https://pw.lacounty.gov/roadclosures/"
 				}
 			],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "CAS-BITTERCANYON, CAS-CASTAICLAKE, CAS-CHARLIECANYON, LAC-E008, LAC-E016",
-			"evacuation_warnings": "CAS-BISCAILUZ, CAS-PARADISERANCH, CAS-RIDGE, LAC-E029, LAC-FRANCISQUITO, SCL-KELLYJOHNSON, SCL-REYESADOBE, SCL-STERLING, SCL-TESORODELVALLE",
+			"evacuation_orders": null,
+			"evacuation_warnings": "CAS-BISCAILUZ, CAS-BITTERCANYON, CAS-CASTAICLAKE, CAS-CHARLIECANYON, CAS-PARADISERANCH, CAS-RIDGE, LAC-E008, LAC-E016, LAC-E029, LAC-FRANCISQUITO, SCL-KELLYJOHNSON, SCL-REYESADOBE, SCL-STERLING, SCL-TESORODELVALLE",
 			"evacuation_advisories": null,
 			"evacuation_notes": "LA County - Genasys Evacuation Map Ventura County Evacuation Map Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.",
 			"is_complex_parent": false,
@@ -1503,7 +1503,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-24T13:58:25Z",
+		"date_modified": "2025-01-24T16:40:30Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1572,17 +1572,15 @@
 			}
 		],
 		"parent_geo_events": [],
-		"evacuation_orders_arr": [
+		"evacuation_warnings_arr": [
+			"CAS-BISCAILUZ",
 			"CAS-BITTERCANYON",
 			"CAS-CASTAICLAKE",
 			"CAS-CHARLIECANYON",
-			"LAC-E008",
-			"LAC-E016"
-		],
-		"evacuation_warnings_arr": [
-			"CAS-BISCAILUZ",
 			"CAS-PARADISERANCH",
 			"CAS-RIDGE",
+			"LAC-E008",
+			"LAC-E016",
 			"LAC-E029",
 			"LAC-FRANCISQUITO",
 			"SCL-KELLYJOHNSON",
@@ -2002,7 +2000,38 @@
 			"is_fps": false,
 			"containment": 10,
 			"acreage": 4250,
-			"links": [],
+			"links": [
+				{
+					"link_type": "website",
+					"label": "San Diego County Office of Education",
+					"value": "https://www.sdcoe.net/about-sdcoe/news"
+				},
+				{
+					"link_type": "website",
+					"label": "CAL FIRE/San Diego County Fire X",
+					"value": "https://x.com/CALFIRESANDIEGO"
+				},
+				{
+					"link_type": "website",
+					"label": "CAL FIRE/San Diego County Fire Facebook Page",
+					"value": "https://www.facebook.com/CALFIRESANDIEGO"
+				},
+				{
+					"link_type": "website",
+					"label": "Genasys Evacuation Map",
+					"value": "https://protect.genasys.com/search?z=11.75882236340605&latlon=32.64904146857032%2C-116.83670688713539"
+				},
+				{
+					"link_type": "website",
+					"label": "San Diego County Sheriff's Office X",
+					"value": "https://www.sdsheriff.gov/"
+				},
+				{
+					"link_type": "website",
+					"label": "Chula Vista Fire Department",
+					"value": "https://www.facebook.com/ChulaVistaFD"
+				}
+			],
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
@@ -2015,7 +2044,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T22:00:29Z",
-		"date_modified": "2025-01-24T16:19:08Z",
+		"date_modified": "2025-01-24T16:35:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2199,7 +2228,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": 50,
+			"containment": 90,
 			"acreage": 20,
 			"links": [],
 			"has_custom_evacuation_orders": false,
@@ -2214,7 +2243,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T00:35:42Z",
-		"date_modified": "2025-01-24T16:22:05Z",
+		"date_modified": "2025-01-24T16:33:44Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
