@@ -1450,6 +1450,11 @@
 					"link_type": "website",
 					"label": "LA County Road Closures",
 					"value": "https://pw.lacounty.gov/roadclosures/"
+				},
+				{
+					"link_type": "phone",
+					"label": "Incident Public Information Phone Open 8 AM to 10 PM",
+					"value": "6266620120"
 				}
 			],
 			"has_custom_evacuation_orders": false,
@@ -1464,7 +1469,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-24T17:18:25Z",
+		"date_modified": "2025-01-24T17:51:34Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
