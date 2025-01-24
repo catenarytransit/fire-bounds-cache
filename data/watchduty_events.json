@@ -349,36 +349,6 @@
 				}
 			},
 			{
-				"id": 40578,
-				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
-				"name": "WCK Meal Distribution - Palisades Fire Station 69",
-				"lat": 34.0450471,
-				"lng": -118.5224772,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, January 23rd. </p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40749,
-				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
-				"lat": 34.1444939,
-				"lng": -118.0780778,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 5pm to 8pm today, January 23rd.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 41073,
 				"address": "128 Old Topanga Canyon Rd, Topanga, CA 90290, USA",
 				"name": "WCK Meal Distribution - Inn of the Seventh Ray",
@@ -390,36 +360,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Inn of the Seventh Ray located at 128 Old Topanga Canyon Rd, Topanga, CA 90290.</p><p>Time of service is from 4pm to 9pm today, January 23rd</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40751,
-				"address": "1081 N Fair Oaks Ave, Pasadena, CA 91103, USA",
-				"name": "WCK Meal Distribution - Robinson Park Rec Center",
-				"lat": 34.1645663,
-				"lng": -118.1515067,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Robinson Park Recreation Center located at 1081 N Fair Oaks Ave, Pasadena, CA 91103, USA.</p><p>Time of service is from 4pm to 8pm today, January 23rd.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal & Water Distribution - Gordy's Garage",
-				"lat": 34.18337933733453,
-				"lng": -118.16820616577323,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 23rd. </p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
 					"links": []
 				}
 			},
@@ -793,36 +733,6 @@
 				}
 			},
 			{
-				"id": 40578,
-				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
-				"name": "WCK Meal Distribution - Palisades Fire Station 69",
-				"lat": 34.0450471,
-				"lng": -118.5224772,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, January 23rd. </p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40749,
-				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
-				"lat": 34.1444939,
-				"lng": -118.0780778,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 5pm to 8pm today, January 23rd.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 41073,
 				"address": "128 Old Topanga Canyon Rd, Topanga, CA 90290, USA",
 				"name": "WCK Meal Distribution - Inn of the Seventh Ray",
@@ -834,36 +744,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Inn of the Seventh Ray located at 128 Old Topanga Canyon Rd, Topanga, CA 90290.</p><p>Time of service is from 4pm to 9pm today, January 23rd</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40751,
-				"address": "1081 N Fair Oaks Ave, Pasadena, CA 91103, USA",
-				"name": "WCK Meal Distribution - Robinson Park Rec Center",
-				"lat": 34.1645663,
-				"lng": -118.1515067,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Robinson Park Recreation Center located at 1081 N Fair Oaks Ave, Pasadena, CA 91103, USA.</p><p>Time of service is from 4pm to 8pm today, January 23rd.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal & Water Distribution - Gordy's Garage",
-				"lat": 34.18337933733453,
-				"lng": -118.16820616577323,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 23rd. </p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
 					"links": []
 				}
 			},
@@ -1311,13 +1191,13 @@
 			"evacuation_orders": "CAS-BITTERCANYON, CAS-CASTAICLAKE, CAS-CHARLIECANYON, LAC-E008, LAC-E016",
 			"evacuation_warnings": "CAS-BISCAILUZ, CAS-PARADISERANCH, CAS-RIDGE, LAC-E029, LAC-FRANCISQUITO, SCL-KELLYJOHNSON, SCL-REYESADOBE, SCL-STERLING, SCL-TESORODELVALLE",
 			"evacuation_advisories": null,
-			"evacuation_notes": "LA County - Genasys Evacuation Map Ventura County Evacuation Map I-5 Northbound and Southbound now OPEN Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.",
+			"evacuation_notes": "LA County - Genasys Evacuation Map Ventura County Evacuation Map Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-24T03:47:32Z",
+		"date_modified": "2025-01-24T04:20:57Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1402,21 +1282,6 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>Evacuation Shelter per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross Shelter Map</a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 41120,
-				"address": "31230 Castaic Rd, Castaic, CA 91384, USA",
-				"name": "WCK Meal Distribution - Castaic Sports Complex",
-				"lat": 34.4861532,
-				"lng": -118.6147645,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Castaic Sports Complex located at 31230 Castaic Rd, Castaic, CA 91384</p><p>Time of service is from 5pm to 8pm today, January 23rd.</p>",
 					"links": []
 				}
 			},
