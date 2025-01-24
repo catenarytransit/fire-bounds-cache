@@ -1953,7 +1953,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T22:00:29Z",
-		"date_modified": "2025-01-24T19:33:13Z",
+		"date_modified": "2025-01-24T20:18:40Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2164,7 +2164,7 @@
 	},
 	{
 		"id": 41130,
-		"is_active": true,
+		"is_active": false,
 		"name": "Fig Fire",
 		"description": null,
 		"lat": 33.54534240419258,
@@ -2186,13 +2186,13 @@
 			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "Genasys Evacuation Map",
+			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T02:27:11Z",
-		"date_modified": "2025-01-24T15:17:39Z",
+		"date_modified": "2025-01-24T20:25:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2348,7 +2348,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T19:54:47Z",
-		"date_modified": "2025-01-24T20:03:29Z",
+		"date_modified": "2025-01-24T20:17:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
