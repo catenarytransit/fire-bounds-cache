@@ -2114,6 +2114,21 @@
 					"information": "<p>An evacuation point is available at Edwards Theater, 2951 Jamacha Rd., El Cajon, CA 92019 per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://protect.genasys.com/search?z=12.288451358075413&amp;latlon=32.63993475629802%2C-116.85704867823301\">Genasys</a>.</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 41140,
+				"address": "900 Otay Lakes Rd, Chula Vista",
+				"name": "Temporary Evacuation Point - Southwestern College",
+				"lat": 32.6427876,
+				"lng": -116.9992869,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "info",
+					"information": "<p>A temporary evacuation point has been established at Southwestern College, 900 Otay Lakes Rd, Chula Vista.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
