@@ -469,36 +469,6 @@
 				}
 			},
 			{
-				"id": 40752,
-				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
-				"lat": 34.1545211,
-				"lng": -118.1321314,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 4pm today, January 23rd. </p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40852,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Meal & Water Distribution - LACoFD Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, January 23rd.<br><br><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11am - 3pm.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40714,
 				"address": "3035 E Foothill Blvd, Pasadena, CA 91107",
 				"name": "Disaster Recovery Center",
@@ -984,36 +954,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Xuntos located at 516 Santa Monica Blvd, Santa Monica, CA 90401, USA.</p><p>Time of service is from 1pm to 6pm today, January 23rd.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40752,
-				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
-				"lat": 34.1545211,
-				"lng": -118.1321314,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 4pm today, January 23rd. </p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40852,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Meal & Water Distribution - LACoFD Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, January 23rd.<br><br><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11am - 3pm.</p>",
 					"links": []
 				}
 			},
@@ -1595,21 +1535,6 @@
 				}
 			},
 			{
-				"id": 37838,
-				"address": "600 Aviation Dr, Camarillo, CA 93010, USA",
-				"name": "Small Animal Shelter - Ventura County Animal Services (Camarillo Airport)",
-				"lat": 34.2092912,
-				"lng": -119.08549,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A small animal shelter has been established at Ventura County Animal Services (Camarillo Airport) located at 600 Aviation Dr, Camarillo, CA 93010, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.vcemergency.com/\">VCEmergency</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 41120,
 				"address": "31230 Castaic Rd, Castaic, CA 91384, USA",
 				"name": "WCK Meal Distribution - Castaic Sports Complex",
@@ -1621,6 +1546,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Castaic Sports Complex located at 31230 Castaic Rd, Castaic, CA 91384</p><p>Time of service is from 5pm to 8pm today, January 23rd.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 37838,
+				"address": "600 Aviation Dr, Camarillo, CA 93010, USA",
+				"name": "Small Animal Shelter - Ventura County Animal Services (Camarillo Airport)",
+				"lat": 34.2092912,
+				"lng": -119.08549,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>A small animal shelter has been established at Ventura County Animal Services (Camarillo Airport) located at 600 Aviation Dr, Camarillo, CA 93010, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.vcemergency.com/\">VCEmergency</a>.</p>",
 					"links": []
 				}
 			}
@@ -1699,7 +1639,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 80,
+			"containment": 100,
 			"acreage": 154,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1714,7 +1654,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T21:50:25Z",
-		"date_modified": "2025-01-23T01:00:24Z",
+		"date_modified": "2025-01-24T00:00:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2020,50 +1960,19 @@
 			"evacuation_orders": null,
 			"evacuation_warnings": "Laguna Zone 1 - CSU Channel Islands, including University Glen Laguna Zone 2 (Reference Ventura County's Evacuation Dashboard)",
 			"evacuation_advisories": null,
-			"evacuation_notes": "Ventura County Evacuation Map/Dashboard Potrero Road closed from Hueneme Road to Oxnard StreetLewis Road re-opened to traffic. Sign up for CSUCI alerts at https://www.csuci.edu/publicsafety/CI_Alert.htm",
+			"evacuation_notes": "Ventura County Evacuation Map/Dashboard All roads closed due to the Laguna Fire are now open.  Sign up for CSUCI alerts at https://www.csuci.edu/publicsafety/CI_Alert.htm",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T16:42:00Z",
-		"date_modified": "2025-01-23T20:51:53Z",
+		"date_modified": "2025-01-24T00:17:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 41093,
-				"address": "1605 Burnley St, Camarillo, CA 93010, USA",
-				"name": "Temporary Evacuation Point - Camarillo Community Center",
-				"lat": 34.2263227,
-				"lng": -119.0492657,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>A Temporary Evacuation Point (TEP) has been established at the Camarillo Community Center located at 1605 Burnley St, Camarillo, CA 93010, USA. Per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.vcemergency.com/\">VCEmergency</a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 37838,
-				"address": "600 Aviation Dr, Camarillo, CA 93010, USA",
-				"name": "Small Animal Shelter - Ventura County Animal Services (Camarillo Airport)",
-				"lat": 34.2092912,
-				"lng": -119.08549,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A small animal shelter has been established at Ventura County Animal Services (Camarillo Airport) located at 600 Aviation Dr, Camarillo, CA 93010, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.vcemergency.com/\">VCEmergency</a>.</p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": [],
 		"evacuation_warnings_arr": [
 			"Laguna Zone 1 - CSU Channel Islands",
@@ -2111,7 +2020,7 @@
 	},
 	{
 		"id": 41099,
-		"is_active": true,
+		"is_active": false,
 		"name": "Milliken Fire",
 		"description": null,
 		"lat": 34.06513157049592,
@@ -2139,7 +2048,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T19:19:07Z",
-		"date_modified": "2025-01-23T20:21:32Z",
+		"date_modified": "2025-01-24T00:24:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2270,8 +2179,8 @@
 		"is_active": true,
 		"name": "Border 2 Fire",
 		"description": null,
-		"lat": 32.59835164281145,
-		"lng": -116.85128310513227,
+		"lat": 32.59796541390479,
+		"lng": -116.85092690363635,
 		"address": "1/2 Mile West of Doghouse Junction, Otay Mountain",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2281,7 +2190,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": 148.4,
+			"acreage": 150,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2295,7 +2204,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T22:00:29Z",
-		"date_modified": "2025-01-23T23:53:28Z",
+		"date_modified": "2025-01-24T00:07:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2379,6 +2288,45 @@
 		"reporter_managed": false,
 		"external_id": "{BC76DFEC-1158-45F8-843A-FF1E1DEAF978}",
 		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 41123,
+		"is_active": true,
+		"name": "Reche Fire",
+		"description": null,
+		"lat": 33.975563,
+		"lng": -117.206893,
+		"address": "Reche Canyon Rd & High Country Dr, Moreno Valley",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": null,
+			"links": [],
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-01-24T00:27:02Z",
+		"date_modified": "2025-01-24T00:29:03Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
 		"child_geo_events": [],
 		"parent_geo_events": []
 	}
