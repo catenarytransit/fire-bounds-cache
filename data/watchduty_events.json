@@ -1181,27 +1181,6 @@
 				}
 			},
 			{
-				"id": 37836,
-				"address": "10 E Harbor Blvd, Ventura, CA 93001, USA",
-				"name": "Large Animal Shelter - Ventura County Fairgrounds",
-				"lat": 34.274808990571074,
-				"lng": -119.30025800501218,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is established at the Ventura County Fairgrounds located at 10 E Harbor Blvd, Ventura, CA 93001, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.vcemergency.com/\">VCEmergency</a>.</p><p>Residents are encouraged to call <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link\" href=\"tel:8053884341\">(805) 388-4341</a> to check availability.</p>",
-					"links": [
-						{
-							"link_type": "phone",
-							"label": "Ventura County Animal Services",
-							"value": "8053884341"
-						}
-					]
-				}
-			},
-			{
 				"id": 41067,
 				"address": "26455 Rockwell Canyon Rd, Santa Clarita, CA 91355",
 				"name": "Evacuation Shelter - COC Valencia Campus East Gym",
@@ -1213,21 +1192,6 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>Evacuation Shelter per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross Shelter Map</a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 37838,
-				"address": "600 Aviation Dr, Camarillo, CA 93010, USA",
-				"name": "Small Animal Shelter - Ventura County Animal Services (Camarillo Airport)",
-				"lat": 34.2092912,
-				"lng": -119.08549,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A small animal shelter has been established at Ventura County Animal Services (Camarillo Airport) located at 600 Aviation Dr, Camarillo, CA 93010, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.vcemergency.com/\">VCEmergency</a>.</p>",
 					"links": []
 				}
 			}
@@ -1293,7 +1257,7 @@
 	},
 	{
 		"id": 41048,
-		"is_active": true,
+		"is_active": false,
 		"name": "Grimes 0208 Fire",
 		"description": null,
 		"lat": 30.77526,
@@ -1321,7 +1285,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T21:50:25Z",
-		"date_modified": "2025-01-24T00:00:52Z",
+		"date_modified": "2025-01-24T08:09:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1804,7 +1768,7 @@
 	},
 	{
 		"id": 41111,
-		"is_active": true,
+		"is_active": false,
 		"name": "Gilman Fire",
 		"description": null,
 		"lat": 32.86233789358418,
@@ -1826,13 +1790,13 @@
 			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "Genasys Protect Evacuation Map",
+			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T22:21:11Z",
-		"date_modified": "2025-01-24T00:35:55Z",
+		"date_modified": "2025-01-24T08:16:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2008,7 +1972,7 @@
 	},
 	{
 		"id": 41131,
-		"is_active": true,
+		"is_active": false,
 		"name": "Perkins Fire",
 		"description": null,
 		"lat": 34.1414939,
@@ -2036,7 +2000,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T03:04:22Z",
-		"date_modified": "2025-01-24T03:27:36Z",
+		"date_modified": "2025-01-24T08:18:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
