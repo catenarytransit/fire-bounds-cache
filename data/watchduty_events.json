@@ -1810,7 +1810,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T20:55:18Z",
-		"date_modified": "2025-01-23T23:19:18Z",
+		"date_modified": "2025-01-24T19:32:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1913,7 +1913,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 10,
-			"acreage": 4250,
+			"acreage": 5389.4,
 			"links": [
 				{
 					"link_type": "website",
@@ -1929,11 +1929,6 @@
 					"link_type": "website",
 					"label": "CAL FIRE/San Diego County Fire Facebook Page",
 					"value": "https://www.facebook.com/CALFIRESANDIEGO"
-				},
-				{
-					"link_type": "website",
-					"label": "Genasys Evacuation Map",
-					"value": "https://protect.genasys.com/search?z=11.75882236340605&latlon=32.64904146857032%2C-116.83670688713539"
 				},
 				{
 					"link_type": "website",
@@ -1958,7 +1953,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T22:00:29Z",
-		"date_modified": "2025-01-24T17:32:06Z",
+		"date_modified": "2025-01-24T19:33:13Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
