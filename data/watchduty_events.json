@@ -484,21 +484,6 @@
 				}
 			},
 			{
-				"id": 40715,
-				"address": "455 E Woodbury Rd, Altadena, CA 91001, USA",
-				"name": "WCK Meal Distribution - Fraternal Order of Eagles",
-				"lat": 34.1814808,
-				"lng": -118.1412497,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected by the Eaton Fire and Palisades fires, including first responders, at the following location 455 E Woodbury Rd, Altadena, CA 91001, USA</p><p>Time of service is from 11am to 3pm today, January 24th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40755,
 				"address": "425 Sierra Madre Villa Ave, Pasadena, CA 91107, USA",
 				"name": "WCK Meal Distribution - Pasadena Church East",
@@ -555,21 +540,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena-Sierra Madre YMCA at 611 E Sierra Madre Blvd, Sierra Madre, CA 91024</p><p>Time of service is from 11am to 3pm today, January 24th.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at at this location. Free 5 gallon bladders will also be available.</p><p>Time of Service is from 11am-3pm</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40725,
-				"address": "2033 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - God's Waiting Room Church",
-				"lat": 34.1694695,
-				"lng": -118.1087329,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the God's Waiting Room Church located at 2033 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 11am to 3pm today, January 24th.</p>",
 					"links": []
 				}
 			},
@@ -1138,21 +1108,6 @@
 				}
 			},
 			{
-				"id": 40715,
-				"address": "455 E Woodbury Rd, Altadena, CA 91001, USA",
-				"name": "WCK Meal Distribution - Fraternal Order of Eagles",
-				"lat": 34.1814808,
-				"lng": -118.1412497,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected by the Eaton Fire and Palisades fires, including first responders, at the following location 455 E Woodbury Rd, Altadena, CA 91001, USA</p><p>Time of service is from 11am to 3pm today, January 24th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40755,
 				"address": "425 Sierra Madre Villa Ave, Pasadena, CA 91107, USA",
 				"name": "WCK Meal Distribution - Pasadena Church East",
@@ -1209,21 +1164,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena-Sierra Madre YMCA at 611 E Sierra Madre Blvd, Sierra Madre, CA 91024</p><p>Time of service is from 11am to 3pm today, January 24th.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at at this location. Free 5 gallon bladders will also be available.</p><p>Time of Service is from 11am-3pm</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40725,
-				"address": "2033 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - God's Waiting Room Church",
-				"lat": 34.1694695,
-				"lng": -118.1087329,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the God's Waiting Room Church located at 2033 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 11am to 3pm today, January 24th.</p>",
 					"links": []
 				}
 			},
@@ -2451,6 +2391,45 @@
 		"incident_id": null,
 		"reporter_managed": false,
 		"external_id": "{205E51E1-CD8D-47B0-83BF-053F3BC9C9B3}",
+		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 41175,
+		"is_active": true,
+		"name": "Harrison 0263 Fire",
+		"description": null,
+		"lat": 32.399655,
+		"lng": -94.340329,
+		"address": "12100 Block of US-59, Marshall, TX 75672",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": 0,
+			"acreage": 50,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-01-24T22:01:01Z",
+		"date_modified": "2025-01-24T22:01:01Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "{348F8204-1625-4A68-AD25-87F5F0E9F3DB}",
 		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
