@@ -1495,7 +1495,7 @@
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": null,
-			"evacuation_warnings": "CAS-BISCAILUZ, CAS-BITTERCANYON, CAS-CASTAICLAKE, CAS-CHARLIECANYON, CAS-PARADISERANCH, CAS-RIDGE, LAC-E008, LAC-E016, LAC-E029, LAC-FRANCISQUITO, SCL-KELLYJOHNSON, SCL-REYESADOBE, SCL-STERLING, SCL-TESORODELVALLE",
+			"evacuation_warnings": "CAS-BITTERCANYON, CAS-CASTAICLAKE, CAS-CHARLIECANYON, LAC-E008, LAC-E016",
 			"evacuation_advisories": null,
 			"evacuation_notes": "LA County - Genasys Evacuation Map Ventura County Evacuation Map Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings.",
 			"is_complex_parent": false,
@@ -1503,7 +1503,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-24T16:40:30Z",
+		"date_modified": "2025-01-24T16:46:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1573,20 +1573,11 @@
 		],
 		"parent_geo_events": [],
 		"evacuation_warnings_arr": [
-			"CAS-BISCAILUZ",
 			"CAS-BITTERCANYON",
 			"CAS-CASTAICLAKE",
 			"CAS-CHARLIECANYON",
-			"CAS-PARADISERANCH",
-			"CAS-RIDGE",
 			"LAC-E008",
-			"LAC-E016",
-			"LAC-E029",
-			"LAC-FRANCISQUITO",
-			"SCL-KELLYJOHNSON",
-			"SCL-REYESADOBE",
-			"SCL-STERLING",
-			"SCL-TESORODELVALLE"
+			"LAC-E016"
 		]
 	},
 	{
@@ -2137,7 +2128,7 @@
 	},
 	{
 		"id": 41112,
-		"is_active": true,
+		"is_active": false,
 		"name": "North Gateway Fire",
 		"description": null,
 		"lat": 38.629167,
@@ -2165,7 +2156,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T22:30:51Z",
-		"date_modified": "2025-01-23T22:30:52Z",
+		"date_modified": "2025-01-24T16:46:56Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
