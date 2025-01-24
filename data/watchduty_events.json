@@ -1575,7 +1575,7 @@
 	},
 	{
 		"id": 41064,
-		"is_active": true,
+		"is_active": false,
 		"name": "Jack Rabbit Fire",
 		"description": null,
 		"lat": 30.579248,
@@ -1603,7 +1603,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T00:50:25Z",
-		"date_modified": "2025-01-23T23:45:52Z",
+		"date_modified": "2025-01-24T03:54:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2099,7 +2099,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": null,
+			"containment": 100,
 			"acreage": 2.8,
 			"links": [],
 			"has_custom_evacuation_orders": false,
@@ -2114,7 +2114,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T00:27:02Z",
-		"date_modified": "2025-01-24T02:04:35Z",
+		"date_modified": "2025-01-24T03:52:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
