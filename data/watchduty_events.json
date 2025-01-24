@@ -1671,15 +1671,15 @@
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": "SDC-2464, SDC-2543",
-			"evacuation_warnings": "SDC-2389, SDC-2461, SDC-2463, SDC-2541, SDC-2542",
+			"evacuation_warnings": "SDC-2389, SDC-2461, SDC-2462, SDC-2463, SDC-2541, SDC-2542",
 			"evacuation_advisories": null,
-			"evacuation_notes": "Genasys Evacuation MapAlta Road is closed to traffic just south of Otay Mesa Road.",
+			"evacuation_notes": "Genasys Evacuation MapAlta Road is closed to traffic just south of Otay Mesa Road.Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T22:00:29Z",
-		"date_modified": "2025-01-24T11:25:43Z",
+		"date_modified": "2025-01-24T11:36:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1710,6 +1710,7 @@
 		"evacuation_warnings_arr": [
 			"SDC-2389",
 			"SDC-2461",
+			"SDC-2462",
 			"SDC-2463",
 			"SDC-2541",
 			"SDC-2542"
