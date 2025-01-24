@@ -349,21 +349,6 @@
 				}
 			},
 			{
-				"id": 41073,
-				"address": "128 Old Topanga Canyon Rd, Topanga, CA 90290, USA",
-				"name": "WCK Meal Distribution - Inn of the Seventh Ray",
-				"lat": 34.0902977,
-				"lng": -118.6047084,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Inn of the Seventh Ray located at 128 Old Topanga Canyon Rd, Topanga, CA 90290.</p><p>Time of service is from 4pm to 9pm today, January 23rd</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40714,
 				"address": "3035 E Foothill Blvd, Pasadena, CA 91107",
 				"name": "Disaster Recovery Center",
@@ -729,21 +714,6 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 41073,
-				"address": "128 Old Topanga Canyon Rd, Topanga, CA 90290, USA",
-				"name": "WCK Meal Distribution - Inn of the Seventh Ray",
-				"lat": 34.0902977,
-				"lng": -118.6047084,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Inn of the Seventh Ray located at 128 Old Topanga Canyon Rd, Topanga, CA 90290.</p><p>Time of service is from 4pm to 9pm today, January 23rd</p>",
 					"links": []
 				}
 			},
