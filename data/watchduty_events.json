@@ -2321,11 +2321,11 @@
 	{
 		"id": 41163,
 		"is_active": true,
-		"name": "Vegetation Fire",
+		"name": "Heavenly Fire",
 		"description": null,
 		"lat": 32.8671707,
 		"lng": -116.5631018,
-		"address": "Off Farley Flat Rd, 1 mile North of Hwy 80, Pine Valley",
+		"address": "Off Farley Flat Rd, 1 mile North of Hwy 80, Guatay",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -2334,7 +2334,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": null,
+			"acreage": 0.5,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2348,7 +2348,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T19:54:47Z",
-		"date_modified": "2025-01-24T19:54:47Z",
+		"date_modified": "2025-01-24T20:03:29Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
