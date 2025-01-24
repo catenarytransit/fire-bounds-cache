@@ -377,6 +377,111 @@
 					"information": "<p>FEMA Disaster Recovery Center at UCLA Research Park</p><p>Daily open times: 9am to 8 pm</p><p>For more information see the : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.fema.gov/press-release/20250114/fema-disaster-recovery-centers-opening-los-angeles-county?fbclid=IwY2xjawH_h29leHRuA2FlbQIxMAABHRHg4jLgeto35EHwo9DmLTFjPjKV4TgG6yL5BHwUJh-7TWdW_UvOqSn4Aw_aem_tM3TG4SALfqYqKy45uFA6A\"><strong>FEMA PRESS RELEASE </strong></a></p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40578,
+				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
+				"name": "WCK Meal Distribution - Palisades Fire Station 69",
+				"lat": 34.0450471,
+				"lng": -118.5224772,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, January 24th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40753,
+				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
+				"name": "WCK Meal Distribution - Malibu Brewing Company",
+				"lat": 34.0313066,
+				"lng": -118.8431276,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 24th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40754,
+				"address": "5371 CA-27, Woodland Hills, CA 91364",
+				"name": "WCK Meal Distribution - Monty's Steakhouse",
+				"lat": 34.1678747,
+				"lng": -118.6063446,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Monty's Steakhouse located at 5371 CA-27, Woodland Hills, CA 91364.</p><p>Time of service is from 11am to 5pm today, January 24th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40752,
+				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
+				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
+				"lat": 34.1545211,
+				"lng": -118.1321314,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 4pm today, January 24th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40852,
+				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
+				"name": "WCK Meal & Water Distribution - LACoFD Station 12",
+				"lat": 34.1929412,
+				"lng": -118.1584616,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, January 24th.<br><br><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11am - 3pm.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40909,
+				"address": "2245 Lake Ave, Altadena, CA 91001, USA",
+				"name": "WCK Meal Distribution - Full Circle Thrift",
+				"lat": 34.1843956,
+				"lng": -118.1318373,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Full Circle Thrift located at 2245 Lake Ave, Altadena, CA 91001, USA</p><p>Time of service is from 11am to 3pm today, January 24th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40718,
+				"address": "2640 E Orange Grove Blvd, Pasadena, CA 91107, USA",
+				"name": "WCK Meal Distribution-Assumption of the Blessed Virgin Mary Catholic Church",
+				"lat": 34.1579002,
+				"lng": -118.096005,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Assumption of the Blessed Virgin Mary Catholic Church at 2640 E Orange Grove Blvd, Pasadena, CA 91107</p><p>Time of service is from 11am to 3pm today, January 24th.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -503,13 +608,13 @@
 			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "Genasys Evacuation Map A Do-Not-Use-Water Notice is in effect for some impacted areas. For more information, see this link. Official Recovery Information & Damage Inspection Dashboard 211 LA Eaton Fire Resources The entire Angeles National Forest is temporarily closed for public safety and the protection of natural resources through Friday, January 24, 2025, at 12:00 midnight. This closure is tied to critical fire danger. The closure order and prohibited activities may be found at this link.Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings",
+			"evacuation_notes": "Genasys Evacuation Map A Do-Not-Use-Water Notice is in effect for some impacted areas. For more information, see this link. Official Recovery Information & Damage Inspection Dashboard 211 LA Eaton Fire Resources FOREST CLOSURE: The entire Angeles National Forest is temporarily closed through Friday, January 31, 2025, at 12:00 midnight (end of day) for public safety and the protection of natural resources. -To read Forest Order No. 05-01-25-04, click here.Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings",
 			"is_complex_parent": false,
 			"reporter_only_notes": "<p>All future updates should be a silent report with the exception of evacuation status level changes (always normal) NR 1/16</p>",
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-23T18:56:28Z",
+		"date_modified": "2025-01-24T11:45:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -744,6 +849,111 @@
 					"geo_event_type": "location",
 					"location_type": "info",
 					"information": "<p>FEMA Disaster Recovery Center at UCLA Research Park</p><p>Daily open times: 9am to 8 pm</p><p>For more information see the : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.fema.gov/press-release/20250114/fema-disaster-recovery-centers-opening-los-angeles-county?fbclid=IwY2xjawH_h29leHRuA2FlbQIxMAABHRHg4jLgeto35EHwo9DmLTFjPjKV4TgG6yL5BHwUJh-7TWdW_UvOqSn4Aw_aem_tM3TG4SALfqYqKy45uFA6A\"><strong>FEMA PRESS RELEASE </strong></a></p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40578,
+				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
+				"name": "WCK Meal Distribution - Palisades Fire Station 69",
+				"lat": 34.0450471,
+				"lng": -118.5224772,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, January 24th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40753,
+				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
+				"name": "WCK Meal Distribution - Malibu Brewing Company",
+				"lat": 34.0313066,
+				"lng": -118.8431276,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 24th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40754,
+				"address": "5371 CA-27, Woodland Hills, CA 91364",
+				"name": "WCK Meal Distribution - Monty's Steakhouse",
+				"lat": 34.1678747,
+				"lng": -118.6063446,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Monty's Steakhouse located at 5371 CA-27, Woodland Hills, CA 91364.</p><p>Time of service is from 11am to 5pm today, January 24th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40752,
+				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
+				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
+				"lat": 34.1545211,
+				"lng": -118.1321314,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 4pm today, January 24th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40852,
+				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
+				"name": "WCK Meal & Water Distribution - LACoFD Station 12",
+				"lat": 34.1929412,
+				"lng": -118.1584616,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, January 24th.<br><br><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11am - 3pm.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40909,
+				"address": "2245 Lake Ave, Altadena, CA 91001, USA",
+				"name": "WCK Meal Distribution - Full Circle Thrift",
+				"lat": 34.1843956,
+				"lng": -118.1318373,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Full Circle Thrift located at 2245 Lake Ave, Altadena, CA 91001, USA</p><p>Time of service is from 11am to 3pm today, January 24th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40718,
+				"address": "2640 E Orange Grove Blvd, Pasadena, CA 91107, USA",
+				"name": "WCK Meal Distribution-Assumption of the Blessed Virgin Mary Catholic Church",
+				"lat": 34.1579002,
+				"lng": -118.096005,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Assumption of the Blessed Virgin Mary Catholic Church at 2640 E Orange Grove Blvd, Pasadena, CA 91107</p><p>Time of service is from 11am to 3pm today, January 24th.</p>",
 					"links": []
 				}
 			}
@@ -1679,7 +1889,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T22:00:29Z",
-		"date_modified": "2025-01-24T11:36:47Z",
+		"date_modified": "2025-01-24T11:40:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
