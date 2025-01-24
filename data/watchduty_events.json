@@ -2400,8 +2400,8 @@
 		"is_active": true,
 		"name": "Harrison 0263 Fire",
 		"description": null,
-		"lat": 32.399655,
-		"lng": -94.340329,
+		"lat": 32.398056,
+		"lng": -94.335278,
 		"address": "12100 Block of US-59, Marshall, TX 75672",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2425,7 +2425,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T22:01:01Z",
-		"date_modified": "2025-01-24T22:01:01Z",
+		"date_modified": "2025-01-24T22:11:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
