@@ -2049,7 +2049,7 @@
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": "MUR-2150-A",
-			"evacuation_warnings": "MUR-2086, MUR-2149, MUR-2150-B",
+			"evacuation_warnings": "MUR-2086, MUR-2149, MUR-2150-B, MUR-2150-C",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map",
 			"is_complex_parent": false,
@@ -2057,7 +2057,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T02:27:11Z",
-		"date_modified": "2025-01-24T03:21:19Z",
+		"date_modified": "2025-01-24T04:57:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2071,7 +2071,8 @@
 		"evacuation_warnings_arr": [
 			"MUR-2086",
 			"MUR-2149",
-			"MUR-2150-B"
+			"MUR-2150-B",
+			"MUR-2150-C"
 		]
 	},
 	{
