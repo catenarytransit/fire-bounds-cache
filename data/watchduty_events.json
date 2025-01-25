@@ -59,7 +59,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 77,
+			"containment": 79,
 			"acreage": 23448,
 			"links": [
 				{
@@ -155,7 +155,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-24T21:43:39Z",
+		"date_modified": "2025-01-25T01:49:56Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1406,7 +1406,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 10,
-			"acreage": 5389.4,
+			"acreage": 6272.7,
 			"links": [
 				{
 					"link_type": "website",
@@ -1446,7 +1446,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T22:00:29Z",
-		"date_modified": "2025-01-25T00:10:29Z",
+		"date_modified": "2025-01-25T01:41:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1454,17 +1454,17 @@
 		"external_source": null,
 		"child_geo_events": [
 			{
-				"id": 41138,
-				"address": "2951 Jamacha Rd., El Cajon, CA 92019",
-				"name": "Evacuation Point - Edwards Theater",
-				"lat": 32.7371773,
-				"lng": -116.9395915,
+				"id": 41167,
+				"address": "900 Rancho San Diego Pkwy, El Cajon, CA 92019, USA",
+				"name": "Cuyamaca College Gym (Shelter including Small Animals)",
+				"lat": 32.746401554860356,
+				"lng": -116.94234687733282,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
 					"geo_event_type": "location",
-					"location_type": "info",
-					"information": "<p>An evacuation point is available at Edwards Theater, 2951 Jamacha Rd., El Cajon, CA 92019 per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://protect.genasys.com/search?z=12.288451358075413&amp;latlon=32.63993475629802%2C-116.85704867823301\">Genasys</a>.</p>",
+					"location_type": "evac_shelter",
+					"information": "<p>The American Red Cross has opened an overnight shelter for evacuees at this location. Small animals are welcome and will be&nbsp;co-located at the shelter.&nbsp;Animal care partners will be on-site to assist with the care of small animals.</p>",
 					"links": []
 				}
 			},
@@ -1478,23 +1478,23 @@
 				"geo_event_type": "location",
 				"data": {
 					"geo_event_type": "location",
-					"location_type": "info",
-					"information": "<p>A temporary evacuation point has been established at Southwestern College, 900 Otay Lakes Rd, Chula Vista.</p>",
+					"location_type": "general",
+					"information": "<p>Update: This temporary evacuation point will close at 7pm, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.alertsandiego.org/en-us/incident-page.1373.html\">AlertSD</a>.</p><p>A temporary evacuation point has been established at Southwestern College, 900 Otay Lakes Rd, Chula Vista.</p>",
 					"links": []
 				}
 			},
 			{
-				"id": 41167,
-				"address": "900 Rancho San Diego Pkwy, El Cajon, CA 92019, USA",
-				"name": "Cuyamaca College Gym (Shelter)",
-				"lat": 32.746401554860356,
-				"lng": -116.94234687733282,
+				"id": 41187,
+				"address": "5821 Sweetwater Rd, Bonita, CA 91902, USA",
+				"name": "Large & Small Animal Shelter - SD County Animal Services (Bonita)",
+				"lat": 32.6891624,
+				"lng": -117.0172602,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
 					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>The American Red Cross has opened an overnight shelter for evacuees at this location.</p>",
+					"location_type": "animal_shelter",
+					"information": "<p>Small or large animals can also be taken to the San Diego County Department of Animal Services South Shelter location at 5821 Sweetwater Road, Bonita, 91902, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.alertsandiego.org/en-us/incident-page.1373.html\">AlertSD</a>.</p>",
 					"links": []
 				}
 			}
