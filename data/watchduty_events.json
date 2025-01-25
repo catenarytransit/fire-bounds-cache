@@ -1424,21 +1424,6 @@
 				}
 			},
 			{
-				"id": 41140,
-				"address": "900 Otay Lakes Rd, Chula Vista",
-				"name": "Temporary Evacuation Point - Southwestern College",
-				"lat": 32.6427876,
-				"lng": -116.9992869,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>Update: This temporary evacuation point will close at 7pm, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.alertsandiego.org/en-us/incident-page.1373.html\">AlertSD</a>.</p><p>A temporary evacuation point has been established at Southwestern College, 900 Otay Lakes Rd, Chula Vista.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 41187,
 				"address": "5821 Sweetwater Rd, Bonita, CA 91902, USA",
 				"name": "Large & Small Animal Shelter - SD County Animal Services (Bonita)",
@@ -2120,7 +2105,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 50,
+			"containment": 70,
 			"acreage": 70,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -2135,7 +2120,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T23:26:01Z",
-		"date_modified": "2025-01-25T02:06:02Z",
+		"date_modified": "2025-01-25T03:01:02Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
