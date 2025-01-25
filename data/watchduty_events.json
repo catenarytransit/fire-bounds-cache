@@ -2363,10 +2363,10 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-25T16:15:28Z",
-		"date_modified": "2025-01-25T16:48:30Z",
+		"date_modified": "2025-01-25T17:30:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "78a50474-eb0b-4959-9841-5b7d89dccc8e",
 		"external_source": "wildcad",
 		"child_geo_events": [],
