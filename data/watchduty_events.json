@@ -394,36 +394,6 @@
 				}
 			},
 			{
-				"id": 40753,
-				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
-				"name": "WCK Meal Distribution - Malibu Brewing Company",
-				"lat": 34.0313066,
-				"lng": -118.8431276,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 24th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40754,
-				"address": "5371 CA-27, Woodland Hills, CA 91364",
-				"name": "WCK Meal Distribution - Monty's Steakhouse",
-				"lat": 34.1678747,
-				"lng": -118.6063446,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Monty's Steakhouse located at 5371 CA-27, Woodland Hills, CA 91364.</p><p>Time of service is from 11am to 5pm today, January 24th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40559,
 				"address": "516 Santa Monica Blvd, Santa Monica, CA 90401, USA",
 				"name": "WCK Meal Distribution - Xuntos",
@@ -883,36 +853,6 @@
 				}
 			},
 			{
-				"id": 40753,
-				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
-				"name": "WCK Meal Distribution - Malibu Brewing Company",
-				"lat": 34.0313066,
-				"lng": -118.8431276,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 24th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40754,
-				"address": "5371 CA-27, Woodland Hills, CA 91364",
-				"name": "WCK Meal Distribution - Monty's Steakhouse",
-				"lat": 34.1678747,
-				"lng": -118.6063446,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Monty's Steakhouse located at 5371 CA-27, Woodland Hills, CA 91364.</p><p>Time of service is from 11am to 5pm today, January 24th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40559,
 				"address": "516 Santa Monica Blvd, Santa Monica, CA 90401, USA",
 				"name": "WCK Meal Distribution - Xuntos",
@@ -1325,45 +1265,6 @@
 		},
 		"date_created": "2025-01-23T16:42:00Z",
 		"date_modified": "2025-01-24T16:55:34Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 41091,
-		"is_active": false,
-		"name": "Burr Fire",
-		"description": null,
-		"lat": 33.2937905,
-		"lng": -111.3004495,
-		"address": "300 block of East Burr Drive, Queen Valley",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": true,
-			"containment": 100,
-			"acreage": null,
-			"links": [],
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-01-23T17:44:03Z",
-		"date_modified": "2025-01-24T00:54:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2186,7 +2087,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 75,
+			"containment": 100,
 			"acreage": 20,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -2201,7 +2102,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T22:21:02Z",
-		"date_modified": "2025-01-24T23:31:01Z",
+		"date_modified": "2025-01-25T00:51:02Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2264,8 +2165,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
-			"acreage": 30,
+			"containment": 40,
+			"acreage": 70,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2279,7 +2180,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T23:26:01Z",
-		"date_modified": "2025-01-24T23:51:01Z",
+		"date_modified": "2025-01-25T01:06:02Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
