@@ -424,36 +424,6 @@
 				}
 			},
 			{
-				"id": 40752,
-				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
-				"lat": 34.1545211,
-				"lng": -118.1321314,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 4pm today, January 24th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40852,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Meal & Water Distribution - LACoFD Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, January 24th.<br><br><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11am - 3pm.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40559,
 				"address": "516 Santa Monica Blvd, Santa Monica, CA 90401, USA",
 				"name": "WCK Meal Distribution - Xuntos",
@@ -939,36 +909,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Monty's Steakhouse located at 5371 CA-27, Woodland Hills, CA 91364.</p><p>Time of service is from 11am to 5pm today, January 24th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40752,
-				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
-				"lat": 34.1545211,
-				"lng": -118.1321314,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 4pm today, January 24th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40852,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Meal & Water Distribution - LACoFD Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, January 24th.<br><br><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11am - 3pm.</p>",
 					"links": []
 				}
 			},
@@ -1636,7 +1576,7 @@
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": "SDC-2389-A, SDC-2390, SDC-2464, SDC-2465, SDC-2466, SDC-2543, SDC-2544, SDC-2545",
-			"evacuation_warnings": "SDC-2389-B, SDC-2461, SDC-2462, SDC-2463, SDC-2541, SDC-2542",
+			"evacuation_warnings": "SDC-2306, SDC-2307, SDC-2389-B, SDC-2391, SDC-2393, SDC-2461, SDC-2462, SDC-2463, SDC-2467, SDC-2541, SDC-2542, SDC-2546, SDC-2605",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation MapAlta Road is closed to traffic just south of Otay Mesa Road.Otay Lakes Rd is under a hard closure at Wueste Rd.Note - The Red Flag Warning/Fire Weather Watch layer is on by default. To disable it, go to Layers > Weather and uncheck “Fire Weather & Red Flag Warnings",
 			"is_complex_parent": false,
@@ -1644,7 +1584,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T22:00:29Z",
-		"date_modified": "2025-01-24T23:43:25Z",
+		"date_modified": "2025-01-25T00:10:29Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1709,12 +1649,19 @@
 			"SDC-2545"
 		],
 		"evacuation_warnings_arr": [
+			"SDC-2306",
+			"SDC-2307",
 			"SDC-2389-B",
+			"SDC-2391",
+			"SDC-2393",
 			"SDC-2461",
 			"SDC-2462",
 			"SDC-2463",
+			"SDC-2467",
 			"SDC-2541",
-			"SDC-2542"
+			"SDC-2542",
+			"SDC-2546",
+			"SDC-2605"
 		]
 	},
 	{
@@ -2382,7 +2329,7 @@
 	},
 	{
 		"id": 41185,
-		"is_active": true,
+		"is_active": false,
 		"name": "Jasper 0277 Fire",
 		"description": null,
 		"lat": 30.98325,
@@ -2395,8 +2342,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
-			"acreage": 2,
+			"containment": 100,
+			"acreage": 2.4,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2410,7 +2357,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T23:31:02Z",
-		"date_modified": "2025-01-24T23:31:02Z",
+		"date_modified": "2025-01-25T00:11:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
