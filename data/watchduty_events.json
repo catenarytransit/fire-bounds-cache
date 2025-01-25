@@ -394,21 +394,6 @@
 				}
 			},
 			{
-				"id": 40559,
-				"address": "516 Santa Monica Blvd, Santa Monica, CA 90401, USA",
-				"name": "WCK Meal Distribution - Xuntos",
-				"lat": 34.0174391,
-				"lng": -118.4937028,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Xuntos located at 516 Santa Monica Blvd, Santa Monica, CA 90401, USA.</p><p>Time of service is from 1pm to 6pm today, January 24th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40528,
 				"address": "843 W Woodbury Rd, Altadena, CA 91001",
 				"name": "WCK Meal & Water Distribution - Gordy's Garage",
@@ -853,21 +838,6 @@
 				}
 			},
 			{
-				"id": 40559,
-				"address": "516 Santa Monica Blvd, Santa Monica, CA 90401, USA",
-				"name": "WCK Meal Distribution - Xuntos",
-				"lat": 34.0174391,
-				"lng": -118.4937028,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Xuntos located at 516 Santa Monica Blvd, Santa Monica, CA 90401, USA.</p><p>Time of service is from 1pm to 6pm today, January 24th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40528,
 				"address": "843 W Woodbury Rd, Altadena, CA 91001",
 				"name": "WCK Meal & Water Distribution - Gordy's Garage",
@@ -945,7 +915,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": 90,
+			"containment": 98,
 			"acreage": 39,
 			"links": [],
 			"has_custom_evacuation_orders": false,
@@ -960,7 +930,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T01:15:40Z",
-		"date_modified": "2025-01-24T14:53:44Z",
+		"date_modified": "2025-01-25T02:28:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1182,7 +1152,7 @@
 	},
 	{
 		"id": 41072,
-		"is_active": true,
+		"is_active": false,
 		"name": "Sepulveda Fire",
 		"description": null,
 		"lat": 34.09644575452569,
@@ -1210,7 +1180,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T07:08:36Z",
-		"date_modified": "2025-01-24T18:19:29Z",
+		"date_modified": "2025-01-25T02:24:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
