@@ -2299,9 +2299,9 @@
 		"is_active": true,
 		"name": "Power Line Fire",
 		"description": null,
-		"lat": 33.22432641471052,
-		"lng": -117.3739882360699,
-		"address": "East of Ash Road & Wire Mountain Road, Camp Pendleton South",
+		"lat": 33.22119148079125,
+		"lng": -117.37216535667528,
+		"address": "Southeast of Ash Road & Wire Mountain Road, Camp Pendleton South",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -2324,7 +2324,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-25T20:41:28Z",
-		"date_modified": "2025-01-25T20:47:22Z",
+		"date_modified": "2025-01-25T20:58:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
