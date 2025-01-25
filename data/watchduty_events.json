@@ -1795,7 +1795,7 @@
 	},
 	{
 		"id": 41163,
-		"is_active": true,
+		"is_active": false,
 		"name": "Heavenly Fire",
 		"description": null,
 		"lat": 32.8671707,
@@ -1823,7 +1823,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T19:54:47Z",
-		"date_modified": "2025-01-24T20:53:38Z",
+		"date_modified": "2025-01-25T02:54:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1912,7 +1912,7 @@
 	},
 	{
 		"id": 41174,
-		"is_active": true,
+		"is_active": false,
 		"name": "Camp 0271 Fire",
 		"description": null,
 		"lat": 33.02598,
@@ -1940,7 +1940,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T21:41:01Z",
-		"date_modified": "2025-01-24T22:51:01Z",
+		"date_modified": "2025-01-25T02:54:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
