@@ -1,7 +1,7 @@
 [
 	{
 		"id": 39789,
-		"is_active": true,
+		"is_active": false,
 		"name": "Horton Fire",
 		"description": null,
 		"lat": 34.3755047,
@@ -35,7 +35,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2024-12-15T17:01:20Z",
-		"date_modified": "2025-01-18T17:46:41Z",
+		"date_modified": "2025-01-25T17:33:46Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2310,7 +2310,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": 100,
-			"acreage": 1.5,
+			"acreage": 2.5,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2324,7 +2324,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-25T15:11:06Z",
-		"date_modified": "2025-01-25T16:11:06Z",
+		"date_modified": "2025-01-25T17:36:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2335,7 +2335,7 @@
 	},
 	{
 		"id": 41203,
-		"is_active": true,
+		"is_active": false,
 		"name": "Lexington Fire",
 		"description": null,
 		"lat": 34.353,
@@ -2347,10 +2347,10 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": null,
+			"is_fps": false,
+			"containment": 100,
 			"acreage": 1,
-			"links": null,
+			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
@@ -2363,7 +2363,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-25T16:15:28Z",
-		"date_modified": "2025-01-25T17:30:01Z",
+		"date_modified": "2025-01-25T17:31:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
