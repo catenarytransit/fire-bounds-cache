@@ -394,21 +394,6 @@
 				}
 			},
 			{
-				"id": 40528,
-				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal & Water Distribution - Gordy's Garage",
-				"lat": 34.18337933733453,
-				"lng": -118.16820616577323,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 24th.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40751,
 				"address": "1081 N Fair Oaks Ave, Pasadena, CA 91103, USA",
 				"name": "WCK Meal Distribution - Robinson Park Rec Center",
@@ -435,21 +420,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Inn of the Seventh Ray located at 128 Old Topanga Canyon Rd, Topanga, CA 90290.</p><p>Time of service is from 4pm to 9pm today, January 24th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40749,
-				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
-				"lat": 34.1444939,
-				"lng": -118.0780778,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 4pm to 8pm today, January 24th.</p>",
 					"links": []
 				}
 			}
@@ -838,21 +808,6 @@
 				}
 			},
 			{
-				"id": 40528,
-				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal & Water Distribution - Gordy's Garage",
-				"lat": 34.18337933733453,
-				"lng": -118.16820616577323,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 24th.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40751,
 				"address": "1081 N Fair Oaks Ave, Pasadena, CA 91103, USA",
 				"name": "WCK Meal Distribution - Robinson Park Rec Center",
@@ -879,21 +834,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Inn of the Seventh Ray located at 128 Old Topanga Canyon Rd, Topanga, CA 90290.</p><p>Time of service is from 4pm to 9pm today, January 24th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40749,
-				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
-				"lat": 34.1444939,
-				"lng": -118.0780778,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 4pm to 8pm today, January 24th.</p>",
 					"links": []
 				}
 			}
