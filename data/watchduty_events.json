@@ -984,8 +984,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 56,
-			"acreage": 10396,
+			"containment": 79,
+			"acreage": 10425,
 			"links": [
 				{
 					"link_type": "website",
@@ -1040,7 +1040,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-24T17:51:34Z",
+		"date_modified": "2025-01-25T02:04:51Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1089,21 +1089,6 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>A Large Animal Shelter is open at Pierce College for Hughes Fire evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/Angeles_NF/status/1882192419250471326\">Angeles National Forest on X</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 41067,
-				"address": "26455 Rockwell Canyon Rd, Santa Clarita, CA 91355",
-				"name": "Evacuation Shelter - COC Valencia Campus East Gym",
-				"lat": 34.405580320871124,
-				"lng": -118.56902514386671,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>Evacuation Shelter per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross Shelter Map</a></p>",
 					"links": []
 				}
 			}
@@ -1879,7 +1864,7 @@
 	},
 	{
 		"id": 41164,
-		"is_active": true,
+		"is_active": false,
 		"name": "Upshur 0261 Fire",
 		"description": null,
 		"lat": 32.824537,
@@ -1907,7 +1892,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T20:15:58Z",
-		"date_modified": "2025-01-25T00:41:01Z",
+		"date_modified": "2025-01-25T01:54:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2126,7 +2111,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 75,
+			"containment": 90,
 			"acreage": 10,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -2141,7 +2126,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T22:26:01Z",
-		"date_modified": "2025-01-24T23:21:01Z",
+		"date_modified": "2025-01-25T01:51:02Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2165,7 +2150,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 40,
+			"containment": 50,
 			"acreage": 70,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -2180,7 +2165,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-24T23:26:01Z",
-		"date_modified": "2025-01-25T01:06:02Z",
+		"date_modified": "2025-01-25T02:06:02Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
