@@ -1660,7 +1660,7 @@
 	},
 	{
 		"id": 41218,
-		"is_active": true,
+		"is_active": false,
 		"name": "Snag Fire",
 		"description": null,
 		"lat": 35.486111,
@@ -1688,7 +1688,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-26T14:05:11Z",
-		"date_modified": "2025-01-26T18:22:11Z",
+		"date_modified": "2025-01-26T22:24:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
