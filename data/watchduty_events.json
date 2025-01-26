@@ -146,7 +146,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "LOS-0767-A, LOS-0767-D, LOS-0767-E, LOS-0767-F, LOS-0767-G, LOS-0767-H, LOS-0767-I, LOS-0767-J, LOS-0767-K, LOS-0767-L, MAL-C111-A, MAL-C111-B, MAL-C112-B, MTN-U028-A, RMB-U030-A, RMB-U030-B, RMB-U030-F, RMB-U030-G, RRC-U027-C, SDP-U029-A, SSM-U010-A, SSM-U010-B, TOP-U007-A, TOP-U008-B, TOP-U009-A",
+			"evacuation_orders": "LOS-0767-A, LOS-0767-D, LOS-0767-E, LOS-0767-F, LOS-0767-G, LOS-0767-H, LOS-0767-I, LOS-0767-J, LOS-0767-K, MAL-C111-A, MAL-C111-B, MAL-C112-B, MTN-U028-A, RMB-U030-A, RMB-U030-B, RMB-U030-F, RMB-U030-G, RRC-U027-C, SDP-U029-A, SSM-U010-A, SSM-U010-B, TOP-U007-A, TOP-U008-B, TOP-U009-A",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map LA City Evacuation Map -- Additional Information -- A Do-Not-Use-Water Notice is in effect for some impacted areas. For more information, see this link. Damage Assessment and Recovery Resources:LA City Fire Recovery & LA County Recovers 211 LA Palisades Fire Resources",
@@ -155,7 +155,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-25T22:48:06Z",
+		"date_modified": "2025-01-26T00:36:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -409,36 +409,6 @@
 				}
 			},
 			{
-				"id": 40752,
-				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
-				"lat": 34.1545211,
-				"lng": -118.1321314,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 4pm today, January 25th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40852,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Meal & Water Distribution - LACoFD Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, January 25th.<br><br><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11am - 3pm.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40559,
 				"address": "516 Santa Monica Blvd, Santa Monica, CA 90401, USA",
 				"name": "WCK Meal Distribution - Xuntos",
@@ -525,7 +495,6 @@
 			"LOS-0767-I",
 			"LOS-0767-J",
 			"LOS-0767-K",
-			"LOS-0767-L",
 			"MAL-C111-A",
 			"MAL-C111-B",
 			"MAL-C112-B",
@@ -909,36 +878,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 25th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40752,
-				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
-				"lat": 34.1545211,
-				"lng": -118.1321314,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 4pm today, January 25th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40852,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Meal & Water Distribution - LACoFD Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, January 25th.<br><br><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11am - 3pm.</p>",
 					"links": []
 				}
 			},
