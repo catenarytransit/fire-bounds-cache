@@ -1489,7 +1489,7 @@
 	},
 	{
 		"id": 41223,
-		"is_active": true,
+		"is_active": false,
 		"name": "Spillway Fire",
 		"description": null,
 		"lat": 33.302969,
@@ -1517,7 +1517,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-26T16:48:39Z",
-		"date_modified": "2025-01-26T19:34:33Z",
+		"date_modified": "2025-01-26T23:39:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
