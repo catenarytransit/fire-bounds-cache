@@ -253,21 +253,6 @@
 				}
 			},
 			{
-				"id": 40518,
-				"address": "1835 Stoner Ave, Los Angeles, CA 90025, USA",
-				"name": "Evacuation Shelter - Stoner Recreation Center",
-				"lat": 34.0384849,
-				"lng": -118.4535928,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation shelter is available at the Stoner Recreation Center, 1835 Stoner Ave, Los Angeles, CA 90025 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40396,
 				"address": "300 E Green St, Pasadena, CA 91101, USA",
 				"name": "Evacuation Shelter - Pasadena Convention Center",
@@ -618,21 +603,6 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>An Evacuation Shelter is now open at the Van Nuys /Sherman Oaks Recreation Center located at 14201 Huston St, Sherman Oaks, CA 91423, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0#:~:text=West%3A%20Louise%20Ave.-,EVACUATION/SHELTER%20CENTER%3A,-Westwood%20Recreation%20Center\">LAFD</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40518,
-				"address": "1835 Stoner Ave, Los Angeles, CA 90025, USA",
-				"name": "Evacuation Shelter - Stoner Recreation Center",
-				"lat": 34.0384849,
-				"lng": -118.4535928,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation shelter is available at the Stoner Recreation Center, 1835 Stoner Ave, Los Angeles, CA 90025 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a> &amp; the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html\">Red Cross shelter map</a>.</p>",
 					"links": []
 				}
 			},
