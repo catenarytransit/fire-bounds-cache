@@ -1187,7 +1187,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 10,
-			"acreage": 6624.8,
+			"acreage": 6625,
 			"links": [
 				{
 					"link_type": "website",
@@ -1227,7 +1227,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T22:00:29Z",
-		"date_modified": "2025-01-26T02:30:13Z",
+		"date_modified": "2025-01-26T03:09:44Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1762,7 +1762,7 @@
 	},
 	{
 		"id": 41204,
-		"is_active": true,
+		"is_active": false,
 		"name": "Power Line Fire",
 		"description": null,
 		"lat": 33.22119148079125,
@@ -1790,7 +1790,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-25T20:41:28Z",
-		"date_modified": "2025-01-25T20:58:04Z",
+		"date_modified": "2025-01-26T03:09:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
