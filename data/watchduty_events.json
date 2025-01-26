@@ -1630,7 +1630,7 @@
 	},
 	{
 		"id": 41210,
-		"is_active": true,
+		"is_active": false,
 		"name": "Fairlane Fire",
 		"description": null,
 		"lat": 34.38165336543163,
@@ -1658,7 +1658,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-26T02:35:01Z",
-		"date_modified": "2025-01-26T02:37:56Z",
+		"date_modified": "2025-01-26T06:52:28Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
