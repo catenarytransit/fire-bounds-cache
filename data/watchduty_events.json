@@ -587,6 +587,21 @@
 					"information": "<p>FEMA Disaster Recovery Center at Pasadena City College</p><p>Daily open times: 9am to 8 pm</p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p><p>Beginning Saturday, Feb. 1, 2025, the Pasadena location will be <strong>closed</strong>, and all services will be shifted to Altadena per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/2025/01/24/new-altadena-disaster-recovery-center-opens-monday/\"><strong>LA County Recovers</strong></a></p>",
 					"links": []
 				}
+			},
+			{
+				"id": 41278,
+				"address": "1150 Pacific Coast Hwy, Santa Monica, CA 90403",
+				"name": "Resident Access Pass Check-In - Lot 3 North",
+				"lat": 34.01619512356062,
+				"lng": -118.50207087823424,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>All zones in the City of Los Angeles are now open for resident-only access.</p><p>Residents can check in with law enforcement at Beach Parking Lot 3 North (1150 Pacific Coast Hwy, Santa Monica, CA 90401, USA) between 10:00 a.m. and 5:00 p.m. for an access pass to all Resident-Only Zones in the City of Los Angeles.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
