@@ -1443,28 +1443,13 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T22:00:29Z",
-		"date_modified": "2025-01-27T14:58:32Z",
+		"date_modified": "2025-01-27T18:18:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [
-			{
-				"id": 41167,
-				"address": "900 Rancho San Diego Pkwy, El Cajon, CA 92019, USA",
-				"name": "Cuyamaca College Gym (Shelter including Small Animals)",
-				"lat": 32.746401554860356,
-				"lng": -116.94234687733282,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>The American Red Cross has opened an overnight shelter for evacuees at this location. Small animals are welcome and will be&nbsp;co-located at the shelter.&nbsp;Animal care partners will be on-site to assist with the care of small animals.</p>",
-					"links": []
-				}
-			},
 			{
 				"id": 41187,
 				"address": "5821 Sweetwater Rd, Bonita, CA 91902, USA",
