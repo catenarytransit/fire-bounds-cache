@@ -334,21 +334,6 @@
 				}
 			},
 			{
-				"id": 40753,
-				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
-				"name": "WCK Meal Distribution - Malibu Brewing Company",
-				"lat": 34.0313066,
-				"lng": -118.8431276,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 26th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40528,
 				"address": "843 W Woodbury Rd, Altadena, CA 91001",
 				"name": "WCK Meal & Water Distribution - Gordy's Garage",
@@ -748,21 +733,6 @@
 				}
 			},
 			{
-				"id": 40753,
-				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
-				"name": "WCK Meal Distribution - Malibu Brewing Company",
-				"lat": 34.0313066,
-				"lng": -118.8431276,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 26th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40528,
 				"address": "843 W Woodbury Rd, Altadena, CA 91001",
 				"name": "WCK Meal & Water Distribution - Gordy's Garage",
@@ -810,7 +780,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 92,
+			"containment": 95,
 			"acreage": 10425,
 			"links": [
 				{
@@ -866,7 +836,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-26T20:59:56Z",
+		"date_modified": "2025-01-27T01:11:46Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
