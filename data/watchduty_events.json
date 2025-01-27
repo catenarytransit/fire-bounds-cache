@@ -1320,7 +1320,7 @@
 	},
 	{
 		"id": 41086,
-		"is_active": true,
+		"is_active": false,
 		"name": "Laguna Fire",
 		"description": null,
 		"lat": 34.16554984663635,
@@ -1348,7 +1348,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-23T16:42:00Z",
-		"date_modified": "2025-01-27T03:41:43Z",
+		"date_modified": "2025-01-27T11:54:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
