@@ -1770,7 +1770,7 @@
 	},
 	{
 		"id": 41225,
-		"is_active": true,
+		"is_active": false,
 		"name": "Demi John Fire",
 		"description": null,
 		"lat": 29.09185,
@@ -1783,7 +1783,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 6,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1798,7 +1798,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-26T18:54:00Z",
-		"date_modified": "2025-01-26T20:42:37Z",
+		"date_modified": "2025-01-27T20:22:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
