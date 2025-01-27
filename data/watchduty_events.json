@@ -1986,8 +1986,8 @@
 		"is_active": true,
 		"name": "Skyline Fire",
 		"description": null,
-		"lat": 43.849763,
-		"lng": -103.289083,
+		"lat": 43.84976,
+		"lng": -103.28947,
 		"address": "24600 Block of Iron Mountain Rd, Keystone, SD 57751",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2011,7 +2011,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-27T21:05:24Z",
-		"date_modified": "2025-01-27T21:15:24Z",
+		"date_modified": "2025-01-27T21:25:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
