@@ -319,36 +319,6 @@
 				}
 			},
 			{
-				"id": 40578,
-				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
-				"name": "WCK Meal Distribution - Palisades Fire Station 69",
-				"lat": 34.0450471,
-				"lng": -118.5224772,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, January 26th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal & Water Distribution - Gordy's Garage",
-				"lat": 34.18337933733453,
-				"lng": -118.16820616577323,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 26th.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 41073,
 				"address": "128 Old Topanga Canyon Rd, Topanga, CA 90290, USA",
 				"name": "WCK Meal Distribution - Inn of the Seventh Ray",
@@ -714,36 +684,6 @@
 					"geo_event_type": "location",
 					"location_type": "info",
 					"information": "<p>FEMA Disaster Recovery Center at UCLA Research Park</p><p>Daily open times: 9am to 8 pm</p><p>For more information see the : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.fema.gov/press-release/20250114/fema-disaster-recovery-centers-opening-los-angeles-county?fbclid=IwY2xjawH_h29leHRuA2FlbQIxMAABHRHg4jLgeto35EHwo9DmLTFjPjKV4TgG6yL5BHwUJh-7TWdW_UvOqSn4Aw_aem_tM3TG4SALfqYqKy45uFA6A\"><strong>FEMA PRESS RELEASE </strong></a></p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40578,
-				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
-				"name": "WCK Meal Distribution - Palisades Fire Station 69",
-				"lat": 34.0450471,
-				"lng": -118.5224772,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, January 26th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal & Water Distribution - Gordy's Garage",
-				"lat": 34.18337933733453,
-				"lng": -118.16820616577323,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 26th.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
 					"links": []
 				}
 			},
