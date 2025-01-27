@@ -364,36 +364,6 @@
 				}
 			},
 			{
-				"id": 40725,
-				"address": "2033 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - God's Waiting Room Church",
-				"lat": 34.1694695,
-				"lng": -118.1087329,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the God's Waiting Room Church located at 2033 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 11am to 3pm today, January 27th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40715,
-				"address": "455 E Woodbury Rd, Altadena, CA 91001, USA",
-				"name": "WCK Meal Distribution - Fraternal Order of Eagles",
-				"lat": 34.1814808,
-				"lng": -118.1412497,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected by the Eaton Fire and Palisades fires, including first responders, at the following location 455 E Woodbury Rd, Altadena, CA 91001, USA</p><p>Time of service is from 11am to 3pm today, January 27th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40720,
 				"address": "611 E Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
 				"name": "WCK Meal & Water Distribution - Pasadena-Sierra Madre YMCA",
@@ -600,6 +570,21 @@
 					"geo_event_type": "location",
 					"location_type": "general",
 					"information": "<p>All zones in the City of Los Angeles are now open for resident-only access.</p><p>Residents can check in with law enforcement at Beach Parking Lot 3 North (1150 Pacific Coast Hwy, Santa Monica, CA 90401, USA) between 10:00 a.m. and 5:00 p.m. for an access pass to all Resident-Only Zones in the City of Los Angeles. Access passes are required; however, escorts are no longer needed.</p><p>Contractors will be allowed in the fire area (LA City) to conduct assessment work. Contractors will be required to provide identification and proof that they have been hired by specific residents within the impacted areas. Contractors must report to the check-in area (Lot 3) to be granted access and will be provided a pass to enter.</p><p>Per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/alert/palisades-fire-repopulation-residents-only-01272025-inc0738\">LAFD</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40715,
+				"address": "455 E Woodbury Rd, Altadena, CA 91001, USA",
+				"name": "WCK Meal Distribution - Fraternal Order of Eagles",
+				"lat": 34.1814808,
+				"lng": -118.1412497,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected by the Eaton Fire and Palisades fires, including first responders, at the following location 455 E Woodbury Rd, Altadena, CA 91001, USA</p><p><s>Time of service is from 11am to 3pm today, January 27th.</s></p><p>Closed as of 2pm PST Jan 27th</p>",
 					"links": []
 				}
 			}
@@ -1003,36 +988,6 @@
 				}
 			},
 			{
-				"id": 40725,
-				"address": "2033 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - God's Waiting Room Church",
-				"lat": 34.1694695,
-				"lng": -118.1087329,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at the God's Waiting Room Church located at 2033 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 11am to 3pm today, January 27th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40715,
-				"address": "455 E Woodbury Rd, Altadena, CA 91001, USA",
-				"name": "WCK Meal Distribution - Fraternal Order of Eagles",
-				"lat": 34.1814808,
-				"lng": -118.1412497,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected by the Eaton Fire and Palisades fires, including first responders, at the following location 455 E Woodbury Rd, Altadena, CA 91001, USA</p><p>Time of service is from 11am to 3pm today, January 27th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40720,
 				"address": "611 E Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
 				"name": "WCK Meal & Water Distribution - Pasadena-Sierra Madre YMCA",
@@ -1224,6 +1179,21 @@
 					"geo_event_type": "location",
 					"location_type": "info",
 					"information": "<p>FEMA Disaster Recovery Center at Pasadena City College</p><p>Daily open times: 9am to 8 pm</p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p><p>Beginning Saturday, Feb. 1, 2025, the Pasadena location will be <strong>closed</strong>, and all services will be shifted to Altadena per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/2025/01/24/new-altadena-disaster-recovery-center-opens-monday/\"><strong>LA County Recovers</strong></a></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40715,
+				"address": "455 E Woodbury Rd, Altadena, CA 91001, USA",
+				"name": "WCK Meal Distribution - Fraternal Order of Eagles",
+				"lat": 34.1814808,
+				"lng": -118.1412497,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected by the Eaton Fire and Palisades fires, including first responders, at the following location 455 E Woodbury Rd, Altadena, CA 91001, USA</p><p><s>Time of service is from 11am to 3pm today, January 27th.</s></p><p>Closed as of 2pm PST Jan 27th</p>",
 					"links": []
 				}
 			}
@@ -1997,7 +1967,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 3,
+			"acreage": 11.2,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2011,7 +1981,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-27T21:05:24Z",
-		"date_modified": "2025-01-27T21:25:24Z",
+		"date_modified": "2025-01-27T22:05:29Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
