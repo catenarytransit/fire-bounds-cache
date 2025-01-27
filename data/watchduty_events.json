@@ -349,21 +349,6 @@
 				}
 			},
 			{
-				"id": 40852,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Meal & Water Distribution - LACoFD Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, January 26th.<br><br><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11am - 3pm.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40528,
 				"address": "843 W Woodbury Rd, Altadena, CA 91001",
 				"name": "WCK Meal & Water Distribution - Gordy's Garage",
@@ -778,21 +763,6 @@
 				}
 			},
 			{
-				"id": 40852,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Meal & Water Distribution - LACoFD Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, January 26th.<br><br><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11am - 3pm.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40528,
 				"address": "843 W Woodbury Rd, Altadena, CA 91001",
 				"name": "WCK Meal & Water Distribution - Gordy's Garage",
@@ -1172,45 +1142,6 @@
 		"reporter_managed": false,
 		"external_id": "08957f14-24eb-4558-b6d8-b347bd07a00d",
 		"external_source": "wildcad",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 41178,
-		"is_active": false,
-		"name": "Panther Fire",
-		"description": null,
-		"lat": 32.3036,
-		"lng": -97.818,
-		"address": "9900 Block of Hill City Hwy, Tolar, TX 76476",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": 100,
-			"acreage": 10,
-			"links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-01-24T22:26:01Z",
-		"date_modified": "2025-01-26T00:09:09Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "{D3502012-1A5A-4F00-800A-E2F4F4AE6EDB}",
-		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
 	},
