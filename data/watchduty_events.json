@@ -1275,10 +1275,10 @@
 				}
 			],
 			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": null,
-			"evacuation_warnings": "CAS-BITTERCANYON, CAS-CASTAICLAKE, CAS-CHARLIECANYON, LAC-E008, LAC-E016",
+			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map",
 			"is_complex_parent": false,
@@ -1286,7 +1286,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-28T16:28:07Z",
+		"date_modified": "2025-01-28T17:32:54Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1339,14 +1339,7 @@
 				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_warnings_arr": [
-			"CAS-BITTERCANYON",
-			"CAS-CASTAICLAKE",
-			"CAS-CHARLIECANYON",
-			"LAC-E008",
-			"LAC-E016"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 41110,
