@@ -304,21 +304,6 @@
 				}
 			},
 			{
-				"id": 40760,
-				"address": "928 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - Lake Street Washington Ave",
-				"lat": 34.1688148,
-				"lng": -118.1314348,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p><br>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Lake Street Washington Ave at 928 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 5:00pm - 9:00pm today, January 27th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 41244,
 				"address": "540 W Woodbury Rd, Altadena, CA 91001, USA",
 				"name": "Disaster Recovery Center",
@@ -684,21 +669,6 @@
 					"geo_event_type": "location",
 					"location_type": "info",
 					"information": "<p>FEMA Disaster Recovery Center at UCLA Research Park</p><p>Daily open times: 9am to 8 pm</p><p>For more information see the : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.fema.gov/press-release/20250114/fema-disaster-recovery-centers-opening-los-angeles-county?fbclid=IwY2xjawH_h29leHRuA2FlbQIxMAABHRHg4jLgeto35EHwo9DmLTFjPjKV4TgG6yL5BHwUJh-7TWdW_UvOqSn4Aw_aem_tM3TG4SALfqYqKy45uFA6A\"><strong>FEMA PRESS RELEASE </strong></a></p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40760,
-				"address": "928 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - Lake Street Washington Ave",
-				"lat": 34.1688148,
-				"lng": -118.1314348,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p><br>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Lake Street Washington Ave at 928 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 5:00pm - 9:00pm today, January 27th.</p>",
 					"links": []
 				}
 			},
