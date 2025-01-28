@@ -1332,7 +1332,7 @@
 	},
 	{
 		"id": 41237,
-		"is_active": true,
+		"is_active": false,
 		"name": "Two Horse Fire",
 		"description": null,
 		"lat": 35.280833,
@@ -1360,7 +1360,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-27T14:40:19Z",
-		"date_modified": "2025-01-27T23:53:18Z",
+		"date_modified": "2025-01-28T03:54:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
