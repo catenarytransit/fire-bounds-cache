@@ -14,7 +14,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 94,
+			"containment": 95,
 			"acreage": 23448,
 			"links": [
 				{
@@ -110,7 +110,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-28T00:42:08Z",
+		"date_modified": "2025-01-28T01:09:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -304,21 +304,6 @@
 				}
 			},
 			{
-				"id": 40753,
-				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
-				"name": "WCK Meal Distribution - Malibu Brewing Company",
-				"lat": 34.0313066,
-				"lng": -118.8431276,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 27th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40578,
 				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
 				"name": "WCK Meal Distribution - Palisades Fire Station 69",
@@ -409,21 +394,6 @@
 				}
 			},
 			{
-				"id": 40714,
-				"address": "3035 E Foothill Blvd, Pasadena, CA 91107",
-				"name": "Disaster Recovery Center",
-				"lat": 34.1504734,
-				"lng": -118.086438,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "info",
-					"information": "<p>FEMA Disaster Recovery Center at Pasadena City College</p><p>Daily open times: 9am to 8 pm</p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p><p>Beginning Saturday, Feb. 1, 2025, the Pasadena location will be <strong>closed</strong>, and all services will be shifted to Altadena per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/2025/01/24/new-altadena-disaster-recovery-center-opens-monday/\"><strong>LA County Recovers</strong></a></p>",
-					"links": []
-				}
-			},
-			{
 				"id": 41278,
 				"address": "1150 Pacific Coast Hwy, Santa Monica, CA 90403",
 				"name": "Resident Access Pass Check-In - Lot 3 North",
@@ -435,6 +405,21 @@
 					"geo_event_type": "location",
 					"location_type": "general",
 					"information": "<p>All zones in the City of Los Angeles are now open for resident-only access.</p><p>Residents can check in with law enforcement at Beach Parking Lot 3 North (1150 Pacific Coast Hwy, Santa Monica, CA 90401, USA) between 10:00 a.m. and 5:00 p.m. for an access pass to all Resident-Only Zones in the City of Los Angeles. Access passes are required; however, escorts are no longer needed.</p><p>Contractors will be allowed in the fire area (LA City) to conduct assessment work. Contractors will be required to provide identification and proof that they have been hired by specific residents within the impacted areas. Contractors must report to the check-in area (Lot 3) to be granted access and will be provided a pass to enter.</p><p>Per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/alert/palisades-fire-repopulation-residents-only-01272025-inc0738\">LAFD</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40714,
+				"address": "3035 E Foothill Blvd, Pasadena, CA 91107",
+				"name": "Disaster Recovery Center",
+				"lat": 34.1504734,
+				"lng": -118.086438,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "info",
+					"information": "<p>FEMA Disaster Recovery Center at Pasadena City College Foothill Campus</p><p>Daily open times: 9am to 8 pm</p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p><p>Beginning Saturday, Feb. 1, 2025, the Pasadena location will be <strong>closed</strong>, and all services will be shifted to Altadena per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/2025/01/24/new-altadena-disaster-recovery-center-opens-monday/\"><strong>LA County Recovers</strong></a></p>",
 					"links": []
 				}
 			}
@@ -763,21 +748,6 @@
 				}
 			},
 			{
-				"id": 40753,
-				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
-				"name": "WCK Meal Distribution - Malibu Brewing Company",
-				"lat": 34.0313066,
-				"lng": -118.8431276,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 27th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40578,
 				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
 				"name": "WCK Meal Distribution - Palisades Fire Station 69",
@@ -878,7 +848,7 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "info",
-					"information": "<p>FEMA Disaster Recovery Center at Pasadena City College</p><p>Daily open times: 9am to 8 pm</p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p><p>Beginning Saturday, Feb. 1, 2025, the Pasadena location will be <strong>closed</strong>, and all services will be shifted to Altadena per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/2025/01/24/new-altadena-disaster-recovery-center-opens-monday/\"><strong>LA County Recovers</strong></a></p>",
+					"information": "<p>FEMA Disaster Recovery Center at Pasadena City College Foothill Campus</p><p>Daily open times: 9am to 8 pm</p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p><p>Beginning Saturday, Feb. 1, 2025, the Pasadena location will be <strong>closed</strong>, and all services will be shifted to Altadena per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/2025/01/24/new-altadena-disaster-recovery-center-opens-monday/\"><strong>LA County Recovers</strong></a></p>",
 					"links": []
 				}
 			}
@@ -1585,7 +1555,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-27T21:05:24Z",
-		"date_modified": "2025-01-27T22:05:29Z",
+		"date_modified": "2025-01-28T01:30:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
