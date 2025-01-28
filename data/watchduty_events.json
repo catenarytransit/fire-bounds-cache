@@ -94,8 +94,13 @@
 				},
 				{
 					"link_type": "website",
-					"label": "Uber & Lyft Information",
-					"value": "https://lacounty.gov/emergency/#:~:text=%C2%A0%20and%20FAQ-,Lyft,-%3A%20Riders%20in"
+					"label": "Debris Removal Right of Entry Form",
+					"value": "https://recovery.lacounty.gov/debris-removal"
+				},
+				{
+					"link_type": "phone",
+					"label": "Fire Debris Hotline",
+					"value": "8443473332"
 				}
 			],
 			"has_custom_evacuation_orders": true,
@@ -110,7 +115,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-28T22:32:53Z",
+		"date_modified": "2025-01-28T22:36:27Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -703,8 +708,13 @@
 				},
 				{
 					"link_type": "website",
-					"label": "Uber & Lyft Information",
-					"value": "https://lacounty.gov/emergency/#:~:text=%C2%A0%20and%20FAQ-,Lyft,-%3A%20Riders%20in"
+					"label": "Debris Removal Right of Entry Form",
+					"value": "https://recovery.lacounty.gov/debris-removal"
+				},
+				{
+					"link_type": "phone",
+					"label": "Fire Debris Hotline",
+					"value": "8443473332"
 				}
 			],
 			"has_custom_evacuation_orders": false,
@@ -719,7 +729,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-28T22:31:51Z",
+		"date_modified": "2025-01-28T22:36:23Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
