@@ -1026,7 +1026,7 @@
 	},
 	{
 		"id": 41221,
-		"is_active": true,
+		"is_active": false,
 		"name": "Maho Spring Fire",
 		"description": null,
 		"lat": 35.814083,
@@ -1054,7 +1054,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-26T16:30:12Z",
-		"date_modified": "2025-01-26T16:30:12Z",
+		"date_modified": "2025-01-28T05:40:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1065,7 +1065,7 @@
 	},
 	{
 		"id": 41222,
-		"is_active": true,
+		"is_active": false,
 		"name": "Howard Fire",
 		"description": null,
 		"lat": 36.099889,
@@ -1093,7 +1093,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-26T16:35:11Z",
-		"date_modified": "2025-01-26T16:35:12Z",
+		"date_modified": "2025-01-28T05:40:28Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
