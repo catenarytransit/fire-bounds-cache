@@ -544,21 +544,6 @@
 				}
 			},
 			{
-				"id": 40749,
-				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
-				"lat": 34.1444939,
-				"lng": -118.0780778,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 4pm to 8pm today, January 28th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40528,
 				"address": "843 W Woodbury Rd, Altadena, CA 91001",
 				"name": "WCK Meal & Water Distribution - Gordy's Garage",
@@ -600,6 +585,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Lake Street Washington Ave at 928 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 4:00pm - 8:00pm today, January 28th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40749,
+				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
+				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
+				"lat": 34.1444939,
+				"lng": -118.0780778,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 4pm to 7pm today, January 28th.</p>",
 					"links": []
 				}
 			}
@@ -1153,21 +1153,6 @@
 				}
 			},
 			{
-				"id": 40749,
-				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
-				"lat": 34.1444939,
-				"lng": -118.0780778,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 4pm to 8pm today, January 28th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40528,
 				"address": "843 W Woodbury Rd, Altadena, CA 91001",
 				"name": "WCK Meal & Water Distribution - Gordy's Garage",
@@ -1209,6 +1194,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Lake Street Washington Ave at 928 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 4:00pm - 8:00pm today, January 28th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40749,
+				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
+				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
+				"lat": 34.1444939,
+				"lng": -118.0780778,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 4pm to 7pm today, January 28th.</p>",
 					"links": []
 				}
 			}
