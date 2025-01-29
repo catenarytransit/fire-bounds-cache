@@ -1656,7 +1656,7 @@
 	},
 	{
 		"id": 41385,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hook Fire",
 		"description": null,
 		"lat": 33.247389,
@@ -1684,7 +1684,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-28T23:45:59Z",
-		"date_modified": "2025-01-29T16:47:05Z",
+		"date_modified": "2025-01-29T20:54:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
