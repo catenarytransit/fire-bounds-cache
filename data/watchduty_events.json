@@ -352,81 +352,6 @@
 					"information": "<p>FEMA Disaster Recovery Center at Pasadena City College Foothill Campus</p><p>Daily open times: 9am to 8 pm</p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p><p>Beginning Saturday, Feb. 1, 2025, the Pasadena location will be <strong>closed</strong>, and all services will be shifted to Altadena per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/2025/01/24/new-altadena-disaster-recovery-center-opens-monday/\"><strong>LA County Recovers</strong></a></p>",
 					"links": []
 				}
-			},
-			{
-				"id": 40578,
-				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
-				"name": "WCK Meal Distribution - Palisades Fire Station 69",
-				"lat": 34.0450471,
-				"lng": -118.5224772,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, January 28th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal & Water Distribution - Gordy's Garage",
-				"lat": 34.18337933733453,
-				"lng": -118.16820616577323,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 28th.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40885,
-				"address": "695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
-				"name": "WCK Meal Distrubtion - Sierra Madre United Methodist",
-				"lat": 34.1625823,
-				"lng": -118.0674819,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 4pm to 8pm today, January 28th.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at this location. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40760,
-				"address": "928 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - Lake Street Washington Ave",
-				"lat": 34.1688148,
-				"lng": -118.1314348,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Lake Street Washington Ave at 928 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 4:00pm - 8:00pm today, January 28th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40749,
-				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
-				"lat": 34.1444939,
-				"lng": -118.0780778,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 4pm to 7pm today, January 28th.</p>",
-					"links": []
-				}
 			}
 		],
 		"parent_geo_events": [],
@@ -784,81 +709,6 @@
 					"geo_event_type": "location",
 					"location_type": "info",
 					"information": "<p>FEMA Disaster Recovery Center at Pasadena City College Foothill Campus</p><p>Daily open times: 9am to 8 pm</p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p><p>Beginning Saturday, Feb. 1, 2025, the Pasadena location will be <strong>closed</strong>, and all services will be shifted to Altadena per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/2025/01/24/new-altadena-disaster-recovery-center-opens-monday/\"><strong>LA County Recovers</strong></a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40578,
-				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
-				"name": "WCK Meal Distribution - Palisades Fire Station 69",
-				"lat": 34.0450471,
-				"lng": -118.5224772,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, January 28th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal & Water Distribution - Gordy's Garage",
-				"lat": 34.18337933733453,
-				"lng": -118.16820616577323,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, January 28th.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40885,
-				"address": "695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
-				"name": "WCK Meal Distrubtion - Sierra Madre United Methodist",
-				"lat": 34.1625823,
-				"lng": -118.0674819,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 4pm to 8pm today, January 28th.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at this location. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40760,
-				"address": "928 E Washington Blvd, Pasadena, CA 91104, USA",
-				"name": "WCK Meal Distribution - Lake Street Washington Ave",
-				"lat": 34.1688148,
-				"lng": -118.1314348,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Lake Street Washington Ave at 928 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 4:00pm - 8:00pm today, January 28th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40749,
-				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
-				"lat": 34.1444939,
-				"lng": -118.0780778,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 4pm to 7pm today, January 28th.</p>",
 					"links": []
 				}
 			}
@@ -1257,7 +1107,7 @@
 	},
 	{
 		"id": 41318,
-		"is_active": true,
+		"is_active": false,
 		"name": "Eagle Fire",
 		"description": null,
 		"lat": 35.095833,
@@ -1285,7 +1135,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-28T14:20:26Z",
-		"date_modified": "2025-01-28T22:48:42Z",
+		"date_modified": "2025-01-29T04:54:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
