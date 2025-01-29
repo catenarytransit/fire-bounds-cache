@@ -1778,7 +1778,7 @@
 		"description": null,
 		"lat": 37.838633,
 		"lng": -91.036133,
-		"address": "2 miles SE of Brazil",
+		"address": "6 miles ENE of Davisville, MO",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1801,7 +1801,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-29T18:15:59Z",
-		"date_modified": "2025-01-29T18:21:10Z",
+		"date_modified": "2025-01-29T18:32:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
