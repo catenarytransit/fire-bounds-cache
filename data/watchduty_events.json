@@ -1107,7 +1107,7 @@
 	},
 	{
 		"id": 41415,
-		"is_active": true,
+		"is_active": false,
 		"name": "Mallow Ridge Fire",
 		"description": null,
 		"lat": 37.838633,
@@ -1135,7 +1135,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-29T18:15:59Z",
-		"date_modified": "2025-01-30T00:17:22Z",
+		"date_modified": "2025-01-30T08:24:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
