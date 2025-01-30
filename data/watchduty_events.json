@@ -354,21 +354,6 @@
 				}
 			},
 			{
-				"id": 40852,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Meal & Water Distribution - LACoFD Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, January 29th.<br><br><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11am - 3pm.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40753,
 				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
 				"name": "WCK Meal Distribution - Malibu Brewing Company",
@@ -814,21 +799,6 @@
 					"geo_event_type": "location",
 					"location_type": "info",
 					"information": "<p>FEMA Disaster Recovery Center at Pasadena City College Foothill Campus</p><p>Daily open times: 9am to 8 pm</p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p><p>Beginning Saturday, Feb. 1, 2025, the Pasadena location will be <strong>closed</strong>, and all services will be shifted to Altadena per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/2025/01/24/new-altadena-disaster-recovery-center-opens-monday/\"><strong>LA County Recovers</strong></a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40852,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Meal & Water Distribution - LACoFD Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, January 29th.<br><br><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11am - 3pm.</p>",
 					"links": []
 				}
 			},
@@ -1408,8 +1378,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
-			"acreage": 10,
+			"containment": 100,
+			"acreage": 26,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1423,7 +1393,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-29T18:15:59Z",
-		"date_modified": "2025-01-29T18:32:22Z",
+		"date_modified": "2025-01-30T00:17:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1447,8 +1417,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": 50,
-			"acreage": 80,
+			"containment": 75,
+			"acreage": 102,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1462,7 +1432,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-29T21:01:24Z",
-		"date_modified": "2025-01-29T23:33:52Z",
+		"date_modified": "2025-01-30T00:27:45Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
