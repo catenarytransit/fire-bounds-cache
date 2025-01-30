@@ -198,21 +198,6 @@
 				}
 			},
 			{
-				"id": 40567,
-				"address": "14201 Huston St, Sherman Oaks, CA 91423",
-				"name": "Evacuation Shelter - Van Nuys /Sherman Oaks Recreation Center",
-				"lat": 34.1601133,
-				"lng": -118.4422436,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An Evacuation Shelter is now open at the Van Nuys /Sherman Oaks Recreation Center located at 14201 Huston St, Sherman Oaks, CA 91423, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0#:~:text=West%3A%20Louise%20Ave.-,EVACUATION/SHELTER%20CENTER%3A,-Westwood%20Recreation%20Center\">LAFD</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40396,
 				"address": "300 E Green St, Pasadena, CA 91101, USA",
 				"name": "Evacuation Shelter - Pasadena Convention Center",
@@ -838,21 +823,6 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40567,
-				"address": "14201 Huston St, Sherman Oaks, CA 91423",
-				"name": "Evacuation Shelter - Van Nuys /Sherman Oaks Recreation Center",
-				"lat": 34.1601133,
-				"lng": -118.4422436,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An Evacuation Shelter is now open at the Van Nuys /Sherman Oaks Recreation Center located at 14201 Huston St, Sherman Oaks, CA 91423, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/news/palisades-fire-0#:~:text=West%3A%20Louise%20Ave.-,EVACUATION/SHELTER%20CENTER%3A,-Westwood%20Recreation%20Center\">LAFD</a>.</p>",
 					"links": []
 				}
 			},
