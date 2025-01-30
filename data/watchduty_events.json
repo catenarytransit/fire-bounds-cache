@@ -1535,7 +1535,7 @@
 	},
 	{
 		"id": 41400,
-		"is_active": true,
+		"is_active": false,
 		"name": "Nelly Fire",
 		"description": null,
 		"lat": 35.331667,
@@ -1563,7 +1563,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-29T15:10:37Z",
-		"date_modified": "2025-01-30T07:58:02Z",
+		"date_modified": "2025-01-30T16:09:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
