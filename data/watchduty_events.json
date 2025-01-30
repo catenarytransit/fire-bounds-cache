@@ -249,36 +249,6 @@
 				}
 			},
 			{
-				"id": 40452,
-				"address": "5210 W Ave I, Lancaster",
-				"name": "Small/Large Animal Shelter - Lancaster Animal Care Center",
-				"lat": 34.7037175,
-				"lng": -118.223189,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small and Large animal shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40453,
-				"address": "38550 Sierra Hwy, Palmdale",
-				"name": "Small Animal Shelter - Palmdale Animal Care Center",
-				"lat": 34.5831349,
-				"lng": -118.1167387,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40713,
 				"address": "10850 W Pico Blvd, Los Angeles, CA 90064",
 				"name": "Disaster Recovery Center",
@@ -607,6 +577,36 @@
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Lake Street Washington Ave at 928 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 4:00pm - 8:00pm today, January 30th.</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40452,
+				"address": "5210 W Ave I, Lancaster",
+				"name": "Small/Large Animal Shelter - Lancaster Animal Care Center",
+				"lat": 34.7037175,
+				"lng": -118.223189,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small and Large animal shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40453,
+				"address": "38550 Sierra Hwy, Palmdale",
+				"name": "Small Animal Shelter - Palmdale Animal Care Center",
+				"lat": 34.5831349,
+				"lng": -118.1167387,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -875,36 +875,6 @@
 							"value": "https://www.wwccoc.org/"
 						}
 					]
-				}
-			},
-			{
-				"id": 40452,
-				"address": "5210 W Ave I, Lancaster",
-				"name": "Small/Large Animal Shelter - Lancaster Animal Care Center",
-				"lat": 34.7037175,
-				"lng": -118.223189,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small and Large animal shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40453,
-				"address": "38550 Sierra Hwy, Palmdale",
-				"name": "Small Animal Shelter - Palmdale Animal Care Center",
-				"lat": 34.5831349,
-				"lng": -118.1167387,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
 				}
 			},
 			{
@@ -1221,6 +1191,36 @@
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Lake Street Washington Ave at 928 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 4:00pm - 8:00pm today, January 30th.</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40452,
+				"address": "5210 W Ave I, Lancaster",
+				"name": "Small/Large Animal Shelter - Lancaster Animal Care Center",
+				"lat": 34.7037175,
+				"lng": -118.223189,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small and Large animal shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40453,
+				"address": "38550 Sierra Hwy, Palmdale",
+				"name": "Small Animal Shelter - Palmdale Animal Care Center",
+				"lat": 34.5831349,
+				"lng": -118.1167387,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": []
@@ -1290,65 +1290,19 @@
 			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "Genasys Evacuation Map",
+			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-28T17:35:03Z",
+		"date_modified": "2025-01-30T18:32:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 40452,
-				"address": "5210 W Ave I, Lancaster",
-				"name": "Small/Large Animal Shelter - Lancaster Animal Care Center",
-				"lat": 34.7037175,
-				"lng": -118.223189,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small and Large animal shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40453,
-				"address": "38550 Sierra Hwy, Palmdale",
-				"name": "Small Animal Shelter - Palmdale Animal Care Center",
-				"lat": 34.5831349,
-				"lng": -118.1167387,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 41054,
-				"address": "34.184974, -118.586671",
-				"name": "Large Animal Shelter - Pierce College",
-				"lat": 34.185027598932706,
-				"lng": -118.58658131308148,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A Large Animal Shelter is open at Pierce College for Hughes Fire evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/Angeles_NF/status/1882192419250471326\">Angeles National Forest on X</a>.</p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
