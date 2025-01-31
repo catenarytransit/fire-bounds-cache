@@ -324,21 +324,6 @@
 				}
 			},
 			{
-				"id": 40852,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Meal & Water Distribution - LACoFD Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, January 30th.<br><br><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11am - 3pm.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40753,
 				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
 				"name": "WCK Meal Distribution - Malibu Brewing Company",
@@ -799,21 +784,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Xuntos located at 516 Santa Monica Blvd, Santa Monica, CA 90401, USA.</p><p>Time of service is from 12pm to 3pm today, January 30th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40852,
-				"address": "2760 Lincoln Ave, Altadena, CA 91001, USA",
-				"name": "WCK Meal & Water Distribution - LACoFD Station 12",
-				"lat": 34.1929412,
-				"lng": -118.1584616,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, January 30th.<br><br><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 11am - 3pm.</p>",
 					"links": []
 				}
 			},
@@ -1336,7 +1306,7 @@
 	},
 	{
 		"id": 41444,
-		"is_active": true,
+		"is_active": false,
 		"name": "Audrain Fire",
 		"description": null,
 		"lat": 37.519972,
@@ -1364,7 +1334,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-29T23:08:12Z",
-		"date_modified": "2025-01-30T20:51:13Z",
+		"date_modified": "2025-01-31T00:54:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
