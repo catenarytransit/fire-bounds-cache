@@ -339,21 +339,6 @@
 				}
 			},
 			{
-				"id": 41513,
-				"address": "1440 N. Topanga Canyon Blvd., Topanga, CA 90290",
-				"name": "WCK Meal Distribution - Topanga Farmers Market",
-				"lat": 34.11202466230253,
-				"lng": -118.58988495171297,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Topanga Farmers Market located at 1440 N. Topanga Canyon Blvd., Topanga, CA 90290.</p><p>Time of service is from 9am to 1pm today, January 31st.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 41235,
 				"address": "600 Lincoln Ave, Pasadena, CA 91109, USA",
 				"name": "WCK Meal Distribution - Post Office (Orange Grove)",
@@ -994,21 +979,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Xuntos located at 516 Santa Monica Blvd, Santa Monica, CA 90401, USA.</p><p>Time of service is from 12pm to 3pm today, January 31st.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 41513,
-				"address": "1440 N. Topanga Canyon Blvd., Topanga, CA 90290",
-				"name": "WCK Meal Distribution - Topanga Farmers Market",
-				"lat": 34.11202466230253,
-				"lng": -118.58988495171297,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Topanga Farmers Market located at 1440 N. Topanga Canyon Blvd., Topanga, CA 90290.</p><p>Time of service is from 9am to 1pm today, January 31st.</p>",
 					"links": []
 				}
 			},
