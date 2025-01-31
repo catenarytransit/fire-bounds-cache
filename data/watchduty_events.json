@@ -115,7 +115,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-31T02:03:05Z",
+		"date_modified": "2025-01-31T10:13:41Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -759,7 +759,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-01-30T10:09:03Z",
+		"date_modified": "2025-01-31T10:12:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1287,7 +1287,7 @@
 	},
 	{
 		"id": 41039,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hughes Fire",
 		"description": null,
 		"lat": 34.57964782242047,
@@ -1356,7 +1356,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-22T18:42:18Z",
-		"date_modified": "2025-01-31T02:04:18Z",
+		"date_modified": "2025-01-31T10:09:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
