@@ -324,36 +324,6 @@
 				}
 			},
 			{
-				"id": 40749,
-				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
-				"lat": 34.1444939,
-				"lng": -118.0780778,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 4pm to 7pm today, January 30th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 41463,
-				"address": "393 E Walnut St, Pasadena, CA 91188, USA",
-				"name": "WCK Meal Distribution - Kaiser Permanente Pasadena Offices",
-				"lat": 34.1508858,
-				"lng": -118.1423593,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Kaiser Permanente Pasadena Offices located at 393 E Walnut St, Pasadena, CA 91188, USA.</p><p>Time of service is from 7am to 7pm today, January 30th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40578,
 				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
 				"name": "WCK Meal Distribution - Palisades Fire Station 69",
@@ -769,36 +739,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Xuntos located at 516 Santa Monica Blvd, Santa Monica, CA 90401, USA.</p><p>Time of service is from 12pm to 3pm today, January 30th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40749,
-				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
-				"lat": 34.1444939,
-				"lng": -118.0780778,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 4pm to 7pm today, January 30th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 41463,
-				"address": "393 E Walnut St, Pasadena, CA 91188, USA",
-				"name": "WCK Meal Distribution - Kaiser Permanente Pasadena Offices",
-				"lat": 34.1508858,
-				"lng": -118.1423593,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Kaiser Permanente Pasadena Offices located at 393 E Walnut St, Pasadena, CA 91188, USA.</p><p>Time of service is from 7am to 7pm today, January 30th.</p>",
 					"links": []
 				}
 			},
