@@ -14,7 +14,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 96,
+			"containment": 98,
 			"acreage": 23448,
 			"links": [
 				{
@@ -115,7 +115,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-01-30T10:10:40Z",
+		"date_modified": "2025-01-31T02:03:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1042,7 +1042,7 @@
 	},
 	{
 		"id": 41322,
-		"is_active": true,
+		"is_active": false,
 		"name": "Fritter Fire",
 		"description": null,
 		"lat": 36.582778,
@@ -1070,7 +1070,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-28T14:25:27Z",
-		"date_modified": "2025-01-28T14:25:27Z",
+		"date_modified": "2025-01-31T01:39:03Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1081,7 +1081,7 @@
 	},
 	{
 		"id": 41323,
-		"is_active": true,
+		"is_active": false,
 		"name": "Creek Land Fire",
 		"description": null,
 		"lat": 36.477542,
@@ -1109,7 +1109,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-28T14:25:28Z",
-		"date_modified": "2025-01-28T14:25:28Z",
+		"date_modified": "2025-01-31T01:38:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
