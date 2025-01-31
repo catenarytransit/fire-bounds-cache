@@ -309,21 +309,6 @@
 				}
 			},
 			{
-				"id": 40559,
-				"address": "516 Santa Monica Blvd, Santa Monica, CA 90401, USA",
-				"name": "WCK Meal Distribution - Xuntos",
-				"lat": 34.0174391,
-				"lng": -118.4937028,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Xuntos located at 516 Santa Monica Blvd, Santa Monica, CA 90401, USA.</p><p>Time of service is from 12pm to 3pm today, January 30th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40452,
 				"address": "5210 W Ave I, Lancaster",
 				"name": "Small/Large Animal Shelter - Lancaster Animal Care Center",
@@ -350,6 +335,21 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40559,
+				"address": "516 Santa Monica Blvd, Santa Monica, CA 90401, USA",
+				"name": "WCK Meal Distribution - Xuntos",
+				"lat": 34.0174391,
+				"lng": -118.4937028,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Xuntos located at 516 Santa Monica Blvd, Santa Monica, CA 90401, USA.</p><p>Time of service is from 12pm to 3pm today, January 31st.</p>",
 					"links": []
 				}
 			}
@@ -668,21 +668,6 @@
 				}
 			},
 			{
-				"id": 40559,
-				"address": "516 Santa Monica Blvd, Santa Monica, CA 90401, USA",
-				"name": "WCK Meal Distribution - Xuntos",
-				"lat": 34.0174391,
-				"lng": -118.4937028,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Xuntos located at 516 Santa Monica Blvd, Santa Monica, CA 90401, USA.</p><p>Time of service is from 12pm to 3pm today, January 30th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40452,
 				"address": "5210 W Ave I, Lancaster",
 				"name": "Small/Large Animal Shelter - Lancaster Animal Care Center",
@@ -709,6 +694,21 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40559,
+				"address": "516 Santa Monica Blvd, Santa Monica, CA 90401, USA",
+				"name": "WCK Meal Distribution - Xuntos",
+				"lat": 34.0174391,
+				"lng": -118.4937028,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Xuntos located at 516 Santa Monica Blvd, Santa Monica, CA 90401, USA.</p><p>Time of service is from 12pm to 3pm today, January 31st.</p>",
 					"links": []
 				}
 			}
