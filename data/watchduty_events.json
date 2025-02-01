@@ -324,21 +324,6 @@
 				}
 			},
 			{
-				"id": 40753,
-				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
-				"name": "WCK Meal Distribution - Malibu Brewing Company",
-				"lat": 34.0313066,
-				"lng": -118.8431276,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 31st.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40749,
 				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
 				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
@@ -788,21 +773,6 @@
 				}
 			},
 			{
-				"id": 40753,
-				"address": "30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA",
-				"name": "WCK Meal Distribution - Malibu Brewing Company",
-				"lat": 34.0313066,
-				"lng": -118.8431276,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Malibu Brewing Company located at 30745 Pacific Coast Hwy R4, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm today, January 31st.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40749,
 				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
 				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
@@ -1108,7 +1078,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 3,
+			"acreage": 3.6,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1122,7 +1092,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-31T23:44:11Z",
-		"date_modified": "2025-01-31T23:50:12Z",
+		"date_modified": "2025-02-01T01:00:56Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
