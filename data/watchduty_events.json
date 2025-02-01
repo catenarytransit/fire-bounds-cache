@@ -1235,7 +1235,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Bugbee",
+			"evacuation_orders": "Bugbee All campgrounds at Lake Meredith National Recreational Area",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -1244,7 +1244,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-01T20:16:15Z",
-		"date_modified": "2025-02-01T21:12:12Z",
+		"date_modified": "2025-02-01T21:51:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1269,7 +1269,7 @@
 		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"Bugbee"
+			"Bugbee All campgrounds at Lake Meredith National Recreational Area"
 		]
 	},
 	{
