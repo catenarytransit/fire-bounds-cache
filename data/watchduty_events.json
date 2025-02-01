@@ -1254,14 +1254,14 @@
 			{
 				"id": 41553,
 				"address": "811 E Broadway St, Fritch, TX 79036, USA",
-				"name": "Evacuation Point - Celebration Family Church (Fritch)",
+				"name": "Evacuation Shelter - Celebration Family Church (Fritch)",
 				"lat": 35.6379656,
 				"lng": -101.5743538,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
 					"geo_event_type": "location",
-					"location_type": "general",
+					"location_type": "evac_shelter",
 					"information": "<p>Evacuees may go to the celebration church in Fritch (811 E Broadway St, Fritch, TX 79036, USA), per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/permalink.php?story_fbid=pfbid02w4GgQcYXfrYtpBt17qTv1TzpRiH5U31j5G76AbLSA2sn6WPGm9Ewtvqzv5PGw31fl&amp;id=100067626743357\">Fritch VFD on Facebook</a>.</p>",
 					"links": []
 				}
