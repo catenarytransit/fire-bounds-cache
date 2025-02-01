@@ -1229,29 +1229,48 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": null,
+			"containment": 0,
 			"acreage": 10,
 			"links": [],
-			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
+			"evacuation_orders": "Bugbee",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "Fritch Volunteer Fire Department is actively evacuating Bugbee residents",
+			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-01T20:16:15Z",
-		"date_modified": "2025-02-01T20:48:13Z",
+		"date_modified": "2025-02-01T21:03:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
+		"child_geo_events": [
+			{
+				"id": 41553,
+				"address": "811 E Broadway St, Fritch, TX 79036, USA",
+				"name": "Evacuation Point - Celebration Family Church (Fritch)",
+				"lat": 35.6379656,
+				"lng": -101.5743538,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>Evacuees may go to the celebration church in Fritch (811 E Broadway St, Fritch, TX 79036, USA), per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/permalink.php?story_fbid=pfbid02w4GgQcYXfrYtpBt17qTv1TzpRiH5U31j5G76AbLSA2sn6WPGm9Ewtvqzv5PGw31fl&amp;id=100067626743357\">Fritch VFD on Facebook</a>.</p>",
+					"links": []
+				}
+			}
+		],
+		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"Bugbee"
+		]
 	},
 	{
 		"id": 41552,
