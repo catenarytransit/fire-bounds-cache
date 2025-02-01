@@ -1341,7 +1341,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-01T22:17:03Z",
-		"date_modified": "2025-02-01T22:24:00Z",
+		"date_modified": "2025-02-01T22:25:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1365,8 +1365,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
-			"acreage": 3,
+			"containment": 10,
+			"acreage": 8,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1380,7 +1380,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-01T22:20:47Z",
-		"date_modified": "2025-02-01T22:20:47Z",
+		"date_modified": "2025-02-01T22:25:46Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
