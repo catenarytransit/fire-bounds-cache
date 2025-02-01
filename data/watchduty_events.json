@@ -106,7 +106,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "LOS-0767-A, LOS-0767-D, LOS-0767-E, LOS-0767-F, LOS-0767-G, LOS-0767-H, LOS-0767-I, LOS-0767-J, LOS-0767-K, LOS-0767-L",
+			"evacuation_orders": "LOS-0767-A, LOS-0767-D, LOS-0767-E, LOS-0767-F, LOS-0767-G, LOS-0767-H, LOS-0767-I, LOS-0767-J, LOS-0767-K, LOS-0767-L Note: All zones in the City of Los Angeles are open only to residents with an access pass. For information on gaining access, please see https://app.watchduty.org/location/41278.",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map LA City Evacuation Map -- Additional Information -- A Do-Not-Use-Water Notice is in effect for some impacted areas. For more information, see this link. Damage Assessment and Recovery Resources:LA City Fire Recovery & LA County Recovers 211 LA Palisades Fire Resources",
@@ -115,7 +115,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-02-01T02:00:39Z",
+		"date_modified": "2025-02-01T02:26:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -424,7 +424,7 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "general",
-					"information": "<p>All zones in the City of Los Angeles are now open for resident-only access, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/alert/palisades-fire-repopulation-residents-only-01272025-inc0738\">LAFD</a>.</p><p>Residents can check in with law enforcement at Beach Parking Lot 3 North (1150 Pacific Coast Hwy, Santa Monica, CA 90401, USA) between 10:00 a.m. and 5:00 p.m. for an access pass to all Resident-Only Zones in the City of Los Angeles. Access passes are required; however, escorts are no longer needed.</p><p>Contractors will be allowed in the fire area (LA City) to conduct assessment work. Contractors will be required to provide identification and proof that they have been hired by specific residents within the impacted areas. Contractors must report to the check-in area (Lot 3) to be granted access and will be provided a pass to enter.</p><p></p><p>Additionally, World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Beach Parking Lot 3 North located at 1150 Pacific Coast Hwy, Santa Monica, CA 90403.</p><p>Time of service is from 11am to 3pm today, January 31st.</p>",
+					"information": "<p>All zones in the City of Los Angeles are now open for resident-only access, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/alert/palisades-fire-repopulation-residents-only-01272025-inc0738\">LAFD</a>.</p><p>Residents can check in with law enforcement at Beach Parking Lot 3 North (1150 Pacific Coast Hwy, Santa Monica, CA 90401, USA) between 10:00 a.m. and 5:00 p.m. for an access pass to all Resident-Only Zones in the City of Los Angeles. Access passes are required; however, escorts are no longer needed. Curfew hours remain in effect.</p><p>Contractors will be allowed in the fire area (LA City) to conduct assessment work. Contractors will be required to provide identification and proof that they have been hired by specific residents within the impacted areas. Contractors must report to the check-in area (Lot 3) to be granted access and will be provided a pass to enter.</p><p></p><p>Additionally, World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Beach Parking Lot 3 North located at 1150 Pacific Coast Hwy, Santa Monica, CA 90403.</p><p>Time of service is from 11am to 3pm today, January 31st.</p>",
 					"links": []
 				}
 			}
@@ -440,7 +440,8 @@
 			"LOS-0767-I",
 			"LOS-0767-J",
 			"LOS-0767-K",
-			"LOS-0767-L"
+			"LOS-0767-L Note: All zones in the City of Los Angeles are open only to residents with an access pass. For information on gaining access",
+			"please see https://app.watchduty.org/location/41278."
 		]
 	},
 	{
