@@ -931,7 +931,13 @@
 			"is_fps": false,
 			"containment": 5,
 			"acreage": 300,
-			"links": [],
+			"links": [
+				{
+					"link_type": "website",
+					"label": "InciWeb",
+					"value": "https://inciweb.wildfire.gov/incident-information/txtxs-blue-hills-fire"
+				}
+			],
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
@@ -944,7 +950,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-01T20:16:15Z",
-		"date_modified": "2025-02-01T22:37:58Z",
+		"date_modified": "2025-02-01T23:20:30Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
