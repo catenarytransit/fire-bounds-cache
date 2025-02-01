@@ -369,21 +369,6 @@
 				}
 			},
 			{
-				"id": 40716,
-				"address": "500 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Pasadena Community Job Center",
-				"lat": 34.1372351,
-				"lng": -118.1319605,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena Community Job Center at 500 N Lake Ave, Pasadena, CA 91101, USA</p><p>Time of service is from 11am to 3pm today, February 1st.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40725,
 				"address": "2033 E Washington Blvd, Pasadena, CA 91104, USA",
 				"name": "WCK Meal Distribution - God's Waiting Room Church",
@@ -560,6 +545,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 4pm to 8pm today, February 1st.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at this location. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40716,
+				"address": "500 N Lake Ave, Pasadena, CA 91101, USA",
+				"name": "WCK Meal Distribution - Pasadena Community Job Center",
+				"lat": 34.1546654,
+				"lng": -118.1321539,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena Community Job Center at 500 N Lake Ave, Pasadena, CA 91101, USA</p><p>Time of service is from 11am to 3pm today, February 1st.</p>",
 					"links": []
 				}
 			}
@@ -939,21 +939,6 @@
 				}
 			},
 			{
-				"id": 40716,
-				"address": "500 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Pasadena Community Job Center",
-				"lat": 34.1372351,
-				"lng": -118.1319605,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena Community Job Center at 500 N Lake Ave, Pasadena, CA 91101, USA</p><p>Time of service is from 11am to 3pm today, February 1st.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40725,
 				"address": "2033 E Washington Blvd, Pasadena, CA 91104, USA",
 				"name": "WCK Meal Distribution - God's Waiting Room Church",
@@ -1130,6 +1115,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 4pm to 8pm today, February 1st.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at this location. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40716,
+				"address": "500 N Lake Ave, Pasadena, CA 91101, USA",
+				"name": "WCK Meal Distribution - Pasadena Community Job Center",
+				"lat": 34.1546654,
+				"lng": -118.1321539,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena Community Job Center at 500 N Lake Ave, Pasadena, CA 91101, USA</p><p>Time of service is from 11am to 3pm today, February 1st.</p>",
 					"links": []
 				}
 			}
