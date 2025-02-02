@@ -313,13 +313,13 @@
 			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "Genasys Evacuation Map A Do-Not-Use-Water Notice is in effect for some impacted areas. For more information, see this link. Official Recovery Information & Damage Inspection Dashboard 211 LA Eaton Fire Resources FOREST CLOSURE: The entire Angeles National Forest is temporarily closed through Friday, January 31, 2025, at 12:00 midnight (end of day) for public safety and the protection of natural resources. -To read Forest Order No. 05-01-25-04, click here.",
+			"evacuation_notes": "Genasys Evacuation Map A Do-Not-Use-Water Notice is in effect for some impacted areas. For more information, see this link. Official Recovery Information & Damage Inspection Dashboard 211 LA Eaton Fire Resources",
 			"is_complex_parent": false,
 			"reporter_only_notes": "<p>All future updates should be a silent report with the exception of evacuation status level changes (always normal) NR 1/16</p>",
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-08T02:23:33Z",
-		"date_modified": "2025-02-01T10:09:09Z",
+		"date_modified": "2025-02-02T04:39:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -391,7 +391,7 @@
 	},
 	{
 		"id": 41523,
-		"is_active": true,
+		"is_active": false,
 		"name": "Wagon Wheel Fire",
 		"description": null,
 		"lat": 46.869993,
@@ -419,7 +419,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-31T15:41:44Z",
-		"date_modified": "2025-01-31T15:41:44Z",
+		"date_modified": "2025-02-02T04:34:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
