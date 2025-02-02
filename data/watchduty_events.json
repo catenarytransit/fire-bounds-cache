@@ -572,7 +572,7 @@
 	},
 	{
 		"id": 41555,
-		"is_active": true,
+		"is_active": false,
 		"name": "Pleasant Grove Fire",
 		"description": null,
 		"lat": 30.393130923385712,
@@ -600,7 +600,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-01T22:17:03Z",
-		"date_modified": "2025-02-01T23:25:41Z",
+		"date_modified": "2025-02-02T05:39:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
