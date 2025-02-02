@@ -923,7 +923,7 @@
 	},
 	{
 		"id": 41564,
-		"is_active": true,
+		"is_active": false,
 		"name": "Jax Fire",
 		"description": null,
 		"lat": 31.798167,
@@ -951,7 +951,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-02T03:25:47Z",
-		"date_modified": "2025-02-02T05:30:47Z",
+		"date_modified": "2025-02-02T09:39:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
