@@ -324,21 +324,6 @@
 				}
 			},
 			{
-				"id": 40749,
-				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
-				"lat": 34.1444939,
-				"lng": -118.0780778,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 4pm to 7pm today, February 1st.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40578,
 				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
 				"name": "WCK Meal Distribution - Palisades Fire Station 69",
@@ -710,21 +695,6 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40749,
-				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
-				"lat": 34.1444939,
-				"lng": -118.0780778,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 4pm to 7pm today, February 1st.</p>",
 					"links": []
 				}
 			},
