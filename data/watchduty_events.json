@@ -1184,7 +1184,7 @@
 	},
 	{
 		"id": 41563,
-		"is_active": true,
+		"is_active": false,
 		"name": "Philly Fire",
 		"description": null,
 		"lat": 33.79207,
@@ -1212,7 +1212,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-02T01:13:26Z",
-		"date_modified": "2025-02-02T06:40:52Z",
+		"date_modified": "2025-02-02T12:54:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
