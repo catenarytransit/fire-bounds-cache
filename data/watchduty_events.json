@@ -196,51 +196,6 @@
 					"information": "<p>All zones in the City of Los Angeles are now open for resident-only access, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/alert/palisades-fire-repopulation-residents-only-01272025-inc0738\">LAFD</a>.</p><p>Residents can check in with law enforcement at Beach Parking Lot 3 North (1150 Pacific Coast Hwy, Santa Monica, CA 90401, USA) between 10:00 a.m. and 5:00 p.m. for an access pass to all Resident-Only Zones in the City of Los Angeles. Access passes are required; however, escorts are no longer needed. Curfew hours remain in effect.</p><p>Contractors will be allowed in the fire area (LA City) to conduct assessment work. Contractors will be required to provide identification and proof that they have been hired by specific residents within the impacted areas. Contractors must report to the check-in area (Lot 3) to be granted access and will be provided a pass to enter.</p><p></p><p>Additionally, World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Beach Parking Lot 3 North located at 1150 Pacific Coast Hwy, Santa Monica, CA 90403.</p><p>Time of service is from 11am to 4pm today, February 1st.</p>",
 					"links": []
 				}
-			},
-			{
-				"id": 40578,
-				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
-				"name": "WCK Meal Distribution - Palisades Fire Station 69",
-				"lat": 34.0450471,
-				"lng": -118.5224772,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, February 1st.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal & Water Distribution - Gordy's Garage",
-				"lat": 34.18337933733453,
-				"lng": -118.16820616577323,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, February 1st.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40885,
-				"address": "695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
-				"name": "WCK Meal Distrubtion - Sierra Madre United Methodist",
-				"lat": 34.1625823,
-				"lng": -118.0674819,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 4pm to 8pm today, February 1st.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at this location. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
-					"links": []
-				}
 			}
 		],
 		"parent_geo_events": [],
@@ -428,51 +383,6 @@
 					"geo_event_type": "location",
 					"location_type": "info",
 					"information": "<p>A new Disaster Recovery Center will be opening in Altadena on Monday, Jan. 27, 2025, from<strong> 9 AM to 8 PM</strong> and will be available to residents <strong>seven days a week</strong>.<br>The new center will be located at <strong>540 West Woodbury Road, Altadena, CA 91001</strong> per </p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/2025/01/24/new-altadena-disaster-recovery-center-opens-monday/\"><strong>LA County Recovers</strong></a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40578,
-				"address": "15045 Sunset Blvd, Pacific Palisades, CA 90272, USA",
-				"name": "WCK Meal Distribution - Palisades Fire Station 69",
-				"lat": 34.0450471,
-				"lng": -118.5224772,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Palisades Fire Station 69 located at 15045 Sunset Blvd, Pacific Palisades, CA 90272, USA.</p><p>Time of service is from 11am to 8pm today, February 1st.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40528,
-				"address": "843 W Woodbury Rd, Altadena, CA 91001",
-				"name": "WCK Meal & Water Distribution - Gordy's Garage",
-				"lat": 34.18337933733453,
-				"lng": -118.16820616577323,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001</p><p>Time of service is from 4pm to 8pm today, February 1st.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40885,
-				"address": "695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
-				"name": "WCK Meal Distrubtion - Sierra Madre United Methodist",
-				"lat": 34.1625823,
-				"lng": -118.0674819,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 4pm to 8pm today, February 1st.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at this location. Free 5 gallon bladders will also be available.</p><p>Time of Service: 4:00pm - 8:00pm</p>",
 					"links": []
 				}
 			}
