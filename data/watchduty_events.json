@@ -123,21 +123,6 @@
 		"external_source": null,
 		"child_geo_events": [
 			{
-				"id": 40565,
-				"address": "6801 Hollywood Blvd Suite 105, Los Angeles, CA 90028, USA",
-				"name": "First Responders Only - Meal Distribution - Hard Rock Cafe",
-				"lat": 34.1017979,
-				"lng": -118.3405078,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>Hard Rock Cafe LA is offering free food to <strong>first responders</strong> at 6801 Hollywood Blvd Suite 105, Los Angeles, CA.<br><br>Free meal to <strong>First Responders</strong> and <strong>Firefighters</strong> from Hard Rock Cafe. While supplies last.</p><p><strong>Location:</strong> Hard Rock Cafe: 6801 Hollywood Blvd</p><p><strong>Hours:</strong></p><ul><li><p>Sunday - Thursday: 11 AM - 10 PM</p></li><li><p>Friday &amp; Saturday: 9 AM - 10 PM</p></li></ul>",
-					"links": []
-				}
-			},
-			{
 				"id": 40348,
 				"address": "1350 S Sepulveda Blvd, Los Angeles, CA 90025, USA",
 				"name": "Evacuation Shelter - Westwood Recreation Center",
@@ -153,51 +138,6 @@
 				}
 			},
 			{
-				"id": 40444,
-				"address": "Industry Hills Expo 16200 Temple Ave, City of Industry, CA 91744",
-				"name": "Large Animal Shelter",
-				"lat": 34.025991,
-				"lng": -117.938656,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is available at the Industry Hills Expo at 16200 Temple Ave, City of Industry, CA 91744 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40449,
-				"address": "216 W Victoria St, Gardena, CA",
-				"name": "Small Animal Shelter - Carson Animal Care Center",
-				"lat": 33.8643652,
-				"lng": -118.2774155,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40451,
-				"address": "11258 Garfield Ave, Downey",
-				"name": "Small Animal Shelter - Downey Animal Care Center",
-				"lat": 33.9249938,
-				"lng": -118.1689665,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40396,
 				"address": "300 E Green St, Pasadena, CA 91101, USA",
 				"name": "Evacuation Shelter - Pasadena Convention Center",
@@ -209,21 +149,6 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>An evacuation shelter is available at the Pasadena Convention Center Exhibition Hall, 300 East Green Street, Pasadena, CA 91101 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p><p>Parking is available at the parking structure across the street from the Convention Center, located at 155 E. Green St. Please enter from Marengo Ave.</p><p>Parking is also available at the Paseo parking structure, located at 360 E. Colorado Blvd. You are able to enter the structure from Colorado Blvd. or Green St.</p><p>The Humane Society is on-site to accept pets for boarding. Service animals will be allowed inside the Convention Center.</p><p>Residents are able to call 211 for information regarding shelters, and social and health services.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40442,
-				"address": "34.091608, -117.765438",
-				"name": "Large Animal Shelter - Pomona Fairplex Gate 12",
-				"lat": 34.091482896475185,
-				"lng": -117.76543199257529,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave, enter through Gate 12. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
 					"links": []
 				}
 			},
@@ -254,36 +179,6 @@
 					"geo_event_type": "location",
 					"location_type": "info",
 					"information": "<p>A new Disaster Recovery Center will be opening in Altadena on Monday, Jan. 27, 2025, from<strong> 9 AM to 8 PM</strong> and will be available to residents <strong>seven days a week</strong>.<br>The new center will be located at <strong>540 West Woodbury Road, Altadena, CA 91001</strong> per </p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/2025/01/24/new-altadena-disaster-recovery-center-opens-monday/\"><strong>LA County Recovers</strong></a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40452,
-				"address": "5210 W Ave I, Lancaster",
-				"name": "Small/Large Animal Shelter - Lancaster Animal Care Center",
-				"lat": 34.7037175,
-				"lng": -118.223189,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small and Large animal shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40453,
-				"address": "38550 Sierra Hwy, Palmdale",
-				"name": "Small Animal Shelter - Palmdale Animal Care Center",
-				"lat": 34.5831349,
-				"lng": -118.1167387,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
 					"links": []
 				}
 			},
@@ -477,36 +372,6 @@
 		"external_source": null,
 		"child_geo_events": [
 			{
-				"id": 40565,
-				"address": "6801 Hollywood Blvd Suite 105, Los Angeles, CA 90028, USA",
-				"name": "First Responders Only - Meal Distribution - Hard Rock Cafe",
-				"lat": 34.1017979,
-				"lng": -118.3405078,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>Hard Rock Cafe LA is offering free food to <strong>first responders</strong> at 6801 Hollywood Blvd Suite 105, Los Angeles, CA.<br><br>Free meal to <strong>First Responders</strong> and <strong>Firefighters</strong> from Hard Rock Cafe. While supplies last.</p><p><strong>Location:</strong> Hard Rock Cafe: 6801 Hollywood Blvd</p><p><strong>Hours:</strong></p><ul><li><p>Sunday - Thursday: 11 AM - 10 PM</p></li><li><p>Friday &amp; Saturday: 9 AM - 10 PM</p></li></ul>",
-					"links": []
-				}
-			},
-			{
-				"id": 40406,
-				"address": "361 S Raymond Ave, Pasadena, CA 91105, USA",
-				"name": "Small Animal Shelter - Pasadena Humane Society",
-				"lat": 34.1399349,
-				"lng": -118.1492414,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A small animal shelter is established at the Pasadena Humane Society for emergency sheltering. The shelter is located at 361 S Raymond Ave, Pasadena, CA 91105. The shelter states, \"If you are being evacuated and can go somewhere with your pets–such as a friend or family member’s home–that is ideal. If you are evacuating, please take your animals with you. We are very thankful that the Pasadena Civic Center has allowed people to stay with their pets. We are helping in any way that we can–providing them with resources such as food and leashes for the displaced families. We also have pet food available at the shelter for those who need it. If you cannot go somewhere that allows your pet to stay with you, you can bring your animals to the shelter where we are offering emergency boarding.</p><p>Pets: If you have been impacted by the Eaton Fire and need help with a pet you’ve lost, found or had to leave behind in the fire zone, please contact our Dispatch at <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link c-link--underline\" href=\"tel:6267927151\">626-792-7151</a> x 970. </p><p>Wildlife: If you need help with injured wildlife, please text or call <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link c-link--underline\" href=\"tel:6263441129\">626-344-1129</a>.\" per&nbsp; <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link c-link--underline\" href=\"https://www.facebook.com/pasadenahumane?__cft__[0]=AZX8Poik_3Lpx3mUHg9uFkluts49e_hVTqxWaRBaMhf6Ueaab0hemlv5TAeUtKQUtwS1HWxU3qzs6YFjs2QsU8jRfkotAu3vHRvGXCdXL565bV_HynkKt-ztZEuJtCZ2OGhFyPfGb9Ok_--EdNDIMXPW53JKk2Cipai-6BDK-1bd7smROWbe2kUkTVT3QOScpBg&amp;__tn__=-UC%2CP-R\">Pasadena Humane</a></p><p>More details are located <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://pasadenahumane.org/eaton-canyon-fire-update/\">at this link</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40348,
 				"address": "1350 S Sepulveda Blvd, Los Angeles, CA 90025, USA",
 				"name": "Evacuation Shelter - Westwood Recreation Center",
@@ -522,51 +387,6 @@
 				}
 			},
 			{
-				"id": 40444,
-				"address": "Industry Hills Expo 16200 Temple Ave, City of Industry, CA 91744",
-				"name": "Large Animal Shelter",
-				"lat": 34.025991,
-				"lng": -117.938656,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is available at the Industry Hills Expo at 16200 Temple Ave, City of Industry, CA 91744 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40449,
-				"address": "216 W Victoria St, Gardena, CA",
-				"name": "Small Animal Shelter - Carson Animal Care Center",
-				"lat": 33.8643652,
-				"lng": -118.2774155,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40451,
-				"address": "11258 Garfield Ave, Downey",
-				"name": "Small Animal Shelter - Downey Animal Care Center",
-				"lat": 33.9249938,
-				"lng": -118.1689665,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40396,
 				"address": "300 E Green St, Pasadena, CA 91101, USA",
 				"name": "Evacuation Shelter - Pasadena Convention Center",
@@ -578,21 +398,6 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>An evacuation shelter is available at the Pasadena Convention Center Exhibition Hall, 300 East Green Street, Pasadena, CA 91101 per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p><p>Parking is available at the parking structure across the street from the Convention Center, located at 155 E. Green St. Please enter from Marengo Ave.</p><p>Parking is also available at the Paseo parking structure, located at 360 E. Colorado Blvd. You are able to enter the structure from Colorado Blvd. or Green St.</p><p>The Humane Society is on-site to accept pets for boarding. Service animals will be allowed inside the Convention Center.</p><p>Residents are able to call 211 for information regarding shelters, and social and health services.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40442,
-				"address": "34.091608, -117.765438",
-				"name": "Large Animal Shelter - Pomona Fairplex Gate 12",
-				"lat": 34.091482896475185,
-				"lng": -117.76543199257529,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>A large animal shelter is available at the Pomona Fairplex at 1101 W McKinley Ave, enter through Gate 12. Pomona per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a></p>",
 					"links": []
 				}
 			},
@@ -623,36 +428,6 @@
 					"geo_event_type": "location",
 					"location_type": "info",
 					"information": "<p>A new Disaster Recovery Center will be opening in Altadena on Monday, Jan. 27, 2025, from<strong> 9 AM to 8 PM</strong> and will be available to residents <strong>seven days a week</strong>.<br>The new center will be located at <strong>540 West Woodbury Road, Altadena, CA 91001</strong> per </p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/2025/01/24/new-altadena-disaster-recovery-center-opens-monday/\"><strong>LA County Recovers</strong></a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40452,
-				"address": "5210 W Ave I, Lancaster",
-				"name": "Small/Large Animal Shelter - Lancaster Animal Care Center",
-				"lat": 34.7037175,
-				"lng": -118.223189,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small and Large animal shelter - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40453,
-				"address": "38550 Sierra Hwy, Palmdale",
-				"name": "Small Animal Shelter - Palmdale Animal Care Center",
-				"lat": 34.5831349,
-				"lng": -118.1167387,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Small animals only</p><p>Per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lacounty.gov/emergency/\">LA County website</a>.</p>",
 					"links": []
 				}
 			},
