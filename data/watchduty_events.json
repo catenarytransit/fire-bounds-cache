@@ -911,7 +911,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Bugbee All campgrounds at Lake Meredith National Recreational Area",
+			"evacuation_orders": "LaGrande Via (Road) and areas accessed off of it All campgrounds at Lake Meredith National Recreational Area",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -920,7 +920,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-01T20:16:15Z",
-		"date_modified": "2025-02-01T23:30:42Z",
+		"date_modified": "2025-02-02T00:29:53Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -945,7 +945,7 @@
 		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"Bugbee All campgrounds at Lake Meredith National Recreational Area"
+			"LaGrande Via (Road) and areas accessed off of it All campgrounds at Lake Meredith National Recreational Area"
 		]
 	},
 	{
@@ -1187,8 +1187,8 @@
 		"is_active": true,
 		"name": "Marina Vista Fire (Refinery Fire)",
 		"description": null,
-		"lat": 38.02537989999999,
-		"lng": -122.11509619999998,
+		"lat": 38.01819485796915,
+		"lng": -122.11688876659669,
 		"address": "Area of Marina Vista Ave & Shell Ave, Martinez",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1205,14 +1205,14 @@
 			"has_custom_evacuation_advisories": true,
 			"evacuation_orders": null,
 			"evacuation_warnings": null,
-			"evacuation_advisories": "CCC-E124, CCC-E201, CCC-E204, CCC-E205, CCC-E206, CCC-E207, CCC-E210, CCC-E212, CCC-E213, CCC-E214, CCC-E215, MAR-E001, MAR-E002, MAR-E003, MAR-E004, MAR-E006, MAR-E007, MAR-E008, MAR-E009, MAR-E011, MAR-E012, MAR-E013, MAR-E014, MAR-E015, MAR-E016, MAR-E017, MAR-E020",
+			"evacuation_advisories": "These zones are under an “Advisory” only. The advisory does NOT correlate to an evacuation status.CCC-E124, CCC-E201, CCC-E204, CCC-E205, CCC-E206, CCC-E207, CCC-E210, CCC-E212, CCC-E213, CCC-E214, CCC-E215, MAR-E001, MAR-E002, MAR-E003, MAR-E004, MAR-E006, MAR-E007, MAR-E008, MAR-E009, MAR-E011, MAR-E012, MAR-E013, MAR-E014, MAR-E015, MAR-E016, MAR-E017, MAR-E020",
 			"evacuation_notes": "Genasys MapThe above zones are under an “Advisory” only. The advisory does NOT correlate to an evacuation status.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-01T23:48:11Z",
-		"date_modified": "2025-02-02T00:09:40Z",
+		"date_modified": "2025-02-02T00:30:16Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
