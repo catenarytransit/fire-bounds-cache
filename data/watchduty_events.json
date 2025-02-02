@@ -782,7 +782,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": 70,
+			"containment": 80,
 			"acreage": 3000,
 			"links": [
 				{
@@ -803,7 +803,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-01T20:16:15Z",
-		"date_modified": "2025-02-02T03:25:29Z",
+		"date_modified": "2025-02-02T19:49:53Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -846,7 +846,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 99,
+			"containment": 100,
 			"acreage": 236,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -861,7 +861,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-01T20:45:46Z",
-		"date_modified": "2025-02-02T18:27:09Z",
+		"date_modified": "2025-02-02T19:49:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -950,7 +950,7 @@
 	},
 	{
 		"id": 41557,
-		"is_active": true,
+		"is_active": false,
 		"name": "Muffler Fire",
 		"description": null,
 		"lat": 43.499664,
@@ -978,7 +978,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-01T22:40:47Z",
-		"date_modified": "2025-02-02T15:45:24Z",
+		"date_modified": "2025-02-02T19:54:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1080,7 +1080,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 7,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1095,7 +1095,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-01T23:34:13Z",
-		"date_modified": "2025-02-02T01:41:13Z",
+		"date_modified": "2025-02-02T19:50:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
