@@ -228,27 +228,6 @@
 				}
 			},
 			{
-				"id": 40887,
-				"address": "21900 Pacific Coast Hwy, Huntington Beach, CA 92646, USA",
-				"name": "Wildlife Assistance - Wetlands & Wildlife Care Center",
-				"lat": 33.6440342,
-				"lng": -117.9801139,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Update from <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 xzsf02u x1s688f\" href=\"https://www.facebook.com/WWCCOC\">Wetlands &amp; Wildlife Care Center</a> on Facebook:<br><br>With multiple large wildfires ongoing in Southern California, we wanted to provide resources to anyone who may come across injured wildlife. Several licensed wildlife rehabilitators in the area had to evacuate. One of our cherished centers, the California Wildlife Center in Calabasas, was one of them. They successfully evacuated all their patients. Their hotline is still being manned and may be able to offer you help with any wildlife (310) 458-9453</p><p>Please use caution if you come across injured wildlife. They are frightened and running for their lives. They have lost their homes, food sources, and shelter. If you live on the outskirts of the fire area, you may see many displaced wildlife. You can help them by leaving out bowls of water so they can rehydrate. Please do not leave out any food and be sure your pets are secure inside your home. If it is safe for you, place injured wildlife into an animal crate and transport it to a licensed wildlife rehabilitation center. The Pasadena Human Society is still helping injured wildlife in the Alta Dena area. You can reach them by calling (626) 344-1129.</p><p>If you are in an affected area and come across injured wildlife needing assistance, there are several nearby facilities located outside of the fire area. They have space available to help intake animals.</p><p>Please see the locations and contacts for these facilities should you need them:</p><p>Wetlands and Wildlife Care Center<br>21900 Pacific Coast Highway Huntington Beach, CA 92646<br>(714) 374-5587<br><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/WWCCOC/posts/994990735999889\">Link to their post</a></p>",
-					"links": [
-						{
-							"link_type": "website",
-							"label": "Wetlands & Wildlife Care Center",
-							"value": "https://www.wwccoc.org/"
-						}
-					]
-				}
-			},
-			{
 				"id": 40713,
 				"address": "10850 W Pico Blvd, Los Angeles, CA 90064",
 				"name": "Disaster Recovery Center",
@@ -618,27 +597,6 @@
 				}
 			},
 			{
-				"id": 40887,
-				"address": "21900 Pacific Coast Hwy, Huntington Beach, CA 92646, USA",
-				"name": "Wildlife Assistance - Wetlands & Wildlife Care Center",
-				"lat": 33.6440342,
-				"lng": -117.9801139,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Update from <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 xzsf02u x1s688f\" href=\"https://www.facebook.com/WWCCOC\">Wetlands &amp; Wildlife Care Center</a> on Facebook:<br><br>With multiple large wildfires ongoing in Southern California, we wanted to provide resources to anyone who may come across injured wildlife. Several licensed wildlife rehabilitators in the area had to evacuate. One of our cherished centers, the California Wildlife Center in Calabasas, was one of them. They successfully evacuated all their patients. Their hotline is still being manned and may be able to offer you help with any wildlife (310) 458-9453</p><p>Please use caution if you come across injured wildlife. They are frightened and running for their lives. They have lost their homes, food sources, and shelter. If you live on the outskirts of the fire area, you may see many displaced wildlife. You can help them by leaving out bowls of water so they can rehydrate. Please do not leave out any food and be sure your pets are secure inside your home. If it is safe for you, place injured wildlife into an animal crate and transport it to a licensed wildlife rehabilitation center. The Pasadena Human Society is still helping injured wildlife in the Alta Dena area. You can reach them by calling (626) 344-1129.</p><p>If you are in an affected area and come across injured wildlife needing assistance, there are several nearby facilities located outside of the fire area. They have space available to help intake animals.</p><p>Please see the locations and contacts for these facilities should you need them:</p><p>Wetlands and Wildlife Care Center<br>21900 Pacific Coast Highway Huntington Beach, CA 92646<br>(714) 374-5587<br><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/WWCCOC/posts/994990735999889\">Link to their post</a></p>",
-					"links": [
-						{
-							"link_type": "website",
-							"label": "Wetlands & Wildlife Care Center",
-							"value": "https://www.wwccoc.org/"
-						}
-					]
-				}
-			},
-			{
 				"id": 40713,
 				"address": "10850 W Pico Blvd, Los Angeles, CA 90064",
 				"name": "Disaster Recovery Center",
@@ -851,7 +809,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "La Grande Via All campgrounds at Lake Meredith National Recreational Area",
+			"evacuation_orders": "All campgrounds at Lake Meredith National Recreational Area",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -860,7 +818,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-01T20:16:15Z",
-		"date_modified": "2025-02-02T02:44:00Z",
+		"date_modified": "2025-02-02T03:25:29Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -885,7 +843,7 @@
 		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"La Grande Via All campgrounds at Lake Meredith National Recreational Area"
+			"All campgrounds at Lake Meredith National Recreational Area"
 		]
 	},
 	{
@@ -1236,6 +1194,45 @@
 		"reporter_managed": false,
 		"external_id": "956bdb70-fe00-439d-9dbe-ba04c136440d",
 		"external_source": "wildcad",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 41564,
+		"is_active": true,
+		"name": "Jax Fire",
+		"description": null,
+		"lat": 31.798167,
+		"lng": -98.758017,
+		"address": null,
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": 0,
+			"acreage": 5,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-02-02T03:25:47Z",
+		"date_modified": "2025-02-02T03:25:47Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "{19F23940-DB47-4717-9927-50C5011EF1CC}",
+		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
 	}
