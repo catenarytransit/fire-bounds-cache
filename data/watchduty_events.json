@@ -168,21 +168,6 @@
 				}
 			},
 			{
-				"id": 41278,
-				"address": "1150 Pacific Coast Hwy, Santa Monica, CA 90403",
-				"name": "Resident Access Pass - Lot 3 North",
-				"lat": 34.01619512356062,
-				"lng": -118.50207087823424,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>All zones in the City of Los Angeles are now open for resident-only access, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/alert/palisades-fire-repopulation-residents-only-01272025-inc0738\">LAFD</a>.</p><p>Residents can check in with law enforcement at Beach Parking Lot 3 North (1150 Pacific Coast Hwy, Santa Monica, CA 90401, USA) between 10:00 a.m. and 5:00 p.m. for an access pass to all Resident-Only Zones in the City of Los Angeles. Access passes are required; however, escorts are no longer needed. Curfew hours remain in effect.</p><p>Contractors will be allowed in the fire area (LA City) to conduct assessment work. Contractors will be required to provide identification and proof that they have been hired by specific residents within the impacted areas. Contractors must report to the check-in area (Lot 3) to be granted access and will be provided a pass to enter.</p><p>Note: Lot 3 is not listed as a WCK meal distribution site for Feb 2nd.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40715,
 				"address": "455 E Woodbury Rd, Altadena, CA 91001, USA",
 				"name": "WCK Meal Distribution - Fraternal Order of Eagles",
@@ -284,6 +269,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, February 3rd.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.<br>Time of Service: 11am - 3pm.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 41278,
+				"address": "1150 Pacific Coast Hwy, Santa Monica, CA 90403",
+				"name": "Resident Access Pass & WCK Meal Distribution - Lot 3 North",
+				"lat": 34.01619512356062,
+				"lng": -118.50207087823424,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>All zones in the City of Los Angeles are now open for resident-only access, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/alert/palisades-fire-repopulation-residents-only-01272025-inc0738\">LAFD</a>.</p><p>Residents can check in with law enforcement at Beach Parking Lot 3 North (1150 Pacific Coast Hwy, Santa Monica, CA 90401, USA) between 10:00 a.m. and 5:00 p.m. for an access pass to all Resident-Only Zones in the City of Los Angeles. Access passes are required; however, escorts are no longer needed. Curfew hours remain in effect.</p><p>Contractors will be allowed in the fire area (LA City) to conduct assessment work. Contractors will be required to provide identification and proof that they have been hired by specific residents within the impacted areas. Contractors must report to the check-in area (Lot 3) to be granted access and will be provided a pass to enter.</p><p></p><p>Additionally, World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Beach Parking Lot 3 North located at 1150 Pacific Coast Hwy, Santa Monica, CA 90403. Time of service is from 11am to 4pm February 3rd.</p>",
 					"links": []
 				}
 			}
@@ -563,6 +563,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm today, February 3rd.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.<br>Time of Service: 11am - 3pm.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 41278,
+				"address": "1150 Pacific Coast Hwy, Santa Monica, CA 90403",
+				"name": "Resident Access Pass & WCK Meal Distribution - Lot 3 North",
+				"lat": 34.01619512356062,
+				"lng": -118.50207087823424,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>All zones in the City of Los Angeles are now open for resident-only access, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/alert/palisades-fire-repopulation-residents-only-01272025-inc0738\">LAFD</a>.</p><p>Residents can check in with law enforcement at Beach Parking Lot 3 North (1150 Pacific Coast Hwy, Santa Monica, CA 90401, USA) between 10:00 a.m. and 5:00 p.m. for an access pass to all Resident-Only Zones in the City of Los Angeles. Access passes are required; however, escorts are no longer needed. Curfew hours remain in effect.</p><p>Contractors will be allowed in the fire area (LA City) to conduct assessment work. Contractors will be required to provide identification and proof that they have been hired by specific residents within the impacted areas. Contractors must report to the check-in area (Lot 3) to be granted access and will be provided a pass to enter.</p><p></p><p>Additionally, World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Beach Parking Lot 3 North located at 1150 Pacific Coast Hwy, Santa Monica, CA 90403. Time of service is from 11am to 4pm February 3rd.</p>",
 					"links": []
 				}
 			}
