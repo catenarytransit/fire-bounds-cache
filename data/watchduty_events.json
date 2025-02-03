@@ -653,7 +653,7 @@
 	},
 	{
 		"id": 41552,
-		"is_active": true,
+		"is_active": false,
 		"name": "Viper 3 Fire",
 		"description": null,
 		"lat": 32.27615,
@@ -681,7 +681,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-01T20:45:46Z",
-		"date_modified": "2025-02-02T19:49:21Z",
+		"date_modified": "2025-02-03T03:54:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
