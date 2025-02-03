@@ -153,36 +153,6 @@
 				}
 			},
 			{
-				"id": 40713,
-				"address": "10850 W Pico Blvd, Los Angeles, CA 90064",
-				"name": "Disaster Recovery Center",
-				"lat": 34.0394262,
-				"lng": -118.4289973,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "info",
-					"information": "<p>FEMA Disaster Recovery Center at UCLA Research Park</p><p>Daily open times: 9am to 8 pm</p><p>For more information see the : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.fema.gov/press-release/20250114/fema-disaster-recovery-centers-opening-los-angeles-county?fbclid=IwY2xjawH_h29leHRuA2FlbQIxMAABHRHg4jLgeto35EHwo9DmLTFjPjKV4TgG6yL5BHwUJh-7TWdW_UvOqSn4Aw_aem_tM3TG4SALfqYqKy45uFA6A\"><strong>FEMA PRESS RELEASE </strong></a></p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 41244,
-				"address": "540 W Woodbury Rd, Altadena, CA 91001, USA",
-				"name": "Disaster Recovery Center",
-				"lat": 34.1825977,
-				"lng": -118.1620999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "info",
-					"information": "<p>A new Disaster Recovery Center will be opening in Altadena on Monday, Jan. 27, 2025, from<strong> 9 AM to 8 PM</strong> and will be available to residents <strong>seven days a week</strong>.<br>The new center will be located at <strong>540 West Woodbury Road, Altadena, CA 91001</strong> per</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/2025/01/24/new-altadena-disaster-recovery-center-opens-monday/\"><strong>LA County Recovers</strong></a></p><p>Eaton Fire Final Update: As a result of all evacuations being lifted and the fire now being 100% contained, the Eaton Fire is being deactivated from Watch Duty. The archived incident can continue to be accessed at <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/i/40388\">https://app.watchduty.org/i/40388</a>, but the icon will no longer be visible on the map.</p><p>World Central Kitchen meal distribution locations will continue to be updated on the Watch Duty map. To view the operating hours of each location, click on it to access the “Info” section, where you’ll find the listed opening and closing times. These hours are updated daily around midnight.</p><p>For emailed updates on the recovery and rebuilding process, please see <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/eaton-fire/#:~:text=Inspection%20(DINS)%20database-,Sign%20up,-for%20updates%20on\"><strong><em>the bottom of this page on the LA County Recovers website</em></strong></a>. These emails include daily updates and information on upcoming community meetings.</p><p>A list of additional resources is available on the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/resources/\">LA County Recovers website</a> and the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://211la.org/LA-Wildfires\">211 LA website</a>. Resources specifically for impacted workers and businesses is available on the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://opportunity.lacounty.gov/how-we-help/emergency-resources\">LA County Department of Economic Opportunity website</a>.</p><p>2 Disaster Recovery Centers will remain open from 9am to 8pm every day. Over 75 agencies are present to connect those affected with resources to help start the recovery process. Those affected are welcome to come over multiple days; there’s no rush to complete everything in one day. The locations are listed below:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/40713\">UCLA Research Park West</a> - 10850 West Pico Blvd., Los Angeles, CA 90064</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/41244\">Altadena Disaster Recovery Center</a> - 540 W Woodbury Rd. Altadena, Ca 91001</p></li></ol><p>The deadline to participate in the free private property debris cleanup by the U.S. Army Corps of Engineers is March 31st, 2025. For more information and to fill out the right of entry form, see <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/debris-removal/\">https://recovery.lacounty.gov/debris-removal/</a>. </p><p>A portion of Angeles National Forest is closed through December 31st, 2025 for public safety and natural recovery of the landscape. Learn more at <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.fs.usda.gov/alerts/angeles/alerts-notices/?aid=93079\">https://www.fs.usda.gov/alerts/angeles/alerts-notices/?aid=93079</a>. </p>",
-					"links": []
-				}
-			},
-			{
 				"id": 41278,
 				"address": "1150 Pacific Coast Hwy, Santa Monica, CA 90403",
 				"name": "Resident Access Pass & WCK Meal Distribution - Lot 3 North",
@@ -449,6 +419,36 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Lake Street Washington Ave at 928 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 4:00pm - 8:00pm February 3rd.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 41244,
+				"address": "540 W Woodbury Rd, Altadena, CA 91001, USA",
+				"name": "Disaster Recovery Center - Altadena",
+				"lat": 34.1825977,
+				"lng": -118.1620999,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "info",
+					"information": "<p>A Disaster Recovery Center is open every day from 9 a.m. to 8 p.m. at 540 W Woodbury Rd, Altadena, CA 91001, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/recovery-centers/\">LA County Recovers</a>. Numerous LA County departments, along with state and federal agencies, are available on-site to provide support for those impacted by the Eaton and Palisades Fire. A second location is also available in the West Los Angeles area at the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/40713\">UCLA Research Park</a> (10850 W Pico Blvd, Los Angeles, CA 90064).</p><p></p><p>Eaton Fire Final Update: As a result of all evacuations being lifted and the fire now being 100% contained, the Eaton Fire is being deactivated from Watch Duty. The archived incident can continue to be accessed at <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/i/40388\">https://app.watchduty.org/i/40388</a>, but the icon will no longer be visible on the map.</p><p>World Central Kitchen meal distribution locations will continue to be updated on the Watch Duty map. To view the operating hours of each location, click on it to access the “Info” section, where you’ll find the listed opening and closing times. These hours are updated daily around midnight.</p><p>For emailed updates on the recovery and rebuilding process, please see <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/eaton-fire/#:~:text=Inspection%20(DINS)%20database-,Sign%20up,-for%20updates%20on\"><strong><em>the bottom of this page on the LA County Recovers website</em></strong></a>. These emails include daily updates and information on upcoming community meetings.</p><p>A list of additional resources is available on the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/resources/\">LA County Recovers website</a> and the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://211la.org/LA-Wildfires\">211 LA website</a>. Resources specifically for impacted workers and businesses is available on the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://opportunity.lacounty.gov/how-we-help/emergency-resources\">LA County Department of Economic Opportunity website</a>.</p><p>2 Disaster Recovery Centers will remain open from 9am to 8pm every day. Over 75 agencies are present to connect those affected with resources to help start the recovery process. Those affected are welcome to come over multiple days; there’s no rush to complete everything in one day. The locations are listed below:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/40713\">UCLA Research Park West</a> - 10850 West Pico Blvd., Los Angeles, CA 90064</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/41244\">Altadena Disaster Recovery Center</a> - 540 W Woodbury Rd. Altadena, Ca 91001</p></li></ol><p>The deadline to participate in the free private property debris cleanup by the U.S. Army Corps of Engineers is March 31st, 2025. For more information and to fill out the right of entry form, see <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/debris-removal/\">https://recovery.lacounty.gov/debris-removal/</a>.</p><p>A portion of Angeles National Forest is closed through December 31st, 2025 for public safety and natural recovery of the landscape. Learn more at <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.fs.usda.gov/alerts/angeles/alerts-notices/?aid=93079\">https://www.fs.usda.gov/alerts/angeles/alerts-notices/?aid=93079</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40713,
+				"address": "10850 W Pico Blvd, Los Angeles, CA 90064",
+				"name": "Disaster Recovery Center - UCLA Research Park",
+				"lat": 34.0394262,
+				"lng": -118.4289973,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "info",
+					"information": "<p>A Disaster Recovery Center is open every day from 9 a.m. to 8 p.m. at the UCLA Research Park located at 10850 W Pico Blvd, Los Angeles, CA 90064, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/recovery-centers/\">LA County Recovers</a>. Numerous LA County departments, along with state and federal agencies, are available on-site to provide support for those impacted by the Eaton and Palisades Fire. A second location is also available in the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/41244\">Altadena area</a> at 540 W Woodbury Rd, Altadena, CA 91001, USA.</p>",
 					"links": []
 				}
 			}
@@ -612,36 +612,6 @@
 				}
 			},
 			{
-				"id": 40713,
-				"address": "10850 W Pico Blvd, Los Angeles, CA 90064",
-				"name": "Disaster Recovery Center",
-				"lat": 34.0394262,
-				"lng": -118.4289973,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "info",
-					"information": "<p>FEMA Disaster Recovery Center at UCLA Research Park</p><p>Daily open times: 9am to 8 pm</p><p>For more information see the : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.fema.gov/press-release/20250114/fema-disaster-recovery-centers-opening-los-angeles-county?fbclid=IwY2xjawH_h29leHRuA2FlbQIxMAABHRHg4jLgeto35EHwo9DmLTFjPjKV4TgG6yL5BHwUJh-7TWdW_UvOqSn4Aw_aem_tM3TG4SALfqYqKy45uFA6A\"><strong>FEMA PRESS RELEASE </strong></a></p><p>For more recovery resources, visit <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov\"><strong>recovery.lacounty.gov</strong></a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 41244,
-				"address": "540 W Woodbury Rd, Altadena, CA 91001, USA",
-				"name": "Disaster Recovery Center",
-				"lat": 34.1825977,
-				"lng": -118.1620999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "info",
-					"information": "<p>A new Disaster Recovery Center will be opening in Altadena on Monday, Jan. 27, 2025, from<strong> 9 AM to 8 PM</strong> and will be available to residents <strong>seven days a week</strong>.<br>The new center will be located at <strong>540 West Woodbury Road, Altadena, CA 91001</strong> per</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/2025/01/24/new-altadena-disaster-recovery-center-opens-monday/\"><strong>LA County Recovers</strong></a></p><p>Eaton Fire Final Update: As a result of all evacuations being lifted and the fire now being 100% contained, the Eaton Fire is being deactivated from Watch Duty. The archived incident can continue to be accessed at <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/i/40388\">https://app.watchduty.org/i/40388</a>, but the icon will no longer be visible on the map.</p><p>World Central Kitchen meal distribution locations will continue to be updated on the Watch Duty map. To view the operating hours of each location, click on it to access the “Info” section, where you’ll find the listed opening and closing times. These hours are updated daily around midnight.</p><p>For emailed updates on the recovery and rebuilding process, please see <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/eaton-fire/#:~:text=Inspection%20(DINS)%20database-,Sign%20up,-for%20updates%20on\"><strong><em>the bottom of this page on the LA County Recovers website</em></strong></a>. These emails include daily updates and information on upcoming community meetings.</p><p>A list of additional resources is available on the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/resources/\">LA County Recovers website</a> and the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://211la.org/LA-Wildfires\">211 LA website</a>. Resources specifically for impacted workers and businesses is available on the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://opportunity.lacounty.gov/how-we-help/emergency-resources\">LA County Department of Economic Opportunity website</a>.</p><p>2 Disaster Recovery Centers will remain open from 9am to 8pm every day. Over 75 agencies are present to connect those affected with resources to help start the recovery process. Those affected are welcome to come over multiple days; there’s no rush to complete everything in one day. The locations are listed below:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/40713\">UCLA Research Park West</a> - 10850 West Pico Blvd., Los Angeles, CA 90064</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/41244\">Altadena Disaster Recovery Center</a> - 540 W Woodbury Rd. Altadena, Ca 91001</p></li></ol><p>The deadline to participate in the free private property debris cleanup by the U.S. Army Corps of Engineers is March 31st, 2025. For more information and to fill out the right of entry form, see <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/debris-removal/\">https://recovery.lacounty.gov/debris-removal/</a>. </p><p>A portion of Angeles National Forest is closed through December 31st, 2025 for public safety and natural recovery of the landscape. Learn more at <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.fs.usda.gov/alerts/angeles/alerts-notices/?aid=93079\">https://www.fs.usda.gov/alerts/angeles/alerts-notices/?aid=93079</a>. </p>",
-					"links": []
-				}
-			},
-			{
 				"id": 41278,
 				"address": "1150 Pacific Coast Hwy, Santa Monica, CA 90403",
 				"name": "Resident Access Pass & WCK Meal Distribution - Lot 3 North",
@@ -908,6 +878,36 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Lake Street Washington Ave at 928 E Washington Blvd, Pasadena, CA 91104, USA</p><p>Time of service is from 4:00pm - 8:00pm February 3rd.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 41244,
+				"address": "540 W Woodbury Rd, Altadena, CA 91001, USA",
+				"name": "Disaster Recovery Center - Altadena",
+				"lat": 34.1825977,
+				"lng": -118.1620999,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "info",
+					"information": "<p>A Disaster Recovery Center is open every day from 9 a.m. to 8 p.m. at 540 W Woodbury Rd, Altadena, CA 91001, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/recovery-centers/\">LA County Recovers</a>. Numerous LA County departments, along with state and federal agencies, are available on-site to provide support for those impacted by the Eaton and Palisades Fire. A second location is also available in the West Los Angeles area at the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/40713\">UCLA Research Park</a> (10850 W Pico Blvd, Los Angeles, CA 90064).</p><p></p><p>Eaton Fire Final Update: As a result of all evacuations being lifted and the fire now being 100% contained, the Eaton Fire is being deactivated from Watch Duty. The archived incident can continue to be accessed at <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/i/40388\">https://app.watchduty.org/i/40388</a>, but the icon will no longer be visible on the map.</p><p>World Central Kitchen meal distribution locations will continue to be updated on the Watch Duty map. To view the operating hours of each location, click on it to access the “Info” section, where you’ll find the listed opening and closing times. These hours are updated daily around midnight.</p><p>For emailed updates on the recovery and rebuilding process, please see <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/eaton-fire/#:~:text=Inspection%20(DINS)%20database-,Sign%20up,-for%20updates%20on\"><strong><em>the bottom of this page on the LA County Recovers website</em></strong></a>. These emails include daily updates and information on upcoming community meetings.</p><p>A list of additional resources is available on the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/resources/\">LA County Recovers website</a> and the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://211la.org/LA-Wildfires\">211 LA website</a>. Resources specifically for impacted workers and businesses is available on the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://opportunity.lacounty.gov/how-we-help/emergency-resources\">LA County Department of Economic Opportunity website</a>.</p><p>2 Disaster Recovery Centers will remain open from 9am to 8pm every day. Over 75 agencies are present to connect those affected with resources to help start the recovery process. Those affected are welcome to come over multiple days; there’s no rush to complete everything in one day. The locations are listed below:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/40713\">UCLA Research Park West</a> - 10850 West Pico Blvd., Los Angeles, CA 90064</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/41244\">Altadena Disaster Recovery Center</a> - 540 W Woodbury Rd. Altadena, Ca 91001</p></li></ol><p>The deadline to participate in the free private property debris cleanup by the U.S. Army Corps of Engineers is March 31st, 2025. For more information and to fill out the right of entry form, see <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/debris-removal/\">https://recovery.lacounty.gov/debris-removal/</a>.</p><p>A portion of Angeles National Forest is closed through December 31st, 2025 for public safety and natural recovery of the landscape. Learn more at <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.fs.usda.gov/alerts/angeles/alerts-notices/?aid=93079\">https://www.fs.usda.gov/alerts/angeles/alerts-notices/?aid=93079</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40713,
+				"address": "10850 W Pico Blvd, Los Angeles, CA 90064",
+				"name": "Disaster Recovery Center - UCLA Research Park",
+				"lat": 34.0394262,
+				"lng": -118.4289973,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "info",
+					"information": "<p>A Disaster Recovery Center is open every day from 9 a.m. to 8 p.m. at the UCLA Research Park located at 10850 W Pico Blvd, Los Angeles, CA 90064, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/recovery-centers/\">LA County Recovers</a>. Numerous LA County departments, along with state and federal agencies, are available on-site to provide support for those impacted by the Eaton and Palisades Fire. A second location is also available in the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/41244\">Altadena area</a> at 540 W Woodbury Rd, Altadena, CA 91001, USA.</p>",
 					"links": []
 				}
 			}
