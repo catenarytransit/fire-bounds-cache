@@ -153,21 +153,6 @@
 				}
 			},
 			{
-				"id": 41278,
-				"address": "1150 Pacific Coast Hwy, Santa Monica, CA 90403",
-				"name": "Resident Access Pass & WCK Meal Distribution - Lot 3 North",
-				"lat": 34.01619512356062,
-				"lng": -118.50207087823424,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>All zones in the City of Los Angeles are now open for resident-only access, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/alert/palisades-fire-repopulation-residents-only-01272025-inc0738\">LAFD</a>.</p><p>Residents can check in with law enforcement at Beach Parking Lot 3 North (1150 Pacific Coast Hwy, Santa Monica, CA 90401, USA) between 10:00 a.m. and 5:00 p.m. for an access pass to all Resident-Only Zones in the City of Los Angeles. Access passes are required; however, escorts are no longer needed. Curfew hours remain in effect.</p><p>Contractors will be allowed in the fire area (LA City) to conduct assessment work. Contractors will be required to provide identification and proof that they have been hired by specific residents within the impacted areas. Contractors must report to the check-in area (Lot 3) to be granted access and will be provided a pass to enter.</p><p></p><p>Additionally, World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Beach Parking Lot 3 North located at 1150 Pacific Coast Hwy, Santa Monica, CA 90403. Time of service is from 11am to 4pm February 3rd.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40752,
 				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
 				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
@@ -440,7 +425,7 @@
 			{
 				"id": 40713,
 				"address": "10850 W Pico Blvd, Los Angeles, CA 90064",
-				"name": "Disaster Recovery Center - UCLA Research Park",
+				"name": "Disaster Recovery Center & Access Passes - UCLA Research Park",
 				"lat": 34.0394262,
 				"lng": -118.4289973,
 				"is_active": true,
@@ -448,7 +433,7 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "info",
-					"information": "<p>A Disaster Recovery Center is open every day from 9 a.m. to 8 p.m. at the UCLA Research Park located at 10850 W Pico Blvd, Los Angeles, CA 90064, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/recovery-centers/\">LA County Recovers</a>. Numerous LA County departments, along with state and federal agencies, are available on-site to provide support for those impacted by the Eaton and Palisades Fire. A second location is also available in the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/41244\">Altadena area</a> at 540 W Woodbury Rd, Altadena, CA 91001, USA.</p>",
+					"information": "<p>A Disaster Recovery Center is open every day from 9 a.m. to 8 p.m. at the UCLA Research Park located at 10850 W Pico Blvd, Los Angeles, CA 90064, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/recovery-centers/\">LA County Recovers</a>. Numerous LA County departments, along with state and federal agencies, are available on-site to provide support for those impacted by the Eaton and Palisades Fire. A second location is also available in the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/41244\">Altadena area</a> at 540 W Woodbury Rd, Altadena, CA 91001, USA.</p><p>Additionally, the location to obtain access passes for residents and authorized contractors to enter the Palisades has moved to the parking structure of the Disaster Recovery Center in Westwood, 10850 Pico Blvd, Los Angeles, CA 90064. Passes can be obtained daily from 10:00 AM - 5:00 PM, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/UnifiedLA/posts/pfbid0Sxe36rvop3Ur6eTwMm9ag5Fk6JGWnppitNYHG4HdjPpUAkpc2h7sHZQkJy3MAiG8l\">Unified LA</a>.</p>",
 					"links": []
 				}
 			}
@@ -612,21 +597,6 @@
 				}
 			},
 			{
-				"id": 41278,
-				"address": "1150 Pacific Coast Hwy, Santa Monica, CA 90403",
-				"name": "Resident Access Pass & WCK Meal Distribution - Lot 3 North",
-				"lat": 34.01619512356062,
-				"lng": -118.50207087823424,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>All zones in the City of Los Angeles are now open for resident-only access, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lafd.org/alert/palisades-fire-repopulation-residents-only-01272025-inc0738\">LAFD</a>.</p><p>Residents can check in with law enforcement at Beach Parking Lot 3 North (1150 Pacific Coast Hwy, Santa Monica, CA 90401, USA) between 10:00 a.m. and 5:00 p.m. for an access pass to all Resident-Only Zones in the City of Los Angeles. Access passes are required; however, escorts are no longer needed. Curfew hours remain in effect.</p><p>Contractors will be allowed in the fire area (LA City) to conduct assessment work. Contractors will be required to provide identification and proof that they have been hired by specific residents within the impacted areas. Contractors must report to the check-in area (Lot 3) to be granted access and will be provided a pass to enter.</p><p></p><p>Additionally, World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Beach Parking Lot 3 North located at 1150 Pacific Coast Hwy, Santa Monica, CA 90403. Time of service is from 11am to 4pm February 3rd.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40752,
 				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
 				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
@@ -899,7 +869,7 @@
 			{
 				"id": 40713,
 				"address": "10850 W Pico Blvd, Los Angeles, CA 90064",
-				"name": "Disaster Recovery Center - UCLA Research Park",
+				"name": "Disaster Recovery Center & Access Passes - UCLA Research Park",
 				"lat": 34.0394262,
 				"lng": -118.4289973,
 				"is_active": true,
@@ -907,7 +877,7 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "info",
-					"information": "<p>A Disaster Recovery Center is open every day from 9 a.m. to 8 p.m. at the UCLA Research Park located at 10850 W Pico Blvd, Los Angeles, CA 90064, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/recovery-centers/\">LA County Recovers</a>. Numerous LA County departments, along with state and federal agencies, are available on-site to provide support for those impacted by the Eaton and Palisades Fire. A second location is also available in the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/41244\">Altadena area</a> at 540 W Woodbury Rd, Altadena, CA 91001, USA.</p>",
+					"information": "<p>A Disaster Recovery Center is open every day from 9 a.m. to 8 p.m. at the UCLA Research Park located at 10850 W Pico Blvd, Los Angeles, CA 90064, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/recovery-centers/\">LA County Recovers</a>. Numerous LA County departments, along with state and federal agencies, are available on-site to provide support for those impacted by the Eaton and Palisades Fire. A second location is also available in the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/41244\">Altadena area</a> at 540 W Woodbury Rd, Altadena, CA 91001, USA.</p><p>Additionally, the location to obtain access passes for residents and authorized contractors to enter the Palisades has moved to the parking structure of the Disaster Recovery Center in Westwood, 10850 Pico Blvd, Los Angeles, CA 90064. Passes can be obtained daily from 10:00 AM - 5:00 PM, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/UnifiedLA/posts/pfbid0Sxe36rvop3Ur6eTwMm9ag5Fk6JGWnppitNYHG4HdjPpUAkpc2h7sHZQkJy3MAiG8l\">Unified LA</a>.</p>",
 					"links": []
 				}
 			}
