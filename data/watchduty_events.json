@@ -1082,7 +1082,7 @@
 	},
 	{
 		"id": 41571,
-		"is_active": true,
+		"is_active": false,
 		"name": "Newton 0346 Fire",
 		"description": null,
 		"lat": 30.705783,
@@ -1110,7 +1110,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-02T21:35:58Z",
-		"date_modified": "2025-02-02T22:30:58Z",
+		"date_modified": "2025-02-03T01:30:58Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1134,7 +1134,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 70,
+			"containment": 95,
 			"acreage": 15,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1149,7 +1149,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-02T22:25:58Z",
-		"date_modified": "2025-02-03T00:35:58Z",
+		"date_modified": "2025-02-03T01:25:58Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
