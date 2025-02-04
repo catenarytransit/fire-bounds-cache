@@ -695,7 +695,7 @@
 	},
 	{
 		"id": 41581,
-		"is_active": true,
+		"is_active": false,
 		"name": "Matagorda 0348 Fire",
 		"description": null,
 		"lat": 28.874884,
@@ -723,7 +723,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-03T02:20:58Z",
-		"date_modified": "2025-02-03T21:01:03Z",
+		"date_modified": "2025-02-04T05:09:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
