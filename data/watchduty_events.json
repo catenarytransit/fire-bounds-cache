@@ -866,7 +866,7 @@
 	},
 	{
 		"id": 41662,
-		"is_active": true,
+		"is_active": false,
 		"name": "Kcs Fire",
 		"description": null,
 		"lat": 35.758697,
@@ -894,7 +894,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-04T14:21:05Z",
-		"date_modified": "2025-02-04T14:30:00Z",
+		"date_modified": "2025-02-04T22:39:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
