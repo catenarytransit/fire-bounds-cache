@@ -788,7 +788,7 @@
 	},
 	{
 		"id": 41650,
-		"is_active": true,
+		"is_active": false,
 		"name": "Upshur 0368 Fire",
 		"description": null,
 		"lat": 32.740556,
@@ -816,7 +816,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-03T23:41:04Z",
-		"date_modified": "2025-02-04T16:46:05Z",
+		"date_modified": "2025-02-04T20:54:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
