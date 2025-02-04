@@ -436,6 +436,21 @@
 					"information": "<p>A Disaster Recovery Center is open every day from 9 a.m. to 8 p.m. at the UCLA Research Park located at 10850 W Pico Blvd, Los Angeles, CA 90064, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://recovery.lacounty.gov/recovery-centers/\">LA County Recovers</a>. Numerous LA County departments, along with state and federal agencies, are available on-site to provide support for those impacted by the Eaton and Palisades Fire. A second location is also available in the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/41244\">Altadena area</a> at 540 W Woodbury Rd, Altadena, CA 91001, USA.</p><p>Additionally, the location to obtain access passes for residents and authorized contractors to enter the Palisades has moved to the parking structure of the Disaster Recovery Center in Westwood, 10850 Pico Blvd, Los Angeles, CA 90064. Passes can be obtained daily from 10:00 AM - 5:00 PM, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/UnifiedLA/posts/pfbid0Sxe36rvop3Ur6eTwMm9ag5Fk6JGWnppitNYHG4HdjPpUAkpc2h7sHZQkJy3MAiG8l\">Unified LA</a>.</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 41659,
+				"address": "11270 Exposition Blvd Fl 1, Los Angeles, CA 90064",
+				"name": "WCK Meal Distribution - Post Office (Exposition Blvd)",
+				"lat": 34.0344335566882,
+				"lng": -118.43615721277826,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the United States Postal Service Rancho Park Station at 11270 Exposition Blvd Fl 1, Los Angeles, CA 90064.</p><p>Time of service is from 10am to 2pm February 4th.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
