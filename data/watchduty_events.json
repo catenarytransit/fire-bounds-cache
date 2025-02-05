@@ -983,7 +983,7 @@
 	},
 	{
 		"id": 41666,
-		"is_active": true,
+		"is_active": false,
 		"name": "973 Fire",
 		"description": null,
 		"lat": 37.042067,
@@ -1011,7 +1011,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-04T15:31:43Z",
-		"date_modified": "2025-02-04T16:22:18Z",
+		"date_modified": "2025-02-05T00:24:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
