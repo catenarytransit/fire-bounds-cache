@@ -554,7 +554,7 @@
 	},
 	{
 		"id": 41731,
-		"is_active": true,
+		"is_active": false,
 		"name": "Dillahunty Fire",
 		"description": null,
 		"lat": 32.092778,
@@ -582,7 +582,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-05T19:00:26Z",
-		"date_modified": "2025-02-05T23:34:42Z",
+		"date_modified": "2025-02-06T03:39:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
