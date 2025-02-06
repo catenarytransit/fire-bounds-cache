@@ -439,51 +439,6 @@
 		]
 	},
 	{
-		"id": 41551,
-		"is_active": false,
-		"name": "Blue Hills Fire",
-		"description": null,
-		"lat": 35.6913012322852,
-		"lng": -101.66565094216955,
-		"address": "Blue West Road, East of FM 1913, Southwest of Bugbee",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": true,
-			"containment": 100,
-			"acreage": 3900,
-			"links": [
-				{
-					"link_type": "website",
-					"label": "InciWeb",
-					"value": "https://inciweb.wildfire.gov/incident-information/txtxs-blue-hills-fire"
-				}
-			],
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-02-01T20:16:15Z",
-		"date_modified": "2025-02-05T07:54:11Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 41634,
 		"is_active": true,
 		"name": "Rio San Juan Fire",
