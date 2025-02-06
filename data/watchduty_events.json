@@ -638,8 +638,8 @@
 		"is_active": true,
 		"name": "Shelby 0406 Fire",
 		"description": null,
-		"lat": 31.895155,
-		"lng": -94.424073,
+		"lat": 31.89589,
+		"lng": -94.42237,
 		"address": "600 Block of Co Rd 4748, Timpson, TX 75975",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -663,7 +663,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-06T20:55:52Z",
-		"date_modified": "2025-02-06T20:55:52Z",
+		"date_modified": "2025-02-06T21:20:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
