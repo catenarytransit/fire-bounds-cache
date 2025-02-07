@@ -273,21 +273,6 @@
 				}
 			},
 			{
-				"id": 40715,
-				"address": "455 E Woodbury Rd, Altadena, CA 91001, USA",
-				"name": "WCK Meal Distribution - Fraternal Order of Eagles",
-				"lat": 34.1814808,
-				"lng": -118.1412497,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected by the Eaton Fire and Palisades fires, including first responders, at the following location 455 E Woodbury Rd, Altadena, CA 91001, USA</p><p>Time of service is from 11am to 3pm February 7th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40720,
 				"address": "611 E Sierra Madre Blvd, Sierra Madre, CA 91024, USA",
 				"name": "WCK Meal & Water Distribution - Pasadena-Sierra Madre YMCA",
@@ -419,6 +404,21 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Sierra Madre United Methodist Church located at 695 W Sierra Madre Blvd, Sierra Madre, CA 91024, USA.</p><p>Time of service is from 4pm to 8pm February 7th.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at this location. Free 5 gallon bladders will also be available.<br>Time of Service: 4:00pm - 8:00pm</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 40715,
+				"address": "455 E Woodbury Rd, Altadena, CA 91001, USA",
+				"name": "WCK Meal Distribution - Fraternal Order of Eagles",
+				"lat": 34.1814808,
+				"lng": -118.1412497,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected by the Eaton Fire and Palisades fires, including first responders, at the following location 455 E Woodbury Rd, Altadena, CA 91001, USA</p><p><s>Time of service is from 11am to 3pm February 7th.</s></p><p>As of 1:30pm, February 7th, this distribution site has closed.</p>",
 					"links": []
 				}
 			}
@@ -609,8 +609,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
-			"acreage": 5,
+			"containment": 75,
+			"acreage": 18,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -624,7 +624,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-07T21:01:09Z",
-		"date_modified": "2025-02-07T21:05:09Z",
+		"date_modified": "2025-02-07T22:15:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
