@@ -599,8 +599,8 @@
 		"is_active": true,
 		"name": "Angelina 0425 Fire",
 		"description": null,
-		"lat": 31.317183,
-		"lng": -94.654904,
+		"lat": 31.316567,
+		"lng": -94.6381,
 		"address": "100 Block of E Texas Rd, Lufkin, TX 75901",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -624,7 +624,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-07T21:01:09Z",
-		"date_modified": "2025-02-07T21:01:09Z",
+		"date_modified": "2025-02-07T21:05:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
