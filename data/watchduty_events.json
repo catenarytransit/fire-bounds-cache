@@ -519,7 +519,7 @@
 	{
 		"id": 41819,
 		"is_active": true,
-		"name": "Near I-25 Mm 248 Fire",
+		"name": "Southwest Ditch Fire",
 		"description": null,
 		"lat": 35.403964,
 		"lng": -106.480446,
@@ -546,7 +546,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-07T20:04:44Z",
-		"date_modified": "2025-02-07T20:04:44Z",
+		"date_modified": "2025-02-07T21:19:51Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
