@@ -635,7 +635,7 @@
 	},
 	{
 		"id": 41784,
-		"is_active": true,
+		"is_active": false,
 		"name": "Shelby 0406 Fire",
 		"description": null,
 		"lat": 31.89589,
@@ -663,7 +663,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-06T20:55:52Z",
-		"date_modified": "2025-02-06T21:35:52Z",
+		"date_modified": "2025-02-07T01:39:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
