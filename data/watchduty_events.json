@@ -391,6 +391,36 @@
 					"information": "<p>World Central Kitchen (WCK) is holding a farmers market for those affected by the fires at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001 from <strong>11am to 3pm</strong> February 6th.</p><p>Their normal meal distribution will follow from <strong>4pm to 8pm</strong> February 6th.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at Gordy's Garage located at 843 W Woodbury Rd, Altadena, CA 91001. Free 5 gallon bladders will also be available.<br>Time of Service: 4:00pm - 8:00pm</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 40752,
+				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
+				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
+				"lat": 34.1545211,
+				"lng": -118.1321314,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 3pm February 7th.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 41797,
+				"address": "2283 N Fair Oaks Ave, Altadena, CA 91001, USA",
+				"name": "WCK Meal Distribution - Metropolitan Baptist Church",
+				"lat": 34.1849929,
+				"lng": -118.1513175,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Altadena Metropolitan Baptist Church located at 2283 N Fair Oaks Ave, Altadena, CA 91001, USA.</p><p>Time of service is from 11am to 3pm February 7th.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
