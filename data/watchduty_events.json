@@ -551,7 +551,7 @@
 	},
 	{
 		"id": 41827,
-		"is_active": true,
+		"is_active": false,
 		"name": "Nelson Fire",
 		"description": null,
 		"lat": 34.117467,
@@ -579,7 +579,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-07T21:15:51Z",
-		"date_modified": "2025-02-08T00:54:36Z",
+		"date_modified": "2025-02-08T05:09:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
