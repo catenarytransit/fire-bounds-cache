@@ -590,7 +590,7 @@
 	},
 	{
 		"id": 41828,
-		"is_active": true,
+		"is_active": false,
 		"name": "Houston 0426 Fire",
 		"description": null,
 		"lat": 31.441467,
@@ -618,7 +618,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-07T21:50:09Z",
-		"date_modified": "2025-02-08T00:55:10Z",
+		"date_modified": "2025-02-08T09:09:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
