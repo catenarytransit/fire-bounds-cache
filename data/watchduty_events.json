@@ -911,7 +911,7 @@
 	},
 	{
 		"id": 41868,
-		"is_active": true,
+		"is_active": false,
 		"name": "Newton 0451 Fire",
 		"description": null,
 		"lat": 30.7395,
@@ -939,7 +939,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-09T22:45:11Z",
-		"date_modified": "2025-02-09T23:05:11Z",
+		"date_modified": "2025-02-09T23:40:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
