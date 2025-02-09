@@ -1,4 +1,4 @@
-const min_number_of_elements = 3;
+const min_number_of_elements = 0;
 const fs = require('fs');
 const path = require('path');
 
