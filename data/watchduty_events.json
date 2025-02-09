@@ -183,36 +183,6 @@
 				}
 			},
 			{
-				"id": 41659,
-				"address": "11270 Exposition Blvd Fl 1, Los Angeles, CA 90064",
-				"name": "WCK Meal Distribution - Post Office (Exposition Blvd)",
-				"lat": 34.0344335566882,
-				"lng": -118.43615721277826,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the United States Postal Service Rancho Park Station at 11270 Exposition Blvd Fl 1, Los Angeles, CA 90064.</p><p>Time of service is from 9am to 3pm February 8th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 41235,
-				"address": "600 Lincoln Ave, Pasadena, CA 91109, USA",
-				"name": "WCK Meal Distribution - Post Office (Orange Grove)",
-				"lat": 34.15539883493416,
-				"lng": -118.154072770076,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the United States Postal Service location off Orange Grove Boulevard at 600 Lincoln Ave, Pasadena, CA 91109, USA.</p><p>Time of service is from 9am to 3pm February 8th.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 40725,
 				"address": "2033 E Washington Blvd, Pasadena, CA 91104, USA",
 				"name": "WCK Meal Distribution - God's Waiting Room Church",
@@ -239,21 +209,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected by the Eaton Fire and Palisades fires, including first responders, at the following location 455 E Woodbury Rd, Altadena, CA 91001, USA</p><p>Time of service is from 11am to 3pm February 8th.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40752,
-				"address": "490 N Lake Ave, Pasadena, CA 91101, USA",
-				"name": "WCK Meal Distribution - Baja Cali Fish & Tacos",
-				"lat": 34.1545211,
-				"lng": -118.1321314,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at Baja Cali Fish &amp; Tacos located at 490 N Lake Ave, Pasadena, CA 91101, USA.</p><p>Time of service is from 11am to 3pm February 8th.</p>",
 					"links": []
 				}
 			},
@@ -314,21 +269,6 @@
 					"geo_event_type": "location",
 					"location_type": "food",
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001.</p><p>Time of service is from 11am to 4pm February 8th.</p><p><strong>Additionally</strong>, World Central Kitchen (WCK) is offering free water refills of bottles and other large containers to evacuees and first responders at LA County FD Station 12 located at 2760 Lincoln Ave, Altadena, CA 91001. Free 5 gallon bladders will also be available.<br>Time of Service: 11am - 3pm.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 40749,
-				"address": "3541 Brandon St, Pasadena, CA 91107, USA",
-				"name": "WCK Meal Distribution - Iglesia Del Nazareno",
-				"lat": 34.1444939,
-				"lng": -118.0780778,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "food",
-					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Iglesia Del Nazareno located at 3541 Brandon St, Pasadena, CA 91107, USA.</p><p>Time of service is from 4pm to 7pm February 8th.</p>",
 					"links": []
 				}
 			},
