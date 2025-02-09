@@ -602,7 +602,7 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": false,
+			"is_fps": true,
 			"containment": null,
 			"acreage": 2596,
 			"links": null,
@@ -618,7 +618,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-08T18:27:47Z",
-		"date_modified": "2025-02-08T22:54:38Z",
+		"date_modified": "2025-02-09T01:45:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -668,7 +668,7 @@
 	},
 	{
 		"id": 41843,
-		"is_active": true,
+		"is_active": false,
 		"name": "Nacogdoches 0434 Fire",
 		"description": null,
 		"lat": 31.810817,
@@ -696,7 +696,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-08T21:05:44Z",
-		"date_modified": "2025-02-08T21:25:43Z",
+		"date_modified": "2025-02-09T01:39:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -707,7 +707,7 @@
 	},
 	{
 		"id": 41844,
-		"is_active": true,
+		"is_active": false,
 		"name": "Jasper 0435 Fire",
 		"description": null,
 		"lat": 30.644517,
@@ -735,7 +735,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-08T21:05:45Z",
-		"date_modified": "2025-02-08T21:45:44Z",
+		"date_modified": "2025-02-09T01:54:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -993,7 +993,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
+			"containment": 10,
 			"acreage": 10,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1008,7 +1008,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-09T01:20:49Z",
-		"date_modified": "2025-02-09T01:20:49Z",
+		"date_modified": "2025-02-09T02:00:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
