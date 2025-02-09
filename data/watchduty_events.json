@@ -316,6 +316,21 @@
 					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at the Pasadena-Sierra Madre YMCA at 611 E Sierra Madre Blvd, Sierra Madre, CA 91024</p><p>Time of service is from 11am to 3pm February 9th.</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 41514,
+				"address": "22935 Pacific Coast Hwy, Malibu, CA 90265, USA",
+				"name": "WCK Meal Distribution - Pita Bu",
+				"lat": 34.0381756,
+				"lng": -118.6757986,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "food",
+					"information": "<p>World Central Kitchen (WCK) is serving free meals to those affected, including first responders, at Pita Bu located at 22935 Pacific Coast Hwy, Malibu, CA 90265, USA.</p><p>Time of service is from 11am to 5pm February 9th.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
