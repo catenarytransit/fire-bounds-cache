@@ -590,7 +590,7 @@
 	},
 	{
 		"id": 41840,
-		"is_active": true,
+		"is_active": false,
 		"name": "Angelina 0431 Fire",
 		"description": null,
 		"lat": 31.432067,
@@ -618,7 +618,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-08T18:50:20Z",
-		"date_modified": "2025-02-08T22:40:45Z",
+		"date_modified": "2025-02-09T04:54:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
