@@ -749,8 +749,8 @@
 		"is_active": true,
 		"name": "Natural Bridge Fire",
 		"description": null,
-		"lat": 35.704133,
-		"lng": -109.093617,
+		"lat": 35.704182,
+		"lng": -109.093595,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -760,7 +760,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 14.3,
+			"acreage": 14.4,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -774,7 +774,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-08T21:05:45Z",
-		"date_modified": "2025-02-09T00:40:48Z",
+		"date_modified": "2025-02-09T02:25:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
