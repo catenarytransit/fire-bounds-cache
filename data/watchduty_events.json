@@ -115,7 +115,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-01-07T18:33:29Z",
-		"date_modified": "2025-02-09T20:10:43Z",
+		"date_modified": "2025-02-10T05:38:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -542,7 +542,7 @@
 	},
 	{
 		"id": 41845,
-		"is_active": true,
+		"is_active": false,
 		"name": "Natural Bridge Fire",
 		"description": null,
 		"lat": 35.704182,
@@ -570,7 +570,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-08T21:05:45Z",
-		"date_modified": "2025-02-09T23:27:33Z",
+		"date_modified": "2025-02-10T05:39:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
