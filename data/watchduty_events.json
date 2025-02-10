@@ -755,7 +755,7 @@
 	},
 	{
 		"id": 41861,
-		"is_active": true,
+		"is_active": false,
 		"name": "Montgomery 0450 Fire",
 		"description": null,
 		"lat": 30.356,
@@ -783,7 +783,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-09T20:26:10Z",
-		"date_modified": "2025-02-09T22:30:11Z",
+		"date_modified": "2025-02-10T04:39:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
