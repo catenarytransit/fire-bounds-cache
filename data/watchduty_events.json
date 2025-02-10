@@ -815,7 +815,7 @@
 	},
 	{
 		"id": 41867,
-		"is_active": true,
+		"is_active": false,
 		"name": "Picadilla Fire",
 		"description": null,
 		"lat": 33.732222,
@@ -843,7 +843,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-09T22:10:30Z",
-		"date_modified": "2025-02-10T00:42:52Z",
+		"date_modified": "2025-02-10T06:54:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
