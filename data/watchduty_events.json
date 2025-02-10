@@ -740,8 +740,8 @@
 		"is_active": true,
 		"name": "Miller Fire",
 		"description": null,
-		"lat": 26.514528,
-		"lng": -98.131044,
+		"lat": 26.5122,
+		"lng": -98.13111,
 		"address": "23300 Block of Miller Rd, Edinburg, TX 78541",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -750,7 +750,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
+			"containment": 20,
 			"acreage": 10,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -765,7 +765,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-10T22:05:39Z",
-		"date_modified": "2025-02-10T22:05:39Z",
+		"date_modified": "2025-02-10T22:20:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
