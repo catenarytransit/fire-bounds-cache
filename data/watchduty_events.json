@@ -777,7 +777,7 @@
 	{
 		"id": 41940,
 		"is_active": true,
-		"name": "Vegetation Fire",
+		"name": "Brady Fire",
 		"description": null,
 		"lat": 34.3738466417542,
 		"lng": -112.35720724517519,
@@ -804,7 +804,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-10T22:45:29Z",
-		"date_modified": "2025-02-10T23:19:54Z",
+		"date_modified": "2025-02-10T23:33:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
