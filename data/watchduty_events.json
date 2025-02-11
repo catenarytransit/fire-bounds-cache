@@ -752,13 +752,55 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-10T22:45:29Z",
-		"date_modified": "2025-02-11T01:22:21Z",
+		"date_modified": "2025-02-11T01:51:45Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 41952,
+				"address": "10445 N County Fair Trail, Prescott Valley, AZ 86315, USA",
+				"name": "Large Animal Shelter",
+				"lat": 34.6504161,
+				"lng": -112.2819435,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>The LASER shelter is opening for residents of the Pine Flats area evacuating due to the Brady Fire. The shelter location is 10445 County Fair Road, Prescott Valley, off Hwy 89A, near Arizona Downs. We shelter all equines, poultry, goats, pigs, llamas &amp; alpacas. If you have questions, call our hotline at 928-713-8096.</p><p></p>",
+					"links": [
+						{
+							"link_type": "website",
+							"label": "LASER - Large Animal Shelters and Emergency Readiness",
+							"value": "https://www.facebook.com/LASERyourstablesolution"
+						},
+						{
+							"link_type": "phone",
+							"label": "LASER Hotline",
+							"value": "9287138096"
+						}
+					]
+				}
+			},
+			{
+				"id": 41953,
+				"address": "17300 E Mule Deer Dr, Spring Valley, AZ 86333, USA",
+				"name": "Evacuation Shelter",
+				"lat": 34.3479254,
+				"lng": -112.1575523,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"YCU-2174-B",
