@@ -226,7 +226,7 @@
 	},
 	{
 		"id": 41852,
-		"is_active": true,
+		"is_active": false,
 		"name": "Heather Fire",
 		"description": null,
 		"lat": 28.02245,
@@ -254,7 +254,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-09T01:20:49Z",
-		"date_modified": "2025-02-11T17:11:03Z",
+		"date_modified": "2025-02-11T22:30:59Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
