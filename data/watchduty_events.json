@@ -738,8 +738,39 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": null,
-			"links": [],
+			"acreage": 400,
+			"links": [
+				{
+					"link_type": "phone",
+					"label": "LASER - Large Animal Shelters and Emergency Readiness",
+					"value": "9287138096"
+				},
+				{
+					"link_type": "website",
+					"label": "LASER - Large Animal Shelters and Emergency Readiness Facebook Page",
+					"value": "https://www.facebook.com/LASERyourstablesolution"
+				},
+				{
+					"link_type": "website",
+					"label": "Yavapai County Sheriff's Office X Account",
+					"value": "https://x.com/YavapaiSheriff"
+				},
+				{
+					"link_type": "website",
+					"label": "Yavapai County Office of Emergency Management X Account",
+					"value": "https://x.com/YavapaiOEM"
+				},
+				{
+					"link_type": "website",
+					"label": "Yavapai County Sheriff's Office Facebook Page",
+					"value": "https://www.facebook.com/YavapaiCountySheriff"
+				},
+				{
+					"link_type": "website",
+					"label": "Yavapai County Office of Emergency Management Facebook Page",
+					"value": "https://www.facebook.com/YavapaiOEM"
+				}
+			],
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
@@ -752,7 +783,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-10T22:45:29Z",
-		"date_modified": "2025-02-11T01:51:45Z",
+		"date_modified": "2025-02-11T02:24:28Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -760,9 +791,24 @@
 		"external_source": null,
 		"child_geo_events": [
 			{
+				"id": 41953,
+				"address": "17300 E Mule Deer Dr, Spring Valley, AZ 86333, USA",
+				"name": "Evacuation Shelter - Mayer High School",
+				"lat": 34.3479254,
+				"lng": -112.1575523,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "",
+					"links": []
+				}
+			},
+			{
 				"id": 41952,
 				"address": "10445 N County Fair Trail, Prescott Valley, AZ 86315, USA",
-				"name": "Large Animal Shelter",
+				"name": "Large Animal Shelter - Arizona Downs",
 				"lat": 34.6504161,
 				"lng": -112.2819435,
 				"is_active": true,
@@ -783,21 +829,6 @@
 							"value": "9287138096"
 						}
 					]
-				}
-			},
-			{
-				"id": 41953,
-				"address": "17300 E Mule Deer Dr, Spring Valley, AZ 86333, USA",
-				"name": "Evacuation Shelter",
-				"lat": 34.3479254,
-				"lng": -112.1575523,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "",
-					"links": []
 				}
 			}
 		],
