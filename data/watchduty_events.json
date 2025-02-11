@@ -439,6 +439,11 @@
 			"links": [
 				{
 					"link_type": "website",
+					"label": "Brady Fire - InciWeb",
+					"value": "https://inciweb.wildfire.gov/incident-information/azpnf-brady-fire"
+				},
+				{
+					"link_type": "website",
 					"label": "Prescott National Forest on Facebook",
 					"value": "https://www.facebook.com/PrescottNF"
 				},
@@ -495,7 +500,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-10T22:45:29Z",
-		"date_modified": "2025-02-11T16:41:08Z",
+		"date_modified": "2025-02-11T16:46:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
