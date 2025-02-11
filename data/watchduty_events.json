@@ -382,7 +382,7 @@
 	},
 	{
 		"id": 41932,
-		"is_active": true,
+		"is_active": false,
 		"name": "Miller Fire",
 		"description": null,
 		"lat": 26.5122,
@@ -410,7 +410,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-10T22:05:39Z",
-		"date_modified": "2025-02-11T18:25:55Z",
+		"date_modified": "2025-02-11T22:39:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
