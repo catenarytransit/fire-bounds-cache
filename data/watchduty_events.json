@@ -780,11 +780,11 @@
 	},
 	{
 		"id": 41944,
-		"is_active": true,
+		"is_active": false,
 		"name": "Liberty 0464 Fire",
 		"description": null,
-		"lat": 30.222402,
-		"lng": -95.034257,
+		"lat": 30.221605,
+		"lng": -95.034388,
 		"address": "700 Block of Rd 5886, Cleveland, TX 77327",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -808,7 +808,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-10T23:05:33Z",
-		"date_modified": "2025-02-11T00:30:33Z",
+		"date_modified": "2025-02-11T00:35:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
