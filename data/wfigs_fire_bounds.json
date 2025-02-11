@@ -28722,7 +28722,7 @@
       "properties" : {
         "OBJECTID" : 36967, 
         "poly_SourceOID" : 1610, 
-        "poly_IncidentName" : "Hwy. 17", 
+        "poly_IncidentName" : "Hwy. 17 Bypass", 
         "poly_FeatureCategory" : "Wildfire Daily Fire Perimeter", 
         "poly_MapMethod" : "Mixed Methods", 
         "poly_GISAcres" : null, 
@@ -28731,7 +28731,7 @@
         "poly_FeatureStatus" : "Approved", 
         "poly_IsVisible" : "Yes", 
         "poly_CreateDate" : 1738954742256, 
-        "poly_DateCurrent" : 1739288942155, 
+        "poly_DateCurrent" : 1739289166124, 
         "poly_PolygonDateTime" : null, 
         "poly_IRWINID" : "{5575DE02-7E97-444C-B738-9C42D664C7C1}", 
         "poly_FORID" : null, 
