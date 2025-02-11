@@ -607,7 +607,7 @@
 	},
 	{
 		"id": 41914,
-		"is_active": true,
+		"is_active": false,
 		"name": "Little Blakely Fire",
 		"description": null,
 		"lat": 34.628406,
@@ -635,7 +635,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-10T19:10:42Z",
-		"date_modified": "2025-02-10T21:20:51Z",
+		"date_modified": "2025-02-11T03:24:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -798,7 +798,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-10T22:45:29Z",
-		"date_modified": "2025-02-11T02:32:47Z",
+		"date_modified": "2025-02-11T03:26:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -842,6 +842,27 @@
 							"link_type": "phone",
 							"label": "LASER Hotline",
 							"value": "9287138096"
+						}
+					]
+				}
+			},
+			{
+				"id": 41954,
+				"address": "6901 E Panther Path, Prescott Valley, AZ 86314, USA",
+				"name": "Small Animal Shelter - Glassford Hill Middle School",
+				"lat": 34.597679804656565,
+				"lng": -112.34532211625377,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Animal Disaster Services Shelter Location: Glassford Hill Middle School, 6901 E. Panther path, Prescott Valley per Genasys Map.</p>",
+					"links": [
+						{
+							"link_type": "website",
+							"label": "Animal Disaster Services on Facebook",
+							"value": "https://www.facebook.com/AnimalDisasterServices/"
 						}
 					]
 				}
