@@ -1,83 +1,5 @@
 [
 	{
-		"id": 41848,
-		"is_active": false,
-		"name": "Canal Fire",
-		"description": null,
-		"lat": 34.49306,
-		"lng": -106.79014,
-		"address": null,
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": false,
-			"containment": null,
-			"acreage": 46,
-			"links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-02-08T23:09:06Z",
-		"date_modified": "2025-02-12T00:47:48Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": "c30bbd8a-731a-4f0c-a309-e51a919df2e0",
-		"external_source": "wildcad",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 41915,
-		"is_active": false,
-		"name": "Railroad Fire",
-		"description": null,
-		"lat": 35.511111,
-		"lng": -108.533056,
-		"address": "800 Block of U.S. Rte 66, Fort Wingate, NM 87316",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": false,
-			"containment": null,
-			"acreage": 8.5,
-			"links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-02-10T19:23:46Z",
-		"date_modified": "2025-02-12T00:47:08Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": "1aed4bec-2018-4827-97a3-96a31ac0f41e",
-		"external_source": "wildcad",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 41940,
 		"is_active": true,
 		"name": "Brady Fire",
@@ -92,7 +14,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": null,
+			"containment": 49,
 			"acreage": 363,
 			"links": [
 				{
@@ -151,10 +73,10 @@
 					"value": "9284425103"
 				}
 			],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "YCU-2174-B, YCU-2216",
+			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map",
@@ -163,7 +85,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-10T22:45:29Z",
-		"date_modified": "2025-02-12T18:44:19Z",
+		"date_modified": "2025-02-13T01:08:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -239,11 +161,7 @@
 				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"YCU-2174-B",
-			"YCU-2216"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 41985,
@@ -281,6 +199,45 @@
 		"reporter_managed": true,
 		"external_id": "{2AE8DE1D-CFAE-48C4-8A7C-0608C4EE5B77}",
 		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 42048,
+		"is_active": true,
+		"name": "Vegetation Fire",
+		"description": null,
+		"lat": 34.539319057190255,
+		"lng": -112.4947567861613,
+		"address": "Country Club near Canada Crest, Prescott",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": 0.5,
+			"links": [],
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": "Genasys Evacuation Map",
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-02-13T00:52:12Z",
+		"date_modified": "2025-02-13T01:11:26Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
 		"child_geo_events": [],
 		"parent_geo_events": []
 	}
