@@ -138,27 +138,6 @@
 						}
 					]
 				}
-			},
-			{
-				"id": 41984,
-				"address": "16357 S Cordes Lakes Dr, Cordes Lakes, AZ 86333, USA",
-				"name": "Evacuation Shelter - Cordes Lakes Community Center",
-				"lat": 34.3047335,
-				"lng": -112.10452,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>The evacuation center has been relocated to Cordes Lakes Community Center.</p><p>Cordes Lakes Community Center<br>16357 S. Cordes Lakes Drive<br>Cordes Lakes, AZ</p>",
-					"links": [
-						{
-							"link_type": "website",
-							"label": "Red Cross Arizona on Facebook",
-							"value": "https://www.facebook.com/RedCrossArizona"
-						}
-					]
-				}
 			}
 		],
 		"parent_geo_events": []
