@@ -91,55 +91,7 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 41952,
-				"address": "10445 N County Fair Trail, Prescott Valley, AZ 86315, USA",
-				"name": "Large Animal Shelter - Arizona Downs",
-				"lat": 34.6504161,
-				"lng": -112.2819435,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>The LASER shelter is opening for residents of the Pine Flats area evacuating due to the Brady Fire. The shelter location is 10445 County Fair Road, Prescott Valley, off Hwy 89A, near Arizona Downs. We shelter all equines, poultry, goats, pigs, llamas &amp; alpacas. If you have questions, call our hotline at 928-713-8096.</p><p></p>",
-					"links": [
-						{
-							"link_type": "website",
-							"label": "LASER - Large Animal Shelters and Emergency Readiness",
-							"value": "https://www.facebook.com/LASERyourstablesolution"
-						},
-						{
-							"link_type": "phone",
-							"label": "LASER Hotline",
-							"value": "9287138096"
-						}
-					]
-				}
-			},
-			{
-				"id": 41954,
-				"address": "6901 E Panther Path, Prescott Valley, AZ 86314, USA",
-				"name": "Small Animal Shelter - Glassford Hill Middle School",
-				"lat": 34.597679804656565,
-				"lng": -112.34532211625377,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Animal Disaster Services Shelter Location: Glassford Hill Middle School, 6901 E. Panther path, Prescott Valley per Genasys Map.</p>",
-					"links": [
-						{
-							"link_type": "website",
-							"label": "Animal Disaster Services on Facebook",
-							"value": "https://www.facebook.com/AnimalDisasterServices/"
-						}
-					]
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
