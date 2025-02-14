@@ -135,7 +135,7 @@
 	},
 	{
 		"id": 42069,
-		"is_active": true,
+		"is_active": false,
 		"name": "247 Fire",
 		"description": null,
 		"lat": 33.176317,
@@ -150,7 +150,7 @@
 			"is_fps": false,
 			"containment": null,
 			"acreage": 1,
-			"links": null,
+			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
@@ -163,7 +163,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-13T19:45:48Z",
-		"date_modified": "2025-02-14T03:16:38Z",
+		"date_modified": "2025-02-14T12:27:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
