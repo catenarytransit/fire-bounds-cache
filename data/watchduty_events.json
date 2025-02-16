@@ -96,7 +96,7 @@
 	},
 	{
 		"id": 42096,
-		"is_active": true,
+		"is_active": false,
 		"name": "Powerline Fire",
 		"description": null,
 		"lat": 31.92217,
@@ -124,7 +124,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-15T00:30:51Z",
-		"date_modified": "2025-02-15T00:30:51Z",
+		"date_modified": "2025-02-16T19:38:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
