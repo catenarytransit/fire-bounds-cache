@@ -1,7 +1,7 @@
 [
 	{
 		"id": 41940,
-		"is_active": true,
+		"is_active": false,
 		"name": "Brady Fire",
 		"description": null,
 		"lat": 34.3738466417542,
@@ -85,7 +85,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-10T22:45:29Z",
-		"date_modified": "2025-02-16T22:17:54Z",
+		"date_modified": "2025-02-17T06:24:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
