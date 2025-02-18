@@ -1395,7 +1395,7 @@
         "attr_ICS209RptForTimePeriodTo" : 1739835000000, 
         "attr_ICS209ReportStatus" : "U", 
         "attr_IncidentManagementOrg" : "Type 4 IC", 
-        "attr_IncidentName" : "Middleton Wildfire", 
+        "attr_IncidentName" : "Middleton", 
         "attr_IncidentShortDescription" : "2 miles north of High Island", 
         "attr_IncidentTypeCategory" : "WF", 
         "attr_IncidentTypeKind" : "FI", 
@@ -1412,7 +1412,7 @@
         "attr_IsTrespass" : null, 
         "attr_IsUnifiedCommand" : 0, 
         "attr_LocalIncidentIdentifier" : "000047", 
-        "attr_ModifiedBySystem" : "ics209", 
+        "attr_ModifiedBySystem" : "wildcade", 
         "attr_PercentContained" : 79, 
         "attr_PercentPerimToBeContained" : 100, 
         "attr_POOCity" : null, 
@@ -1446,7 +1446,7 @@
         "attr_OrganizationalAssessment" : null, 
         "attr_StratDecisionPublishDate" : null, 
         "attr_CreatedOnDateTime_dt" : 1739750506393, 
-        "attr_ModifiedOnDateTime_dt" : 1739835526370, 
+        "attr_ModifiedOnDateTime_dt" : 1739897843893, 
         "attr_Source" : "IRWIN", 
         "attr_ActiveFireCandidate" : 1, 
         "attr_IsCpxChild" : 0, 
@@ -1456,7 +1456,7 @@
         "GlobalID" : "c4389221-68cd-47b7-8069-a479c0927b5d", 
         "Shape__Area" : 0.0011646071143331937, 
         "Shape__Length" : 0.15459970563200859, 
-        "attr_IncidentComplexityLevel" : null
+        "attr_IncidentComplexityLevel" : "Type 4 Incident"
       }
     }
   ]
