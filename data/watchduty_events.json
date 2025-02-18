@@ -294,8 +294,8 @@
 		"is_active": true,
 		"name": "Mine Fire",
 		"description": null,
-		"lat": 33.672417,
-		"lng": -111.46855,
+		"lat": 33.671906,
+		"lng": -111.469474,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -319,7 +319,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-17T23:32:13Z",
-		"date_modified": "2025-02-17T23:42:18Z",
+		"date_modified": "2025-02-18T00:24:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
