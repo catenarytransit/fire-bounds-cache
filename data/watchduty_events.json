@@ -330,7 +330,7 @@
 	},
 	{
 		"id": 42140,
-		"is_active": true,
+		"is_active": false,
 		"name": "Tyler 0501 Fire",
 		"description": null,
 		"lat": 30.637586,
@@ -358,7 +358,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-17T23:50:53Z",
-		"date_modified": "2025-02-17T23:55:52Z",
+		"date_modified": "2025-02-18T04:09:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
