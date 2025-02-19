@@ -40,7 +40,7 @@
 	},
 	{
 		"id": 42119,
-		"is_active": true,
+		"is_active": false,
 		"name": "Encino Fire",
 		"description": null,
 		"lat": 33.248417,
@@ -68,7 +68,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-16T23:40:47Z",
-		"date_modified": "2025-02-19T01:04:32Z",
+		"date_modified": "2025-02-19T07:09:34Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
