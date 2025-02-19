@@ -118,7 +118,7 @@
 	},
 	{
 		"id": 42178,
-		"is_active": true,
+		"is_active": false,
 		"name": "Mm 322 Fire",
 		"description": null,
 		"lat": 34.043333,
@@ -146,7 +146,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-18T18:21:11Z",
-		"date_modified": "2025-02-19T04:34:32Z",
+		"date_modified": "2025-02-19T08:39:34Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
