@@ -1,7 +1,7 @@
 [
 	{
 		"id": 42113,
-		"is_active": true,
+		"is_active": false,
 		"name": "Middleton Fire",
 		"description": null,
 		"lat": 29.633611,
@@ -29,7 +29,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-16T22:23:27Z",
-		"date_modified": "2025-02-18T20:43:18Z",
+		"date_modified": "2025-02-19T04:54:34Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
