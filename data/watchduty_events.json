@@ -355,8 +355,8 @@
 		"is_active": true,
 		"name": "Sawmill Road Fire",
 		"description": null,
-		"lat": 42.03647409258343,
-		"lng": -104.92060119999996,
+		"lat": 42.000536,
+		"lng": -104.90347,
 		"address": "20 block of Sawmill Road, Wheatland, WY",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -366,7 +366,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": 5000,
+			"acreage": 1100,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -380,7 +380,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-24T14:51:58Z",
-		"date_modified": "2025-02-24T15:36:18Z",
+		"date_modified": "2025-02-24T20:34:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
