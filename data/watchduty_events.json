@@ -170,7 +170,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": null,
+			"containment": 100,
 			"acreage": 15.6,
 			"links": [],
 			"has_custom_evacuation_orders": false,
@@ -185,7 +185,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-23T19:23:52Z",
-		"date_modified": "2025-02-23T22:57:45Z",
+		"date_modified": "2025-02-24T22:21:03Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -235,7 +235,7 @@
 	},
 	{
 		"id": 42341,
-		"is_active": true,
+		"is_active": false,
 		"name": "Bogus Fire",
 		"description": null,
 		"lat": 44.123933,
@@ -263,7 +263,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-23T20:45:42Z",
-		"date_modified": "2025-02-23T23:05:44Z",
+		"date_modified": "2025-02-24T22:23:27Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -302,10 +302,10 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-24T01:24:09Z",
-		"date_modified": "2025-02-24T19:02:19Z",
+		"date_modified": "2025-02-24T22:26:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "7121ce5e-ef07-4cda-8ce9-9be1717eb541",
 		"external_source": "wildcad",
 		"child_geo_events": [],
