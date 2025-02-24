@@ -357,7 +357,7 @@
 		"description": null,
 		"lat": 42.000536,
 		"lng": -104.90347,
-		"address": "20 block of Sawmill Road, Wheatland, WY",
+		"address": "About 4 miles E of Interstate 25, Wheatland, WY",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -380,7 +380,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-24T14:51:58Z",
-		"date_modified": "2025-02-24T20:34:08Z",
+		"date_modified": "2025-02-24T20:36:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
