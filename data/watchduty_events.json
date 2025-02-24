@@ -391,7 +391,7 @@
 	},
 	{
 		"id": 42361,
-		"is_active": true,
+		"is_active": false,
 		"name": "Barrel Fire",
 		"description": null,
 		"lat": 43.0046,
@@ -419,7 +419,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-24T15:20:53Z",
-		"date_modified": "2025-02-24T17:58:08Z",
+		"date_modified": "2025-02-24T22:09:34Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
