@@ -547,7 +547,7 @@
 	},
 	{
 		"id": 42411,
-		"is_active": true,
+		"is_active": false,
 		"name": "Turbine Fire",
 		"description": null,
 		"lat": 34.09575,
@@ -575,7 +575,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-24T23:00:17Z",
-		"date_modified": "2025-02-24T23:34:14Z",
+		"date_modified": "2025-02-25T05:39:34Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
