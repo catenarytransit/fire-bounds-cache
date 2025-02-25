@@ -706,8 +706,8 @@
 		"is_active": true,
 		"name": "2 Mile 2025 Fire",
 		"description": null,
-		"lat": 26.043158,
-		"lng": -97.153202,
+		"lat": 27.411556,
+		"lng": -97.303333,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -731,7 +731,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-24T23:09:04Z",
-		"date_modified": "2025-02-25T00:44:45Z",
+		"date_modified": "2025-02-25T01:57:40Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -848,7 +848,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-24T23:30:17Z",
-		"date_modified": "2025-02-24T23:35:17Z",
+		"date_modified": "2025-02-25T01:45:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
