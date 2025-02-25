@@ -664,7 +664,7 @@
 	},
 	{
 		"id": 42412,
-		"is_active": true,
+		"is_active": false,
 		"name": "Five Fire",
 		"description": null,
 		"lat": 34.82774,
@@ -692,7 +692,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-24T23:05:17Z",
-		"date_modified": "2025-02-24T23:28:01Z",
+		"date_modified": "2025-02-25T03:39:34Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
