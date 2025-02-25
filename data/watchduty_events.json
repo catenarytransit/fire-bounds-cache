@@ -196,7 +196,7 @@
 	},
 	{
 		"id": 42347,
-		"is_active": true,
+		"is_active": false,
 		"name": "Lebar Fire",
 		"description": null,
 		"lat": 42.892256,
@@ -224,7 +224,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-24T01:24:09Z",
-		"date_modified": "2025-02-24T22:26:41Z",
+		"date_modified": "2025-02-25T06:39:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -469,7 +469,7 @@
 	},
 	{
 		"id": 42403,
-		"is_active": true,
+		"is_active": false,
 		"name": "Maytag Fire",
 		"description": null,
 		"lat": 42.25588,
@@ -497,7 +497,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-24T21:18:37Z",
-		"date_modified": "2025-02-24T22:33:07Z",
+		"date_modified": "2025-02-25T06:39:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
