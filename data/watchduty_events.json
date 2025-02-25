@@ -784,8 +784,8 @@
 		"is_active": true,
 		"name": "Erath 0546 Fire",
 		"description": null,
-		"lat": 32.345627,
-		"lng": -98.243913,
+		"lat": 32.356269,
+		"lng": -98.248026,
 		"address": "16400 Block of Co Rd 163, Stephenville, TX 76401",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -809,7 +809,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-24T23:15:18Z",
-		"date_modified": "2025-02-24T23:15:18Z",
+		"date_modified": "2025-02-25T00:20:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
