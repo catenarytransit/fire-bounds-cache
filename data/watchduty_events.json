@@ -625,7 +625,7 @@
 	},
 	{
 		"id": 42491,
-		"is_active": true,
+		"is_active": false,
 		"name": "MA Co. Rd. 2 Fire",
 		"description": null,
 		"lat": 35.770461,
@@ -653,7 +653,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-25T22:19:00Z",
-		"date_modified": "2025-02-25T22:51:00Z",
+		"date_modified": "2025-02-26T06:54:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
