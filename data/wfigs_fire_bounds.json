@@ -2448,8 +2448,8 @@
         "attr_ContainmentDateTime" : null, 
         "attr_ControlDateTime" : null, 
         "attr_CreatedBySystem" : "firesponse", 
-        "attr_IncidentSize" : 31, 
-        "attr_DiscoveryAcres" : 31, 
+        "attr_IncidentSize" : 29.5, 
+        "attr_DiscoveryAcres" : 29.5, 
         "attr_DispatchCenterID" : "TXTIC", 
         "attr_EstimatedCostToDate" : null, 
         "attr_FinalAcres" : null, 
@@ -2498,7 +2498,7 @@
         "attr_IsUnifiedCommand" : 0, 
         "attr_LocalIncidentIdentifier" : "250567", 
         "attr_ModifiedBySystem" : "firesponse", 
-        "attr_PercentContained" : 90, 
+        "attr_PercentContained" : 100, 
         "attr_PercentPerimToBeContained" : null, 
         "attr_POOCity" : null, 
         "attr_POOCounty" : "Limestone", 
@@ -2531,7 +2531,7 @@
         "attr_OrganizationalAssessment" : null, 
         "attr_StratDecisionPublishDate" : null, 
         "attr_CreatedOnDateTime_dt" : 1740524636460, 
-        "attr_ModifiedOnDateTime_dt" : 1740530230763, 
+        "attr_ModifiedOnDateTime_dt" : 1740598097510, 
         "attr_Source" : "IRWIN", 
         "attr_ActiveFireCandidate" : 1, 
         "attr_IsCpxChild" : 0, 
@@ -2541,7 +2541,7 @@
         "GlobalID" : "9a1b75ee-cb1f-4961-b7bd-0918453aefab", 
         "Shape__Area" : 1.131588783209736E-05, 
         "Shape__Length" : 0.023241799200535169, 
-        "attr_IncidentComplexityLevel" : null
+        "attr_IncidentComplexityLevel" : "Type 5 Incident"
       }
     }, 
     {
