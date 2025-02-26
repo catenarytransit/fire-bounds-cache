@@ -703,7 +703,7 @@
 	},
 	{
 		"id": 42490,
-		"is_active": true,
+		"is_active": false,
 		"name": "Verde Creek Fire",
 		"description": null,
 		"lat": 29.890503,
@@ -731,7 +731,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-25T22:15:34Z",
-		"date_modified": "2025-02-26T01:25:35Z",
+		"date_modified": "2025-02-26T04:54:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
