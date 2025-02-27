@@ -1447,8 +1447,8 @@
 		"is_active": true,
 		"name": "Lame Johnny Fire",
 		"description": null,
-		"lat": 43.4749,
-		"lng": -103.114768,
+		"lat": 43.472667,
+		"lng": -103.105133,
 		"address": "Fall River County, 9 Miles E Buffalo Gap",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1472,7 +1472,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-27T21:00:49Z",
-		"date_modified": "2025-02-27T21:06:49Z",
+		"date_modified": "2025-02-27T21:11:34Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
