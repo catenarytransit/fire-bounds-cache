@@ -1210,7 +1210,7 @@
 	},
 	{
 		"id": 42583,
-		"is_active": true,
+		"is_active": false,
 		"name": "Penny Fire",
 		"description": null,
 		"lat": 32.9192917282336,
@@ -1238,7 +1238,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-26T22:02:39Z",
-		"date_modified": "2025-02-26T23:36:05Z",
+		"date_modified": "2025-02-27T05:39:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
