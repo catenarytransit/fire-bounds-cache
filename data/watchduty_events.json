@@ -625,7 +625,7 @@
 	},
 	{
 		"id": 42511,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hickory Creek Fire",
 		"description": null,
 		"lat": 30.34494,
@@ -653,7 +653,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-25T23:45:34Z",
-		"date_modified": "2025-02-26T23:51:03Z",
+		"date_modified": "2025-02-27T05:54:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
