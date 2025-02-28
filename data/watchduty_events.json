@@ -1132,7 +1132,7 @@
 	},
 	{
 		"id": 42667,
-		"is_active": true,
+		"is_active": false,
 		"name": "Neals Fire",
 		"description": null,
 		"lat": 37.648167,
@@ -1160,7 +1160,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-27T22:45:12Z",
-		"date_modified": "2025-02-28T01:11:40Z",
+		"date_modified": "2025-02-28T07:24:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
