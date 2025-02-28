@@ -1622,35 +1622,19 @@
 			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "Evacuations are underway along 3310 from the Turner Turnpike north to 930 Road",
+			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T19:38:09Z",
-		"date_modified": "2025-02-28T20:03:39Z",
+		"date_modified": "2025-02-28T22:40:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 42739,
-				"address": "206 Cedar St, Wellston, OK 74881, USA",
-				"name": "Evacuation Center - Wellston Senior Center",
-				"lat": 35.6951185,
-				"lng": -97.0648315,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>Wellston Senior Center is open for anyone displaced by the fire, per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/wellstonok/posts/pfbid02pYkGHDpAgTbWGotiAncr6sZcLWPdeU22Cczy5bxw4LBGP8HeidadsJ1n6CmzzYk1l\">Town of Wellston on Facebook</a>.</p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
