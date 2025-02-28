@@ -1288,7 +1288,7 @@
 	},
 	{
 		"id": 42663,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cass 0653 Fire",
 		"description": null,
 		"lat": 32.98075,
@@ -1316,7 +1316,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-27T22:11:10Z",
-		"date_modified": "2025-02-27T23:31:10Z",
+		"date_modified": "2025-02-28T03:39:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
