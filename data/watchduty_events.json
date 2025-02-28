@@ -352,7 +352,7 @@
 	},
 	{
 		"id": 42563,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 37.2822168,
@@ -380,7 +380,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-26T19:43:59Z",
-		"date_modified": "2025-02-26T21:32:56Z",
+		"date_modified": "2025-02-28T17:21:40Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1289,7 +1289,7 @@
 	{
 		"id": 42712,
 		"is_active": true,
-		"name": "Lead Point Fire",
+		"name": "Red Point Fire",
 		"description": null,
 		"lat": 37.64675,
 		"lng": -91.154633,
@@ -1302,7 +1302,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 1,
+			"acreage": 5,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1316,7 +1316,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T16:45:13Z",
-		"date_modified": "2025-02-28T17:10:51Z",
+		"date_modified": "2025-02-28T17:25:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
