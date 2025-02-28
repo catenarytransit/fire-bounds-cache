@@ -1366,7 +1366,7 @@
 	},
 	{
 		"id": 42723,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 40.9812759,
@@ -1394,7 +1394,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T18:01:57Z",
-		"date_modified": "2025-02-28T18:17:38Z",
+		"date_modified": "2025-02-28T20:53:26Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1814,8 +1814,8 @@
 		"is_active": true,
 		"name": "Titus 0690 Fire",
 		"description": null,
-		"lat": 33.277679,
-		"lng": -94.983064,
+		"lat": 33.275915,
+		"lng": -94.984141,
 		"address": "800 Block of County Rd 1675, Mt Pleasant, TX 75455",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1839,7 +1839,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T20:45:51Z",
-		"date_modified": "2025-02-28T20:45:51Z",
+		"date_modified": "2025-02-28T20:50:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
