@@ -1288,7 +1288,7 @@
 	},
 	{
 		"id": 42722,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 40.6391328,
@@ -1316,7 +1316,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T17:53:10Z",
-		"date_modified": "2025-02-28T17:53:10Z",
+		"date_modified": "2025-02-28T23:40:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1444,7 +1444,7 @@
 	},
 	{
 		"id": 42730,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 40.9314623,
@@ -1472,7 +1472,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T19:10:12Z",
-		"date_modified": "2025-02-28T19:29:05Z",
+		"date_modified": "2025-02-28T23:40:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2305,8 +2305,8 @@
 		"is_active": true,
 		"name": "Camp 0703 Fire",
 		"description": null,
-		"lat": 33.009262,
-		"lng": -94.901784,
+		"lat": 33.011111,
+		"lng": -94.911667,
 		"address": "1500 Block of Co Rd 4154, Pittsburg, TX 75686",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2330,7 +2330,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T23:20:50Z",
-		"date_modified": "2025-02-28T23:20:50Z",
+		"date_modified": "2025-02-28T23:40:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
