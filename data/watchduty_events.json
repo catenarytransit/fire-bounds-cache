@@ -1366,7 +1366,7 @@
 	},
 	{
 		"id": 42679,
-		"is_active": true,
+		"is_active": false,
 		"name": "Alkaline Fire",
 		"description": null,
 		"lat": 34.741944,
@@ -1394,7 +1394,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T00:15:11Z",
-		"date_modified": "2025-02-28T00:22:29Z",
+		"date_modified": "2025-02-28T04:24:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
