@@ -770,7 +770,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-27T20:51:10Z",
-		"date_modified": "2025-02-28T05:24:35Z",
+		"date_modified": "2025-02-28T17:15:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1291,8 +1291,8 @@
 		"is_active": true,
 		"name": "Lead Point Fire",
 		"description": null,
-		"lat": 37.653716,
-		"lng": -91.16345,
+		"lat": 37.64675,
+		"lng": -91.154633,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1316,7 +1316,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T16:45:13Z",
-		"date_modified": "2025-02-28T16:45:13Z",
+		"date_modified": "2025-02-28T17:10:51Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
