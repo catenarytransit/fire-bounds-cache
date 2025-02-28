@@ -1444,7 +1444,7 @@
 	},
 	{
 		"id": 42729,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hardin 0678 Fire",
 		"description": null,
 		"lat": 30.442482,
@@ -1457,7 +1457,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
+			"containment": 100,
 			"acreage": 1,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1472,7 +1472,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T18:50:50Z",
-		"date_modified": "2025-02-28T18:50:50Z",
+		"date_modified": "2025-02-28T19:45:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1642,9 +1642,9 @@
 		"is_active": true,
 		"name": "Vegetation Fire",
 		"description": null,
-		"lat": 35.66737436211059,
-		"lng": -97.11420977510308,
-		"address": "Near Deer Ridge Trail & E Danforth Rd, S/W of Wellston",
+		"lat": 35.66517290735942,
+		"lng": -97.10365045015953,
+		"address": "Near County Rd 3310 & County Rd 930, S/W of Wellston",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1667,7 +1667,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T19:38:09Z",
-		"date_modified": "2025-02-28T19:38:09Z",
+		"date_modified": "2025-02-28T19:46:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
