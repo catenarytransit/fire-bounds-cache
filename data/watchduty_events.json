@@ -664,7 +664,7 @@
 	},
 	{
 		"id": 42577,
-		"is_active": true,
+		"is_active": false,
 		"name": "Saw Mill Fire",
 		"description": null,
 		"lat": 34.036389,
@@ -692,7 +692,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-26T21:46:02Z",
-		"date_modified": "2025-02-26T21:46:02Z",
+		"date_modified": "2025-02-28T03:14:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -937,7 +937,7 @@
 	},
 	{
 		"id": 42627,
-		"is_active": true,
+		"is_active": false,
 		"name": "Comeback Fire",
 		"description": null,
 		"lat": 35.733611,
@@ -965,7 +965,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-27T15:41:09Z",
-		"date_modified": "2025-02-27T22:58:09Z",
+		"date_modified": "2025-02-28T03:09:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
