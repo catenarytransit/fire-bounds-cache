@@ -79,7 +79,7 @@
 	},
 	{
 		"id": 42415,
-		"is_active": true,
+		"is_active": false,
 		"name": "Deer Stand Fire",
 		"description": null,
 		"lat": 32.356269,
@@ -107,7 +107,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-24T23:15:18Z",
-		"date_modified": "2025-02-27T20:25:09Z",
+		"date_modified": "2025-02-28T04:39:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
