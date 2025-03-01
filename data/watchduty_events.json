@@ -1522,7 +1522,7 @@
 	},
 	{
 		"id": 42747,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 41.7028543,
@@ -1550,7 +1550,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T20:48:48Z",
-		"date_modified": "2025-02-28T20:48:48Z",
+		"date_modified": "2025-03-01T05:02:40Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1847,7 +1847,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 80,
+			"containment": 99,
 			"acreage": 13,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1862,7 +1862,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T21:55:50Z",
-		"date_modified": "2025-03-01T02:15:50Z",
+		"date_modified": "2025-03-01T05:01:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1912,7 +1912,7 @@
 	},
 	{
 		"id": 42774,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 42.0629539,
@@ -1940,7 +1940,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T23:00:54Z",
-		"date_modified": "2025-03-01T00:50:32Z",
+		"date_modified": "2025-03-01T05:03:58Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
