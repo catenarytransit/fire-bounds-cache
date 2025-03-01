@@ -1444,7 +1444,7 @@
 	},
 	{
 		"id": 42740,
-		"is_active": true,
+		"is_active": false,
 		"name": "Wolf Pen Fire",
 		"description": null,
 		"lat": 37.677217,
@@ -1472,7 +1472,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T20:08:16Z",
-		"date_modified": "2025-03-01T00:34:13Z",
+		"date_modified": "2025-03-01T04:39:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
