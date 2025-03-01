@@ -1093,7 +1093,7 @@
 	},
 	{
 		"id": 42705,
-		"is_active": true,
+		"is_active": false,
 		"name": "Frogman Fire",
 		"description": null,
 		"lat": 35.1925,
@@ -1121,7 +1121,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T15:30:13Z",
-		"date_modified": "2025-02-28T17:35:25Z",
+		"date_modified": "2025-03-01T01:39:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1483,7 +1483,7 @@
 	},
 	{
 		"id": 42732,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 40.78674451081241,
@@ -1511,7 +1511,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T19:17:15Z",
-		"date_modified": "2025-02-28T22:03:59Z",
+		"date_modified": "2025-03-01T01:31:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1639,7 +1639,7 @@
 	},
 	{
 		"id": 42738,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 40.8431041,
@@ -1667,7 +1667,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T19:57:50Z",
-		"date_modified": "2025-02-28T19:57:50Z",
+		"date_modified": "2025-03-01T01:30:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1717,7 +1717,7 @@
 	},
 	{
 		"id": 42744,
-		"is_active": true,
+		"is_active": false,
 		"name": "Gregg 0687 Fire",
 		"description": null,
 		"lat": 32.54081,
@@ -1745,7 +1745,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T20:40:50Z",
-		"date_modified": "2025-02-28T21:35:50Z",
+		"date_modified": "2025-03-01T01:39:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1912,7 +1912,7 @@
 	},
 	{
 		"id": 42753,
-		"is_active": true,
+		"is_active": false,
 		"name": "Franklin 0693 Fire",
 		"description": null,
 		"lat": 33.06503,
@@ -1940,7 +1940,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T21:15:50Z",
-		"date_modified": "2025-02-28T22:05:50Z",
+		"date_modified": "2025-03-01T01:50:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2057,7 +2057,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T21:30:43Z",
-		"date_modified": "2025-02-28T21:30:43Z",
+		"date_modified": "2025-03-01T01:27:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2120,7 +2120,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 50,
+			"containment": 65,
 			"acreage": 13,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -2135,7 +2135,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T21:55:50Z",
-		"date_modified": "2025-03-01T00:15:49Z",
+		"date_modified": "2025-03-01T01:40:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2276,8 +2276,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 90,
-			"acreage": 10,
+			"containment": 100,
+			"acreage": 12,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2291,7 +2291,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T23:20:50Z",
-		"date_modified": "2025-03-01T01:10:49Z",
+		"date_modified": "2025-03-01T01:50:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
