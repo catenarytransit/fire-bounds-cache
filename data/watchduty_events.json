@@ -1094,7 +1094,7 @@
 	{
 		"id": 42736,
 		"is_active": true,
-		"name": "San Isidro Fire",
+		"name": "San Ysidro Fire",
 		"description": null,
 		"lat": 35.563277,
 		"lng": -106.771108,
@@ -1121,7 +1121,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T19:38:24Z",
-		"date_modified": "2025-02-28T22:26:20Z",
+		"date_modified": "2025-03-01T16:25:54Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
