@@ -1756,7 +1756,7 @@
 	},
 	{
 		"id": 42746,
-		"is_active": true,
+		"is_active": false,
 		"name": "Titus 0690 Fire",
 		"description": null,
 		"lat": 33.275915,
@@ -1784,7 +1784,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T20:45:51Z",
-		"date_modified": "2025-02-28T22:30:50Z",
+		"date_modified": "2025-03-01T02:39:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1951,7 +1951,7 @@
 	},
 	{
 		"id": 42755,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cass 0694 Fire",
 		"description": null,
 		"lat": 33.1966,
@@ -1979,7 +1979,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T21:20:51Z",
-		"date_modified": "2025-02-28T22:35:50Z",
+		"date_modified": "2025-03-01T02:39:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
