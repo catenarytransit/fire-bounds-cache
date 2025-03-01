@@ -118,7 +118,7 @@
 	},
 	{
 		"id": 42510,
-		"is_active": true,
+		"is_active": false,
 		"name": "KC-450 Fire",
 		"description": null,
 		"lat": 30.385417,
@@ -146,7 +146,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-25T23:35:34Z",
-		"date_modified": "2025-02-28T21:17:38Z",
+		"date_modified": "2025-03-01T05:24:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
