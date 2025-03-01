@@ -1951,7 +1951,7 @@
 	},
 	{
 		"id": 42818,
-		"is_active": true,
+		"is_active": false,
 		"name": "3 Fences Fire",
 		"description": null,
 		"lat": 36.8275,
@@ -1979,7 +1979,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-01T14:35:14Z",
-		"date_modified": "2025-03-01T17:31:05Z",
+		"date_modified": "2025-03-01T21:39:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
