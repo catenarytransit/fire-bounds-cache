@@ -157,7 +157,7 @@
 	},
 	{
 		"id": 42526,
-		"is_active": true,
+		"is_active": false,
 		"name": "Dismal River Ranch Fire",
 		"description": null,
 		"lat": 41.7507677,
@@ -185,7 +185,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-26T01:44:17Z",
-		"date_modified": "2025-02-28T22:52:23Z",
+		"date_modified": "2025-03-01T06:54:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1886,7 +1886,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": null,
+			"containment": 100,
 			"acreage": 39,
 			"links": [],
 			"has_custom_evacuation_orders": false,
@@ -1901,7 +1901,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T23:19:36Z",
-		"date_modified": "2025-03-01T06:09:35Z",
+		"date_modified": "2025-03-01T06:58:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
