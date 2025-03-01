@@ -1873,7 +1873,7 @@
 	},
 	{
 		"id": 42778,
-		"is_active": true,
+		"is_active": false,
 		"name": "Camp 0703 Fire",
 		"description": null,
 		"lat": 33.011111,
@@ -1901,7 +1901,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T23:20:50Z",
-		"date_modified": "2025-03-01T01:50:50Z",
+		"date_modified": "2025-03-01T07:54:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
