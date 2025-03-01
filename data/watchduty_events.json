@@ -2201,10 +2201,10 @@
 			"containment": null,
 			"acreage": 25,
 			"links": [],
-			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
+			"evacuation_orders": "All properties between Country View Road and East Cascade Mountain Road",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -2213,14 +2213,17 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-01T20:15:18Z",
-		"date_modified": "2025-03-01T22:37:45Z",
+		"date_modified": "2025-03-01T22:40:51Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": "{9FEA5BBA-43DE-4926-9C9F-9D1D3FDB5C67}",
 		"external_source": "nifc",
 		"child_geo_events": [],
-		"parent_geo_events": []
+		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"All properties between Country View Road and East Cascade Mountain Road"
+		]
 	},
 	{
 		"id": 42836,
