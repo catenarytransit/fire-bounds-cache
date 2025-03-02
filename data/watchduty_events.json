@@ -586,7 +586,7 @@
 	},
 	{
 		"id": 42725,
-		"is_active": true,
+		"is_active": false,
 		"name": "Wildcat Fire",
 		"description": null,
 		"lat": 28.1428,
@@ -614,7 +614,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T18:30:49Z",
-		"date_modified": "2025-03-01T16:50:15Z",
+		"date_modified": "2025-03-02T00:54:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -965,7 +965,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-28T20:45:51Z",
-		"date_modified": "2025-03-01T02:39:35Z",
+		"date_modified": "2025-03-02T00:55:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2029,7 +2029,7 @@
 	},
 	{
 		"id": 42834,
-		"is_active": true,
+		"is_active": false,
 		"name": "Harrison 0735 Fire",
 		"description": null,
 		"lat": 32.578102,
@@ -2057,7 +2057,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-01T20:10:18Z",
-		"date_modified": "2025-03-01T21:00:19Z",
+		"date_modified": "2025-03-02T00:50:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2542,8 +2542,8 @@
 		"is_active": true,
 		"name": "Jasper 0744 Fire",
 		"description": null,
-		"lat": 30.722509,
-		"lng": -93.96359,
+		"lat": 30.721091,
+		"lng": -93.959506,
 		"address": "14300 Block of FM252, Kirbyville, TX 75956",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2567,7 +2567,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-01T22:55:21Z",
-		"date_modified": "2025-03-02T00:30:21Z",
+		"date_modified": "2025-03-02T00:45:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
