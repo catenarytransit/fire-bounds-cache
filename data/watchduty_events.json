@@ -1561,7 +1561,7 @@
 	},
 	{
 		"id": 42852,
-		"is_active": true,
+		"is_active": false,
 		"name": "Lava Fire",
 		"description": null,
 		"lat": 34.49955,
@@ -1574,7 +1574,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 3,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1589,7 +1589,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-01T22:30:45Z",
-		"date_modified": "2025-03-01T22:35:42Z",
+		"date_modified": "2025-03-02T15:34:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
