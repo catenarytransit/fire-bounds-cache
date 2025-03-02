@@ -1210,7 +1210,7 @@
 	},
 	{
 		"id": 42842,
-		"is_active": true,
+		"is_active": false,
 		"name": "Mason Creek Fire",
 		"description": null,
 		"lat": 31.485583,
@@ -1238,7 +1238,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-01T21:06:46Z",
-		"date_modified": "2025-03-01T21:11:41Z",
+		"date_modified": "2025-03-02T21:20:45Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
