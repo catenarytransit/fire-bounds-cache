@@ -1912,7 +1912,7 @@
 	},
 	{
 		"id": 42826,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cass 0727 Fire",
 		"description": null,
 		"lat": 33.095633,
@@ -1940,7 +1940,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-01T18:45:17Z",
-		"date_modified": "2025-03-01T20:05:18Z",
+		"date_modified": "2025-03-02T00:09:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1990,7 +1990,7 @@
 	},
 	{
 		"id": 42833,
-		"is_active": true,
+		"is_active": false,
 		"name": "Nacogdoches 0734 Fire",
 		"description": null,
 		"lat": 31.658628,
@@ -2018,7 +2018,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-01T19:50:18Z",
-		"date_modified": "2025-03-01T20:05:18Z",
+		"date_modified": "2025-03-02T00:09:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2552,8 +2552,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
-			"acreage": 15,
+			"containment": 100,
+			"acreage": 11.3,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2567,7 +2567,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-01T22:55:21Z",
-		"date_modified": "2025-03-01T22:55:21Z",
+		"date_modified": "2025-03-02T00:30:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
