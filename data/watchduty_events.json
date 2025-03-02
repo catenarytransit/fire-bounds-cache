@@ -1873,7 +1873,7 @@
 	},
 	{
 		"id": 42837,
-		"is_active": true,
+		"is_active": false,
 		"name": "Ford F150 Fire",
 		"description": null,
 		"lat": 43.106961,
@@ -1901,7 +1901,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-01T20:35:19Z",
-		"date_modified": "2025-03-01T23:48:23Z",
+		"date_modified": "2025-03-02T03:54:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
