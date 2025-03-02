@@ -1951,7 +1951,7 @@
 	},
 	{
 		"id": 42855,
-		"is_active": true,
+		"is_active": false,
 		"name": "Jasper 0744 Fire",
 		"description": null,
 		"lat": 30.721091,
@@ -1979,7 +1979,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-01T22:55:21Z",
-		"date_modified": "2025-03-02T00:45:21Z",
+		"date_modified": "2025-03-02T06:39:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
