@@ -1288,7 +1288,7 @@
 	},
 	{
 		"id": 42848,
-		"is_active": true,
+		"is_active": false,
 		"name": "Dmi Fire",
 		"description": null,
 		"lat": 27.735704,
@@ -1316,7 +1316,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-01T22:15:21Z",
-		"date_modified": "2025-03-02T15:40:50Z",
+		"date_modified": "2025-03-02T19:54:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1964,7 +1964,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
+			"containment": 100,
 			"acreage": 1,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1979,7 +1979,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-02T19:10:52Z",
-		"date_modified": "2025-03-02T19:10:52Z",
+		"date_modified": "2025-03-02T19:55:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
