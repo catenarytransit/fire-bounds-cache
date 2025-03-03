@@ -2302,7 +2302,7 @@
 	},
 	{
 		"id": 42936,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cherokee 0805 Fire",
 		"description": null,
 		"lat": 31.992274,
@@ -2330,7 +2330,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-03T00:05:57Z",
-		"date_modified": "2025-03-03T01:00:58Z",
+		"date_modified": "2025-03-03T07:09:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
