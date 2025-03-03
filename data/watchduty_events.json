@@ -118,7 +118,7 @@
 	},
 	{
 		"id": 42665,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cross Timbers Fire",
 		"description": null,
 		"lat": 36.738889,
@@ -146,7 +146,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-27T22:40:11Z",
-		"date_modified": "2025-03-03T16:10:19Z",
+		"date_modified": "2025-03-03T20:43:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2575,7 +2575,7 @@
 	},
 	{
 		"id": 42959,
-		"is_active": true,
+		"is_active": false,
 		"name": "Saline Creek Fire",
 		"description": null,
 		"lat": 36.314987,
@@ -2590,7 +2590,7 @@
 			"is_fps": false,
 			"containment": 100,
 			"acreage": 355,
-			"links": null,
+			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
@@ -2603,7 +2603,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-03T14:30:27Z",
-		"date_modified": "2025-03-03T18:01:37Z",
+		"date_modified": "2025-03-03T20:43:29Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
