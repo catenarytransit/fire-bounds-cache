@@ -2302,7 +2302,7 @@
 	},
 	{
 		"id": 42932,
-		"is_active": true,
+		"is_active": false,
 		"name": "Abraham Fire",
 		"description": null,
 		"lat": 39.38762,
@@ -2330,7 +2330,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-02T23:42:25Z",
-		"date_modified": "2025-03-03T00:51:24Z",
+		"date_modified": "2025-03-03T04:54:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
