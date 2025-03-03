@@ -2302,7 +2302,7 @@
 	},
 	{
 		"id": 42943,
-		"is_active": false,
+		"is_active": true,
 		"name": "Prairie Creek Fire",
 		"description": null,
 		"lat": 37.685617,
@@ -2316,7 +2316,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": 100,
-			"acreage": 300,
+			"acreage": 75,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2330,7 +2330,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-03T01:49:25Z",
-		"date_modified": "2025-03-03T12:54:35Z",
+		"date_modified": "2025-03-03T13:56:43Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
