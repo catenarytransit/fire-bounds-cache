@@ -1834,7 +1834,7 @@
 	},
 	{
 		"id": 42906,
-		"is_active": true,
+		"is_active": false,
 		"name": "Walker 0788 Fire",
 		"description": null,
 		"lat": 30.772904,
@@ -1862,7 +1862,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-02T20:35:53Z",
-		"date_modified": "2025-03-02T22:55:55Z",
+		"date_modified": "2025-03-03T03:09:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2459,7 +2459,7 @@
 	{
 		"id": 42933,
 		"is_active": true,
-		"name": "Bell 0801 Fire",
+		"name": "Atkinson Fire",
 		"description": null,
 		"lat": 31.113982,
 		"lng": -97.705506,
@@ -2486,7 +2486,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-02T23:45:57Z",
-		"date_modified": "2025-03-03T01:30:58Z",
+		"date_modified": "2025-03-03T03:00:59Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
