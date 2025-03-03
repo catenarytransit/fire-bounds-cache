@@ -2692,7 +2692,7 @@
 	},
 	{
 		"id": 42963,
-		"is_active": true,
+		"is_active": false,
 		"name": "Fire And Ice - Powder River Fire",
 		"description": null,
 		"lat": 45.45782,
@@ -2720,7 +2720,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-03T14:55:27Z",
-		"date_modified": "2025-03-03T16:59:33Z",
+		"date_modified": "2025-03-03T21:09:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
