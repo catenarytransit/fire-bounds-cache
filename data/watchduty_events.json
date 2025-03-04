@@ -2224,7 +2224,7 @@
 	},
 	{
 		"id": 43074,
-		"is_active": true,
+		"is_active": false,
 		"name": "Pit Fire",
 		"description": null,
 		"lat": 46.936379,
@@ -2252,7 +2252,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-04T16:45:51Z",
-		"date_modified": "2025-03-04T17:42:59Z",
+		"date_modified": "2025-03-04T21:54:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2414,7 +2414,38 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 43110,
+				"address": "10040 Espada Rd, San Antonio, TX 78214, USA",
+				"name": "Temporary Shelter - Mission Espada Fellowship Hall",
+				"lat": 29.3180151,
+				"lng": -98.44944869999999,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>Temporary shelters have been opened for those displaced by the fires, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/BexarCoSheriff/posts/pfbid0HMgemRj8sNH1wSqNxfnQRZvrNUEJxgVVnc3kECpoLfcTxgrYMHH143ARmC3dX2Skl\">Bexar County Sheriff's Office on Facebook</a>. The locations of the shelters are below:</p><p>- Sandy Oaks Community Center- 4451 Hickory Haven Dr. Elmendorf, TX 78112<br>- Mission Espada Fellowship Hall- 10040 Espada SA, TX 78214</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 43104,
+				"address": "4451 Hickory Haven Drive, Elmendorf, TX 78112, USA",
+				"name": "Temporary Shelter - Sandy Oaks Community Center",
+				"lat": 29.19107369999999,
+				"lng": -98.4030464,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>Temporary shelters have been opened for those displaced by the fires, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/BexarCoSheriff/posts/pfbid0HMgemRj8sNH1wSqNxfnQRZvrNUEJxgVVnc3kECpoLfcTxgrYMHH143ARmC3dX2Skl\">Bexar County Sheriff's Office on Facebook</a>. The locations of the shelters are below:</p><p>- Sandy Oaks Community Center- 4451 Hickory Haven Dr. Elmendorf, TX 78112<br>- Mission Espada Fellowship Hall- 10040 Espada SA, TX 78214</p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"The evacuation order is limited to approximately 30 homes located in the southeastern part of Bexar County south of Highway 181",
@@ -2499,6 +2530,21 @@
 		"external_source": null,
 		"child_geo_events": [
 			{
+				"id": 43110,
+				"address": "10040 Espada Rd, San Antonio, TX 78214, USA",
+				"name": "Temporary Shelter - Mission Espada Fellowship Hall",
+				"lat": 29.3180151,
+				"lng": -98.44944869999999,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>Temporary shelters have been opened for those displaced by the fires, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/BexarCoSheriff/posts/pfbid0HMgemRj8sNH1wSqNxfnQRZvrNUEJxgVVnc3kECpoLfcTxgrYMHH143ARmC3dX2Skl\">Bexar County Sheriff's Office on Facebook</a>. The locations of the shelters are below:</p><p>- Sandy Oaks Community Center- 4451 Hickory Haven Dr. Elmendorf, TX 78112<br>- Mission Espada Fellowship Hall- 10040 Espada SA, TX 78214</p>",
+					"links": []
+				}
+			},
+			{
 				"id": 43104,
 				"address": "4451 Hickory Haven Drive, Elmendorf, TX 78112, USA",
 				"name": "Temporary Shelter - Sandy Oaks Community Center",
@@ -2509,7 +2555,7 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
-					"information": "<p>A temporary shelter has been established at the Sandy Oaks Community Center located at 4451 Hickory Haven Drive, Elmendorf, TX 78112 per a <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\">wireless emergency alert (WEA) via PBS WARN</a>.</p>",
+					"information": "<p>Temporary shelters have been opened for those displaced by the fires, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/BexarCoSheriff/posts/pfbid0HMgemRj8sNH1wSqNxfnQRZvrNUEJxgVVnc3kECpoLfcTxgrYMHH143ARmC3dX2Skl\">Bexar County Sheriff's Office on Facebook</a>. The locations of the shelters are below:</p><p>- Sandy Oaks Community Center- 4451 Hickory Haven Dr. Elmendorf, TX 78112<br>- Mission Espada Fellowship Hall- 10040 Espada SA, TX 78214</p>",
 					"links": []
 				}
 			}
@@ -2744,7 +2790,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-04T21:28:30Z",
-		"date_modified": "2025-03-04T21:42:56Z",
+		"date_modified": "2025-03-04T21:53:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2827,6 +2873,45 @@
 		"incident_id": null,
 		"reporter_managed": false,
 		"external_id": "{70B1FD6F-7054-47EC-BF43-FC172AF973C3}",
+		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 43109,
+		"is_active": true,
+		"name": "Brush Line Fire",
+		"description": null,
+		"lat": 26.301682,
+		"lng": -98.163627,
+		"address": "0 Block ofTH Lane Rd, Edinburg, TX 78541",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": 0,
+			"acreage": 40,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-04T21:51:55Z",
+		"date_modified": "2025-03-04T21:51:55Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "{874A8CB0-E68F-4A9D-88F1-B581001EA6BB}",
 		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
