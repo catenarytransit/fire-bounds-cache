@@ -2146,7 +2146,7 @@
 	},
 	{
 		"id": 42998,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hoots Fire",
 		"description": null,
 		"lat": 36.9639,
@@ -2174,7 +2174,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-03T18:10:22Z",
-		"date_modified": "2025-03-04T01:00:58Z",
+		"date_modified": "2025-03-04T09:09:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
