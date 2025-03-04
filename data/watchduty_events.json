@@ -235,7 +235,7 @@
 	},
 	{
 		"id": 42802,
-		"is_active": true,
+		"is_active": false,
 		"name": "Sugar Road Fire",
 		"description": null,
 		"lat": 34.214444,
@@ -263,7 +263,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-01T04:06:04Z",
-		"date_modified": "2025-03-04T07:01:52Z",
+		"date_modified": "2025-03-04T15:09:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -274,7 +274,7 @@
 	},
 	{
 		"id": 42805,
-		"is_active": true,
+		"is_active": false,
 		"name": "Mason Mountain Fire",
 		"description": null,
 		"lat": 34.47161982247272,
@@ -302,7 +302,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-01T08:06:08Z",
-		"date_modified": "2025-03-04T06:58:11Z",
+		"date_modified": "2025-03-04T15:09:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
