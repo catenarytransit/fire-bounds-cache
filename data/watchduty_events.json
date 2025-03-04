@@ -2758,9 +2758,9 @@
 		"is_active": true,
 		"name": "Vegetation Fire",
 		"description": null,
-		"lat": 30.0762759,
-		"lng": -97.9197234,
-		"address": "Near 200 Block of Clark Cove Road, Buda, TX",
+		"lat": 30.050446148075636,
+		"lng": -97.93498204690285,
+		"address": "Near the 200 Block of Bartlett Dr W, Buda, TX",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -2783,7 +2783,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-04T21:28:30Z",
-		"date_modified": "2025-03-04T21:28:30Z",
+		"date_modified": "2025-03-04T21:35:54Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
