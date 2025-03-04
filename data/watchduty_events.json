@@ -1404,45 +1404,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 42988,
-		"is_active": false,
-		"name": "Lybrand Road Fire",
-		"description": null,
-		"lat": 34.526944,
-		"lng": -93.738889,
-		"address": null,
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": 100,
-			"acreage": 2,
-			"links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-03-03T17:10:49Z",
-		"date_modified": "2025-03-03T23:24:35Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "ca91c79c-bfcc-4ed8-ade1-77924599ef77",
-		"external_source": "wildcad",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 42989,
 		"is_active": false,
 		"name": "630 Rd Fire",
@@ -2648,8 +2609,8 @@
 		"is_active": true,
 		"name": "Vegetation Fire",
 		"description": null,
-		"lat": 30.050446148075636,
-		"lng": -97.93498204690285,
+		"lat": 30.0542533,
+		"lng": -97.9370815,
 		"address": "4400 Block of Ranch to Market Rd 150, Buda, TX",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2673,13 +2634,29 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-04T21:28:30Z",
-		"date_modified": "2025-03-04T23:23:12Z",
+		"date_modified": "2025-03-04T23:26:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 43118,
+				"address": "Southern Hills Church of Christ, 3740 FM 967",
+				"name": "Evacuation Shelter",
+				"lat": 30.09728819999999,
+				"lng": -97.88447269999999,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>A shelter has been established at Southern Hills Church of Christ, 3740 FM 967 per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xkrqix3 x1sur9pj xzsf02u x1s688f\" href=\"https://www.facebook.com/HaysCountyOfficeOfEmergencyManagement?__cft__[0]=AZXCDaHRZ0Iv3vKnSbpq0zcAVuTFhb1cRF8DFLOw4TXwYescUkna5F-YgMYF0A-iKL1bbquM4YY47cHjvdQSQ-2TjJ-9oKrEha2KPwb5cWBToYnj_uZJrD4Toeh-XdQo6lgW_jlz3qNf5_wZBIfZ_dld8J3rjh1tMo9XrgEX6GKqkGgyduZy34v3gOrTpT4Z0kg&amp;__tn__=-UC%2CP-R\"><strong>Hays County Office of Emergency Services</strong></a><strong> </strong>on their post <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/HaysCountyOfficeOfEmergencyManagement/\"><strong>HERE</strong></a><strong>.</strong></p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"1/2 mile radius of 4400 block FM 150"
