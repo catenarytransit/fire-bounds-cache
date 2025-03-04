@@ -196,7 +196,7 @@
 	},
 	{
 		"id": 42801,
-		"is_active": true,
+		"is_active": false,
 		"name": "Ludlow Fire",
 		"description": null,
 		"lat": 34.535278,
@@ -224,7 +224,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-01T03:46:04Z",
-		"date_modified": "2025-03-04T07:19:15Z",
+		"date_modified": "2025-03-04T15:24:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
