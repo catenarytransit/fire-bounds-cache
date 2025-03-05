@@ -2708,8 +2708,8 @@
 		"is_active": true,
 		"name": "Cass 0883 Fire",
 		"description": null,
-		"lat": 33.056704,
-		"lng": -94.405187,
+		"lat": 33.056267,
+		"lng": -94.404067,
 		"address": "3100 Block of FM1399, Linden, TX 75563",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2733,7 +2733,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-05T12:40:59Z",
-		"date_modified": "2025-03-05T12:40:59Z",
+		"date_modified": "2025-03-05T12:45:59Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
