@@ -235,7 +235,7 @@
 	},
 	{
 		"id": 42811,
-		"is_active": true,
+		"is_active": false,
 		"name": "River Ranch Fire",
 		"description": null,
 		"lat": 35.145278,
@@ -263,7 +263,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-01T13:55:14Z",
-		"date_modified": "2025-03-04T20:51:17Z",
+		"date_modified": "2025-03-05T04:54:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
