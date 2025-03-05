@@ -443,7 +443,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 90,
+			"containment": 100,
 			"acreage": 1267,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -458,7 +458,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-02T05:30:42Z",
-		"date_modified": "2025-03-05T14:27:38Z",
+		"date_modified": "2025-03-05T20:48:44Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1970,29 +1970,13 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-04T21:38:23Z",
-		"date_modified": "2025-03-05T20:21:10Z",
+		"date_modified": "2025-03-05T20:51:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 43123,
-				"address": "219 W 5th St, Sinton, TX 78387",
-				"name": "Evacuation Shelter - San Patricio County Fairgrounds",
-				"lat": 28.0258677,
-				"lng": -97.5113353,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>Residents within this area are advised to evacuate the area and take shelter at the San Patricio County Fairgrounds where there are organizations set up to care for evacuees - per the update from <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://inciweb.wildfire.gov/incident-publication/txtxs-welder-fire/welder-fire-evacuations-march-4-2024-03-05-2025\">InciWeb</a>.</p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": [
 			{
 				"id": 43143,
