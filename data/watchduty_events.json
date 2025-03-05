@@ -40,7 +40,7 @@
 	},
 	{
 		"id": 42527,
-		"is_active": true,
+		"is_active": false,
 		"name": "East Table Fire",
 		"description": null,
 		"lat": 41.52132289211846,
@@ -68,7 +68,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-26T02:33:13Z",
-		"date_modified": "2025-03-04T22:07:04Z",
+		"date_modified": "2025-03-05T06:09:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
