@@ -2013,10 +2013,10 @@
 			"containment": 20,
 			"acreage": 100,
 			"links": [],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Duke Road",
+			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -2025,7 +2025,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-04T20:04:56Z",
-		"date_modified": "2025-03-05T03:26:08Z",
+		"date_modified": "2025-03-05T06:38:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2078,10 +2078,7 @@
 				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"Duke Road"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 43098,
@@ -2293,7 +2290,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": 20,
+			"containment": 45,
 			"acreage": 174,
 			"links": [
 				{
@@ -2324,7 +2321,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-04T21:28:30Z",
-		"date_modified": "2025-03-05T04:45:50Z",
+		"date_modified": "2025-03-05T06:40:44Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2630,7 +2627,7 @@
 	},
 	{
 		"id": 43127,
-		"is_active": true,
+		"is_active": false,
 		"name": "Anderson 0869 Fire",
 		"description": null,
 		"lat": 31.862952,
@@ -2658,7 +2655,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-05T01:05:56Z",
-		"date_modified": "2025-03-05T02:35:57Z",
+		"date_modified": "2025-03-05T06:39:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
