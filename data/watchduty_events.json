@@ -2147,7 +2147,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-04T20:04:56Z",
-		"date_modified": "2025-03-05T00:48:22Z",
+		"date_modified": "2025-03-05T02:43:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2285,7 +2285,7 @@
 	},
 	{
 		"id": 43100,
-		"is_active": true,
+		"is_active": false,
 		"name": "Blue Goose Fire",
 		"description": null,
 		"lat": 30.3504086,
@@ -2313,7 +2313,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-04T20:41:54Z",
-		"date_modified": "2025-03-04T21:47:08Z",
+		"date_modified": "2025-03-05T02:40:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2765,7 +2765,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 90,
+			"containment": 100,
 			"acreage": 2,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -2780,7 +2780,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-05T01:05:56Z",
-		"date_modified": "2025-03-05T02:05:57Z",
+		"date_modified": "2025-03-05T02:35:57Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2794,8 +2794,8 @@
 		"is_active": true,
 		"name": "Panola 0873 Fire",
 		"description": null,
-		"lat": 31.995733,
-		"lng": -94.474486,
+		"lat": 31.993889,
+		"lng": -94.435,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2804,7 +2804,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
+			"containment": 50,
 			"acreage": 2,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -2819,7 +2819,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-05T01:40:57Z",
-		"date_modified": "2025-03-05T01:40:57Z",
+		"date_modified": "2025-03-05T02:30:57Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
