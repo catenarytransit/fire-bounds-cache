@@ -820,7 +820,7 @@
 	},
 	{
 		"id": 43094,
-		"is_active": true,
+		"is_active": false,
 		"name": "Duke Fire",
 		"description": null,
 		"lat": 29.156675927919522,
@@ -848,7 +848,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-04T20:04:56Z",
-		"date_modified": "2025-03-05T23:32:12Z",
+		"date_modified": "2025-03-06T07:39:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
