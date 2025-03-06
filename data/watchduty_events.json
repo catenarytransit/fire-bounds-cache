@@ -1451,7 +1451,7 @@
 	},
 	{
 		"id": 43117,
-		"is_active": true,
+		"is_active": false,
 		"name": "Double Fork Fire",
 		"description": null,
 		"lat": 33.062664,
@@ -1479,7 +1479,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-04T23:20:55Z",
-		"date_modified": "2025-03-05T20:37:00Z",
+		"date_modified": "2025-03-06T04:39:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
