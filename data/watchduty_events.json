@@ -781,7 +781,7 @@
 	},
 	{
 		"id": 43038,
-		"is_active": true,
+		"is_active": false,
 		"name": "Marty Fire",
 		"description": null,
 		"lat": 34.276667,
@@ -809,7 +809,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-03T22:10:23Z",
-		"date_modified": "2025-03-03T22:10:23Z",
+		"date_modified": "2025-03-06T05:58:23Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
