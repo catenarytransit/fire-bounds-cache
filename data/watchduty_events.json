@@ -391,7 +391,7 @@
 	},
 	{
 		"id": 42949,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cowhead Fire",
 		"description": null,
 		"lat": 35.571944,
@@ -419,7 +419,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-03T07:15:12Z",
-		"date_modified": "2025-03-06T14:01:03Z",
+		"date_modified": "2025-03-06T22:09:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -430,7 +430,7 @@
 	},
 	{
 		"id": 42950,
-		"is_active": true,
+		"is_active": false,
 		"name": "Fletcher Mountain Fire",
 		"description": null,
 		"lat": 35.734722,
@@ -458,7 +458,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-03T07:20:12Z",
-		"date_modified": "2025-03-06T14:06:02Z",
+		"date_modified": "2025-03-06T22:09:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
