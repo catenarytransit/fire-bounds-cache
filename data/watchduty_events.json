@@ -710,7 +710,7 @@
 	},
 	{
 		"id": 43125,
-		"is_active": true,
+		"is_active": false,
 		"name": "Bia Rd 21 Mm46 Fire",
 		"description": null,
 		"lat": 45.756122,
@@ -738,7 +738,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-05T00:10:55Z",
-		"date_modified": "2025-03-06T00:16:01Z",
+		"date_modified": "2025-03-07T09:10:34Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1078,7 +1078,7 @@
 	},
 	{
 		"id": 43168,
-		"is_active": true,
+		"is_active": false,
 		"name": "Oz Fire",
 		"description": null,
 		"lat": 34.036667,
@@ -1106,7 +1106,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-05T22:26:01Z",
-		"date_modified": "2025-03-05T22:26:01Z",
+		"date_modified": "2025-03-07T09:14:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1117,7 +1117,7 @@
 	},
 	{
 		"id": 43179,
-		"is_active": true,
+		"is_active": false,
 		"name": "Powerline Fire",
 		"description": null,
 		"lat": 45.499611,
@@ -1145,7 +1145,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-06T00:06:01Z",
-		"date_modified": "2025-03-06T00:06:01Z",
+		"date_modified": "2025-03-07T09:10:40Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
