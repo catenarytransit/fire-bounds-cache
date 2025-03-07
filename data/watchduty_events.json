@@ -1549,8 +1549,8 @@
 		"is_active": true,
 		"name": "Marion 0936 Fire",
 		"description": null,
-		"lat": 32.744176,
-		"lng": -94.169264,
+		"lat": 32.742483,
+		"lng": -94.167817,
 		"address": "5000 Block of FM805, Jefferson, TX 75657",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1559,7 +1559,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 50,
+			"containment": 100,
 			"acreage": 4,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1574,7 +1574,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-07T06:21:05Z",
-		"date_modified": "2025-03-07T07:21:04Z",
+		"date_modified": "2025-03-07T08:31:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
