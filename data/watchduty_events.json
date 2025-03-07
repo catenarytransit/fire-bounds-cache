@@ -1145,10 +1145,10 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-06T19:26:03Z",
-		"date_modified": "2025-03-06T19:26:03Z",
+		"date_modified": "2025-03-07T21:27:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "{50673666-3B35-42B9-AC64-CE9199F7E5FF}",
 		"external_source": "nifc",
 		"child_geo_events": [],
@@ -1588,8 +1588,8 @@
 		"is_active": true,
 		"name": "Indian Creek Fire",
 		"description": null,
-		"lat": 37.01,
-		"lng": -92.07,
+		"lat": 37.01704,
+		"lng": -92.060709,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1613,7 +1613,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-07T20:37:03Z",
-		"date_modified": "2025-03-07T20:41:54Z",
+		"date_modified": "2025-03-07T21:24:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
