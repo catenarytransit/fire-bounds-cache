@@ -28590,7 +28590,7 @@
         "attr_OrganizationalAssessment" : null, 
         "attr_StratDecisionPublishDate" : null, 
         "attr_CreatedOnDateTime_dt" : 1741288836470, 
-        "attr_ModifiedOnDateTime_dt" : 1741295522860, 
+        "attr_ModifiedOnDateTime_dt" : 1741382059563, 
         "attr_Source" : "IRWIN", 
         "attr_ActiveFireCandidate" : 1, 
         "attr_IsCpxChild" : 0, 
@@ -28600,7 +28600,7 @@
         "GlobalID" : "104bd450-49b7-47d6-90a6-8fd15a1d0234", 
         "Shape__Area" : 3.9431185768989963E-05, 
         "Shape__Length" : 0.033581879804065511, 
-        "attr_IncidentComplexityLevel" : null
+        "attr_IncidentComplexityLevel" : "Type 5 Incident"
       }
     }, 
     {
