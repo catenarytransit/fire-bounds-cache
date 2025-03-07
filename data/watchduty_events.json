@@ -40,7 +40,7 @@
 	},
 	{
 		"id": 42892,
-		"is_active": true,
+		"is_active": false,
 		"name": "Dickey Junction Fire",
 		"description": null,
 		"lat": 35.83793,
@@ -68,7 +68,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-02T18:36:36Z",
-		"date_modified": "2025-03-03T00:53:19Z",
+		"date_modified": "2025-03-07T19:54:39Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -313,7 +313,7 @@
 	},
 	{
 		"id": 43026,
-		"is_active": true,
+		"is_active": false,
 		"name": "Bobtail Fire",
 		"description": null,
 		"lat": 35.779139,
@@ -341,7 +341,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-03T21:05:51Z",
-		"date_modified": "2025-03-03T21:22:51Z",
+		"date_modified": "2025-03-07T19:55:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -391,7 +391,7 @@
 	},
 	{
 		"id": 43055,
-		"is_active": true,
+		"is_active": false,
 		"name": "Anderson Fire",
 		"description": null,
 		"lat": 35.767812,
@@ -419,7 +419,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-04T03:23:09Z",
-		"date_modified": "2025-03-04T04:28:50Z",
+		"date_modified": "2025-03-07T19:56:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
