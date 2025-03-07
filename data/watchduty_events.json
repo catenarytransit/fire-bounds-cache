@@ -794,7 +794,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": 95,
+			"containment": 100,
 			"acreage": 190.3,
 			"links": [
 				{
@@ -825,7 +825,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-04T21:28:30Z",
-		"date_modified": "2025-03-06T23:12:53Z",
+		"date_modified": "2025-03-07T01:34:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -905,7 +905,7 @@
 	},
 	{
 		"id": 43108,
-		"is_active": true,
+		"is_active": false,
 		"name": "Klett Fire",
 		"description": null,
 		"lat": 30.274492139461884,
@@ -933,7 +933,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-04T21:45:55Z",
-		"date_modified": "2025-03-06T17:49:26Z",
+		"date_modified": "2025-03-07T01:54:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1035,7 +1035,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 95,
+			"containment": 100,
 			"acreage": 2156,
 			"links": [],
 			"has_custom_evacuation_orders": false,
@@ -1050,7 +1050,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-05T00:05:55Z",
-		"date_modified": "2025-03-07T00:06:25Z",
+		"date_modified": "2025-03-07T01:35:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
