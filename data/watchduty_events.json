@@ -1120,9 +1120,9 @@
 		"is_active": true,
 		"name": "Kleberg 0923 Fire",
 		"description": null,
-		"lat": 27.5529,
-		"lng": -97.8803,
-		"address": null,
+		"lat": 27.562093417375124,
+		"lng": -97.88492657754443,
+		"address": "Near FM1355 and approx. 2 miles North of Kingsville, TX",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1132,7 +1132,7 @@
 			"is_fps": false,
 			"containment": 0,
 			"acreage": 106.6,
-			"links": null,
+			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
@@ -1145,7 +1145,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-06T19:26:03Z",
-		"date_modified": "2025-03-07T21:29:17Z",
+		"date_modified": "2025-03-07T21:35:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1507,7 +1507,7 @@
 	},
 	{
 		"id": 43248,
-		"is_active": true,
+		"is_active": false,
 		"name": "Little Lee Fire",
 		"description": null,
 		"lat": 35.745254,
@@ -1535,7 +1535,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-07T15:26:06Z",
-		"date_modified": "2025-03-07T15:29:46Z",
+		"date_modified": "2025-03-07T21:39:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
