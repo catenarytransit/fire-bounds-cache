@@ -1393,8 +1393,8 @@
 		"is_active": true,
 		"name": "Tyler 0949 Fire",
 		"description": null,
-		"lat": 31.01,
-		"lng": -94.452778,
+		"lat": 31.0037,
+		"lng": -94.271633,
 		"address": "500 Block of Co Rd 3925, Colmesneil, TX 75938",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1418,7 +1418,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-07T17:55:31Z",
-		"date_modified": "2025-03-07T18:55:31Z",
+		"date_modified": "2025-03-07T22:35:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
