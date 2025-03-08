@@ -273,61 +273,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 43105,
-		"is_active": false,
-		"name": "Onion Creek Fire",
-		"description": null,
-		"lat": 30.0542533,
-		"lng": -97.9370815,
-		"address": "4400 Block of Ranch to Market Rd 150, Buda, TX",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": true,
-			"containment": 100,
-			"acreage": 190.3,
-			"links": [
-				{
-					"link_type": "website",
-					"label": "Hays County OES Facebook",
-					"value": "https://www.facebook.com/HaysCountyOfficeOfEmergencyManagement"
-				},
-				{
-					"link_type": "website",
-					"label": "Hays County Sheriff's Facebook",
-					"value": "https://www.facebook.com/hayscountysheriffsoffice"
-				},
-				{
-					"link_type": "phone",
-					"label": "Non-Emergency Phone Number",
-					"value": "5129381600"
-				}
-			],
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-03-04T21:28:30Z",
-		"date_modified": "2025-03-07T09:39:36Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 43107,
 		"is_active": true,
 		"name": "Welder Fire",
@@ -395,45 +340,6 @@
 				}
 			}
 		]
-	},
-	{
-		"id": 43124,
-		"is_active": false,
-		"name": "Twin Oryx Fire",
-		"description": null,
-		"lat": 28.10211594887923,
-		"lng": -98.84123607419762,
-		"address": "Near FM624 & Kmas Road, 25 Miles S/E of Cotulla",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": false,
-			"containment": 100,
-			"acreage": 2156,
-			"links": [],
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-03-05T00:05:55Z",
-		"date_modified": "2025-03-07T09:39:36Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": "{EFB9848C-F7D0-4193-A45F-B501F15B9231}",
-		"external_source": "nifc",
-		"child_geo_events": [],
-		"parent_geo_events": []
 	},
 	{
 		"id": 43131,
