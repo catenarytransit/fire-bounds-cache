@@ -451,7 +451,7 @@
 	},
 	{
 		"id": 43275,
-		"is_active": true,
+		"is_active": false,
 		"name": "Indian Creek Fire",
 		"description": null,
 		"lat": 37.01704,
@@ -479,7 +479,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-07T20:37:03Z",
-		"date_modified": "2025-03-08T21:38:03Z",
+		"date_modified": "2025-03-09T05:39:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
