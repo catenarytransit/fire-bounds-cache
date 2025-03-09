@@ -160,7 +160,7 @@
 				"name": "Welder Complex",
 				"lat": 28.04968680394984,
 				"lng": -97.4955611656013,
-				"is_active": true,
+				"is_active": false,
 				"geo_event_type": "wildfire",
 				"data": {
 					"geo_event_type": "wildfire",
@@ -229,7 +229,7 @@
 				"name": "Welder Complex",
 				"lat": 28.04968680394984,
 				"lng": -97.4955611656013,
-				"is_active": true,
+				"is_active": false,
 				"geo_event_type": "wildfire",
 				"data": {
 					"geo_event_type": "wildfire",
@@ -256,7 +256,7 @@
 	},
 	{
 		"id": 43143,
-		"is_active": true,
+		"is_active": false,
 		"name": "Welder Complex",
 		"description": null,
 		"lat": 28.04968680394984,
@@ -284,7 +284,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-05T15:04:52Z",
-		"date_modified": "2025-03-08T21:13:36Z",
+		"date_modified": "2025-03-09T05:24:43Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -490,7 +490,7 @@
 	},
 	{
 		"id": 43282,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cartersville - Rosebud Fire",
 		"description": null,
 		"lat": 46.29925,
@@ -518,7 +518,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-07T22:04:59Z",
-		"date_modified": "2025-03-07T22:04:59Z",
+		"date_modified": "2025-03-09T05:28:00Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
