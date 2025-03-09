@@ -1,7 +1,7 @@
 [
 	{
 		"id": 42491,
-		"is_active": true,
+		"is_active": false,
 		"name": "MA Windmill Fire",
 		"description": null,
 		"lat": 35.770461,
@@ -29,7 +29,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-02-25T22:19:00Z",
-		"date_modified": "2025-03-09T08:01:04Z",
+		"date_modified": "2025-03-09T08:09:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -79,7 +79,7 @@
 	},
 	{
 		"id": 42927,
-		"is_active": true,
+		"is_active": false,
 		"name": "Burkhart Fire",
 		"description": null,
 		"lat": 37.437212,
@@ -107,7 +107,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-02T22:47:24Z",
-		"date_modified": "2025-03-09T08:00:59Z",
+		"date_modified": "2025-03-09T08:09:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -118,7 +118,7 @@
 	},
 	{
 		"id": 42943,
-		"is_active": true,
+		"is_active": false,
 		"name": "Prairie Creek Fire",
 		"description": null,
 		"lat": 37.685617,
@@ -146,7 +146,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-03T01:49:25Z",
-		"date_modified": "2025-03-09T08:00:58Z",
+		"date_modified": "2025-03-09T08:09:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -196,7 +196,7 @@
 	},
 	{
 		"id": 43030,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hollow Fire",
 		"description": null,
 		"lat": 37.822896,
@@ -224,7 +224,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-03T21:33:44Z",
-		"date_modified": "2025-03-09T08:00:57Z",
+		"date_modified": "2025-03-09T08:09:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -679,45 +679,6 @@
 		"incident_id": null,
 		"reporter_managed": false,
 		"external_id": "d1f11122-f654-4126-9c10-936395b5c980",
-		"external_source": "wildcad",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 43285,
-		"is_active": false,
-		"name": "Hill Fire",
-		"description": null,
-		"lat": 43.666944,
-		"lng": -116.035,
-		"address": "600 Block of Robie Creek Rd.",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": false,
-			"containment": 100,
-			"acreage": 2,
-			"links": [],
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-03-07T22:21:53Z",
-		"date_modified": "2025-03-08T08:09:36Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": "41bf939c-65b2-4457-b7ab-ba2a0133e0ea",
 		"external_source": "wildcad",
 		"child_geo_events": [],
 		"parent_geo_events": []
