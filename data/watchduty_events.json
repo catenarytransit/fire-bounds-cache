@@ -842,11 +842,11 @@
 	{
 		"id": 43338,
 		"is_active": true,
-		"name": "Blake Fire",
+		"name": "Bluebird Fire",
 		"description": null,
-		"lat": 38.84507177049451,
-		"lng": -92.33184336455658,
-		"address": "9000 block of  Blake Drive, Columbia",
+		"lat": 38.84488216716079,
+		"lng": -92.32794804833368,
+		"address": "1200 block of  E Bluebird Lane, Columbia",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -855,7 +855,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": null,
+			"acreage": 5,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -869,7 +869,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-09T18:25:08Z",
-		"date_modified": "2025-03-09T18:26:50Z",
+		"date_modified": "2025-03-09T18:34:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
