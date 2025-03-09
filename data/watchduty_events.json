@@ -763,7 +763,7 @@
 	},
 	{
 		"id": 43325,
-		"is_active": true,
+		"is_active": false,
 		"name": "Lynchburg Fire",
 		"description": null,
 		"lat": 37.481883,
@@ -791,7 +791,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-08T23:25:35Z",
-		"date_modified": "2025-03-09T08:49:43Z",
+		"date_modified": "2025-03-09T12:54:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
