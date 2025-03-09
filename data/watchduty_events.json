@@ -883,9 +883,9 @@
 		"is_active": true,
 		"name": "Hisega Fire",
 		"description": null,
-		"lat": 44.065132,
-		"lng": -103.4249,
-		"address": "13100 Block of Big Bend Rd, Rapid City, SD 57702",
+		"lat": 44.0612,
+		"lng": -103.409833,
+		"address": "Pennington County, 2 miles SE of Johnson Siding, SD",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -908,7 +908,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-09T20:12:00Z",
-		"date_modified": "2025-03-09T20:12:00Z",
+		"date_modified": "2025-03-09T20:22:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
