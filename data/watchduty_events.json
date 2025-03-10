@@ -780,6 +780,64 @@
 		"parent_geo_events": []
 	},
 	{
+		"id": 43413,
+		"is_active": true,
+		"name": "Route 13 Fire",
+		"description": null,
+		"lat": 44.65265,
+		"lng": -101.983693,
+		"address": "7 miles west of Takini SD",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": null,
+			"links": [],
+			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": "Takini area",
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-10T18:12:33Z",
+		"date_modified": "2025-03-10T22:14:11Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": "f57ad91e-eaa6-4e9c-a22e-29e73eba1374",
+		"external_source": "wildcad",
+		"child_geo_events": [
+			{
+				"id": 43445,
+				"address": "19 5th Ave, Cherry Creek",
+				"name": "Evacuation Shelter - Cherry Creek Gym",
+				"lat": 44.607614845974865,
+				"lng": -101.49847709429248,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>The Cherry Creek gym is the identified emergency shelter, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/permalink.php?story_fbid=pfbid02RZ5W8JJjM9VLvPitcRf47xMM9D2EmaqvWmPMKv1sLQxeRBbByJNdAiLGLSKEGyZ2l&amp;id=100068085829815\">Cheyenne River Sioux Tribe Law Enforcement on Facebook</a>. There are cots, blankets, food and water for any residents seeking shelter.</p>",
+					"links": []
+				}
+			}
+		],
+		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"Takini area"
+		]
+	},
+	{
 		"id": 43421,
 		"is_active": true,
 		"name": "633 Fire",
