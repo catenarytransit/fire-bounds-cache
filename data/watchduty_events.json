@@ -630,7 +630,7 @@
 		"description": null,
 		"lat": 36.292222,
 		"lng": -94.909444,
-		"address": null,
+		"address": "3 miles NE of Kenwood, OK",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -638,7 +638,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 50,
 			"acreage": 763,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -653,7 +653,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-10T00:10:37Z",
-		"date_modified": "2025-03-10T00:10:37Z",
+		"date_modified": "2025-03-10T16:15:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
