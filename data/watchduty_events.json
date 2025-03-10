@@ -1113,10 +1113,10 @@
 	{
 		"id": 43438,
 		"is_active": true,
-		"name": "Calhoun 0993 Fire",
+		"name": "Bay Front Fire",
 		"description": null,
-		"lat": 28.54346,
-		"lng": -96.544404,
+		"lat": 28.540556,
+		"lng": -96.606111,
 		"address": "6100 Block of TX-316, Port Lavaca, TX 77979",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1140,7 +1140,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-10T21:50:58Z",
-		"date_modified": "2025-03-10T22:30:57Z",
+		"date_modified": "2025-03-10T22:35:58Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
