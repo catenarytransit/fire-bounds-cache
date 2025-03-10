@@ -522,7 +522,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 1,
+			"acreage": 1.8,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -536,7 +536,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-09T23:25:38Z",
-		"date_modified": "2025-03-09T23:25:38Z",
+		"date_modified": "2025-03-10T19:35:56Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -825,7 +825,7 @@
 		"description": null,
 		"lat": 37.028638,
 		"lng": -92.07781,
-		"address": null,
+		"address": "6 miles NW of Willow Springs, MO",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -848,7 +848,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-10T19:23:18Z",
-		"date_modified": "2025-03-10T19:28:41Z",
+		"date_modified": "2025-03-10T19:38:34Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
