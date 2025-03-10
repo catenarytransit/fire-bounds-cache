@@ -352,7 +352,7 @@
 	},
 	{
 		"id": 43322,
-		"is_active": true,
+		"is_active": false,
 		"name": "Morony Fire",
 		"description": null,
 		"lat": 47.580145,
@@ -380,7 +380,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-08T22:53:55Z",
-		"date_modified": "2025-03-08T23:25:59Z",
+		"date_modified": "2025-03-10T10:06:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
