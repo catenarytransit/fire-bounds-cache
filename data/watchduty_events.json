@@ -664,7 +664,7 @@
 	},
 	{
 		"id": 43387,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hunters Campground Fire",
 		"description": null,
 		"lat": 48.12375,
@@ -677,8 +677,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
-			"acreage": 3,
+			"containment": 100,
+			"acreage": 1.6,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -692,7 +692,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-10T15:16:17Z",
-		"date_modified": "2025-03-10T19:47:17Z",
+		"date_modified": "2025-03-10T23:09:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
