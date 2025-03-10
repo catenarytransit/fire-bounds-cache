@@ -1269,7 +1269,7 @@
 	{
 		"id": 43458,
 		"is_active": true,
-		"name": "Near Datil Fire",
+		"name": "Davenport Springs Fire",
 		"description": null,
 		"lat": 34.251617,
 		"lng": -107.923467,
@@ -1296,7 +1296,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-10T23:12:46Z",
-		"date_modified": "2025-03-10T23:17:24Z",
+		"date_modified": "2025-03-10T23:28:40Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
