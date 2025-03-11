@@ -1346,7 +1346,7 @@
 	},
 	{
 		"id": 43494,
-		"is_active": true,
+		"is_active": false,
 		"name": "82A Fire",
 		"description": null,
 		"lat": 36.131703,
@@ -1374,7 +1374,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-11T14:21:06Z",
-		"date_modified": "2025-03-11T14:21:06Z",
+		"date_modified": "2025-03-11T14:26:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
