@@ -1926,7 +1926,23 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 43553,
+				"address": "Highway 48 & Rule Drive, Terlton",
+				"name": "Evacuation Point - Rule Drive & Hwy 48 (Old Gas Station)",
+				"lat": 36.18529939544982,
+				"lng": -96.4015442352383,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>Evacuees from Terton may go to the old gas station located southeast of the intersection of Rule Drive &amp; Highway 48, per a wireless emergency alert (WEA) by Pawnee Emergency Management via <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\">PBS Warn</a>.</p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": []
 	}
 ]
