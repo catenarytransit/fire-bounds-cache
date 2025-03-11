@@ -118,7 +118,7 @@
 	},
 	{
 		"id": 43288,
-		"is_active": true,
+		"is_active": false,
 		"name": "Smokey Creek 3 Fire",
 		"description": null,
 		"lat": 29.060698,
@@ -146,7 +146,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-07T23:19:01Z",
-		"date_modified": "2025-03-07T23:24:22Z",
+		"date_modified": "2025-03-11T16:39:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -633,7 +633,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-10T19:23:18Z",
-		"date_modified": "2025-03-10T23:54:36Z",
+		"date_modified": "2025-03-11T16:33:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
