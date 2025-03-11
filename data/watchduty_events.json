@@ -686,8 +686,8 @@
 		"is_active": true,
 		"name": "Acorn Fire",
 		"description": null,
-		"lat": 36.321954,
-		"lng": -96.368678,
+		"lat": 36.321944,
+		"lng": -96.368611,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -711,7 +711,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-10T20:15:57Z",
-		"date_modified": "2025-03-11T14:01:07Z",
+		"date_modified": "2025-03-11T14:06:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
