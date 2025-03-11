@@ -1307,7 +1307,7 @@
 	},
 	{
 		"id": 43473,
-		"is_active": true,
+		"is_active": false,
 		"name": "Panola 0998 Fire",
 		"description": null,
 		"lat": 32.204117,
@@ -1335,7 +1335,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-11T00:10:58Z",
-		"date_modified": "2025-03-11T00:45:58Z",
+		"date_modified": "2025-03-11T04:54:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
