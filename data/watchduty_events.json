@@ -1928,17 +1928,32 @@
 		"external_source": null,
 		"child_geo_events": [
 			{
-				"id": 43553,
-				"address": "Highway 48 & Rule Drive, Terlton",
-				"name": "Evacuation Point - Rule Drive & Hwy 48 (Old Gas Station)",
-				"lat": 36.18529939544982,
-				"lng": -96.4015442352383,
+				"id": 43555,
+				"address": "739 Orchard Ln, Cleveland, OK 74020, USA",
+				"name": "Evacuation Shelter - Westport Community Center",
+				"lat": 36.2198718,
+				"lng": -96.3484156,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
 					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>Evacuees from Terton may go to the old gas station located southeast of the intersection of Rule Drive &amp; Highway 48, per a wireless emergency alert (WEA) by Pawnee Emergency Management via <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\">PBS Warn</a>.</p>",
+					"location_type": "evac_shelter",
+					"information": "<p>Westport Community Center is open as an evacuation shelter, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/permalink.php?story_fbid=pfbid0oaBayzMap24W5hRQJfvKjEr7DFZZuqR38yhf3X6CrV1h2kbku2JXGo4z4PMhCj5ql&amp;id=61565709031167\">Pawnee County Emergency Management&nbsp;on Facebook</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 43556,
+				"address": "370449 Evergreen Rd, Terlton, OK 74081, USA",
+				"name": "Evacuation Shelter - North 48 Fire Department",
+				"lat": 36.1795446,
+				"lng": -96.4037582,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>North 48 Fire Department is open as an evacuation shelter, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/permalink.php?story_fbid=pfbid0oaBayzMap24W5hRQJfvKjEr7DFZZuqR38yhf3X6CrV1h2kbku2JXGo4z4PMhCj5ql&amp;id=61565709031167\">Pawnee County Emergency Management&nbsp;on Facebook</a>.</p>",
 					"links": []
 				}
 			}
