@@ -722,7 +722,7 @@
 	},
 	{
 		"id": 43426,
-		"is_active": true,
+		"is_active": false,
 		"name": "Kewa Fields Fire",
 		"description": null,
 		"lat": 48.16483,
@@ -735,7 +735,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 20,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -750,7 +750,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-10T20:35:33Z",
-		"date_modified": "2025-03-10T23:56:23Z",
+		"date_modified": "2025-03-11T15:51:56Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
