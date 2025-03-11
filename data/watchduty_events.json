@@ -1463,11 +1463,11 @@
 	},
 	{
 		"id": 43520,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hall Fire",
 		"description": null,
-		"lat": 45.647031,
-		"lng": -94.091324,
+		"lat": 45.64739,
+		"lng": -94.081764,
 		"address": "3500 Block of 55th St NE, Sauk Rapids, MN 56379",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1477,7 +1477,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 1,
+			"acreage": 17,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1491,7 +1491,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-11T16:06:08Z",
-		"date_modified": "2025-03-11T16:06:08Z",
+		"date_modified": "2025-03-11T18:50:31Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
