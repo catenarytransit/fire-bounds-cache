@@ -1390,7 +1390,7 @@
 		"description": null,
 		"lat": 46.68369,
 		"lng": -101.85736,
-		"address": null,
+		"address": "8 miles south of Glen Ullin, ND",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1398,7 +1398,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 1200,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1413,7 +1413,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-11T15:41:08Z",
-		"date_modified": "2025-03-11T19:35:32Z",
+		"date_modified": "2025-03-11T19:45:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
