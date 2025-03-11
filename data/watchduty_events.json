@@ -706,9 +706,9 @@
 		"is_active": true,
 		"name": "Route 13 Fire",
 		"description": null,
-		"lat": 44.65265,
-		"lng": -101.983693,
-		"address": "7 miles west of Takini SD",
+		"lat": 44.67106477935775,
+		"lng": -101.8679400256358,
+		"address": "East of BIA Highway 13, ≈2 Miles North of BIA Highway 11, Takini",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -731,7 +731,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-10T18:12:33Z",
-		"date_modified": "2025-03-10T22:50:26Z",
+		"date_modified": "2025-03-11T03:57:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
