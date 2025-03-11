@@ -472,8 +472,8 @@
 		"is_active": false,
 		"name": "Hunters Campground Fire",
 		"description": null,
-		"lat": 48.12375,
-		"lng": -118.225,
+		"lat": 48.945572,
+		"lng": -117.152195,
 		"address": "Stevens County - Hunters Campground, T30 R36 S1",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -497,7 +497,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-10T15:16:17Z",
-		"date_modified": "2025-03-10T23:09:19Z",
+		"date_modified": "2025-03-11T20:39:56Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
