@@ -761,7 +761,7 @@
 	},
 	{
 		"id": 43431,
-		"is_active": true,
+		"is_active": false,
 		"name": "Couser Fire",
 		"description": null,
 		"lat": 37.02391,
@@ -789,7 +789,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-10T21:15:57Z",
-		"date_modified": "2025-03-11T07:38:09Z",
+		"date_modified": "2025-03-11T13:39:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
