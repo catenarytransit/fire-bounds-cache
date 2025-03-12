@@ -7390,7 +7390,7 @@
       "properties" : {
         "OBJECTID" : 37332, 
         "poly_SourceOID" : 3765, 
-        "poly_IncidentName" : "Blackthorn Drive", 
+        "poly_IncidentName" : "Blackthorn", 
         "poly_FeatureCategory" : "Wildfire Daily Fire Perimeter", 
         "poly_MapMethod" : "Hand Sketch", 
         "poly_GISAcres" : 2036.5503964831366, 
@@ -7399,7 +7399,7 @@
         "poly_FeatureStatus" : "Approved", 
         "poly_IsVisible" : "Yes", 
         "poly_CreateDate" : 1741105362526, 
-        "poly_DateCurrent" : 1741288089000, 
+        "poly_DateCurrent" : 1741798964000, 
         "poly_PolygonDateTime" : 1741105362000, 
         "poly_IRWINID" : "{9AD74A29-6E6D-4BB3-AC0F-3C71DEEC60EF}", 
         "poly_FORID" : null, 
