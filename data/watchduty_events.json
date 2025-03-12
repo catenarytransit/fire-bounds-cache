@@ -40,7 +40,7 @@
 	},
 	{
 		"id": 42944,
-		"is_active": true,
+		"is_active": false,
 		"name": "Ghost Point Fire",
 		"description": null,
 		"lat": 34.705833,
@@ -55,7 +55,7 @@
 			"is_fps": false,
 			"containment": 90,
 			"acreage": 315,
-			"links": null,
+			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
@@ -68,7 +68,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-03T02:15:59Z",
-		"date_modified": "2025-03-05T14:23:15Z",
+		"date_modified": "2025-03-12T10:05:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
