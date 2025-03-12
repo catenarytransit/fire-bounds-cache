@@ -2165,7 +2165,7 @@
 	},
 	{
 		"id": 43572,
-		"is_active": true,
+		"is_active": false,
 		"name": "Salt Springs Fire",
 		"description": null,
 		"lat": 35.597708,
@@ -2193,7 +2193,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-11T23:25:03Z",
-		"date_modified": "2025-03-12T00:17:16Z",
+		"date_modified": "2025-03-12T03:39:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2218,7 +2218,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 30,
+			"acreage": 199,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2232,7 +2232,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-12T00:10:36Z",
-		"date_modified": "2025-03-12T00:15:35Z",
+		"date_modified": "2025-03-12T03:40:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
