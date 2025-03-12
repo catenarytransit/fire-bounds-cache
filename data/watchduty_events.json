@@ -1541,7 +1541,7 @@
 	},
 	{
 		"id": 43539,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hardin 1031 Fire",
 		"description": null,
 		"lat": 30.395,
@@ -1569,7 +1569,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-11T21:05:34Z",
-		"date_modified": "2025-03-11T22:25:35Z",
+		"date_modified": "2025-03-12T04:39:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2009,7 +2009,7 @@
 	},
 	{
 		"id": 43566,
-		"is_active": true,
+		"is_active": false,
 		"name": "Winnipeg Fire",
 		"description": null,
 		"lat": 37.610217,
@@ -2037,7 +2037,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-11T23:08:13Z",
-		"date_modified": "2025-03-12T00:32:08Z",
+		"date_modified": "2025-03-12T04:39:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
