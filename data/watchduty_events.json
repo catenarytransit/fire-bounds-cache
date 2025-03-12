@@ -1546,7 +1546,7 @@
 		"description": null,
 		"lat": 37.041333,
 		"lng": -92.1018,
-		"address": "44200 Block of State Hwy AM, Cabool, MO 65689",
+		"address": "6 Miles SW Cabool",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1569,7 +1569,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-11T22:56:56Z",
-		"date_modified": "2025-03-12T15:54:07Z",
+		"date_modified": "2025-03-12T16:54:26Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
