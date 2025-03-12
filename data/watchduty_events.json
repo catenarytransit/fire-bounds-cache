@@ -1398,7 +1398,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": null,
+			"containment": 100,
 			"acreage": 20,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1413,7 +1413,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-11T22:25:35Z",
-		"date_modified": "2025-03-12T18:15:41Z",
+		"date_modified": "2025-03-12T21:43:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2441,8 +2441,8 @@
 		"is_active": true,
 		"name": "5280 Fire",
 		"description": null,
-		"lat": 46.719377,
-		"lng": -94.291393,
+		"lat": 46.716607,
+		"lng": -94.290676,
 		"address": "5200 Block of Co Rd 1, Pine River, MN 56474",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2466,7 +2466,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-12T20:54:12Z",
-		"date_modified": "2025-03-12T21:05:17Z",
+		"date_modified": "2025-03-12T21:39:13Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
