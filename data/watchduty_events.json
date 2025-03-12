@@ -2363,8 +2363,8 @@
 		"is_active": true,
 		"name": "Warm Fire",
 		"description": null,
-		"lat": 36.95045,
-		"lng": -91.492167,
+		"lat": 36.947083,
+		"lng": -91.492783,
 		"address": "3 miles South of Birch Tree, MO",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2388,7 +2388,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-12T20:31:17Z",
-		"date_modified": "2025-03-12T20:36:17Z",
+		"date_modified": "2025-03-12T20:58:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
