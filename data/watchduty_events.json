@@ -1853,7 +1853,7 @@
 	},
 	{
 		"id": 43592,
-		"is_active": true,
+		"is_active": false,
 		"name": "Dirt Road 2 Fire",
 		"description": null,
 		"lat": 35.274722,
@@ -1881,7 +1881,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-12T12:25:41Z",
-		"date_modified": "2025-03-12T13:57:16Z",
+		"date_modified": "2025-03-12T22:09:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1931,7 +1931,7 @@
 	},
 	{
 		"id": 43598,
-		"is_active": true,
+		"is_active": false,
 		"name": "Bandit 2 Fire",
 		"description": null,
 		"lat": 35.194167,
@@ -1959,7 +1959,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-12T12:52:42Z",
-		"date_modified": "2025-03-12T14:00:30Z",
+		"date_modified": "2025-03-12T22:09:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
