@@ -2232,10 +2232,10 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-12T12:41:14Z",
-		"date_modified": "2025-03-12T12:41:14Z",
+		"date_modified": "2025-03-12T13:52:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "{B68A6CCB-F98C-4251-850E-2E974E898E00}",
 		"external_source": "nifc",
 		"child_geo_events": [],
