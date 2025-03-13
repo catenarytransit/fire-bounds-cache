@@ -2441,8 +2441,8 @@
 		"is_active": true,
 		"name": "Meridian Fire",
 		"description": null,
-		"lat": 38.78083082240835,
-		"lng": -104.6059103752661,
+		"lat": 38.784792877136965,
+		"lng": -104.59310331264925,
 		"address": "Near Drennan Rd and S Meridian Rd, Colorado Springs",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2466,7 +2466,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-13T19:04:57Z",
-		"date_modified": "2025-03-13T19:24:44Z",
+		"date_modified": "2025-03-13T19:29:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2558,8 +2558,8 @@
 		"is_active": true,
 		"name": "Bee 1152 Fire",
 		"description": null,
-		"lat": 28.478122,
-		"lng": -97.86457,
+		"lat": 28.47717,
+		"lng": -97.87156,
 		"address": "3800 Block of Co Rd 331, Beeville, TX 78102",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2568,7 +2568,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 25,
+			"containment": 50,
 			"acreage": 2,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -2583,7 +2583,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-13T19:21:06Z",
-		"date_modified": "2025-03-13T19:21:06Z",
+		"date_modified": "2025-03-13T19:31:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
