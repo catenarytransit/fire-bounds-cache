@@ -79,7 +79,7 @@
 	},
 	{
 		"id": 43336,
-		"is_active": true,
+		"is_active": false,
 		"name": "Moon Lake Fire",
 		"description": null,
 		"lat": 26.061796,
@@ -107,7 +107,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-09T16:10:36Z",
-		"date_modified": "2025-03-09T23:25:37Z",
+		"date_modified": "2025-03-13T17:39:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1164,7 +1164,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 70,
+			"containment": 80,
 			"acreage": 289,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1179,7 +1179,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-12T10:10:39Z",
-		"date_modified": "2025-03-12T10:10:39Z",
+		"date_modified": "2025-03-13T17:41:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
