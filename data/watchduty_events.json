@@ -2472,7 +2472,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-13T20:58:24Z",
-		"date_modified": "2025-03-13T22:21:41Z",
+		"date_modified": "2025-03-13T23:26:31Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2644,7 +2644,7 @@
 		"description": null,
 		"lat": 36.9077,
 		"lng": -93.02495,
-		"address": null,
+		"address": "3 ml se of Chadwick, MO",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -2667,7 +2667,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-13T22:42:29Z",
-		"date_modified": "2025-03-13T23:20:31Z",
+		"date_modified": "2025-03-13T23:26:31Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
