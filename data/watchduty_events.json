@@ -2566,7 +2566,7 @@
 		"description": null,
 		"lat": 37.974333,
 		"lng": -90.931,
-		"address": "10800 Block of Floyd Tower Rd, Potosi, MO 63664",
+		"address": "8 miles WNW of Potosi, MO.",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -2589,7 +2589,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-13T21:13:44Z",
-		"date_modified": "2025-03-13T22:11:16Z",
+		"date_modified": "2025-03-13T22:48:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
