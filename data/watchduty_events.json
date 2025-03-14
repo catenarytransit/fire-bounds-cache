@@ -2571,6 +2571,45 @@
 		"parent_geo_events": []
 	},
 	{
+		"id": 43788,
+		"is_active": true,
+		"name": "Chainsaw Cottonwood Fire",
+		"description": null,
+		"lat": 40.9314,
+		"lng": -100.5864,
+		"address": null,
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": null,
+			"acreage": 650,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-14T18:13:26Z",
+		"date_modified": "2025-03-14T20:42:27Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "633c0754-ee85-47ca-b50f-f28c082d9a3a",
+		"external_source": "wildcad",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
 		"id": 43789,
 		"is_active": true,
 		"name": "Vegetation Fire",
@@ -3327,6 +3366,21 @@
 					"information": "<p>A Reunification Center has been established at the Lincoln County Fairgrounds in Chandler. <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\"><strong>Per Oklahoma Department of Public Safety via PBS Warn</strong></a></p>",
 					"links": []
 				}
+			},
+			{
+				"id": 43842,
+				"address": "E 760 Rd, Perkins",
+				"name": "Reunification Center - Iowa Tribe Chena Building",
+				"lat": 35.91688956686018,
+				"lng": -97.02226610022426,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>A Reunification Center has been established at the Iowa Tribe Chena Building, E760 Rd in Tryon.  <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\"><strong>Per Oklahoma Department of Public Safety via PBS Warn</strong></a></p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -3686,8 +3740,8 @@
 		"is_active": true,
 		"name": "Hopkins 1205 Fire",
 		"description": null,
-		"lat": 33.0569,
-		"lng": -95.704431,
+		"lat": 33.06492,
+		"lng": -95.74216,
 		"address": "1800 Block of Co Rd 1116, Brashear, TX 75420",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -3711,7 +3765,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:30:48Z",
-		"date_modified": "2025-03-14T20:30:48Z",
+		"date_modified": "2025-03-14T20:40:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -3796,6 +3850,61 @@
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 43841,
+		"is_active": true,
+		"name": "Vegetation Fire",
+		"description": null,
+		"lat": 35.827086518749454,
+		"lng": -97.40739119556558,
+		"address": "I-35 near E Triplett Rd, Guthrie",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": null,
+			"links": [],
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-14T20:41:17Z",
+		"date_modified": "2025-03-14T20:41:17Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
+		"child_geo_events": [
+			{
+				"id": 43843,
+				"address": "512 E Seward Rd, Guthrie",
+				"name": "Evacuation Point - Community Church",
+				"lat": 35.8039426,
+				"lng": -97.418392,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>Residents can evacuate to the Community Church located at I-35 &amp; Seward Rd per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/EMLoganCountyOK/posts/976392734636956\">Logan County Emergency Management</a>.</p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": []
 	}
 ]
