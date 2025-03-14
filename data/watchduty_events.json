@@ -523,45 +523,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 43561,
-		"is_active": false,
-		"name": "Valley Fire",
-		"description": null,
-		"lat": 31.369583,
-		"lng": -93.78645,
-		"address": "200 Block of Summer Flds, Texas 75948",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": null,
-			"acreage": 2,
-			"links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-03-11T22:56:57Z",
-		"date_modified": "2025-03-13T22:11:04Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "39a4bd84-4bab-41c5-bf92-0ae0d8344547",
-		"external_source": "wildcad",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 43569,
 		"is_active": true,
 		"name": "Bat Cave Fire",
@@ -3028,10 +2989,10 @@
 			"acreage": null,
 			"links": [],
 			"has_custom_evacuation_orders": true,
-			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": "220th/Coffee Creek and Waterloo and Hiwassee and Choctaw Road Charter Oak/Industrial and Henny/Pottawatomie Road",
-			"evacuation_warnings": null,
+			"evacuation_warnings": "EVACUATION WARNING between Triple XXX Rd and Luther Rd and 234th/Waterloo",
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
 			"is_complex_parent": false,
@@ -3039,7 +3000,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:28:24Z",
-		"date_modified": "2025-03-14T20:46:03Z",
+		"date_modified": "2025-03-14T22:10:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3049,6 +3010,9 @@
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"220th/Coffee Creek and Waterloo and Hiwassee and Choctaw Road Charter Oak/Industrial and Henny/Pottawatomie Road"
+		],
+		"evacuation_warnings_arr": [
+			"EVACUATION WARNING between Triple XXX Rd and Luther Rd and 234th/Waterloo"
 		]
 	},
 	{
@@ -3355,7 +3319,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:49:11Z",
-		"date_modified": "2025-03-14T21:29:49Z",
+		"date_modified": "2025-03-14T22:14:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3491,7 +3455,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:14:32Z",
-		"date_modified": "2025-03-14T21:41:20Z",
+		"date_modified": "2025-03-14T22:14:57Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4059,7 +4023,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 0,
+			"containment": 90,
 			"acreage": 20,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -4074,7 +4038,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T21:05:47Z",
-		"date_modified": "2025-03-14T21:11:22Z",
+		"date_modified": "2025-03-14T22:11:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4221,10 +4185,10 @@
 			"containment": null,
 			"acreage": null,
 			"links": [],
-			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
+			"evacuation_orders": "South of Chickasha",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": "Residents in the area of 25th & Country Club are asked to voluntarily evacuate",
@@ -4233,14 +4197,33 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T21:32:38Z",
-		"date_modified": "2025-03-14T21:47:52Z",
+		"date_modified": "2025-03-14T22:08:43Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
+		"child_geo_events": [
+			{
+				"id": 43867,
+				"address": "226 S 29th St, Chickasha, OK 73018, USA",
+				"name": "Evacuation Point - Bible Baptist Church",
+				"lat": 35.0499455,
+				"lng": -97.9722062,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>Those evacuating can go to Bible Baptist Church, located at 229 S. 29th Street, per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/ChickashaOK/posts/pfbid02ZpjQ1pwVnT1RYGq3Li34QyCwWBAWvS96d5GWByvAo8VFuBHE6sBejkkraKUz8B4hl\">City of Chickasha on Facebook</a>.</p>",
+					"links": []
+				}
+			}
+		],
+		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"South of Chickasha"
+		]
 	},
 	{
 		"id": 43860,
@@ -4286,8 +4269,8 @@
 		"is_active": true,
 		"name": "Red Rock Creek Fire",
 		"description": null,
-		"lat": 30.762899,
-		"lng": -98.666887,
+		"lat": 30.835636,
+		"lng": -98.50626,
 		"address": "600 Block of E Houston St, Llano, TX 78643",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -4311,7 +4294,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T21:45:48Z",
-		"date_modified": "2025-03-14T21:45:48Z",
+		"date_modified": "2025-03-14T22:10:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4356,6 +4339,84 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 43866,
+		"is_active": true,
+		"name": "Vegetation Fire",
+		"description": null,
+		"lat": 35.3186646,
+		"lng": -97.0597039,
+		"address": "Clear Pond Rd west of Route 102, Shawnee Reservoir area",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": null,
+			"links": [],
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-14T22:07:28Z",
+		"date_modified": "2025-03-14T22:07:28Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 43868,
+		"is_active": true,
+		"name": "Bunker Hill Fire",
+		"description": null,
+		"lat": 37.918033,
+		"lng": -90.952833,
+		"address": null,
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": null,
+			"acreage": 10,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-14T22:10:34Z",
+		"date_modified": "2025-03-14T22:10:34Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "e0e6095a-4cac-4b2b-9f73-e9db1053bdba",
+		"external_source": "wildcad",
 		"child_geo_events": [],
 		"parent_geo_events": []
 	}
