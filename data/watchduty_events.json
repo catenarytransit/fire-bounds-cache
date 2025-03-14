@@ -2335,10 +2335,10 @@
 			"containment": 0,
 			"acreage": 1000,
 			"links": [],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Alanreed",
+			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -2347,7 +2347,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T17:23:52Z",
-		"date_modified": "2025-03-14T21:48:38Z",
+		"date_modified": "2025-03-14T22:30:25Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2385,10 +2385,7 @@
 				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"Alanreed"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 43782,
@@ -3446,7 +3443,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Log Cabin & Harmony Pecan Valley RV Park Lawson & 68th Karsten Creek & 68th Karaten Creek and 51 Range & 3rd 6th between Cottonwood & Range 19th between Cottonwood & Range Range & 65th Range & 19th Greenwood $ Dunkin’ Country Club & 32nd (Isabel point)",
+			"evacuation_orders": "Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court)",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -3455,7 +3452,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:14:32Z",
-		"date_modified": "2025-03-14T22:24:55Z",
+		"date_modified": "2025-03-14T22:32:59Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3480,7 +3477,7 @@
 		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Log Cabin & Harmony Pecan Valley RV Park Lawson & 68th Karsten Creek & 68th Karaten Creek and 51 Range & 3rd 6th between Cottonwood & Range 19th between Cottonwood & Range Range & 65th Range & 19th Greenwood $ Dunkin’ Country Club & 32nd (Isabel point)"
+			"Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court)"
 		]
 	},
 	{
@@ -3631,7 +3628,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 17,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -3646,7 +3643,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:29:45Z",
-		"date_modified": "2025-03-14T20:29:45Z",
+		"date_modified": "2025-03-14T22:31:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4188,45 +4185,26 @@
 			"containment": null,
 			"acreage": null,
 			"links": [],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "South of Chickasha",
+			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "Residents in the area of 25th & Country Club are asked to voluntarily evacuate",
+			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T21:32:38Z",
-		"date_modified": "2025-03-14T22:08:43Z",
+		"date_modified": "2025-03-14T22:28:53Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 43867,
-				"address": "226 S 29th St, Chickasha, OK 73018, USA",
-				"name": "Evacuation Point - Bible Baptist Church",
-				"lat": 35.0499455,
-				"lng": -97.9722062,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>Those evacuating can go to Bible Baptist Church, located at 229 S. 29th Street, per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/ChickashaOK/posts/pfbid02ZpjQ1pwVnT1RYGq3Li34QyCwWBAWvS96d5GWByvAo8VFuBHE6sBejkkraKUz8B4hl\">City of Chickasha on Facebook</a>.</p>",
-					"links": []
-				}
-			}
-		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"South of Chickasha"
-		]
+		"child_geo_events": [],
+		"parent_geo_events": []
 	},
 	{
 		"id": 43860,
@@ -4281,8 +4259,8 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": 0,
+			"is_fps": false,
+			"containment": 50,
 			"acreage": 50,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -4297,10 +4275,10 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T21:45:48Z",
-		"date_modified": "2025-03-14T22:10:47Z",
+		"date_modified": "2025-03-14T22:31:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "{C346215D-70EE-402C-8DA3-AF8F074F3288}",
 		"external_source": "nifc",
 		"child_geo_events": [],
@@ -4497,6 +4475,45 @@
 		"incident_id": null,
 		"reporter_managed": false,
 		"external_id": "{EAB46E5E-AB33-49A6-885A-32C21DEE3440}",
+		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 43873,
+		"is_active": true,
+		"name": "Bowie 1219 Fire",
+		"description": null,
+		"lat": 33.4539,
+		"lng": -94.2516,
+		"address": null,
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": 0,
+			"acreage": 5,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-14T22:30:48Z",
+		"date_modified": "2025-03-14T22:30:48Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "{84686132-FE44-4108-B450-99085FE8731F}",
 		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
