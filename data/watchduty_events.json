@@ -2991,7 +2991,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "220th/Coffee Creek and Waterloo and Hiwassee and Choctaw Road Charter Oak/Industrial and Henny/Pottawatomie Road",
+			"evacuation_orders": "EVACUATION ORDER for Frost, Coyle, and Langston 220th/Coffee Creek and Waterloo and Hiwassee and Choctaw Road Charter Oak/Industrial and Henny/Pottawatomie Road",
 			"evacuation_warnings": "EVACUATION WARNING between Triple XXX Rd and Luther Rd and 234th/Waterloo",
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -3000,7 +3000,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:28:24Z",
-		"date_modified": "2025-03-14T22:10:52Z",
+		"date_modified": "2025-03-14T22:45:39Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3009,7 +3009,9 @@
 		"child_geo_events": [],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"220th/Coffee Creek and Waterloo and Hiwassee and Choctaw Road Charter Oak/Industrial and Henny/Pottawatomie Road"
+			"EVACUATION ORDER for Frost",
+			"Coyle",
+			"and Langston 220th/Coffee Creek and Waterloo and Hiwassee and Choctaw Road Charter Oak/Industrial and Henny/Pottawatomie Road"
 		],
 		"evacuation_warnings_arr": [
 			"EVACUATION WARNING between Triple XXX Rd and Luther Rd and 234th/Waterloo"
@@ -3307,10 +3309,10 @@
 			"containment": 0,
 			"acreage": 3000,
 			"links": [],
-			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": true,
-			"evacuation_orders": null,
+			"evacuation_orders": "All residents on Highway 271",
 			"evacuation_warnings": null,
 			"evacuation_advisories": "The Village of Wagon Mound and all other villages south east",
 			"evacuation_notes": null,
@@ -3319,14 +3321,17 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:49:11Z",
-		"date_modified": "2025-03-14T22:14:52Z",
+		"date_modified": "2025-03-14T22:43:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [],
-		"parent_geo_events": []
+		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"All residents on Highway 271"
+		]
 	},
 	{
 		"id": 43822,
@@ -3809,10 +3814,10 @@
 			"containment": null,
 			"acreage": null,
 			"links": [],
-			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
+			"evacuation_orders": "EVACUATION ORDER for Frost, Coyle, and Langston.",
 			"evacuation_warnings": "EVACUATION WARNING between Prairie Grove/Cooksey & Douglas/Choctaw Rd.",
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -3821,7 +3826,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:41:17Z",
-		"date_modified": "2025-03-14T22:22:06Z",
+		"date_modified": "2025-03-14T22:43:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3845,6 +3850,11 @@
 			}
 		],
 		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"EVACUATION ORDER for Frost",
+			"Coyle",
+			"and Langston."
+		],
 		"evacuation_warnings_arr": [
 			"EVACUATION WARNING between Prairie Grove/Cooksey & Douglas/Choctaw Rd."
 		]
