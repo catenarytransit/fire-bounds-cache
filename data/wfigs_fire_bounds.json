@@ -25855,7 +25855,7 @@
       "properties" : {
         "OBJECTID" : 37551, 
         "poly_SourceOID" : 5270, 
-        "poly_IncidentName" : "Wood duck fire ", 
+        "poly_IncidentName" : "Wood Duck", 
         "poly_FeatureCategory" : "Wildfire Daily Fire Perimeter", 
         "poly_MapMethod" : "Mixed Methods", 
         "poly_GISAcres" : 6.2378315096951065, 
@@ -25864,7 +25864,7 @@
         "poly_FeatureStatus" : "Approved", 
         "poly_IsVisible" : "Yes", 
         "poly_CreateDate" : 1741977963837, 
-        "poly_DateCurrent" : 1741979845000, 
+        "poly_DateCurrent" : 1741980080000, 
         "poly_PolygonDateTime" : 1741978442000, 
         "poly_IRWINID" : "{8024D1FE-2D49-43CC-B6E9-3797C53D3503}", 
         "poly_FORID" : null, 
