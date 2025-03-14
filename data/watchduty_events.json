@@ -1240,7 +1240,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 90,
-			"acreage": 2531,
+			"acreage": 2540,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1254,7 +1254,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-13T19:04:57Z",
-		"date_modified": "2025-03-14T22:24:14Z",
+		"date_modified": "2025-03-14T23:27:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2751,8 +2751,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 30,
-			"acreage": 70,
+			"containment": 75,
+			"acreage": 57,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2766,7 +2766,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:10:48Z",
-		"date_modified": "2025-03-14T21:20:47Z",
+		"date_modified": "2025-03-14T23:25:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -3382,7 +3382,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court)",
+			"evacuation_orders": "Mandatory Evacuation - Range Road to Country Club and 19th to 6th Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court)",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -3391,7 +3391,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:14:32Z",
-		"date_modified": "2025-03-14T22:32:59Z",
+		"date_modified": "2025-03-14T23:29:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3416,7 +3416,7 @@
 		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court)"
+			"Mandatory Evacuation - Range Road to Country Club and 19th to 6th Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court)"
 		]
 	},
 	{
@@ -4748,5 +4748,47 @@
 		"external_source": "wildcad",
 		"child_geo_events": [],
 		"parent_geo_events": []
+	},
+	{
+		"id": 43890,
+		"is_active": true,
+		"name": "Vegetation Fire",
+		"description": null,
+		"lat": 38.97119288799556,
+		"lng": -95.42827255694536,
+		"address": "East 400 Road & North 1600 Road, West of Lawrence",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": null,
+			"links": [],
+			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": "E400 Rd east to E550 Rd and N1600 south to Clinton Lake",
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-14T23:27:09Z",
+		"date_modified": "2025-03-14T23:27:21Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
+		"child_geo_events": [],
+		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"E400 Rd east to E550 Rd and N1600 south to Clinton Lake"
+		]
 	}
 ]
