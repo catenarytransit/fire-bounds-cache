@@ -2346,7 +2346,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T16:31:09Z",
-		"date_modified": "2025-03-14T19:16:08Z",
+		"date_modified": "2025-03-14T19:46:56Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2542,7 +2542,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T17:23:52Z",
-		"date_modified": "2025-03-14T19:15:25Z",
+		"date_modified": "2025-03-14T19:44:34Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3075,11 +3075,11 @@
 	{
 		"id": 43808,
 		"is_active": true,
-		"name": "Vegetation Fire",
+		"name": "Hickory Hill Road Fire",
 		"description": null,
-		"lat": 35.6931794,
-		"lng": -97.3008323,
-		"address": "Hiwassee Road, Arcadia",
+		"lat": 35.683889,
+		"lng": -97.286944,
+		"address": "Hickory Hill Road, Arcadia",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -3102,7 +3102,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:28:24Z",
-		"date_modified": "2025-03-14T19:29:11Z",
+		"date_modified": "2025-03-14T19:46:44Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3236,5 +3236,44 @@
 		"evacuation_orders_arr": [
 			"Lake Mcmurtry and western Stillwater Including I-35 east of Orlando and Highway 51 between I-35 and Stillwater"
 		]
+	},
+	{
+		"id": 43817,
+		"is_active": true,
+		"name": "24-Xray-Ana Fire",
+		"description": null,
+		"lat": 35.1515,
+		"lng": -98.511778,
+		"address": null,
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": null,
+			"acreage": 12.7,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-14T19:45:48Z",
+		"date_modified": "2025-03-14T19:45:48Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "{3C85A963-0F7C-4819-9EBE-C2C3ACAEE382}",
+		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
 	}
 ]
