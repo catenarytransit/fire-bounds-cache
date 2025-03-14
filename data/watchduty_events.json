@@ -2391,7 +2391,23 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 43773,
+				"address": "500 E Broadway Ave, Cheyenne, OK 73628, USA",
+				"name": "Reunification Center Cheyenne Court House",
+				"lat": 35.6135454,
+				"lng": -99.6709059,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "info",
+					"information": "<p>Reunification Center is setting up at Cheyenne Court House per a <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\"><strong>Wireless Emergency Alert</strong></a><strong>. </strong></p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": []
 	}
 ]
