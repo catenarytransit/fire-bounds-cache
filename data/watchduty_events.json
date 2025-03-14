@@ -1498,45 +1498,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 43717,
-		"is_active": false,
-		"name": "Lake Tank Fire",
-		"description": null,
-		"lat": 33.940033,
-		"lng": -104.592767,
-		"address": null,
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": null,
-			"acreage": 0.4,
-			"links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-03-13T19:11:07Z",
-		"date_modified": "2025-03-13T20:41:06Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "{FB66CDB9-94F9-4122-81AA-AABA4384169D}",
-		"external_source": "nifc",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 43718,
 		"is_active": false,
 		"name": "Bee 1152 Fire",
@@ -2464,7 +2425,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T17:23:52Z",
-		"date_modified": "2025-03-14T19:44:34Z",
+		"date_modified": "2025-03-14T20:49:31Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2483,6 +2444,21 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>An evacuation shelter is set up at the First Baptist Church in Pampa located at 203 N West St, Pampa, TX, per Gray County Emergency Management via a <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\">Wireless Emergency Alert</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 43847,
+				"address": "400 E Railroad Ave, Shamrock, TX",
+				"name": "City of Shamrock Convention Center",
+				"lat": 35.2131153,
+				"lng": -100.2450274,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "",
 					"links": []
 				}
 			}
@@ -2664,7 +2640,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 1,
+			"acreage": 5.8,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2678,7 +2654,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T18:28:32Z",
-		"date_modified": "2025-03-14T18:43:35Z",
+		"date_modified": "2025-03-14T20:46:25Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -3093,7 +3069,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "220th/Coffee Creek and Waterloo and Hiwassee and Choctaw Road",
+			"evacuation_orders": "220th/Coffee Creek and Waterloo and Hiwassee and Choctaw Road Charter Oak/Industrial and Henny/Pottawatomie Road",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -3102,7 +3078,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:28:24Z",
-		"date_modified": "2025-03-14T19:59:50Z",
+		"date_modified": "2025-03-14T20:46:03Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3111,7 +3087,7 @@
 		"child_geo_events": [],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"220th/Coffee Creek and Waterloo and Hiwassee and Choctaw Road"
+			"220th/Coffee Creek and Waterloo and Hiwassee and Choctaw Road Charter Oak/Industrial and Henny/Pottawatomie Road"
 		]
 	},
 	{
@@ -3443,7 +3419,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": 0,
-			"acreage": 40,
+			"acreage": 17,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -3457,7 +3433,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:00:48Z",
-		"date_modified": "2025-03-14T20:05:47Z",
+		"date_modified": "2025-03-14T20:50:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -3687,7 +3663,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:20:47Z",
-		"date_modified": "2025-03-14T20:20:47Z",
+		"date_modified": "2025-03-14T20:45:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -3905,6 +3881,45 @@
 				}
 			}
 		],
+		"parent_geo_events": []
+	},
+	{
+		"id": 43845,
+		"is_active": true,
+		"name": "Vegetation Fire",
+		"description": null,
+		"lat": 36.64634986951124,
+		"lng": -96.46069542458281,
+		"address": "2.5 Miles Southwest of Highway 60 & County Road 5902, West of Pawhuska",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": null,
+			"links": [],
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-14T20:46:30Z",
+		"date_modified": "2025-03-14T20:46:30Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
+		"child_geo_events": [],
 		"parent_geo_events": []
 	}
 ]
