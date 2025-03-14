@@ -2279,7 +2279,7 @@
 	},
 	{
 		"id": 43756,
-		"is_active": true,
+		"is_active": false,
 		"name": "Calm Fire",
 		"description": null,
 		"lat": 35.652076,
@@ -2307,7 +2307,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T13:15:46Z",
-		"date_modified": "2025-03-14T13:15:46Z",
+		"date_modified": "2025-03-14T13:25:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
