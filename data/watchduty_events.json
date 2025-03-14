@@ -1736,7 +1736,7 @@
 	},
 	{
 		"id": 43680,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cayton Fire",
 		"description": null,
 		"lat": 37.7743,
@@ -1764,7 +1764,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-13T02:03:14Z",
-		"date_modified": "2025-03-13T23:18:44Z",
+		"date_modified": "2025-03-14T03:24:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2064,65 +2064,26 @@
 			"containment": 70,
 			"acreage": 2531,
 			"links": [],
-			"has_custom_evacuation_orders": true,
-			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Blaney Road south of Hwy 94 - Hammer Ranch Road, and Franceville Coal Mine Road.",
-			"evacuation_warnings": "Highway 94 and Franceville Coal Mine Rd. north to Davis Rd., and east to the eastern border of Schriever Space Force Base",
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "All evacuations and road closures will be lifted at 9:30pm CO 94 is closed in both directions between Marksheffel Road and Blaney Road (Colorado Springs) from Mile Point 1 to Mile Point 7.",
+			"evacuation_notes": "All evacuations and road closures have been lifted as of 9:30pm, per Peak Alerts",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-13T19:04:57Z",
-		"date_modified": "2025-03-14T03:11:21Z",
+		"date_modified": "2025-03-14T03:31:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 43745,
-				"address": "366 10th St, Calhan, CO 80808",
-				"name": "Animal Shelter - El Paso County Fairgrounds",
-				"lat": 39.03118509999999,
-				"lng": -104.2963409,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>An animal shelter is open at the El Paso County Fairgrounds located at 366 10th St, Calhan, CO 80808, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/EPCSheriff/status/1900334610099429489\">El Paso County Sheriff's Office on X</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 43744,
-				"address": "11990 Swingline Rd, Peyton, CO 80831",
-				"name": "Evacuation Shelter - Patriot High School",
-				"lat": 38.93377587390401,
-				"lng": -104.60566351195803,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation shelter is open at Patriot High School located at 11990 Swingline Rd, Peyton, CO 80831, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/EPCSheriff/status/1900334610099429489\">El Paso County Sheriff's Office on X</a>. If you need assistance due to the fire, please go to the shelter or call 1-800-RED-CROSS for more information.</p>",
-					"links": []
-				}
-			}
-		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"Blaney Road south of Hwy 94 - Hammer Ranch Road",
-			"and Franceville Coal Mine Road."
-		],
-		"evacuation_warnings_arr": [
-			"Highway 94 and Franceville Coal Mine Rd. north to Davis Rd.",
-			"and east to the eastern border of Schriever Space Force Base"
-		]
+		"child_geo_events": [],
+		"parent_geo_events": []
 	},
 	{
 		"id": 43716,
