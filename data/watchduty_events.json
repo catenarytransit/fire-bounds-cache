@@ -410,7 +410,7 @@
 	},
 	{
 		"id": 43492,
-		"is_active": true,
+		"is_active": false,
 		"name": "Gray Squirrel Hollow Fire",
 		"description": null,
 		"lat": 36.020556,
@@ -438,7 +438,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-11T13:50:14Z",
-		"date_modified": "2025-03-13T20:48:59Z",
+		"date_modified": "2025-03-14T04:54:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2204,7 +2204,7 @@
 	},
 	{
 		"id": 43731,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 38.89565336408381,
@@ -2232,7 +2232,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-13T21:08:23Z",
-		"date_modified": "2025-03-13T22:43:30Z",
+		"date_modified": "2025-03-14T04:54:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
