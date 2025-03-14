@@ -1147,45 +1147,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 43686,
-		"is_active": false,
-		"name": "Canal Fire",
-		"description": null,
-		"lat": 42.590202,
-		"lng": -106.690635,
-		"address": "21000 Block of WY-220, Alcova, WY 82620",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": null,
-			"acreage": 3,
-			"links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-03-13T13:11:02Z",
-		"date_modified": "2025-03-13T22:54:16Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "{386319A8-BF38-4AB5-8505-6340AD0EB0FF}",
-		"external_source": "nifc",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 43687,
 		"is_active": true,
 		"name": "Caes Fire",
@@ -2742,30 +2703,30 @@
 			{
 				"id": 43805,
 				"address": "2601 24th Ave SE, Norman, OK 73071, USA",
-				"name": "Evacuation Point - CrossePoint Church",
+				"name": "Evacuation Shelter - CrossePoint Church",
 				"lat": 35.187523,
 				"lng": -97.404484,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
 					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>Evacuees can go to CrossePoint Church located at 2601 24th Ave SE, Norman, OK 73071, USA, per Norman Emergency Management via <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/NWSNorman/status/1900619421179408748\">National Weather Service Norman OK</a>.</p>",
+					"location_type": "evac_shelter",
+					"information": "<p>Evacuation shelters are available at CrossPointe Church, 2601 24th Avenue SE, and Little Axe Recreation Center, 1000 168th NE Avenue, per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.normanok.gov/news/fire-updates-norman-oklahoma-march-2025\">City of Norman</a>.</p>",
 					"links": []
 				}
 			},
 			{
 				"id": 43799,
 				"address": "1000 168th Ave NE, Norman, OK 73026",
-				"name": "Evacuation Point - Little Axe Recreation Center",
+				"name": "Evacuation Shelter - Little Axe Recreation Center",
 				"lat": 35.2300567,
 				"lng": -97.1950225,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
 					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>Evacuees can go to Little Axe Recreation Center located at 1000 168th Ave NE, Norman, OK 73026, per Norman Emergency Management via <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/NWSNorman/status/1900619421179408748\">National Weather Service Norman OK</a>.</p>",
+					"location_type": "evac_shelter",
+					"information": "<p>Evacuation shelters are available at CrossPointe Church, 2601 24th Avenue SE, and Little Axe Recreation Center, 1000 168th NE Avenue, per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.normanok.gov/news/fire-updates-norman-oklahoma-march-2025\">City of Norman</a>.</p>",
 					"links": []
 				}
 			}
@@ -3505,15 +3466,15 @@
 			{
 				"id": 43799,
 				"address": "1000 168th Ave NE, Norman, OK 73026",
-				"name": "Evacuation Point - Little Axe Recreation Center",
+				"name": "Evacuation Shelter - Little Axe Recreation Center",
 				"lat": 35.2300567,
 				"lng": -97.1950225,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
 					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>Evacuees can go to Little Axe Recreation Center located at 1000 168th Ave NE, Norman, OK 73026, per Norman Emergency Management via <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/NWSNorman/status/1900619421179408748\">National Weather Service Norman OK</a>.</p>",
+					"location_type": "evac_shelter",
+					"information": "<p>Evacuation shelters are available at CrossPointe Church, 2601 24th Avenue SE, and Little Axe Recreation Center, 1000 168th NE Avenue, per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.normanok.gov/news/fire-updates-norman-oklahoma-march-2025\">City of Norman</a>.</p>",
 					"links": []
 				}
 			}
@@ -3992,7 +3953,23 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 43877,
+				"address": "1050 West Wekiwa Road, Sand Springs",
+				"name": "Reunification Center - Case Community Center",
+				"lat": 36.139636100000004,
+				"lng": -96.12877730000002,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>Reunification Center is setting up at the Case Community Center in Sand Springs - per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\"><strong>Oklahoma Emergency Management via PBS Warn</strong></a></p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"EVACUATION ORDER for Mannford EVACUATION ORDER for North of HWY 48 & 91st Street. IMMEDIATE EVACUATION for North of 61st Street & 369 West"
@@ -4318,8 +4295,8 @@
 		"is_active": true,
 		"name": "Again Fire",
 		"description": null,
-		"lat": 47.856854,
-		"lng": -94.786692,
+		"lat": 47.861186,
+		"lng": -94.798279,
 		"address": "33700 Block of Cozzi Farm Rd NE, Blackduck, MN 56630",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -4343,7 +4320,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T21:49:36Z",
-		"date_modified": "2025-03-14T22:39:01Z",
+		"date_modified": "2025-03-14T22:55:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
