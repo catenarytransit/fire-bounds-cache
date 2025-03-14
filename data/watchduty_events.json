@@ -757,45 +757,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 43651,
-		"is_active": false,
-		"name": "5280 Fire",
-		"description": null,
-		"lat": 46.716607,
-		"lng": -94.290676,
-		"address": "5200 Block of Co Rd 1, Pine River, MN 56474",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": null,
-			"acreage": 1.5,
-			"links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-03-12T20:54:12Z",
-		"date_modified": "2025-03-13T22:58:05Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "5fc9e0b7-1785-4cad-bdda-1abd1d3608c5",
-		"external_source": "wildcad",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 43658,
 		"is_active": true,
 		"name": "Cottonwood Creek Fire",
@@ -2253,7 +2214,7 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": false,
+			"is_fps": true,
 			"containment": 5,
 			"acreage": 2500,
 			"links": [],
@@ -2269,7 +2230,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T17:23:52Z",
-		"date_modified": "2025-03-14T22:50:21Z",
+		"date_modified": "2025-03-14T23:03:23Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2693,7 +2654,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T18:53:48Z",
-		"date_modified": "2025-03-14T19:02:39Z",
+		"date_modified": "2025-03-14T22:59:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2960,7 +2921,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Residents 4 miles north and 4 miles east of 108th Avenue & Tecumseh Road should evacuate immediately",
+			"evacuation_orders": "Residents 4 miles north and 4 miles east of 108th Avenue & Tecumseh Road should evacuate immediately All people in the area of 120th Ave SE to Lake Thunderbird, between Rock Creek Road and Franklin Road 108th NE & Spencer Circle",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -2969,7 +2930,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:33:12Z",
-		"date_modified": "2025-03-14T19:33:23Z",
+		"date_modified": "2025-03-14T23:00:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2978,7 +2939,8 @@
 		"child_geo_events": [],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"Residents 4 miles north and 4 miles east of 108th Avenue & Tecumseh Road should evacuate immediately"
+			"Residents 4 miles north and 4 miles east of 108th Avenue & Tecumseh Road should evacuate immediately All people in the area of 120th Ave SE to Lake Thunderbird",
+			"between Rock Creek Road and Franklin Road 108th NE & Spencer Circle"
 		]
 	},
 	{
@@ -3444,10 +3406,10 @@
 			"containment": null,
 			"acreage": null,
 			"links": [],
-			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
+			"evacuation_orders": "192nd NE & Robinson",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -3456,7 +3418,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:17:33Z",
-		"date_modified": "2025-03-14T20:17:33Z",
+		"date_modified": "2025-03-14T23:01:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3479,7 +3441,10 @@
 				}
 			}
 		],
-		"parent_geo_events": []
+		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"192nd NE & Robinson"
+		]
 	},
 	{
 		"id": 43829,
@@ -4228,7 +4193,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 50,
-			"acreage": 50,
+			"acreage": 48,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -4242,7 +4207,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T21:45:48Z",
-		"date_modified": "2025-03-14T22:31:48Z",
+		"date_modified": "2025-03-14T22:59:46Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4522,6 +4487,61 @@
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 43879,
+		"is_active": true,
+		"name": "Vegetation Fire",
+		"description": null,
+		"lat": 38.720395499999995,
+		"lng": -92.33740179999995,
+		"address": "19000 block of South Mackie Lane, Hart Creek Conservation Area, Hartsburg",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": null,
+			"links": [],
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": "From Southern Boone County Fire Production District: A fast-moving wildfire moving from Hart Creek Conservation Area. EVACUATE IMMEDIATELY to Optimist Club at 511 Optimist Drive Ashland. Grab essentials and avoid closed roads. Call 911 if you need help. Stay tuned to local alerts for updates. Your safety is at risk leave now.",
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-14T22:58:20Z",
+		"date_modified": "2025-03-14T22:59:53Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
+		"child_geo_events": [
+			{
+				"id": 43882,
+				"address": "511 Optimist Dr, Ashland",
+				"name": "Optimist Club Evacuation Point",
+				"lat": 38.78314999999998,
+				"lng": -92.25606479999999,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": []
 	}
 ]
