@@ -2174,8 +2174,8 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": null,
+			"is_fps": false,
+			"containment": 80,
 			"acreage": 2000,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -2190,10 +2190,10 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T16:17:28Z",
-		"date_modified": "2025-03-14T16:39:26Z",
+		"date_modified": "2025-03-14T21:40:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "6000d79a-74d7-44a7-b118-3d030c128de5",
 		"external_source": "wildcad",
 		"child_geo_events": [],
@@ -2268,7 +2268,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T16:42:26Z",
-		"date_modified": "2025-03-14T19:11:58Z",
+		"date_modified": "2025-03-14T21:40:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3521,7 +3521,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I",
+			"evacuation_orders": "Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Log Cabin & Harmony Pecan Valley RV Park Lawson & 68th Range & 3rd 6th between Cottonwood & Range 19th between Cottonwood & Range Range & 65th Karsten Creek & 68th Range & 19th",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -3530,7 +3530,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:14:32Z",
-		"date_modified": "2025-03-14T21:13:42Z",
+		"date_modified": "2025-03-14T21:41:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3555,7 +3555,7 @@
 		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I"
+			"Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Log Cabin & Harmony Pecan Valley RV Park Lawson & 68th Range & 3rd 6th between Cottonwood & Range 19th between Cottonwood & Range Range & 65th Karsten Creek & 68th Range & 19th"
 		]
 	},
 	{
