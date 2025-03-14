@@ -2048,7 +2048,7 @@
 	},
 	{
 		"id": 43739,
-		"is_active": true,
+		"is_active": false,
 		"name": "Ridge Fire",
 		"description": null,
 		"lat": 36.9077,
@@ -2076,7 +2076,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-13T22:42:29Z",
-		"date_modified": "2025-03-14T00:13:24Z",
+		"date_modified": "2025-03-14T08:24:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
