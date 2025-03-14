@@ -1356,7 +1356,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 80,
+			"containment": 90,
 			"acreage": 2531,
 			"links": [],
 			"has_custom_evacuation_orders": false,
@@ -1371,7 +1371,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-13T19:04:57Z",
-		"date_modified": "2025-03-14T20:17:43Z",
+		"date_modified": "2025-03-14T22:24:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2136,8 +2136,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 0,
-			"acreage": 9000,
+			"containment": 5,
+			"acreage": 9500,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2151,7 +2151,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T16:31:09Z",
-		"date_modified": "2025-03-14T21:43:55Z",
+		"date_modified": "2025-03-14T22:24:29Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3343,7 +3343,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
+			"containment": 70,
 			"acreage": 17,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -3358,7 +3358,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:00:48Z",
-		"date_modified": "2025-03-14T20:50:47Z",
+		"date_modified": "2025-03-14T22:25:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -3446,7 +3446,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Log Cabin & Harmony Pecan Valley RV Park Lawson & 68th Range & 3rd 6th between Cottonwood & Range 19th between Cottonwood & Range Range & 65th Karsten Creek & 68th Range & 19th",
+			"evacuation_orders": "Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Log Cabin & Harmony Pecan Valley RV Park Lawson & 68th Karsten Creek & 68th Karaten Creek and 51 Range & 3rd 6th between Cottonwood & Range 19th between Cottonwood & Range Range & 65th Range & 19th Greenwood $ Dunkin’ Country Club & 32nd (Isabel point)",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -3455,7 +3455,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:14:32Z",
-		"date_modified": "2025-03-14T22:14:57Z",
+		"date_modified": "2025-03-14T22:24:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3480,7 +3480,7 @@
 		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Log Cabin & Harmony Pecan Valley RV Park Lawson & 68th Range & 3rd 6th between Cottonwood & Range 19th between Cottonwood & Range Range & 65th Karsten Creek & 68th Range & 19th"
+			"Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Log Cabin & Harmony Pecan Valley RV Park Lawson & 68th Karsten Creek & 68th Karaten Creek and 51 Range & 3rd 6th between Cottonwood & Range 19th between Cottonwood & Range Range & 65th Range & 19th Greenwood $ Dunkin’ Country Club & 32nd (Isabel point)"
 		]
 	},
 	{
@@ -3810,10 +3810,10 @@
 			"acreage": null,
 			"links": [],
 			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": null,
-			"evacuation_warnings": null,
+			"evacuation_warnings": "EVACUATION WARNING between Prairie Grove/Cooksey & Douglas/Choctaw Rd.",
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
 			"is_complex_parent": false,
@@ -3821,7 +3821,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:41:17Z",
-		"date_modified": "2025-03-14T20:41:17Z",
+		"date_modified": "2025-03-14T22:22:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3844,7 +3844,10 @@
 				}
 			}
 		],
-		"parent_geo_events": []
+		"parent_geo_events": [],
+		"evacuation_warnings_arr": [
+			"EVACUATION WARNING between Prairie Grove/Cooksey & Douglas/Choctaw Rd."
+		]
 	},
 	{
 		"id": 43845,
@@ -3890,9 +3893,9 @@
 		"is_active": true,
 		"name": "Vegetation Fire",
 		"description": null,
-		"lat": 36.2608597,
-		"lng": -96.5679018,
-		"address": "Area of Hwy 99, 2 miles north of Hallett",
+		"lat": 36.24627175860587,
+		"lng": -96.5920008248794,
+		"address": "Ranch Creek Rd near N3600 Rd, west of Hwy 99, Hallett",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -3915,7 +3918,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:57:26Z",
-		"date_modified": "2025-03-14T20:57:26Z",
+		"date_modified": "2025-03-14T22:17:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4343,6 +4346,45 @@
 		"parent_geo_events": []
 	},
 	{
+		"id": 43864,
+		"is_active": true,
+		"name": "Again Fire",
+		"description": null,
+		"lat": 47.856854,
+		"lng": -94.786692,
+		"address": "33700 Block of Cozzi Farm Rd NE, Blackduck, MN 56630",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": null,
+			"acreage": 1,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-14T21:49:36Z",
+		"date_modified": "2025-03-14T22:17:40Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "f495a5d4-f7bc-4b1d-b274-69fb99c10be8",
+		"external_source": "wildcad",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
 		"id": 43866,
 		"is_active": true,
 		"name": "Vegetation Fire",
@@ -4417,6 +4459,45 @@
 		"reporter_managed": false,
 		"external_id": "e0e6095a-4cac-4b2b-9f73-e9db1053bdba",
 		"external_source": "wildcad",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 43872,
+		"is_active": true,
+		"name": "Turley 2 Fire",
+		"description": null,
+		"lat": 36.9692,
+		"lng": -91.12175,
+		"address": null,
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": null,
+			"acreage": 100,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-14T22:25:48Z",
+		"date_modified": "2025-03-14T22:25:48Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "{EAB46E5E-AB33-49A6-885A-32C21DEE3440}",
+		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
 	}
