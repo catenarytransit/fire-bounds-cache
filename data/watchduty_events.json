@@ -2073,7 +2073,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T16:42:26Z",
-		"date_modified": "2025-03-14T21:40:50Z",
+		"date_modified": "2025-03-14T23:23:54Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2662,11 +2662,11 @@
 		"external_source": null,
 		"child_geo_events": [
 			{
-				"id": 43805,
-				"address": "2601 24th Ave SE, Norman, OK 73071, USA",
-				"name": "Evacuation Shelter - CrossePoint Church",
-				"lat": 35.187523,
-				"lng": -97.404484,
+				"id": 43799,
+				"address": "1000 168th Ave NE, Norman, OK 73026",
+				"name": "Evacuation Shelter - Little Axe Recreation Center",
+				"lat": 35.2300567,
+				"lng": -97.1950225,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
@@ -2677,11 +2677,11 @@
 				}
 			},
 			{
-				"id": 43799,
-				"address": "1000 168th Ave NE, Norman, OK 73026",
-				"name": "Evacuation Shelter - Little Axe Recreation Center",
-				"lat": 35.2300567,
-				"lng": -97.1950225,
+				"id": 43805,
+				"address": "2601 24th Ave SE, Norman, OK 73071, USA",
+				"name": "Evacuation Shelter - CrossePoint Church",
+				"lat": 35.187523,
+				"lng": -97.404484,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
@@ -2936,7 +2936,38 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 43799,
+				"address": "1000 168th Ave NE, Norman, OK 73026",
+				"name": "Evacuation Shelter - Little Axe Recreation Center",
+				"lat": 35.2300567,
+				"lng": -97.1950225,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>Evacuation shelters are available at CrossPointe Church, 2601 24th Avenue SE, and Little Axe Recreation Center, 1000 168th NE Avenue, per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.normanok.gov/news/fire-updates-norman-oklahoma-march-2025\">City of Norman</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 43805,
+				"address": "2601 24th Ave SE, Norman, OK 73071, USA",
+				"name": "Evacuation Shelter - CrossePoint Church",
+				"lat": 35.187523,
+				"lng": -97.404484,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>Evacuation shelters are available at CrossPointe Church, 2601 24th Avenue SE, and Little Axe Recreation Center, 1000 168th NE Avenue, per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.normanok.gov/news/fire-updates-norman-oklahoma-march-2025\">City of Norman</a>.</p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"Residents 4 miles north and 4 miles east of 108th Avenue & Tecumseh Road should evacuate immediately All people in the area of 120th Ave SE to Lake Thunderbird",
@@ -3439,6 +3470,21 @@
 					"information": "<p>Evacuation shelters are available at CrossPointe Church, 2601 24th Avenue SE, and Little Axe Recreation Center, 1000 168th NE Avenue, per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.normanok.gov/news/fire-updates-norman-oklahoma-march-2025\">City of Norman</a>.</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 43805,
+				"address": "2601 24th Ave SE, Norman, OK 73071, USA",
+				"name": "Evacuation Shelter - CrossePoint Church",
+				"lat": 35.187523,
+				"lng": -97.404484,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>Evacuation shelters are available at CrossPointe Church, 2601 24th Avenue SE, and Little Axe Recreation Center, 1000 168th NE Avenue, per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.normanok.gov/news/fire-updates-norman-oklahoma-march-2025\">City of Norman</a>.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -3451,8 +3497,8 @@
 		"is_active": true,
 		"name": "Elliott Fire",
 		"description": null,
-		"lat": 37.732167,
-		"lng": -92.297861,
+		"lat": 37.730046685864295,
+		"lng": -92.29866624577858,
 		"address": "3 miles south of Laquey, Mark Twain National Forest",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -3476,7 +3522,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:19:26Z",
-		"date_modified": "2025-03-14T23:13:13Z",
+		"date_modified": "2025-03-14T23:14:34Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3994,7 +4040,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": null,
+			"containment": 100,
 			"acreage": null,
 			"links": [],
 			"has_custom_evacuation_orders": true,
@@ -4009,7 +4055,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T21:08:02Z",
-		"date_modified": "2025-03-14T21:16:59Z",
+		"date_modified": "2025-03-14T23:20:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4207,7 +4253,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T21:45:48Z",
-		"date_modified": "2025-03-14T22:59:46Z",
+		"date_modified": "2025-03-14T23:15:54Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4235,10 +4281,10 @@
 			"acreage": null,
 			"links": [],
 			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": null,
-			"evacuation_warnings": null,
+			"evacuation_warnings": "Evacuation Warning between Cimmaron Turnpike/South Edge of Cleveland.",
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
 			"is_complex_parent": false,
@@ -4246,14 +4292,17 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T21:48:14Z",
-		"date_modified": "2025-03-14T21:48:15Z",
+		"date_modified": "2025-03-14T23:20:54Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [],
-		"parent_geo_events": []
+		"parent_geo_events": [],
+		"evacuation_warnings_arr": [
+			"Evacuation Warning between Cimmaron Turnpike/South Edge of Cleveland."
+		]
 	},
 	{
 		"id": 43864,
@@ -4324,7 +4373,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T22:07:28Z",
-		"date_modified": "2025-03-14T22:07:28Z",
+		"date_modified": "2025-03-14T23:17:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4636,8 +4685,8 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": null,
+			"is_fps": false,
+			"containment": 100,
 			"acreage": 9,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -4652,12 +4701,51 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T23:10:48Z",
-		"date_modified": "2025-03-14T23:10:48Z",
+		"date_modified": "2025-03-14T23:14:37Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": "{5CBC94E2-F419-489A-A650-256D1F76DD15}",
+		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 43889,
+		"is_active": true,
+		"name": "Turkey Fire",
+		"description": null,
+		"lat": 36.6768,
+		"lng": -91.107883,
+		"address": "200 Block of Ripley Rte J, Doniphan, MO 63935",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": null,
+			"acreage": 40,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-14T23:18:58Z",
+		"date_modified": "2025-03-14T23:18:58Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
-		"external_id": "{5CBC94E2-F419-489A-A650-256D1F76DD15}",
-		"external_source": "nifc",
+		"external_id": "17f09ce3-d6cc-484c-8533-ef49a3f8b624",
+		"external_source": "wildcad",
 		"child_geo_events": [],
 		"parent_geo_events": []
 	}
