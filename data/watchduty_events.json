@@ -1031,7 +1031,7 @@
 	},
 	{
 		"id": 43660,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hot Springs Fire",
 		"description": null,
 		"lat": 32.85576,
@@ -1059,7 +1059,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-12T21:55:36Z",
-		"date_modified": "2025-03-12T23:42:30Z",
+		"date_modified": "2025-03-14T14:39:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2137,7 +2137,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 150,
+			"acreage": 175,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2151,7 +2151,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T07:39:24Z",
-		"date_modified": "2025-03-14T08:02:24Z",
+		"date_modified": "2025-03-14T14:40:25Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
