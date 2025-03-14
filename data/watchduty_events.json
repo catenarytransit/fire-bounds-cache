@@ -1488,7 +1488,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-13T19:04:57Z",
-		"date_modified": "2025-03-14T18:53:17Z",
+		"date_modified": "2025-03-14T20:09:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2293,7 +2293,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 0,
-			"acreage": 1500,
+			"acreage": 8000,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2307,7 +2307,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T16:31:09Z",
-		"date_modified": "2025-03-14T19:46:56Z",
+		"date_modified": "2025-03-14T20:09:59Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3239,7 +3239,7 @@
 	},
 	{
 		"id": 43815,
-		"is_active": true,
+		"is_active": false,
 		"name": "Armor Fire",
 		"description": null,
 		"lat": 46.08464,
@@ -3267,7 +3267,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:42:26Z",
-		"date_modified": "2025-03-14T20:04:42Z",
+		"date_modified": "2025-03-14T20:15:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -3471,10 +3471,65 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 43800,
+				"address": "619 Main St, Vici",
+				"name": "Evacuation Shelter - Vici Community Building",
+				"lat": 36.1501032,
+				"lng": -99.2984475,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An Evacuation Shelter has been established at the Vici Community Building, 619 Main St in Vici - Per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/share/p/18jxJFfYyk/\"><strong>Roger Mills County Emergency Management</strong></a><strong>. </strong></p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"Camargo"
 		]
+	},
+	{
+		"id": 43827,
+		"is_active": true,
+		"name": "Vegetation Fire",
+		"description": null,
+		"lat": 36.04273,
+		"lng": -97.19365,
+		"address": "W 68th Street & Karsten Creek Road (N3260), Southwest of Stillwater",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": null,
+			"links": [],
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-14T20:14:32Z",
+		"date_modified": "2025-03-14T20:14:45Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
+		"child_geo_events": [],
+		"parent_geo_events": []
 	}
 ]
