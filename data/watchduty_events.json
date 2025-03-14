@@ -1,44 +1,5 @@
 [
 	{
-		"id": 43317,
-		"is_active": false,
-		"name": "Gun Club Fire",
-		"description": null,
-		"lat": 35.663333,
-		"lng": -95.930278,
-		"address": "3.5 miles NE of Okmulgee,  OK",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": false,
-			"containment": 90,
-			"acreage": 778,
-			"links": [],
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-03-08T20:59:13Z",
-		"date_modified": "2025-03-13T21:59:01Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": "ce34c884-3c03-415f-b990-115a3c672992",
-		"external_source": "wildcad",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 43354,
 		"is_active": true,
 		"name": "Kenwood 15S Fire",
@@ -3838,13 +3799,29 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:36:08Z",
-		"date_modified": "2025-03-14T21:57:17Z",
+		"date_modified": "2025-03-14T22:02:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 43865,
+				"address": "2002 S 13th St, Duncan, OK 73533, USA",
+				"name": "Reunification Center - Stephens County Expo Center",
+				"lat": 34.4821524,
+				"lng": -97.96360419999999,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>A reunification center is being set up at the Stephens County Expo Center located at 2002 S 13th St, Duncan, OK 73533, per a <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\">wireless emergency alert</a> sent by Oklahoma Emergency Management.</p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"Velma"
@@ -3988,9 +3965,9 @@
 		"is_active": true,
 		"name": "Vegetation Fire",
 		"description": null,
-		"lat": 36.3187814,
-		"lng": -96.7105177,
-		"address": "Approx 4 miles south of Skedee, East of Pawnee",
+		"lat": 36.23181324463127,
+		"lng": -96.74190053531656,
+		"address": "51300 Block of Lone Chimney Rd, S/E of Pawnee",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -4013,7 +3990,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:58:00Z",
-		"date_modified": "2025-03-14T20:59:34Z",
+		"date_modified": "2025-03-14T22:04:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
