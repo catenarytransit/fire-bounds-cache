@@ -2019,8 +2019,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 5,
-			"acreage": 9500,
+			"containment": 50,
+			"acreage": 11000,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2034,7 +2034,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T16:31:09Z",
-		"date_modified": "2025-03-14T22:39:24Z",
+		"date_modified": "2025-03-14T23:41:44Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2163,7 +2163,7 @@
 	},
 	{
 		"id": 43774,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hwy 59 Fire",
 		"description": null,
 		"lat": 47.052533,
@@ -2191,7 +2191,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T17:03:25Z",
-		"date_modified": "2025-03-14T19:31:24Z",
+		"date_modified": "2025-03-14T23:39:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -3399,17 +3399,47 @@
 		"external_source": null,
 		"child_geo_events": [
 			{
+				"id": 43891,
+				"address": "1224 N Husband St, Stillwater, OK 74075",
+				"name": "Evacuation Shelter - Stillwater High School Gym",
+				"lat": 36.13505783651233,
+				"lng": -97.06291845090004,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43854\">Stillwater Community Center</a> at 315 W 8th Ave, Stillwater, OK 74074</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43891\">Stillwater High School Gym</a> at 1224 N Husband St, Stillwater, OK 74075</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li></ol>",
+					"links": []
+				}
+			},
+			{
+				"id": 43892,
+				"address": "821 N Duck St, Stillwater, OK 74075, USA",
+				"name": "Evacuation Shelter - Church of Christ",
+				"lat": 36.1313304,
+				"lng": -97.06213369999999,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43854\">Stillwater Community Center</a> at 315 W 8th Ave, Stillwater, OK 74074</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43891\">Stillwater High School Gym</a> at 1224 N Husband St, Stillwater, OK 74075</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li></ol>",
+					"links": []
+				}
+			},
+			{
 				"id": 43854,
 				"address": "315 W 8th Ave, Stillwater, OK 74074, USA",
-				"name": "Evacuation Point - Stillwater Community Center",
+				"name": "Evacuation Shelter - Stillwater Community Center",
 				"lat": 36.1132263,
 				"lng": -97.06247719999999,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
 					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>If you are evacuated, please temporarily go to a friend or family’s house. If you do not have a place to go, please go to the Stillwater Community Center.</p><p>Per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid026kQ8ffc8m1SrkTEH1sUKw6GkfbmBbBEQ6wb8We79HoTNyyetuzLNcUtDUBHV2xLel\">City of Stillwater Emergency Management (SEMA) on Facebook</a>.</p>",
+					"location_type": "evac_shelter",
+					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43854\">Stillwater Community Center</a> at 315 W 8th Ave, Stillwater, OK 74074</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43891\">Stillwater High School Gym</a> at 1224 N Husband St, Stillwater, OK 74075</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li></ol>",
 					"links": []
 				}
 			}
@@ -4541,7 +4571,7 @@
 	{
 		"id": 43879,
 		"is_active": true,
-		"name": "Vegetation Fire",
+		"name": "Hart Creek Fire",
 		"description": null,
 		"lat": 38.720395499999995,
 		"lng": -92.33740179999995,
@@ -4568,7 +4598,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T22:58:20Z",
-		"date_modified": "2025-03-14T22:59:53Z",
+		"date_modified": "2025-03-14T23:40:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
