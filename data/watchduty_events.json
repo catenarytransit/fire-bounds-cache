@@ -1655,7 +1655,7 @@
 	},
 	{
 		"id": 43716,
-		"is_active": true,
+		"is_active": false,
 		"name": "Paddy Fire",
 		"description": null,
 		"lat": 37.487083,
@@ -1683,7 +1683,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-13T19:11:06Z",
-		"date_modified": "2025-03-14T06:30:45Z",
+		"date_modified": "2025-03-14T10:39:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
