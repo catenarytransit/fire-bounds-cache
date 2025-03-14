@@ -1488,7 +1488,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-13T19:04:57Z",
-		"date_modified": "2025-03-14T20:09:33Z",
+		"date_modified": "2025-03-14T20:17:43Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2307,7 +2307,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T16:31:09Z",
-		"date_modified": "2025-03-14T20:09:59Z",
+		"date_modified": "2025-03-14T20:17:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2881,21 +2881,6 @@
 		"external_source": null,
 		"child_geo_events": [
 			{
-				"id": 43799,
-				"address": "1000 168th Ave NE, Norman, OK 73026",
-				"name": "Evacuation Point - Little Axe Recreation Center",
-				"lat": 35.2300567,
-				"lng": -97.1950225,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>Evacuees can go to Little Axe Recreation Center located at 1000 168th Ave NE, Norman, OK 73026, per Norman Emergency Management via <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/NWSNorman/status/1900619421179408748\">National Weather Service Norman OK</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 43805,
 				"address": "2601 24th Ave SE, Norman, OK 73071, USA",
 				"name": "Evacuation Point - CrossePoint Church",
@@ -2907,6 +2892,21 @@
 					"geo_event_type": "location",
 					"location_type": "general",
 					"information": "<p>Evacuees can go to CrossePoint Church located at 2601 24th Ave SE, Norman, OK 73071, USA, per Norman Emergency Management via <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/NWSNorman/status/1900619421179408748\">National Weather Service Norman OK</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 43799,
+				"address": "1000 168th Ave NE, Norman, OK 73026",
+				"name": "Evacuation Point - Little Axe Recreation Center",
+				"lat": 35.2300567,
+				"lng": -97.1950225,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>Evacuees can go to Little Axe Recreation Center located at 1000 168th Ave NE, Norman, OK 73026, per Norman Emergency Management via <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/NWSNorman/status/1900619421179408748\">National Weather Service Norman OK</a>.</p>",
 					"links": []
 				}
 			}
@@ -3049,7 +3049,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 5,
+			"acreage": 5.4,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -3063,7 +3063,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:25:47Z",
-		"date_modified": "2025-03-14T19:50:47Z",
+		"date_modified": "2025-03-14T20:20:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -3253,7 +3253,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 1,
+			"acreage": 25,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -3267,7 +3267,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:42:26Z",
-		"date_modified": "2025-03-14T20:15:36Z",
+		"date_modified": "2025-03-14T20:20:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -3465,7 +3465,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:02:49Z",
-		"date_modified": "2025-03-14T20:03:01Z",
+		"date_modified": "2025-03-14T20:16:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3529,6 +3529,100 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 43828,
+		"is_active": true,
+		"name": "Vegetation Fire",
+		"description": null,
+		"lat": 35.2540034,
+		"lng": -97.1417451,
+		"address": "Area of Route 9 west of Fishmarket Rd, Pink",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": null,
+			"links": [],
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-14T20:17:33Z",
+		"date_modified": "2025-03-14T20:17:33Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
+		"child_geo_events": [
+			{
+				"id": 43799,
+				"address": "1000 168th Ave NE, Norman, OK 73026",
+				"name": "Evacuation Point - Little Axe Recreation Center",
+				"lat": 35.2300567,
+				"lng": -97.1950225,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>Evacuees can go to Little Axe Recreation Center located at 1000 168th Ave NE, Norman, OK 73026, per Norman Emergency Management via <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/NWSNorman/status/1900619421179408748\">National Weather Service Norman OK</a>.</p>",
+					"links": []
+				}
+			}
+		],
+		"parent_geo_events": []
+	},
+	{
+		"id": 43831,
+		"is_active": true,
+		"name": "Eagle Lane Fire",
+		"description": null,
+		"lat": 32.449233,
+		"lng": -104.196983,
+		"address": null,
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": null,
+			"acreage": 4,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-14T20:20:47Z",
+		"date_modified": "2025-03-14T20:20:47Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "{E8C77114-FE22-4AB4-800A-DF41B09ED663}",
+		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
 	}
