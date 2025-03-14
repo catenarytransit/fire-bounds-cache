@@ -2397,6 +2397,36 @@
 					"information": "<p>An evacuation shelter has been established at Cheyenne Courthouse per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xkrqix3 x1sur9pj xzsf02u x1s688f\" href=\"https://www.facebook.com/profile.php?id=100069337594406&amp;__cft__[0]=AZWQsCViIbyNmClyvEq3HUnzGMWQB8nwYz5zIXrsJFhxJp0pkrtu-gN9bj_pWxQyp7EP7Bhv_d7fmpoql79B7EGT8lUKlg_dHW7TRzV8zmu5jwAhDloUkSqeC7Qp1Zc7EipVA-RlKenvpC-2WJN1C00g_Kt4ksMSSooQc5yxgjnqFA&amp;__tn__=-UC%2CP-R\"><strong>Dewey County Emergency Management</strong></a>. See the full post <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/permalink.php?story_fbid=pfbid08prmwCLcLjSv8GhwsVkHwSRYcN8zk5yoZ31VEvD84KfbVgwriNHBkYpTRVMgjfXql&amp;id=100069337594406\"><strong>HERE</strong></a></p>",
 					"links": []
 				}
+			},
+			{
+				"id": 43798,
+				"address": "1600 W Country Club Blvd, Elk City, OK",
+				"name": "Evacuation Shelter - Elk City 1st Baptist Church",
+				"lat": 35.4208145,
+				"lng": -99.42474879999999,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An evacuation shelter has been established at Elk City First Baptist Church in Elk City - per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/share/p/18jxJFfYyk/\"><strong>Roger Mills County Emergency Management</strong></a><strong>.</strong></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 43800,
+				"address": "619 Main St, Vici",
+				"name": "Evacuation Shelter - Vici Community Building",
+				"lat": 36.1501032,
+				"lng": -99.2984475,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>An Evacuation Shelter has been established at the Vici Community Building, 619 Main St in Vici - Per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/share/p/18jxJFfYyk/\"><strong>Roger Mills County Emergency Management</strong></a><strong>. </strong></p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -2765,7 +2795,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T18:50:54Z",
-		"date_modified": "2025-03-14T18:56:06Z",
+		"date_modified": "2025-03-14T19:00:42Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2792,10 +2822,10 @@
 			"containment": null,
 			"acreage": null,
 			"links": [],
-			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
+			"evacuation_orders": "Along and east of 108th Street to 132nd Street and north of Post Oak Road to Highway 9",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -2804,7 +2834,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T18:53:48Z",
-		"date_modified": "2025-03-14T18:53:48Z",
+		"date_modified": "2025-03-14T19:02:39Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2827,6 +2857,9 @@
 				}
 			}
 		],
-		"parent_geo_events": []
+		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"Along and east of 108th Street to 132nd Street and north of Post Oak Road to Highway 9"
+		]
 	}
 ]
