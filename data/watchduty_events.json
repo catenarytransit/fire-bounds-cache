@@ -1229,7 +1229,7 @@
 	},
 	{
 		"id": 43644,
-		"is_active": true,
+		"is_active": false,
 		"name": "Shell Creek Fire",
 		"description": null,
 		"lat": 35.256944,
@@ -1257,7 +1257,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-12T20:10:52Z",
-		"date_modified": "2025-03-13T17:44:50Z",
+		"date_modified": "2025-03-14T01:54:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
