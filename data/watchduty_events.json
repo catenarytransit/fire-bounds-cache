@@ -1460,7 +1460,7 @@
 	},
 	{
 		"id": 43735,
-		"is_active": true,
+		"is_active": false,
 		"name": "River Road 1 Fire",
 		"description": null,
 		"lat": 45.636633,
@@ -1488,7 +1488,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-13T21:41:06Z",
-		"date_modified": "2025-03-14T20:34:59Z",
+		"date_modified": "2025-03-15T00:39:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1942,7 +1942,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": true,
 			"containment": 50,
-			"acreage": 11000,
+			"acreage": 18000,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1956,7 +1956,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T16:31:09Z",
-		"date_modified": "2025-03-14T23:49:30Z",
+		"date_modified": "2025-03-15T00:48:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2676,7 +2676,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 75,
+			"containment": 90,
 			"acreage": 57,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -2691,7 +2691,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:10:48Z",
-		"date_modified": "2025-03-14T23:25:47Z",
+		"date_modified": "2025-03-15T00:40:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2808,7 +2808,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:28:24Z",
-		"date_modified": "2025-03-14T23:57:51Z",
+		"date_modified": "2025-03-15T00:36:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3096,21 +3096,6 @@
 		"external_source": null,
 		"child_geo_events": [
 			{
-				"id": 43837,
-				"address": "1023 E 15th St, Chandler OK",
-				"name": "Reunification Center - Lincoln County Fairgrounds",
-				"lat": 35.6953456,
-				"lng": -96.8689989,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>A Reunification Center has been established at the Lincoln County Fairgrounds in Chandler. <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\"><strong>Per Oklahoma Department of Public Safety via PBS Warn</strong></a></p>",
-					"links": []
-				}
-			},
-			{
 				"id": 43842,
 				"address": "E 760 Rd, Perkins",
 				"name": "Reunification Center - Iowa Tribe Chena Building",
@@ -3171,15 +3156,15 @@
 			{
 				"id": 43875,
 				"address": "1751 N Grand Ave, Las Vegas, NM 87701, USA",
-				"name": "Evacuation Point - Abe Montoya Rec Center",
+				"name": "Evacuation Shelter - Abe Montoya Rec Center",
 				"lat": 35.6100539,
 				"lng": -105.2115037,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
 					"geo_event_type": "location",
-					"location_type": "info",
-					"information": "<p>Mora County Sheriff's Office will be utilizing the Abe Montoya Rec Center in Las Vegas for evacuees.\" per <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link c-link--underline\" href=\"https://www.facebook.com/moracountysheriffoffice?__cft__[0]=AZX0qSKLk4aqVyjAgGX-9LjvgVTp_F7cZruaRZTGcTo50vptRq2q8E3w9XdCXwKk-rrRmJm6cisekHMB3cMfuQCSBU0Ech4RrRJ3XiAn7WmOuizsxRk3EZqy7U6mRbuHdHZxS4H5BEnrRtilcH5sYV9weLhfC4_DXQZ-o56bC-Arci7nymSm-1QMUv709HsTpQo&amp;__tn__=-UC%2CP-R\"><strong>Mora County Sheriff's Office</strong></a><strong> </strong>see their post <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/share/p/15HCAH2VUe/\"><strong>HERE</strong></a></p>",
+					"location_type": "evac_shelter",
+					"information": "<p>Mora County Sheriff's Office will be utilizing the Abe Montoya Rec Center in Las Vegas for evacuees.\" per <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link c-link--underline\" href=\"https://www.facebook.com/moracountysheriffoffice?__cft__[0]=AZX0qSKLk4aqVyjAgGX-9LjvgVTp_F7cZruaRZTGcTo50vptRq2q8E3w9XdCXwKk-rrRmJm6cisekHMB3cMfuQCSBU0Ech4RrRJ3XiAn7WmOuizsxRk3EZqy7U6mRbuHdHZxS4H5BEnrRtilcH5sYV9weLhfC4_DXQZ-o56bC-Arci7nymSm-1QMUv709HsTpQo&amp;__tn__=-UC%2CP-R\"><strong>Mora County Sheriff's Office</strong></a><strong> </strong>see their post <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/share/p/15HCAH2VUe/\"><strong>HERE</strong></a></p><p>Also noted in the City of Las Vegas Government post <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/share/p/197WnvjMoq/\"><strong>HERE</strong></a>.</p>",
 					"links": []
 				}
 			}
@@ -3316,13 +3301,28 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:14:32Z",
-		"date_modified": "2025-03-15T00:27:23Z",
+		"date_modified": "2025-03-15T00:47:26Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [
+			{
+				"id": 43899,
+				"address": "421 E Richmond Rd, Stillwater, OK 74075, USA",
+				"name": "Evacuation Shelter - Sunnybrook Christian Church",
+				"lat": 36.1731335,
+				"lng": -97.05476739999999,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43854\">Stillwater Community Center</a> at 315 W 8th Ave, Stillwater, OK 74074</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43891\">Stillwater High School Gym</a> at 1224 N Husband St, Stillwater, OK 74075</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol>",
+					"links": []
+				}
+			},
 			{
 				"id": 43891,
 				"address": "1224 N Husband St, Stillwater, OK 74075",
@@ -3334,7 +3334,7 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
-					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43854\">Stillwater Community Center</a> at 315 W 8th Ave, Stillwater, OK 74074</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43891\">Stillwater High School Gym</a> at 1224 N Husband St, Stillwater, OK 74075</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li></ol>",
+					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43854\">Stillwater Community Center</a> at 315 W 8th Ave, Stillwater, OK 74074</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43891\">Stillwater High School Gym</a> at 1224 N Husband St, Stillwater, OK 74075</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol>",
 					"links": []
 				}
 			},
@@ -3349,7 +3349,7 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
-					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43854\">Stillwater Community Center</a> at 315 W 8th Ave, Stillwater, OK 74074</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43891\">Stillwater High School Gym</a> at 1224 N Husband St, Stillwater, OK 74075</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li></ol>",
+					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43854\">Stillwater Community Center</a> at 315 W 8th Ave, Stillwater, OK 74074</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43891\">Stillwater High School Gym</a> at 1224 N Husband St, Stillwater, OK 74075</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol>",
 					"links": []
 				}
 			},
@@ -3364,7 +3364,7 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
-					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43854\">Stillwater Community Center</a> at 315 W 8th Ave, Stillwater, OK 74074</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43891\">Stillwater High School Gym</a> at 1224 N Husband St, Stillwater, OK 74075</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li></ol>",
+					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43854\">Stillwater Community Center</a> at 315 W 8th Ave, Stillwater, OK 74074</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43891\">Stillwater High School Gym</a> at 1224 N Husband St, Stillwater, OK 74075</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol>",
 					"links": []
 				}
 			}
@@ -4253,7 +4253,23 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 43877,
+				"address": "1050 West Wekiwa Road, Sand Springs",
+				"name": "Reunification Center - Case Community Center",
+				"lat": 36.139636100000004,
+				"lng": -96.12877730000002,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>Reunification Center is setting up at the Case Community Center in Sand Springs - per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\"><strong>Oklahoma Emergency Management via PBS Warn</strong></a></p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": [],
 		"evacuation_warnings_arr": [
 			"Evacuation Warning between Cimmaron Turnpike/South Edge of Cleveland."
@@ -4461,7 +4477,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 100,
+			"containment": 95,
 			"acreage": 37,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -4476,7 +4492,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T22:30:48Z",
-		"date_modified": "2025-03-14T23:35:47Z",
+		"date_modified": "2025-03-15T00:40:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4503,10 +4519,10 @@
 			"containment": null,
 			"acreage": null,
 			"links": [],
-			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
+			"evacuation_orders": "North of Bell Cow to 850 Rd between 3410 and Hwy 18",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -4515,14 +4531,33 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T22:38:40Z",
-		"date_modified": "2025-03-14T22:38:40Z",
+		"date_modified": "2025-03-15T00:54:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
+		"child_geo_events": [
+			{
+				"id": 43898,
+				"address": "910044 S 3430 Rd, Chandler, OK 74834",
+				"name": "Evacuation Shelter - Lincoln County Fair Grounds",
+				"lat": 35.6939605,
+				"lng": -96.8925845,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>The Lincoln County Fair Grounds is open as a shelter, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/Lincoln911okla/posts/pfbid0eia1PnPv3h1FDF6rRGPeEmej1yhCkxss4nU1vQuSkxMkmjnXf7FbWL6k6UM1Uh5Ll\">E911 Lincoln County, Oklahoma on Facebook</a>.</p>",
+					"links": []
+				}
+			}
+		],
+		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"North of Bell Cow to 850 Rd between 3410 and Hwy 18"
+		]
 	},
 	{
 		"id": 43879,
@@ -4633,7 +4668,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
+			"containment": 65,
 			"acreage": 2,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -4648,7 +4683,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T23:05:49Z",
-		"date_modified": "2025-03-14T23:10:48Z",
+		"date_modified": "2025-03-15T00:35:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4753,10 +4788,10 @@
 			"containment": null,
 			"acreage": null,
 			"links": [],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "E400 Rd east to E550 Rd and N1600 south to Clinton Lake",
+			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -4765,17 +4800,14 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T23:27:09Z",
-		"date_modified": "2025-03-14T23:27:21Z",
+		"date_modified": "2025-03-15T00:44:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"E400 Rd east to E550 Rd and N1600 south to Clinton Lake"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 43895,
@@ -4851,6 +4883,45 @@
 		"incident_id": null,
 		"reporter_managed": false,
 		"external_id": "{3F77C893-3677-4361-8782-52AA840EB9CD}",
+		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 43900,
+		"is_active": true,
+		"name": "Anderson 1226 Fire",
+		"description": null,
+		"lat": 31.637,
+		"lng": -95.297733,
+		"address": null,
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": 0,
+			"acreage": 20,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-15T00:50:48Z",
+		"date_modified": "2025-03-15T00:50:48Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "{D69F0CD6-4E2A-4CC4-B34C-0FD691D14610}",
 		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
