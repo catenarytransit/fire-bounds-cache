@@ -2517,29 +2517,13 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:49:11Z",
-		"date_modified": "2025-03-15T16:48:34Z",
+		"date_modified": "2025-03-15T18:42:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 43875,
-				"address": "1751 N Grand Ave, Las Vegas, NM 87701, USA",
-				"name": "Evacuation Shelter - Abe Montoya Rec Center",
-				"lat": 35.6100539,
-				"lng": -105.2115037,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>Mora County Sheriff's Office will be utilizing the Abe Montoya Rec Center in Las Vegas for evacuees.\" per <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link c-link--underline\" href=\"https://www.facebook.com/moracountysheriffoffice?__cft__[0]=AZX0qSKLk4aqVyjAgGX-9LjvgVTp_F7cZruaRZTGcTo50vptRq2q8E3w9XdCXwKk-rrRmJm6cisekHMB3cMfuQCSBU0Ech4RrRJ3XiAn7WmOuizsxRk3EZqy7U6mRbuHdHZxS4H5BEnrRtilcH5sYV9weLhfC4_DXQZ-o56bC-Arci7nymSm-1QMUv709HsTpQo&amp;__tn__=-UC%2CP-R\"><strong>Mora County Sheriff's Office</strong></a><strong> </strong>see their post <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/share/p/15HCAH2VUe/\"><strong>HERE</strong></a></p><p>Also noted in the City of Las Vegas Government post <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/share/p/197WnvjMoq/\"><strong>HERE</strong></a>.</p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
