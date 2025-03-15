@@ -3926,7 +3926,7 @@
 	},
 	{
 		"id": 43900,
-		"is_active": true,
+		"is_active": false,
 		"name": "Anderson 1226 Fire",
 		"description": null,
 		"lat": 31.637,
@@ -3954,7 +3954,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T00:50:48Z",
-		"date_modified": "2025-03-15T16:15:49Z",
+		"date_modified": "2025-03-15T22:24:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4775,7 +4775,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": 25,
-			"acreage": 150,
+			"acreage": 250,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -4789,7 +4789,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T20:40:49Z",
-		"date_modified": "2025-03-15T21:46:00Z",
+		"date_modified": "2025-03-15T22:25:58Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
