@@ -2897,7 +2897,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Deer Crossing Estates - Range to Sangre and 44th and 6th Range Road to Country Club and 19th to 6th Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court)",
+			"evacuation_orders": "Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court) For evacuations within the city of Stillwater, refer to the evacuation map linked HERE.",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -2906,7 +2906,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:14:32Z",
-		"date_modified": "2025-03-15T06:46:00Z",
+		"date_modified": "2025-03-15T07:45:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2961,7 +2961,8 @@
 		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"Deer Crossing Estates - Range to Sangre and 44th and 6th Range Road to Country Club and 19th to 6th Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court)"
+			"Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court) For evacuations within the city of Stillwater",
+			"refer to the evacuation map linked HERE."
 		]
 	},
 	{
