@@ -568,7 +568,7 @@
 		"description": null,
 		"lat": 36.281944,
 		"lng": -94.735,
-		"address": "Norhtwest of Colcord, OK",
+		"address": "Northwest of Colcord, OK",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -576,7 +576,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 80,
+			"containment": 100,
 			"acreage": 289,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -591,7 +591,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-12T10:10:39Z",
-		"date_modified": "2025-03-13T17:41:04Z",
+		"date_modified": "2025-03-15T16:40:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
