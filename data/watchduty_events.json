@@ -3169,7 +3169,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 50,
+			"acreage": 69.5,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -3183,7 +3183,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T21:25:43Z",
-		"date_modified": "2025-03-14T21:25:43Z",
+		"date_modified": "2025-03-15T20:48:56Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4884,8 +4884,8 @@
 		"is_active": true,
 		"name": "Lake Pasture Fire",
 		"description": null,
-		"lat": 28.450186,
-		"lng": -97.125047,
+		"lat": 28.36406,
+		"lng": -97.06976,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -4909,7 +4909,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T20:40:49Z",
-		"date_modified": "2025-03-15T20:40:50Z",
+		"date_modified": "2025-03-15T20:50:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
