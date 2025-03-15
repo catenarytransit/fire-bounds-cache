@@ -875,7 +875,7 @@
 	},
 	{
 		"id": 43687,
-		"is_active": true,
+		"is_active": false,
 		"name": "Caes Fire",
 		"description": null,
 		"lat": 41.818228,
@@ -903,7 +903,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-13T13:11:03Z",
-		"date_modified": "2025-03-13T13:11:03Z",
+		"date_modified": "2025-03-15T06:45:45Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2936,7 +2936,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Deer Crossing Estates - Range to Sangre and 44th and 6th Westpark Addition (Window and Charles Streets) behind G&M Body Shop Walmart and all hotels in the area of 6th and Country club Range Road to Country Club and 19th to 6th Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court)",
+			"evacuation_orders": "Deer Crossing Estates - Range to Sangre and 44th and 6th Range Road to Country Club and 19th to 6th Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court)",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -2945,7 +2945,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:14:32Z",
-		"date_modified": "2025-03-15T06:28:52Z",
+		"date_modified": "2025-03-15T06:46:00Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3000,7 +3000,7 @@
 		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"Deer Crossing Estates - Range to Sangre and 44th and 6th Westpark Addition (Window and Charles Streets) behind G&M Body Shop Walmart and all hotels in the area of 6th and Country club Range Road to Country Club and 19th to 6th Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court)"
+			"Deer Crossing Estates - Range to Sangre and 44th and 6th Range Road to Country Club and 19th to 6th Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court)"
 		]
 	},
 	{
@@ -4755,6 +4755,45 @@
 		"reporter_managed": true,
 		"external_id": "{70C181B4-476C-42C5-A28F-51991B733F80}",
 		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 43911,
+		"is_active": true,
+		"name": "Pleasant Fire",
+		"description": null,
+		"lat": 35.6964,
+		"lng": -94.3549,
+		"address": null,
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": null,
+			"acreage": 28.59,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-15T03:16:55Z",
+		"date_modified": "2025-03-15T06:45:53Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "961e74f8-b09a-4bd4-b1de-644048b19ecd",
+		"external_source": "wildcad",
 		"child_geo_events": [],
 		"parent_geo_events": []
 	},
