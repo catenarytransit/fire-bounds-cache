@@ -640,45 +640,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 43630,
-		"is_active": false,
-		"name": "New State Fire",
-		"description": null,
-		"lat": 34.761833,
-		"lng": -95.610333,
-		"address": "6.6 miles SW of Hartshorne, OK",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": 100,
-			"acreage": 180,
-			"links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-03-12T17:25:45Z",
-		"date_modified": "2025-03-14T00:54:36Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "{F3DB5024-1AC7-4EB8-BAA6-6C60CF0AB5CF}",
-		"external_source": "nifc",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 43644,
 		"is_active": false,
 		"name": "Shell Creek Fire",
@@ -1931,8 +1892,8 @@
 		"is_active": true,
 		"name": "Windmill Fire",
 		"description": null,
-		"lat": 36.0460702,
-		"lng": -100.8683388,
+		"lat": 36.03757649391031,
+		"lng": -100.8640704229355,
 		"address": "Highway 70, West of Mesa Vista Overlook, ≈25 Miles South of Perryton",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1956,7 +1917,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T16:31:09Z",
-		"date_modified": "2025-03-15T00:48:24Z",
+		"date_modified": "2025-03-15T01:17:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1968,7 +1929,7 @@
 	{
 		"id": 43771,
 		"is_active": true,
-		"name": "Vegetation Fire",
+		"name": "840 Road Fire",
 		"description": null,
 		"lat": 35.8284135,
 		"lng": -99.5059527,
@@ -1981,13 +1942,13 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": null,
+			"acreage": 20000,
 			"links": [],
 			"has_custom_evacuation_orders": true,
-			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": "Leedey and Angora",
-			"evacuation_warnings": null,
+			"evacuation_warnings": "Rhea/Aledo area",
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
 			"is_complex_parent": false,
@@ -1995,7 +1956,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T16:42:26Z",
-		"date_modified": "2025-03-14T23:33:53Z",
+		"date_modified": "2025-03-15T01:14:29Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2081,6 +2042,9 @@
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"Leedey and Angora"
+		],
+		"evacuation_warnings_arr": [
+			"Rhea/Aledo area"
 		]
 	},
 	{
@@ -2138,7 +2102,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": true,
 			"containment": 30,
-			"acreage": 3000,
+			"acreage": 4500,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2152,7 +2116,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T17:23:52Z",
-		"date_modified": "2025-03-14T23:46:37Z",
+		"date_modified": "2025-03-15T01:26:34Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2799,8 +2763,8 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "EVACUATION ORDER for Frost, Coyle, and Langston 220th/Coffee Creek and Waterloo and Hiwassee and Choctaw Road Charter Oak/Industrial and Henny/Pottawatomie Road",
-			"evacuation_warnings": "EVACUATION WARNING between Triple XXX Rd and Luther Rd and 234th/Waterloo EVACUATION WARNING between CR-3300 and CR-3350 and SH-105 and CR-760.",
+			"evacuation_orders": "Frost, Coyle, and Langston 220th/Coffee Creek and Waterloo and Hiwassee and Choctaw Road Charter Oak/Industrial and Henny/Pottawatomie Road",
+			"evacuation_warnings": "Between Triple XXX Rd and Luther Rd and 234th/Waterloo Between CR-3300 and CR-3350 and SH-105 and CR-760.",
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
 			"is_complex_parent": false,
@@ -2808,7 +2772,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:28:24Z",
-		"date_modified": "2025-03-15T00:36:35Z",
+		"date_modified": "2025-03-15T01:05:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2817,12 +2781,12 @@
 		"child_geo_events": [],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"EVACUATION ORDER for Frost",
+			"Frost",
 			"Coyle",
 			"and Langston 220th/Coffee Creek and Waterloo and Hiwassee and Choctaw Road Charter Oak/Industrial and Henny/Pottawatomie Road"
 		],
 		"evacuation_warnings_arr": [
-			"EVACUATION WARNING between Triple XXX Rd and Luther Rd and 234th/Waterloo EVACUATION WARNING between CR-3300 and CR-3350 and SH-105 and CR-760."
+			"Between Triple XXX Rd and Luther Rd and 234th/Waterloo Between CR-3300 and CR-3350 and SH-105 and CR-760."
 		]
 	},
 	{
@@ -3109,6 +3073,21 @@
 					"information": "<p>A Reunification Center has been established at the Iowa Tribe Chena Building, E760 Rd in Tryon.  <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\"><strong>Per Oklahoma Department of Public Safety via PBS Warn</strong></a></p>",
 					"links": []
 				}
+			},
+			{
+				"id": 43898,
+				"address": "910044 S 3430 Rd, Chandler, OK 74834",
+				"name": "Evacuation Shelter - Lincoln County Fair Grounds",
+				"lat": 35.6939605,
+				"lng": -96.8925845,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>The Lincoln County Fair Grounds is open as a shelter, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/Lincoln911okla/posts/pfbid0eia1PnPv3h1FDF6rRGPeEmej1yhCkxss4nU1vQuSkxMkmjnXf7FbWL6k6UM1Uh5Ll\">E911 Lincoln County, Oklahoma on Facebook</a>.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -3292,7 +3271,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Westpark Addition (Window and Charles Streets) behind G&M Body Shop Walmart and all hotels in the area of 6th and Country club Range Road to Country Club and 19th to 6th Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court)",
+			"evacuation_orders": "Deer Crossing Estates - Range to Sangre and 44th and 6th Westpark Addition (Window and Charles Streets) behind G&M Body Shop Walmart and all hotels in the area of 6th and Country club Range Road to Country Club and 19th to 6th Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court)",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -3301,7 +3280,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:14:32Z",
-		"date_modified": "2025-03-15T00:47:26Z",
+		"date_modified": "2025-03-15T00:55:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3371,7 +3350,7 @@
 		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"Westpark Addition (Window and Charles Streets) behind G&M Body Shop Walmart and all hotels in the area of 6th and Country club Range Road to Country Club and 19th to 6th Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court)"
+			"Deer Crossing Estates - Range to Sangre and 44th and 6th Westpark Addition (Window and Charles Streets) behind G&M Body Shop Walmart and all hotels in the area of 6th and Country club Range Road to Country Club and 19th to 6th Karsten Nottingham Primrose Kelowna Park (44th & Range) Golden Oaks Woodlake I Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court)"
 		]
 	},
 	{
@@ -3566,7 +3545,7 @@
 	},
 	{
 		"id": 43836,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hopkins 1205 Fire",
 		"description": null,
 		"lat": 33.064642,
@@ -3594,7 +3573,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:30:48Z",
-		"date_modified": "2025-03-14T21:30:47Z",
+		"date_modified": "2025-03-15T01:24:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -3721,8 +3700,8 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "EVACUATION ORDER for Frost, Coyle, and Langston.",
-			"evacuation_warnings": "EVACUATION WARNING between Prairie Grove/Cooksey & Douglas/Choctaw Rd.",
+			"evacuation_orders": "Frost, Coyle, and Langston.",
+			"evacuation_warnings": "Between Prairie Grove/Cooksey & Douglas/Choctaw Rd.",
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
 			"is_complex_parent": false,
@@ -3730,7 +3709,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:41:17Z",
-		"date_modified": "2025-03-14T22:43:37Z",
+		"date_modified": "2025-03-15T01:06:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3755,12 +3734,12 @@
 		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"EVACUATION ORDER for Frost",
+			"Frost",
 			"Coyle",
 			"and Langston."
 		],
 		"evacuation_warnings_arr": [
-			"EVACUATION WARNING between Prairie Grove/Cooksey & Douglas/Choctaw Rd."
+			"Between Prairie Grove/Cooksey & Douglas/Choctaw Rd."
 		]
 	},
 	{
@@ -3904,7 +3883,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "EVACUATION ORDER for Mannford EVACUATION ORDER for North of HWY 48 & 91st Street. IMMEDIATE EVACUATION for North of 61st Street & 369 West",
+			"evacuation_orders": "Mannford North of HWY 48 & 91st Street. North of 61st Street & 369 West",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -3913,7 +3892,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T21:05:30Z",
-		"date_modified": "2025-03-14T22:50:56Z",
+		"date_modified": "2025-03-15T01:04:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3938,7 +3917,7 @@
 		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"EVACUATION ORDER for Mannford EVACUATION ORDER for North of HWY 48 & 91st Street. IMMEDIATE EVACUATION for North of 61st Street & 369 West"
+			"Mannford North of HWY 48 & 91st Street. North of 61st Street & 369 West"
 		]
 	},
 	{
@@ -4344,7 +4323,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T22:07:28Z",
-		"date_modified": "2025-03-15T00:22:07Z",
+		"date_modified": "2025-03-15T01:23:26Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4377,7 +4356,7 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
-					"information": "<p>Evacuees can go to The Grand Casino, in the Eagle Room - American Red Cross has food for you per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/PottCoOEM/posts/963573382631891\">Pottawatomie County Emergency Management on Facebook</a>.</p>",
+					"information": "<p>Evacuees can go to The Grand Casino, in the Eagle Room - American Red Cross has food for you per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/PottCoOEM/posts/963573382631891\">Pottawatomie County Emergency Management on Facebook</a>.<br><br>This shelter is open overnight.</p>",
 					"links": []
 				}
 			}
@@ -4583,35 +4562,19 @@
 			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "From Southern Boone County Fire Production District: A fast-moving wildfire moving from Hart Creek Conservation Area. EVACUATE IMMEDIATELY to Optimist Club at 511 Optimist Drive Ashland. Grab essentials and avoid closed roads. Call 911 if you need help. Stay tuned to local alerts for updates. Your safety is at risk leave now.",
+			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T22:58:20Z",
-		"date_modified": "2025-03-14T23:40:35Z",
+		"date_modified": "2025-03-15T01:17:31Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 43882,
-				"address": "511 Optimist Dr, Ashland",
-				"name": "Optimist Club Evacuation Point",
-				"lat": 38.78314999999998,
-				"lng": -92.25606479999999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
@@ -4902,7 +4865,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
+			"containment": 90,
 			"acreage": 20,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -4917,11 +4880,50 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T00:50:48Z",
-		"date_modified": "2025-03-15T00:50:48Z",
+		"date_modified": "2025-03-15T01:25:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
 		"external_id": "{D69F0CD6-4E2A-4CC4-B34C-0FD691D14610}",
+		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 43901,
+		"is_active": true,
+		"name": "583 Sand Fire",
+		"description": null,
+		"lat": 32.06394,
+		"lng": -99.03122,
+		"address": null,
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": 25,
+			"acreage": 7,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-15T00:55:48Z",
+		"date_modified": "2025-03-15T00:55:48Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "{8FBDCFC7-65D9-457B-893E-D45BBE289EC5}",
 		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
