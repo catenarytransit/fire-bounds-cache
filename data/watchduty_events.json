@@ -1885,7 +1885,7 @@
 	},
 	{
 		"id": 43789,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 33.239046,
@@ -1913,7 +1913,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T18:19:24Z",
-		"date_modified": "2025-03-14T18:46:27Z",
+		"date_modified": "2025-03-15T08:57:51Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3025,7 +3025,7 @@
 	},
 	{
 		"id": 43831,
-		"is_active": true,
+		"is_active": false,
 		"name": "Eagle Lane Fire",
 		"description": null,
 		"lat": 32.449233,
@@ -3053,7 +3053,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:20:47Z",
-		"date_modified": "2025-03-15T04:46:28Z",
+		"date_modified": "2025-03-15T08:54:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3597,7 +3597,7 @@
 	},
 	{
 		"id": 43857,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 39.2455544,
@@ -3625,7 +3625,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T21:30:05Z",
-		"date_modified": "2025-03-15T05:18:05Z",
+		"date_modified": "2025-03-15T08:55:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4332,7 +4332,7 @@
 	},
 	{
 		"id": 43890,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 38.97119288799556,
@@ -4360,7 +4360,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T23:27:09Z",
-		"date_modified": "2025-03-15T00:44:01Z",
+		"date_modified": "2025-03-15T08:55:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
