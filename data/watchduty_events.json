@@ -2295,7 +2295,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 100,
-			"acreage": null,
+			"acreage": 600,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2309,7 +2309,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T18:53:48Z",
-		"date_modified": "2025-03-15T03:10:39Z",
+		"date_modified": "2025-03-15T04:39:45Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3001,66 +3001,6 @@
 		"external_source": null,
 		"child_geo_events": [
 			{
-				"id": 43899,
-				"address": "421 E Richmond Rd, Stillwater, OK 74075, USA",
-				"name": "Evacuation Shelter - Sunnybrook Christian Church",
-				"lat": 36.1731335,
-				"lng": -97.05476739999999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43854\">Stillwater Community Center</a> at 315 W 8th Ave, Stillwater, OK 74074</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43891\">Stillwater High School Gym</a> at 1224 N Husband St, Stillwater, OK 74075</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol>",
-					"links": []
-				}
-			},
-			{
-				"id": 43891,
-				"address": "1224 N Husband St, Stillwater, OK 74075",
-				"name": "Evacuation Shelter - Stillwater High School Gym",
-				"lat": 36.13505783651233,
-				"lng": -97.06291845090004,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43854\">Stillwater Community Center</a> at 315 W 8th Ave, Stillwater, OK 74074</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43891\">Stillwater High School Gym</a> at 1224 N Husband St, Stillwater, OK 74075</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol>",
-					"links": []
-				}
-			},
-			{
-				"id": 43892,
-				"address": "821 N Duck St, Stillwater, OK 74075, USA",
-				"name": "Evacuation Shelter - Church of Christ",
-				"lat": 36.1313304,
-				"lng": -97.06213369999999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43854\">Stillwater Community Center</a> at 315 W 8th Ave, Stillwater, OK 74074</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43891\">Stillwater High School Gym</a> at 1224 N Husband St, Stillwater, OK 74075</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol>",
-					"links": []
-				}
-			},
-			{
-				"id": 43854,
-				"address": "315 W 8th Ave, Stillwater, OK 74074, USA",
-				"name": "Evacuation Shelter - Stillwater Community Center",
-				"lat": 36.1132263,
-				"lng": -97.06247719999999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43854\">Stillwater Community Center</a> at 315 W 8th Ave, Stillwater, OK 74074</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43891\">Stillwater High School Gym</a> at 1224 N Husband St, Stillwater, OK 74075</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol>",
-					"links": []
-				}
-			},
-			{
 				"id": 43910,
 				"address": "4518 Expo Cir E, Stillwater, OK 74075, USA",
 				"name": "Overnight Evacuation Shelter - Payne County Expo Center",
@@ -3072,6 +3012,36 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>Overnight shelter is available at the Payne County Expo Center, if needed. Cots will be provided - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid02cJLrQLR8bFANnHvKKTzfVVmWdAfJLn77dUFeF2F7wgHhFDS9rs3dRuwWhs9Cg3Nml\"><strong>City of Stillwater Emergency Management</strong></a></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 43892,
+				"address": "821 N Duck St, Stillwater, OK 74075, USA",
+				"name": "Evacuation Safe Place - Church of Christ",
+				"lat": 36.1313304,
+				"lng": -97.06213369999999,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol><p>For overnight shelter, go to the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43910\">Payne County Expo Center</a> located at 4518 Expo Cir E, Stillwater, OK 74075, USA.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 43899,
+				"address": "421 E Richmond Rd, Stillwater, OK 74075, USA",
+				"name": "Evacuation Safe Place - Sunnybrook Christian Church",
+				"lat": 36.1731335,
+				"lng": -97.05476739999999,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol><p>For overnight shelter, go to the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43910\">Payne County Expo Center</a> located at 4518 Expo Cir E, Stillwater, OK 74075, USA.</p>",
 					"links": []
 				}
 			}
@@ -3219,7 +3189,7 @@
 	},
 	{
 		"id": 43835,
-		"is_active": true,
+		"is_active": false,
 		"name": "Farm Road Fire",
 		"description": null,
 		"lat": 36.71676,
@@ -3247,7 +3217,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:29:45Z",
-		"date_modified": "2025-03-14T22:31:55Z",
+		"date_modified": "2025-03-15T04:39:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4033,7 +4003,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T22:07:28Z",
-		"date_modified": "2025-03-15T03:28:17Z",
+		"date_modified": "2025-03-15T04:39:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4565,7 +4535,7 @@
 	},
 	{
 		"id": 43896,
-		"is_active": true,
+		"is_active": false,
 		"name": "Antelope Creek Fire",
 		"description": null,
 		"lat": 31.421054,
@@ -4593,7 +4563,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T00:10:48Z",
-		"date_modified": "2025-03-15T00:30:48Z",
+		"date_modified": "2025-03-15T04:39:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
