@@ -2294,23 +2294,7 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 43898,
-				"address": "910044 S 3430 Rd, Chandler, OK 74834",
-				"name": "Evacuation Shelter - Lincoln County Fair Grounds",
-				"lat": 35.6939605,
-				"lng": -96.8925845,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>The Lincoln County Fair Grounds is open as a shelter, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/Lincoln911okla/posts/pfbid0eia1PnPv3h1FDF6rRGPeEmej1yhCkxss4nU1vQuSkxMkmjnXf7FbWL6k6UM1Uh5Ll\">E911 Lincoln County, Oklahoma on Facebook</a>.</p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
@@ -4888,7 +4872,7 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
-					"information": "",
+					"information": "<p>Faith Baptist Church is open as a shelter for evacuees, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/FredericksburgFireEMS/posts/pfbid02juszWxT3q5f988CB9oJj2AYrmeYR7GyU2AdXUWb9uwkiBsGxWEX3rJKo17UwtUbZl\">Fredericksburg Fire EMS</a>.</p>",
 					"links": []
 				}
 			}
