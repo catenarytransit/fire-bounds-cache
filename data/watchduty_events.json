@@ -5017,7 +5017,7 @@
 	{
 		"id": 43930,
 		"is_active": true,
-		"name": "Vegetation Fire",
+		"name": "Crabapple Fire",
 		"description": null,
 		"lat": 30.3871175,
 		"lng": -98.8172568,
@@ -5030,7 +5030,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": null,
+			"acreage": 400,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -5044,7 +5044,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T18:49:53Z",
-		"date_modified": "2025-03-15T18:49:53Z",
+		"date_modified": "2025-03-15T19:11:59Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
