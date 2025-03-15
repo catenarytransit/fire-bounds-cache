@@ -874,45 +874,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 43680,
-		"is_active": false,
-		"name": "Cayton Fire",
-		"description": null,
-		"lat": 37.7743,
-		"lng": -107.974117,
-		"address": "54300 Block of CO-145, Durango, CO 81301",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": 100,
-			"acreage": 2.24,
-			"links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-03-13T02:03:14Z",
-		"date_modified": "2025-03-14T03:24:36Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "32ed66eb-ada6-4d21-ae8b-bc416f5c8d86",
-		"external_source": "wildcad",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 43682,
 		"is_active": true,
 		"name": "Rock Ridge Fire",
@@ -2432,23 +2393,7 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 43805,
-				"address": "2601 24th Ave SE, Norman, OK 73071, USA",
-				"name": "Evacuation Shelter - CrossePoint Church",
-				"lat": 35.187523,
-				"lng": -97.404484,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation shelter is available at CrossPointe Church located at 2601 24th Avenue SE, per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.normanok.gov/news/fire-updates-norman-oklahoma-march-2025\">City of Norman</a>.</p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
@@ -2690,23 +2635,7 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 43805,
-				"address": "2601 24th Ave SE, Norman, OK 73071, USA",
-				"name": "Evacuation Shelter - CrossePoint Church",
-				"lat": 35.187523,
-				"lng": -97.404484,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation shelter is available at CrossPointe Church located at 2601 24th Avenue SE, per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.normanok.gov/news/fire-updates-norman-oklahoma-march-2025\">City of Norman</a>.</p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
@@ -4170,19 +4099,19 @@
 			"containment": null,
 			"acreage": null,
 			"links": [],
-			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
+			"evacuation_orders": "Evacuations are in place. See Evacuation Map below",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": null,
+			"evacuation_notes": "See Evacuation Map linked here",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T22:07:28Z",
-		"date_modified": "2025-03-15T01:33:19Z",
+		"date_modified": "2025-03-15T03:28:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4220,7 +4149,10 @@
 				}
 			}
 		],
-		"parent_geo_events": []
+		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"Evacuations are in place. See Evacuation Map below"
+		]
 	},
 	{
 		"id": 43868,
@@ -4555,7 +4487,7 @@
 	},
 	{
 		"id": 43887,
-		"is_active": true,
+		"is_active": false,
 		"name": "Headache Hill Fire",
 		"description": null,
 		"lat": 36.836409,
@@ -4583,7 +4515,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T23:10:48Z",
-		"date_modified": "2025-03-14T23:14:37Z",
+		"date_modified": "2025-03-15T03:24:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
