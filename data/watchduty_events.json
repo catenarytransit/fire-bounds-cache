@@ -1506,8 +1506,8 @@
 		"is_active": true,
 		"name": "Rest Area Fire",
 		"description": null,
-		"lat": 35.186225,
-		"lng": -100.814749,
+		"lat": 35.191408759910274,
+		"lng": -100.8066432816088,
 		"address": "I-40, At Mile Marker 130, West of Alanreed",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1517,7 +1517,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": true,
 			"containment": 40,
-			"acreage": 4500,
+			"acreage": 7922,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1531,7 +1531,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T17:23:52Z",
-		"date_modified": "2025-03-15T17:18:15Z",
+		"date_modified": "2025-03-15T19:07:44Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
