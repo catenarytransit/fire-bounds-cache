@@ -3286,7 +3286,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:36:08Z",
-		"date_modified": "2025-03-14T22:02:12Z",
+		"date_modified": "2025-03-15T05:40:26Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3596,7 +3596,7 @@
 	},
 	{
 		"id": 43853,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 37.17170246143296,
@@ -3624,7 +3624,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T21:08:02Z",
-		"date_modified": "2025-03-15T01:29:36Z",
+		"date_modified": "2025-03-15T05:39:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4763,8 +4763,8 @@
 		"is_active": true,
 		"name": "Cass 1230 Fire",
 		"description": null,
-		"lat": 33.2513,
-		"lng": -94.1699,
+		"lat": 33.2527,
+		"lng": -94.1705,
 		"address": "500 Block of Co Rd 3559, Queen City, TX 75572",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -4774,7 +4774,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": 90,
-			"acreage": 3,
+			"acreage": 2,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -4788,7 +4788,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T03:40:48Z",
-		"date_modified": "2025-03-15T05:30:48Z",
+		"date_modified": "2025-03-15T05:35:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
