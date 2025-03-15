@@ -1070,7 +1070,7 @@
 	},
 	{
 		"id": 43722,
-		"is_active": true,
+		"is_active": false,
 		"name": "Wise Ln Fire",
 		"description": null,
 		"lat": 45.715064,
@@ -1098,7 +1098,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-13T20:01:06Z",
-		"date_modified": "2025-03-13T20:01:06Z",
+		"date_modified": "2025-03-15T04:47:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1669,7 +1669,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": true,
 			"containment": 50,
-			"acreage": 21000,
+			"acreage": 23000,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1683,7 +1683,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T16:31:09Z",
-		"date_modified": "2025-03-15T03:31:58Z",
+		"date_modified": "2025-03-15T04:48:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2650,6 +2650,36 @@
 					"information": "<p>Overnight shelter is available at the Payne County Expo Center, if needed. Cots will be provided - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid02cJLrQLR8bFANnHvKKTzfVVmWdAfJLn77dUFeF2F7wgHhFDS9rs3dRuwWhs9Cg3Nml\"><strong>City of Stillwater Emergency Management</strong></a></p>",
 					"links": []
 				}
+			},
+			{
+				"id": 43899,
+				"address": "421 E Richmond Rd, Stillwater, OK 74075, USA",
+				"name": "Evacuation Safe Place - Sunnybrook Christian Church",
+				"lat": 36.1731335,
+				"lng": -97.05476739999999,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol><p>For overnight shelter, go to the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43910\">Payne County Expo Center</a> located at 4518 Expo Cir E, Stillwater, OK 74075, USA.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 43892,
+				"address": "821 N Duck St, Stillwater, OK 74075, USA",
+				"name": "Evacuation Safe Place - Church of Christ",
+				"lat": 36.1313304,
+				"lng": -97.06213369999999,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol><p>For overnight shelter, go to the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43910\">Payne County Expo Center</a> located at 4518 Expo Cir E, Stillwater, OK 74075, USA.</p>",
+					"links": []
+				}
 			}
 		],
 		"parent_geo_events": [],
@@ -3016,11 +3046,11 @@
 				}
 			},
 			{
-				"id": 43892,
-				"address": "821 N Duck St, Stillwater, OK 74075, USA",
-				"name": "Evacuation Safe Place - Church of Christ",
-				"lat": 36.1313304,
-				"lng": -97.06213369999999,
+				"id": 43899,
+				"address": "421 E Richmond Rd, Stillwater, OK 74075, USA",
+				"name": "Evacuation Safe Place - Sunnybrook Christian Church",
+				"lat": 36.1731335,
+				"lng": -97.05476739999999,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
@@ -3031,11 +3061,11 @@
 				}
 			},
 			{
-				"id": 43899,
-				"address": "421 E Richmond Rd, Stillwater, OK 74075, USA",
-				"name": "Evacuation Safe Place - Sunnybrook Christian Church",
-				"lat": 36.1731335,
-				"lng": -97.05476739999999,
+				"id": 43892,
+				"address": "821 N Duck St, Stillwater, OK 74075, USA",
+				"name": "Evacuation Safe Place - Church of Christ",
+				"lat": 36.1313304,
+				"lng": -97.06213369999999,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
@@ -3162,8 +3192,8 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": null,
+			"is_fps": false,
+			"containment": 100,
 			"acreage": 4,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -3178,10 +3208,10 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:20:47Z",
-		"date_modified": "2025-03-14T20:45:47Z",
+		"date_modified": "2025-03-15T04:46:28Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "{E8C77114-FE22-4AB4-800A-DF41B09ED663}",
 		"external_source": "nifc",
 		"child_geo_events": [],
@@ -4915,6 +4945,45 @@
 		},
 		"date_created": "2025-03-15T04:28:38Z",
 		"date_modified": "2025-03-15T04:28:38Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 43917,
+		"is_active": true,
+		"name": "Copeland Fire",
+		"description": null,
+		"lat": 37.47814255929964,
+		"lng": -91.32402961229172,
+		"address": "County Road 5600 off County Rd 559, west of Bunker",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": 35,
+			"links": [],
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-15T04:44:13Z",
+		"date_modified": "2025-03-15T04:44:13Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
