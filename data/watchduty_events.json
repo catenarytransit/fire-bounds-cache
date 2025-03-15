@@ -4909,13 +4909,29 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T18:49:53Z",
-		"date_modified": "2025-03-15T20:31:06Z",
+		"date_modified": "2025-03-15T20:33:57Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 43932,
+				"address": "3022 N State Hwy 16, Fredericksburg, TX",
+				"name": "Faith Baptist Church (Shelter)",
+				"lat": 30.29746729999999,
+				"lng": -98.8291046,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": []
 	}
 ]
