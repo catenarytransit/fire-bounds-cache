@@ -874,45 +874,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 43679,
-		"is_active": false,
-		"name": "Buffalo Fire",
-		"description": null,
-		"lat": 40.417121,
-		"lng": -109.88019,
-		"address": "6100 block of E 7500 N, Lapoint",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": false,
-			"containment": 100,
-			"acreage": 93,
-			"links": [],
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": true
-		},
-		"date_created": "2025-03-13T01:43:16Z",
-		"date_modified": "2025-03-14T03:09:36Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": "48e1679e-0ad3-4980-bb56-2aed511543d8",
-		"external_source": "wildcad",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 43680,
 		"is_active": false,
 		"name": "Cayton Fire",
@@ -2438,10 +2399,10 @@
 	{
 		"id": 43796,
 		"is_active": true,
-		"name": "Vegetation Fire",
+		"name": "Post Oak Fire",
 		"description": null,
-		"lat": 35.16025271659434,
-		"lng": -97.28289037248021,
+		"lat": 35.16074299091299,
+		"lng": -97.28289702127205,
 		"address": "108th Avenue & Post Oak Road, Norman",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2453,10 +2414,10 @@
 			"containment": 100,
 			"acreage": null,
 			"links": [],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Along and east of 108th Street to 132nd Street and north of Post Oak Road to Highway 9",
+			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -2465,7 +2426,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T18:53:48Z",
-		"date_modified": "2025-03-15T02:03:43Z",
+		"date_modified": "2025-03-15T03:10:39Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2488,10 +2449,7 @@
 				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"Along and east of 108th Street to 132nd Street and north of Post Oak Road to Highway 9"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 43797,
@@ -2699,11 +2657,11 @@
 	{
 		"id": 43809,
 		"is_active": true,
-		"name": "Vegetation Fire",
+		"name": "Timberline Fire",
 		"description": null,
-		"lat": 35.2617461,
-		"lng": -97.2829231,
-		"address": "108th Avenue & Tecumseh Road, Norman",
+		"lat": 35.25489721910958,
+		"lng": -97.27730505940481,
+		"address": "S/E of 108th Avenue & Tecumseh Road, Norman",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -2711,13 +2669,13 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": null,
+			"containment": 100,
 			"acreage": null,
 			"links": [],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Residents 4 miles north and 4 miles east of 108th Avenue & Tecumseh Road should evacuate immediately All people in the area of 120th Ave SE to Lake Thunderbird, between Rock Creek Road and Franklin Road 108th NE & Spencer Circle",
+			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -2726,7 +2684,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:33:12Z",
-		"date_modified": "2025-03-14T23:00:47Z",
+		"date_modified": "2025-03-15T03:11:53Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2749,11 +2707,7 @@
 				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"Residents 4 miles north and 4 miles east of 108th Avenue & Tecumseh Road should evacuate immediately All people in the area of 120th Ave SE to Lake Thunderbird",
-			"between Rock Creek Road and Franklin Road 108th NE & Spencer Circle"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 43810,
@@ -2830,7 +2784,23 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 43910,
+				"address": "4518 Expo Cir E, Stillwater, OK 74075, USA",
+				"name": "Overnight Evacuation Shelter - Payne County Expo Center",
+				"lat": 36.1187001,
+				"lng": -96.9990078,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>Overnight shelter is available at the Payne County Expo Center, if needed. Cots will be provided - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid02cJLrQLR8bFANnHvKKTzfVVmWdAfJLn77dUFeF2F7wgHhFDS9rs3dRuwWhs9Cg3Nml\"><strong>City of Stillwater Emergency Management</strong></a></p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"Lake Mcmurtry and western Stillwater Including I-35 east of Orlando and Highway 51 between I-35 and Stillwater"
@@ -3172,7 +3142,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:14:32Z",
-		"date_modified": "2025-03-15T02:30:17Z",
+		"date_modified": "2025-03-15T03:12:30Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3236,6 +3206,21 @@
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
 					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43854\">Stillwater Community Center</a> at 315 W 8th Ave, Stillwater, OK 74074</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43891\">Stillwater High School Gym</a> at 1224 N Husband St, Stillwater, OK 74075</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol>",
+					"links": []
+				}
+			},
+			{
+				"id": 43910,
+				"address": "4518 Expo Cir E, Stillwater, OK 74075, USA",
+				"name": "Overnight Evacuation Shelter - Payne County Expo Center",
+				"lat": 36.1187001,
+				"lng": -96.9990078,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>Overnight shelter is available at the Payne County Expo Center, if needed. Cots will be provided - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid02cJLrQLR8bFANnHvKKTzfVVmWdAfJLn77dUFeF2F7wgHhFDS9rs3dRuwWhs9Cg3Nml\"><strong>City of Stillwater Emergency Management</strong></a></p>",
 					"links": []
 				}
 			}
@@ -4492,7 +4477,7 @@
 	},
 	{
 		"id": 43883,
-		"is_active": true,
+		"is_active": false,
 		"name": "Buster Fire",
 		"description": null,
 		"lat": 36.8613,
@@ -4520,7 +4505,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T23:05:48Z",
-		"date_modified": "2025-03-14T23:08:34Z",
+		"date_modified": "2025-03-15T03:09:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4885,9 +4870,9 @@
 		"is_active": true,
 		"name": "Onyx Fire",
 		"description": null,
-		"lat": 35.20016181625394,
-		"lng": -97.21236994251139,
-		"address": "156th Avenue Southeast & Onyx Avenue, Norman",
+		"lat": 35.20917525126424,
+		"lng": -97.20721859906966,
+		"address": "Northeast of 156th Avenue SE & Onyx Avenue, Norman",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -4910,7 +4895,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T01:54:15Z",
-		"date_modified": "2025-03-15T01:54:15Z",
+		"date_modified": "2025-03-15T03:14:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
