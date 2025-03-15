@@ -2381,7 +2381,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T18:45:48Z",
-		"date_modified": "2025-03-15T02:53:33Z",
+		"date_modified": "2025-03-15T02:58:51Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4205,21 +4205,6 @@
 		"external_source": null,
 		"child_geo_events": [
 			{
-				"id": 43893,
-				"address": "5113 N Harrison St, Shawnee, OK 74804, USA",
-				"name": "Evacuation Point - Life Church",
-				"lat": 35.38832360000001,
-				"lng": -96.90896269999999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>Evacuees may go to Life Church located at 5113 N Harrison St, Shawnee, OK 74804, USA, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/PottCoOEM/posts/pfbid02nSL7RVuivxxtpAkUANV73YiFfnMTzuWhJzzBq8uNgi3jp6YbrHUaqJn2eVX8P6QAl\">Pottawatomie County Emergency Management</a>.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 43903,
 				"address": "1700 W Independence St, Shawnee, OK 74804, USA",
 				"name": "Evacuation Point - The Expo",
@@ -4970,6 +4955,45 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 43909,
+		"is_active": true,
+		"name": "1980 Rd Fire",
+		"description": null,
+		"lat": 35.53794274475101,
+		"lng": -99.4483344505968,
+		"address": "Near N1980 Rd & E1020 Rd, Carpenter",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": 5,
+			"acreage": 2000,
+			"links": [],
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-15T03:00:48Z",
+		"date_modified": "2025-03-15T03:03:57Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": "{70C181B4-476C-42C5-A28F-51991B733F80}",
+		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
 	}
