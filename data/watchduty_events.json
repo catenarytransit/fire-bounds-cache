@@ -4980,8 +4980,8 @@
 		"is_active": true,
 		"name": "Yellowjacket Fire",
 		"description": null,
-		"lat": 29.797654,
-		"lng": -97.009824,
+		"lat": 29.810567,
+		"lng": -97.013433,
 		"address": "800 Block of N Farm to Market 609, Muldoon, TX 78949",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -5005,7 +5005,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T18:15:50Z",
-		"date_modified": "2025-03-15T18:20:49Z",
+		"date_modified": "2025-03-15T19:00:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
