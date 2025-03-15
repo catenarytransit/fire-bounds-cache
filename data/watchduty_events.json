@@ -4801,7 +4801,7 @@
 	{
 		"id": 43916,
 		"is_active": true,
-		"name": "Vegetation Fire",
+		"name": "Shaw Fire",
 		"description": null,
 		"lat": 35.94065937959688,
 		"lng": -96.57882692004587,
@@ -4814,7 +4814,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": null,
+			"acreage": 650,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -4828,7 +4828,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T04:28:38Z",
-		"date_modified": "2025-03-15T04:28:38Z",
+		"date_modified": "2025-03-15T09:07:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
