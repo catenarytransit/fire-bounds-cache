@@ -2680,7 +2680,7 @@
 		"description": null,
 		"lat": 37.407408,
 		"lng": -91.483864,
-		"address": null,
+		"address": "6 miles South of Gladden, MO",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -2703,7 +2703,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T01:28:53Z",
-		"date_modified": "2025-03-15T01:28:53Z",
+		"date_modified": "2025-03-16T15:49:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
