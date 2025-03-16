@@ -1246,32 +1246,26 @@
 			"containment": 50,
 			"acreage": 8512,
 			"links": [],
-			"has_custom_evacuation_orders": true,
-			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Northeast of 68th and Underwood",
-			"evacuation_warnings": "Between 32nd/56th and Greenwood/Markham",
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": null,
+			"evacuation_notes": "Evacuation notices issued via Wireless Emergency Alerts have been removed from this incident. Approximately 48 hours have passed without any official follow-up information, and no further action related to these evacuations have been provided. We will promptly update this incident if new details become available.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T18:45:48Z",
-		"date_modified": "2025-03-16T17:17:03Z",
+		"date_modified": "2025-03-16T18:02:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": "{247083A6-5098-4863-A8D3-D001ABDEE566}",
 		"external_source": "nifc",
 		"child_geo_events": [],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"Northeast of 68th and Underwood"
-		],
-		"evacuation_warnings_arr": [
-			"Between 32nd/56th and Greenwood/Markham"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 43796,
@@ -1486,19 +1480,19 @@
 			"containment": null,
 			"acreage": null,
 			"links": [],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Lake Mcmurtry and western Stillwater Including I-35 east of Orlando and Highway 51 between I-35 and Stillwater",
+			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": null,
+			"evacuation_notes": "Evacuation notices issued via Wireless Emergency Alerts have been removed from this incident. Approximately 48 hours have passed without any official follow-up information, and no further action related to these evacuations have been provided. We will promptly update this incident if new details become available.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:37:58Z",
-		"date_modified": "2025-03-14T23:46:00Z",
+		"date_modified": "2025-03-16T18:00:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1551,10 +1545,7 @@
 				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"Lake Mcmurtry and western Stillwater Including I-35 east of Orlando and Highway 51 between I-35 and Stillwater"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 43818,
@@ -1936,19 +1927,19 @@
 			"containment": null,
 			"acreage": null,
 			"links": [],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Velma",
+			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": null,
+			"evacuation_notes": "Evacuation notices issued via Wireless Emergency Alerts have been removed from this incident. Approximately 48 hours have passed without any official follow-up information, and no further action related to these evacuations have been provided. We will promptly update this incident if new details become available.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:36:08Z",
-		"date_modified": "2025-03-15T23:39:35Z",
+		"date_modified": "2025-03-16T18:04:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1971,10 +1962,7 @@
 				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"Velma"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 43841,
@@ -1994,19 +1982,19 @@
 			"containment": null,
 			"acreage": null,
 			"links": [],
-			"has_custom_evacuation_orders": true,
-			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Frost, Coyle, and Langston.",
-			"evacuation_warnings": "Between Prairie Grove/Cooksey & Douglas/Choctaw Rd.",
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": null,
+			"evacuation_notes": "Evacuation notices issued via Wireless Emergency Alerts have been removed from this incident. Approximately 48 hours have passed without any official follow-up information, and no further action related to these evacuations have been provided. We will promptly update this incident if new details become available.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:41:17Z",
-		"date_modified": "2025-03-15T03:36:49Z",
+		"date_modified": "2025-03-16T18:05:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2029,15 +2017,7 @@
 				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"Frost",
-			"Coyle",
-			"and Langston."
-		],
-		"evacuation_warnings_arr": [
-			"Between Prairie Grove/Cooksey & Douglas/Choctaw Rd."
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 43845,
@@ -2141,13 +2121,13 @@
 			"evacuation_orders": "Evacuate from Blackburn. This area is in IMMEDIATE DANGER.",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": null,
+			"evacuation_notes": "Evacuation notices issued via Wireless Emergency Alerts have been removed from this incident. Approximately 48 hours have passed without any official follow-up information, and no further action related to these evacuations have been provided. We will promptly update this incident if new details become available.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:58:00Z",
-		"date_modified": "2025-03-16T17:33:32Z",
+		"date_modified": "2025-03-16T18:01:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2177,19 +2157,19 @@
 			"containment": 10,
 			"acreage": 11192,
 			"links": [],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Mannford North of HWY 48 & 91st Street. North of 61st Street & 369 West",
+			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": null,
+			"evacuation_notes": "Evacuation notices issued via Wireless Emergency Alerts have been removed from this incident. Approximately 48 hours have passed without any official follow-up information, and no further action related to these evacuations have been provided. We will promptly update this incident if new details become available.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T21:05:30Z",
-		"date_modified": "2025-03-16T17:14:05Z",
+		"date_modified": "2025-03-16T18:02:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2212,10 +2192,7 @@
 				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"Mannford North of HWY 48 & 91st Street. North of 61st Street & 369 West"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 43855,
@@ -2392,18 +2369,18 @@
 			"acreage": null,
 			"links": [],
 			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": null,
-			"evacuation_warnings": "Between Cimmaron Turnpike/South Edge of Cleveland. Between CR-3670/Lake Keystone",
+			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": null,
+			"evacuation_notes": "Evacuation notices issued via Wireless Emergency Alerts have been removed from this incident. Approximately 48 hours have passed without any official follow-up information, and no further action related to these evacuations have been provided. We will promptly update this incident if new details become available.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T21:48:14Z",
-		"date_modified": "2025-03-15T03:56:52Z",
+		"date_modified": "2025-03-16T18:01:46Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2426,10 +2403,7 @@
 				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_warnings_arr": [
-			"Between Cimmaron Turnpike/South Edge of Cleveland. Between CR-3670/Lake Keystone"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 43866,
@@ -3554,8 +3528,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 50,
-			"acreage": 20,
+			"containment": 75,
+			"acreage": 22,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -3569,7 +3543,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T21:46:01Z",
-		"date_modified": "2025-03-16T03:55:16Z",
+		"date_modified": "2025-03-16T18:05:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
