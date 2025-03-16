@@ -46912,7 +46912,7 @@
         "attr_OrganizationalAssessment" : null, 
         "attr_StratDecisionPublishDate" : null, 
         "attr_CreatedOnDateTime_dt" : 1741979200570, 
-        "attr_ModifiedOnDateTime_dt" : 1742088800490, 
+        "attr_ModifiedOnDateTime_dt" : 1742090717277, 
         "attr_Source" : "IRWIN", 
         "attr_ActiveFireCandidate" : 1, 
         "attr_IsCpxChild" : 0, 
@@ -48933,8 +48933,8 @@
         "attr_ContainmentDateTime" : null, 
         "attr_ControlDateTime" : null, 
         "attr_CreatedBySystem" : "firesponse", 
-        "attr_IncidentSize" : 57.4, 
-        "attr_DiscoveryAcres" : 57.4, 
+        "attr_IncidentSize" : 58.3, 
+        "attr_DiscoveryAcres" : 58.3, 
         "attr_DispatchCenterID" : "TXTIC", 
         "attr_EstimatedCostToDate" : null, 
         "attr_FinalAcres" : null, 
@@ -48983,7 +48983,7 @@
         "attr_IsUnifiedCommand" : 0, 
         "attr_LocalIncidentIdentifier" : "251257", 
         "attr_ModifiedBySystem" : "firesponse", 
-        "attr_PercentContained" : 50, 
+        "attr_PercentContained" : 75, 
         "attr_PercentPerimToBeContained" : null, 
         "attr_POOCity" : null, 
         "attr_POOCounty" : "Duval", 
@@ -49016,7 +49016,7 @@
         "attr_OrganizationalAssessment" : null, 
         "attr_StratDecisionPublishDate" : null, 
         "attr_CreatedOnDateTime_dt" : 1742074721940, 
-        "attr_ModifiedOnDateTime_dt" : 1742080336570, 
+        "attr_ModifiedOnDateTime_dt" : 1742090969630, 
         "attr_Source" : "IRWIN", 
         "attr_ActiveFireCandidate" : 1, 
         "attr_IsCpxChild" : 0, 
@@ -49026,7 +49026,7 @@
         "GlobalID" : "32ce79d5-1323-4ba7-9e62-40ba9c5fdada", 
         "Shape__Area" : 2.1652604345945292E-05, 
         "Shape__Length" : 0.022524731992401216, 
-        "attr_IncidentComplexityLevel" : null
+        "attr_IncidentComplexityLevel" : "Type 5 Incident"
       }
     }
   ]
