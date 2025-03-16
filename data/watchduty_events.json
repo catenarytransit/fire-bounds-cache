@@ -1892,8 +1892,8 @@
 		"is_active": true,
 		"name": "Elliott Fire",
 		"description": null,
-		"lat": 37.730046685864295,
-		"lng": -92.29866624577858,
+		"lat": 37.730827621533464,
+		"lng": -92.29824877894123,
 		"address": "3 miles south of Laquey, Mark Twain National Forest",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1917,7 +1917,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:19:26Z",
-		"date_modified": "2025-03-15T21:30:22Z",
+		"date_modified": "2025-03-16T16:46:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
