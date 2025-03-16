@@ -953,7 +953,7 @@
 	},
 	{
 		"id": 43767,
-		"is_active": true,
+		"is_active": false,
 		"name": "South Tripp Fire",
 		"description": null,
 		"lat": 43.069733,
@@ -981,7 +981,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T16:17:28Z",
-		"date_modified": "2025-03-15T20:59:15Z",
+		"date_modified": "2025-03-16T05:09:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1509,7 +1509,7 @@
 	},
 	{
 		"id": 43804,
-		"is_active": true,
+		"is_active": false,
 		"name": "Conco Hill Fire",
 		"description": null,
 		"lat": 33.206111,
@@ -1537,7 +1537,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:10:48Z",
-		"date_modified": "2025-03-15T21:00:49Z",
+		"date_modified": "2025-03-16T05:09:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4780,8 +4780,8 @@
 		"is_active": true,
 		"name": "Brazoria 1279 Fire",
 		"description": null,
-		"lat": 29.03078,
-		"lng": -95.70186,
+		"lat": 29.029269,
+		"lng": -95.697579,
 		"address": "16400 Block of County Rd 946, Brazoria, TX 77422",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -4805,7 +4805,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-16T04:15:16Z",
-		"date_modified": "2025-03-16T04:15:16Z",
+		"date_modified": "2025-03-16T05:05:23Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
