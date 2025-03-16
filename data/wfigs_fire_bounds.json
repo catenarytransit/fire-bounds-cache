@@ -49600,7 +49600,7 @@
         "attr_FireCause" : "Undetermined", 
         "attr_FireCauseGeneral" : null, 
         "attr_FireCauseSpecific" : null, 
-        "attr_FireCode" : null, 
+        "attr_FireCode" : "SHG3", 
         "attr_FireDepartmentID" : null, 
         "attr_FireDiscoveryDateTime" : 1741981357000, 
         "attr_FireMgmtComplexity" : null, 
@@ -49634,7 +49634,7 @@
         "attr_IsTrespass" : null, 
         "attr_IsUnifiedCommand" : 0, 
         "attr_LocalIncidentIdentifier" : "000190", 
-        "attr_ModifiedBySystem" : "wildcade", 
+        "attr_ModifiedBySystem" : "firecode", 
         "attr_PercentContained" : 95, 
         "attr_PercentPerimToBeContained" : 100, 
         "attr_POOCity" : "Waynesville MO", 
@@ -49668,7 +49668,7 @@
         "attr_OrganizationalAssessment" : null, 
         "attr_StratDecisionPublishDate" : null, 
         "attr_CreatedOnDateTime_dt" : 1741984114713, 
-        "attr_ModifiedOnDateTime_dt" : 1742069193110, 
+        "attr_ModifiedOnDateTime_dt" : 1742133032670, 
         "attr_Source" : "IRWIN", 
         "attr_ActiveFireCandidate" : 1, 
         "attr_IsCpxChild" : 0, 
@@ -49678,7 +49678,7 @@
         "GlobalID" : "75fde1d7-cdec-4382-917d-6cdff6b1cb0c", 
         "Shape__Area" : 5.7244062418249086E-05, 
         "Shape__Length" : 0.035469808474866076, 
-        "attr_IncidentComplexityLevel" : null
+        "attr_IncidentComplexityLevel" : "Type 4 Incident"
       }
     }, 
     {
