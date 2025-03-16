@@ -2669,7 +2669,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T01:28:53Z",
-		"date_modified": "2025-03-16T18:54:28Z",
+		"date_modified": "2025-03-16T19:00:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4259,8 +4259,8 @@
 		"is_active": true,
 		"name": "Newton 1299 Fire",
 		"description": null,
-		"lat": 30.707065,
-		"lng": -93.680236,
+		"lat": 30.634383,
+		"lng": -93.710767,
 		"address": "500 Block of County Rd 4089, Bon Wier, TX 75928",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -4284,7 +4284,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-16T18:50:59Z",
-		"date_modified": "2025-03-16T18:50:59Z",
+		"date_modified": "2025-03-16T19:00:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4298,8 +4298,8 @@
 		"is_active": true,
 		"name": "Cass 1300 Fire",
 		"description": null,
-		"lat": 33.165833,
-		"lng": -94.593333,
+		"lat": 33.165267,
+		"lng": -94.594,
 		"address": "100 Block of Co Rd 2755, Naples, TX 75568",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -4323,7 +4323,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-16T18:55:59Z",
-		"date_modified": "2025-03-16T18:55:59Z",
+		"date_modified": "2025-03-16T19:05:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
