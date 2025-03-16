@@ -1408,34 +1408,26 @@
 			"containment": 25,
 			"acreage": 6643,
 			"links": [],
-			"has_custom_evacuation_orders": true,
-			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Frost, Coyle, and Langston 220th/Coffee Creek and Waterloo and Hiwassee and Choctaw Road Charter Oak/Industrial and Henny/Pottawatomie Road",
-			"evacuation_warnings": "Between Triple XXX Rd and Luther Rd and 234th/Waterloo Between CR-3300 and CR-3350 and SH-105 and CR-760.",
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": null,
+			"evacuation_notes": "Evacuation notices issued via Wireless Emergency Alerts have been removed from this incident. Approximately 48 hours have passed without any official follow-up information, and no further action related to these evacuations have been provided. We will promptly update this incident if new details become available.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:28:24Z",
-		"date_modified": "2025-03-16T17:12:48Z",
+		"date_modified": "2025-03-16T17:58:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"Frost",
-			"Coyle",
-			"and Langston 220th/Coffee Creek and Waterloo and Hiwassee and Choctaw Road Charter Oak/Industrial and Henny/Pottawatomie Road"
-		],
-		"evacuation_warnings_arr": [
-			"Between Triple XXX Rd and Luther Rd and 234th/Waterloo Between CR-3300 and CR-3350 and SH-105 and CR-760."
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 43810,
@@ -3352,7 +3344,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 40,
-			"acreage": 8640,
+			"acreage": 9657,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -3366,7 +3358,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T18:49:53Z",
-		"date_modified": "2025-03-16T16:48:27Z",
+		"date_modified": "2025-03-16T17:55:26Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
