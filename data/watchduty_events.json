@@ -1264,38 +1264,7 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 43779,
-				"address": "203 N West St, Pampa, TX 79065, USA",
-				"name": "Evacuation Shelter - First Baptist Pampa",
-				"lat": 35.5346678,
-				"lng": -100.9680238,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation shelter is set up at the First Baptist Church in Pampa located at 203 N West St, Pampa, TX, per Gray County Emergency Management via a <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\">Wireless Emergency Alert</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 43847,
-				"address": "400 E Railroad Ave, Shamrock, TX",
-				"name": "City of Shamrock Convention Center",
-				"lat": 35.2131153,
-				"lng": -100.2450274,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
@@ -1695,45 +1664,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 43806,
-		"is_active": false,
-		"name": "Vegetation Fire",
-		"description": null,
-		"lat": 33.0256915,
-		"lng": -97.74766559999999,
-		"address": "1400 3 Skillet Rd, near Springtown, TX",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": false,
-			"containment": null,
-			"acreage": null,
-			"links": [],
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-03-14T19:22:58Z",
-		"date_modified": "2025-03-15T00:25:27Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 43807,
 		"is_active": false,
 		"name": "Hog Hollow Fire",
@@ -2026,7 +1956,7 @@
 	},
 	{
 		"id": 43818,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 35.78701537073043,
@@ -2054,7 +1984,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:47:04Z",
-		"date_modified": "2025-03-15T20:23:24Z",
+		"date_modified": "2025-03-16T00:24:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4801,7 +4731,7 @@
 	{
 		"id": 43937,
 		"is_active": true,
-		"name": "Real 1255 Fire",
+		"name": "Chicken Strip Fire",
 		"description": null,
 		"lat": 29.858224,
 		"lng": -99.752513,
@@ -4813,8 +4743,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
-			"acreage": 40,
+			"containment": 30,
+			"acreage": 20,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -4828,7 +4758,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T21:46:01Z",
-		"date_modified": "2025-03-15T21:46:01Z",
+		"date_modified": "2025-03-16T00:30:16Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
