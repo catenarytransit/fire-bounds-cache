@@ -4162,10 +4162,10 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-16T01:02:39Z",
-		"date_modified": "2025-03-16T09:39:29Z",
+		"date_modified": "2025-03-16T11:31:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": true,
+		"reporter_managed": false,
 		"external_id": "155e79ba-25aa-4721-b050-d625beb1ee48",
 		"external_source": "wildcad",
 		"child_geo_events": [],
