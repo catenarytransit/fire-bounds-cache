@@ -3474,7 +3474,7 @@
 	},
 	{
 		"id": 43913,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 37.8718463,
@@ -3502,7 +3502,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T03:56:42Z",
-		"date_modified": "2025-03-16T03:09:57Z",
+		"date_modified": "2025-03-16T07:24:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4387,7 +4387,7 @@
 	},
 	{
 		"id": 43947,
-		"is_active": true,
+		"is_active": false,
 		"name": "Harris 1269 Fire",
 		"description": null,
 		"lat": 29.93571,
@@ -4415,7 +4415,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T23:40:58Z",
-		"date_modified": "2025-03-16T01:11:16Z",
+		"date_modified": "2025-03-16T07:24:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
