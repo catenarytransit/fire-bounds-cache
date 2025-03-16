@@ -79,7 +79,7 @@
 	},
 	{
 		"id": 43381,
-		"is_active": true,
+		"is_active": false,
 		"name": "Maker Fire",
 		"description": null,
 		"lat": 36.401604,
@@ -94,7 +94,7 @@
 			"is_fps": false,
 			"containment": 70,
 			"acreage": 216.9,
-			"links": null,
+			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
@@ -107,7 +107,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-10T13:59:22Z",
-		"date_modified": "2025-03-10T23:38:10Z",
+		"date_modified": "2025-03-16T19:30:02Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -173,7 +173,7 @@
 	},
 	{
 		"id": 43425,
-		"is_active": true,
+		"is_active": false,
 		"name": "Acorn Fire",
 		"description": null,
 		"lat": 36.321944,
@@ -201,7 +201,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-10T20:15:57Z",
-		"date_modified": "2025-03-12T18:30:46Z",
+		"date_modified": "2025-03-16T19:31:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -251,7 +251,7 @@
 	},
 	{
 		"id": 43558,
-		"is_active": true,
+		"is_active": false,
 		"name": "Nadel Fire",
 		"description": null,
 		"lat": 36.33921936105068,
@@ -279,7 +279,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-11T22:40:35Z",
-		"date_modified": "2025-03-13T17:15:09Z",
+		"date_modified": "2025-03-16T19:30:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,

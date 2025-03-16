@@ -50470,8 +50470,8 @@
         "attr_ContainmentDateTime" : null, 
         "attr_ControlDateTime" : null, 
         "attr_CreatedBySystem" : "firesponse", 
-        "attr_IncidentSize" : 8640, 
-        "attr_DiscoveryAcres" : 8640, 
+        "attr_IncidentSize" : 9500, 
+        "attr_DiscoveryAcres" : 9500, 
         "attr_DispatchCenterID" : "TXTIC", 
         "attr_EstimatedCostToDate" : 0, 
         "attr_FinalAcres" : null, 
@@ -50519,7 +50519,7 @@
         "attr_IsTrespass" : null, 
         "attr_IsUnifiedCommand" : 0, 
         "attr_LocalIncidentIdentifier" : "251250", 
-        "attr_ModifiedBySystem" : "IROC", 
+        "attr_ModifiedBySystem" : "firesponse", 
         "attr_PercentContained" : 40, 
         "attr_PercentPerimToBeContained" : 100, 
         "attr_POOCity" : null, 
@@ -50553,7 +50553,7 @@
         "attr_OrganizationalAssessment" : null, 
         "attr_StratDecisionPublishDate" : null, 
         "attr_CreatedOnDateTime_dt" : 1742065778673, 
-        "attr_ModifiedOnDateTime_dt" : 1742137567617, 
+        "attr_ModifiedOnDateTime_dt" : 1742153123910, 
         "attr_Source" : "IRWIN", 
         "attr_ActiveFireCandidate" : 1, 
         "attr_IsCpxChild" : 0, 
@@ -50563,7 +50563,7 @@
         "GlobalID" : "a0df9fc3-4629-4fd3-809b-692056223362", 
         "Shape__Area" : 0.0037102962737662892, 
         "Shape__Length" : 0.3934971383374446, 
-        "attr_IncidentComplexityLevel" : null
+        "attr_IncidentComplexityLevel" : "Type 3 Incident"
       }
     }, 
     {
