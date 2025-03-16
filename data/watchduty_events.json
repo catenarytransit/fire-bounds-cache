@@ -3986,8 +3986,8 @@
 		"is_active": false,
 		"name": "Walker 1281 Fire",
 		"description": null,
-		"lat": 30.620535,
-		"lng": -95.478541,
+		"lat": 30.617631,
+		"lng": -95.480355,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -4011,7 +4011,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-16T04:00:16Z",
-		"date_modified": "2025-03-16T11:09:37Z",
+		"date_modified": "2025-03-16T18:30:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
