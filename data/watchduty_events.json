@@ -499,7 +499,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 70,
-			"acreage": 550,
+			"acreage": 706,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -513,7 +513,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-12T23:35:52Z",
-		"date_modified": "2025-03-14T13:14:36Z",
+		"date_modified": "2025-03-16T13:12:02Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4251,7 +4251,7 @@
 	},
 	{
 		"id": 43958,
-		"is_active": true,
+		"is_active": false,
 		"name": "Brazoria 1279 Fire",
 		"description": null,
 		"lat": 29.029269,
@@ -4279,7 +4279,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-16T04:15:16Z",
-		"date_modified": "2025-03-16T06:55:17Z",
+		"date_modified": "2025-03-16T13:09:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
