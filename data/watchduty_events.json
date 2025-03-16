@@ -3261,7 +3261,7 @@
 	{
 		"id": 43922,
 		"is_active": true,
-		"name": "Persimon Ridge Fire",
+		"name": "Persimmon Ridge Fire",
 		"description": null,
 		"lat": 37.0984,
 		"lng": -90.5867,
@@ -3288,7 +3288,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T14:24:56Z",
-		"date_modified": "2025-03-15T17:20:14Z",
+		"date_modified": "2025-03-16T12:42:45Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
