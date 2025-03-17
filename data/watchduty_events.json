@@ -3746,8 +3746,8 @@
 		"is_active": true,
 		"name": "Jasper 1317 Fire",
 		"description": null,
-		"lat": 30.53185,
-		"lng": -93.935117,
+		"lat": 30.53173,
+		"lng": -93.934621,
 		"address": "200 Block of Co Rd 613, Buna, TX 77612",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -3771,7 +3771,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T00:10:57Z",
-		"date_modified": "2025-03-17T03:25:57Z",
+		"date_modified": "2025-03-17T13:01:03Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
