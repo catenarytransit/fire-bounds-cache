@@ -2390,7 +2390,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T18:49:53Z",
-		"date_modified": "2025-03-17T01:21:24Z",
+		"date_modified": "2025-03-17T12:48:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3782,7 +3782,7 @@
 	},
 	{
 		"id": 43989,
-		"is_active": true,
+		"is_active": false,
 		"name": "Spring Hollow Fire",
 		"description": null,
 		"lat": 37.52945,
@@ -3810,7 +3810,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T00:13:18Z",
-		"date_modified": "2025-03-17T04:40:43Z",
+		"date_modified": "2025-03-17T12:54:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
