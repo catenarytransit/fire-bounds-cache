@@ -3882,35 +3882,19 @@
 			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "Large Animal evacuation area is set up at The Ranch, 5280 Arena Circle Loveland, CO.",
+			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T19:29:55Z",
-		"date_modified": "2025-03-17T22:08:28Z",
+		"date_modified": "2025-03-17T22:27:40Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": "ba5f880d-f284-4c42-bc11-e5bb80d5ff57",
 		"external_source": "wildcad",
-		"child_geo_events": [
-			{
-				"id": 44047,
-				"address": "The Ranch, 5280 Arena Circle Loveland, CO.",
-				"name": "The Ranch Events Center & Complex",
-				"lat": 40.4425676,
-				"lng": -104.9881699,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Large Animal evacuations is being set up at The Ranch, 5280 Arena Circle Loveland, CO.</p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
@@ -4305,7 +4289,7 @@
 	},
 	{
 		"id": 44055,
-		"is_active": true,
+		"is_active": false,
 		"name": "Jasper 1390 Fire",
 		"description": null,
 		"lat": 30.676517,
@@ -4333,7 +4317,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T21:45:17Z",
-		"date_modified": "2025-03-17T22:15:17Z",
+		"date_modified": "2025-03-17T22:20:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4455,6 +4439,45 @@
 		"incident_id": null,
 		"reporter_managed": false,
 		"external_id": "{DA12A3D4-B0DC-4695-991F-C0F1D0417AB3}",
+		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 44065,
+		"is_active": true,
+		"name": "Marion 1380 Fire",
+		"description": null,
+		"lat": 32.79651,
+		"lng": -94.642436,
+		"address": "200 Block of Alida Dr, Ore City, TX 75683",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": 70,
+			"acreage": 3,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-17T22:20:17Z",
+		"date_modified": "2025-03-17T22:25:17Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "{449B0FCB-8488-4790-B5EA-458600339C12}",
 		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
