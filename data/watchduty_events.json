@@ -3921,19 +3921,35 @@
 			"evacuation_orders": "County Road 23 on the east going west to County Road 31 and Between Homer Rd on the north south to County Road 6.",
 			"evacuation_warnings": "N County Road 23 on the east going west to Highway 287 and between 42nd St SW on the north and south to W County Road 8.",
 			"evacuation_advisories": null,
-			"evacuation_notes": "Evacuation updates can be found at NOCO Alerts and the interactive map can be found here: NOCOALERT Map on Google. County Road 8E is closed at County Road 23 westbound.",
+			"evacuation_notes": "Evacuation updates can be found at NOCO Alerts and the interactive map can be found here: NOCOALERT Map on Google. A Large Animal evacuation area is being set up at The Ranch, 5280 Arena Circle Loveland, CO. County Road 8E is closed at County Road 23 westbound.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T19:29:55Z",
-		"date_modified": "2025-03-17T20:23:02Z",
+		"date_modified": "2025-03-17T20:45:26Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": "ba5f880d-f284-4c42-bc11-e5bb80d5ff57",
 		"external_source": "wildcad",
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 44047,
+				"address": "5054 Hulson Pl, Berthoud",
+				"name": "The Ranch Events Center & Complex",
+				"lat": 40.314532334016036,
+				"lng": -105.1688620227084,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Large Animal evacuations is being set up at The Ranch, 5280 Arena Circle Loveland, CO.</p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"County Road 23 on the east going west to County Road 31 and Between Homer Rd on the north south to County Road 6."
