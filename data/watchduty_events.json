@@ -3916,10 +3916,10 @@
 			"acreage": null,
 			"links": [],
 			"has_custom_evacuation_orders": true,
-			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Localized evacuations are taking place, be sure to follow law enforcement instructions.",
-			"evacuation_warnings": null,
+			"evacuation_orders": "County Road 23 on the east going west to County Road 31 and Between Homer Rd on the north south to County Road 6.",
+			"evacuation_warnings": "N County Road 23 on the east going west to Highway 287 and between 42nd St SW on the north and south to W County Road 8.",
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
 			"is_complex_parent": false,
@@ -3927,7 +3927,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T19:29:55Z",
-		"date_modified": "2025-03-17T19:39:29Z",
+		"date_modified": "2025-03-17T19:55:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3936,8 +3936,10 @@
 		"child_geo_events": [],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"Localized evacuations are taking place",
-			"be sure to follow law enforcement instructions."
+			"County Road 23 on the east going west to County Road 31 and Between Homer Rd on the north south to County Road 6."
+		],
+		"evacuation_warnings_arr": [
+			"N County Road 23 on the east going west to Highway 287 and between 42nd St SW on the north and south to W County Road 8."
 		]
 	},
 	{
@@ -3975,6 +3977,45 @@
 		"incident_id": null,
 		"reporter_managed": false,
 		"external_id": "{EC37EB9F-3AA3-4941-AF66-4978C133C585}",
+		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 44041,
+		"is_active": true,
+		"name": "567 Joliet Fromberg Rd Fire",
+		"description": null,
+		"lat": 45.417825,
+		"lng": -108.917221,
+		"address": "500 Block of Joliet-Fromberg Rd, Bridger, MT 59014",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": null,
+			"acreage": 26.5,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-17T19:55:17Z",
+		"date_modified": "2025-03-17T19:55:17Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "{0C506D17-0CCE-45B1-890C-A24EEA88F836}",
 		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
