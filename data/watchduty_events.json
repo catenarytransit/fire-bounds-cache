@@ -485,7 +485,7 @@
 	},
 	{
 		"id": 43676,
-		"is_active": true,
+		"is_active": false,
 		"name": "Stanley Fire",
 		"description": null,
 		"lat": 36.5075,
@@ -513,7 +513,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-12T23:50:52Z",
-		"date_modified": "2025-03-16T22:51:48Z",
+		"date_modified": "2025-03-17T06:54:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3782,7 +3782,7 @@
 	},
 	{
 		"id": 43984,
-		"is_active": true,
+		"is_active": false,
 		"name": "Enough Fire",
 		"description": null,
 		"lat": 37.70095,
@@ -3810,7 +3810,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-16T23:09:16Z",
-		"date_modified": "2025-03-17T02:42:19Z",
+		"date_modified": "2025-03-17T06:54:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
