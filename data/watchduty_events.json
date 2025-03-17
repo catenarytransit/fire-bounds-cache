@@ -2807,7 +2807,7 @@
 	},
 	{
 		"id": 43951,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cemetery Fire",
 		"description": null,
 		"lat": 29.716974,
@@ -2835,7 +2835,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-16T01:02:39Z",
-		"date_modified": "2025-03-16T11:31:01Z",
+		"date_modified": "2025-03-17T08:05:13Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
