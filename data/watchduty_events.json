@@ -2562,7 +2562,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-16T17:22:48Z",
-		"date_modified": "2025-03-17T18:53:12Z",
+		"date_modified": "2025-03-17T20:54:44Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2586,7 +2586,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 70,
+			"containment": 95,
 			"acreage": 1691,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -2601,7 +2601,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-16T17:27:33Z",
-		"date_modified": "2025-03-17T07:58:52Z",
+		"date_modified": "2025-03-17T20:58:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3919,7 +3919,7 @@
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": "County Road 23 on the east going west to County Road 31 and Between Homer Rd on the north south to County Road 6.",
-			"evacuation_warnings": "N County Road 23 on the east going west to Highway 287 and between 42nd St SW on the north and south to W County Road 8.",
+			"evacuation_warnings": "N County Road 23 on the east going east to Highway 287 and between 42nd St SW on the north and south to W County Road 8.",
 			"evacuation_advisories": null,
 			"evacuation_notes": "Evacuation updates can be found at NOCO Alerts and the interactive map can be found here: NOCOALERT Map on Google. A Large Animal evacuation area is being set up at The Ranch, 5280 Arena Circle Loveland, CO. County Road 8E is closed at County Road 23 westbound.",
 			"is_complex_parent": false,
@@ -3927,7 +3927,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T19:29:55Z",
-		"date_modified": "2025-03-17T20:45:26Z",
+		"date_modified": "2025-03-17T20:59:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3936,10 +3936,10 @@
 		"child_geo_events": [
 			{
 				"id": 44047,
-				"address": "5054 Hulson Pl, Berthoud",
+				"address": "The Ranch, 5280 Arena Circle Loveland, CO.",
 				"name": "The Ranch Events Center & Complex",
-				"lat": 40.314532334016036,
-				"lng": -105.1688620227084,
+				"lat": 40.4425676,
+				"lng": -104.9881699,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
@@ -3955,7 +3955,7 @@
 			"County Road 23 on the east going west to County Road 31 and Between Homer Rd on the north south to County Road 6."
 		],
 		"evacuation_warnings_arr": [
-			"N County Road 23 on the east going west to Highway 287 and between 42nd St SW on the north and south to W County Road 8."
+			"N County Road 23 on the east going east to Highway 287 and between 42nd St SW on the north and south to W County Road 8."
 		]
 	},
 	{
@@ -3973,7 +3973,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 25,
+			"containment": 100,
 			"acreage": 3,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -3988,7 +3988,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T19:40:17Z",
-		"date_modified": "2025-03-17T20:01:17Z",
+		"date_modified": "2025-03-17T20:56:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4168,7 +4168,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
+			"containment": 100,
 			"acreage": 1,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -4183,11 +4183,50 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T20:31:17Z",
-		"date_modified": "2025-03-17T20:31:17Z",
+		"date_modified": "2025-03-17T20:56:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
 		"external_id": "{F8ACD327-1D09-4378-9835-370120DBC53F}",
+		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 44048,
+		"is_active": true,
+		"name": "Progreso Fire",
+		"description": null,
+		"lat": 26.060564,
+		"lng": -97.927799,
+		"address": null,
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": null,
+			"acreage": 4,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-17T20:56:18Z",
+		"date_modified": "2025-03-17T20:56:18Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "{4CBF6B7B-E961-45DC-9C68-18A455E758B4}",
 		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
