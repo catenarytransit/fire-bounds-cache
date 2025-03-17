@@ -840,7 +840,7 @@
 	},
 	{
 		"id": 43778,
-		"is_active": true,
+		"is_active": false,
 		"name": "Rest Area Fire",
 		"description": null,
 		"lat": 35.191408759910274,
@@ -868,7 +868,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T17:23:52Z",
-		"date_modified": "2025-03-17T00:58:30Z",
+		"date_modified": "2025-03-17T09:09:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
