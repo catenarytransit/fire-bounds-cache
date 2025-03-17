@@ -2846,7 +2846,7 @@
 	},
 	{
 		"id": 43956,
-		"is_active": true,
+		"is_active": false,
 		"name": "4 Corners Fire",
 		"description": null,
 		"lat": 34.642491,
@@ -2874,7 +2874,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-16T03:20:16Z",
-		"date_modified": "2025-03-16T03:20:16Z",
+		"date_modified": "2025-03-17T09:40:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
