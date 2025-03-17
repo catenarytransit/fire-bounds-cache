@@ -2167,7 +2167,7 @@
 	},
 	{
 		"id": 43872,
-		"is_active": true,
+		"is_active": false,
 		"name": "Turley 2 Fire",
 		"description": null,
 		"lat": 36.9692,
@@ -2195,7 +2195,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T22:25:48Z",
-		"date_modified": "2025-03-16T19:14:43Z",
+		"date_modified": "2025-03-17T03:24:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4224,7 +4224,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
+			"containment": 75,
 			"acreage": 40,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -4239,7 +4239,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T00:10:57Z",
-		"date_modified": "2025-03-17T01:00:57Z",
+		"date_modified": "2025-03-17T03:25:57Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
