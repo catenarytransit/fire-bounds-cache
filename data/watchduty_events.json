@@ -3266,7 +3266,7 @@
 	},
 	{
 		"id": 44032,
-		"is_active": true,
+		"is_active": false,
 		"name": "8E Fire",
 		"description": null,
 		"lat": 40.314532334016036,
@@ -3294,7 +3294,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T19:29:55Z",
-		"date_modified": "2025-03-17T23:18:14Z",
+		"date_modified": "2025-03-18T05:24:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
