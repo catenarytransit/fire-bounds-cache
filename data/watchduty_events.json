@@ -3875,7 +3875,7 @@
 	{
 		"id": 44148,
 		"is_active": true,
-		"name": "Unit 35 Fire",
+		"name": "High Lonesome Fire",
 		"description": null,
 		"lat": 36.328899190243405,
 		"lng": -102.71529297618882,
@@ -3888,7 +3888,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": 3000,
+			"acreage": 7000,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -3902,7 +3902,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T18:30:16Z",
-		"date_modified": "2025-03-18T21:21:50Z",
+		"date_modified": "2025-03-18T21:58:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4058,7 +4058,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T20:05:42Z",
-		"date_modified": "2025-03-18T20:27:01Z",
+		"date_modified": "2025-03-18T21:55:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4239,7 +4239,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": 0,
-			"acreage": 10,
+			"acreage": 30,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -4253,7 +4253,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T21:15:31Z",
-		"date_modified": "2025-03-18T21:15:32Z",
+		"date_modified": "2025-03-18T21:55:31Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
