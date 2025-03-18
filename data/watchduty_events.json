@@ -3216,7 +3216,7 @@
 		"description": null,
 		"lat": 32.531783,
 		"lng": -94.4731,
-		"address": null,
+		"address": "The fire is 7 miles West of Marshall, TX",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -3239,7 +3239,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T23:00:18Z",
-		"date_modified": "2025-03-18T20:50:33Z",
+		"date_modified": "2025-03-18T22:40:30Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4526,7 +4526,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T22:10:36Z",
-		"date_modified": "2025-03-18T22:34:44Z",
+		"date_modified": "2025-03-18T22:38:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4579,8 +4579,8 @@
 		"is_active": true,
 		"name": "Pond Fire",
 		"description": null,
-		"lat": 34.4184,
-		"lng": -106.82128,
+		"lat": 34.41979,
+		"lng": -106.82014,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -4604,7 +4604,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T22:33:09Z",
-		"date_modified": "2025-03-18T22:33:09Z",
+		"date_modified": "2025-03-18T22:38:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
