@@ -4125,7 +4125,7 @@
 	{
 		"id": 44089,
 		"is_active": true,
-		"name": "Flying J Ranch Fire",
+		"name": "Flying J Fire",
 		"description": null,
 		"lat": 35.036111,
 		"lng": -95.284167,
@@ -4137,8 +4137,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 30,
-			"acreage": 650,
+			"containment": 60,
+			"acreage": 1154,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -4152,7 +4152,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T06:51:18Z",
-		"date_modified": "2025-03-18T06:51:18Z",
+		"date_modified": "2025-03-18T11:20:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
