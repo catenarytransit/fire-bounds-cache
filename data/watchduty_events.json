@@ -4244,8 +4244,8 @@
 		"is_active": true,
 		"name": "Tyler 1403 Fire",
 		"description": null,
-		"lat": 30.6146,
-		"lng": -94.283717,
+		"lat": 30.616439,
+		"lng": -94.285204,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -4254,7 +4254,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 50,
+			"containment": 100,
 			"acreage": 15,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -4269,7 +4269,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T01:40:18Z",
-		"date_modified": "2025-03-18T02:15:21Z",
+		"date_modified": "2025-03-18T03:15:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
