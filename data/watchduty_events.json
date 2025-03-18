@@ -173,7 +173,7 @@
 	},
 	{
 		"id": 43673,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hamby Ridge Fire",
 		"description": null,
 		"lat": 36.32,
@@ -201,7 +201,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-12T23:35:52Z",
-		"date_modified": "2025-03-17T21:48:36Z",
+		"date_modified": "2025-03-18T05:54:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3968,7 +3968,7 @@
 	},
 	{
 		"id": 44069,
-		"is_active": true,
+		"is_active": false,
 		"name": "Newton 1395 Fire",
 		"description": null,
 		"lat": 30.677333,
@@ -3996,7 +3996,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T23:00:18Z",
-		"date_modified": "2025-03-18T01:45:17Z",
+		"date_modified": "2025-03-18T05:54:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
