@@ -3656,7 +3656,7 @@
 	},
 	{
 		"id": 44054,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 39.6828442,
@@ -3684,7 +3684,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T21:31:32Z",
-		"date_modified": "2025-03-18T00:14:46Z",
+		"date_modified": "2025-03-18T06:24:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4085,7 +4085,7 @@
 	},
 	{
 		"id": 44080,
-		"is_active": true,
+		"is_active": false,
 		"name": "Triple T Fire",
 		"description": null,
 		"lat": 35.433012,
@@ -4113,7 +4113,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T00:51:18Z",
-		"date_modified": "2025-03-18T02:18:30Z",
+		"date_modified": "2025-03-18T06:24:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
