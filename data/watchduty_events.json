@@ -2447,7 +2447,7 @@
 	},
 	{
 		"id": 43983,
-		"is_active": true,
+		"is_active": false,
 		"name": "Harmony Fire",
 		"description": null,
 		"lat": 36.79155,
@@ -2475,7 +2475,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-16T23:00:55Z",
-		"date_modified": "2025-03-17T21:54:40Z",
+		"date_modified": "2025-03-18T04:09:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3645,7 +3645,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T21:11:18Z",
-		"date_modified": "2025-03-17T21:14:57Z",
+		"date_modified": "2025-03-18T04:10:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3656,7 +3656,7 @@
 	},
 	{
 		"id": 44052,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hwy 94 Fire",
 		"description": null,
 		"lat": 31.078936,
@@ -3684,7 +3684,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T21:13:46Z",
-		"date_modified": "2025-03-17T23:58:45Z",
+		"date_modified": "2025-03-18T04:09:40Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4020,7 +4020,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 50,
+			"containment": 95,
 			"acreage": 50,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -4035,7 +4035,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T23:00:18Z",
-		"date_modified": "2025-03-18T01:51:17Z",
+		"date_modified": "2025-03-18T04:05:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
