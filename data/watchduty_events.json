@@ -3503,8 +3503,8 @@
 		"is_active": true,
 		"name": "Duderstadt Fire",
 		"description": null,
-		"lat": 30.17547552847296,
-		"lng": -99.24943668829442,
+		"lat": 30.166927921957935,
+		"lng": -99.24874063310648,
 		"address": "Near I-10 & Duderstadt Rd, South of Harper",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -3528,7 +3528,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T23:39:26Z",
-		"date_modified": "2025-03-18T18:31:58Z",
+		"date_modified": "2025-03-18T18:37:00Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4010,9 +4010,9 @@
 		"is_active": true,
 		"name": "Vegetation Fire",
 		"description": null,
-		"lat": 36.3893504,
-		"lng": -102.7967563,
-		"address": "Near West High Lonesome Ln & Ranch Rd 1879, East of Texline",
+		"lat": 36.39724673426359,
+		"lng": -102.63033088592113,
+		"address": "Near West High Lonesome Ln West of Hwy 385, East of Texline",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -4035,7 +4035,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T18:30:16Z",
-		"date_modified": "2025-03-18T18:30:16Z",
+		"date_modified": "2025-03-18T18:38:56Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
