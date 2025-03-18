@@ -800,7 +800,7 @@
 	},
 	{
 		"id": 43828,
-		"is_active": true,
+		"is_active": false,
 		"name": "Station 2 Fire",
 		"description": null,
 		"lat": 35.231920965396185,
@@ -828,7 +828,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:17:33Z",
-		"date_modified": "2025-03-18T01:22:03Z",
+		"date_modified": "2025-03-18T09:24:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3890,7 +3890,7 @@
 	},
 	{
 		"id": 44083,
-		"is_active": true,
+		"is_active": false,
 		"name": "Tyler 1403 Fire",
 		"description": null,
 		"lat": 30.616439,
@@ -3918,7 +3918,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T01:40:18Z",
-		"date_modified": "2025-03-18T03:15:17Z",
+		"date_modified": "2025-03-18T09:24:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
