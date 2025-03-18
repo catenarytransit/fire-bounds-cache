@@ -4501,8 +4501,8 @@
 		"is_active": true,
 		"name": "Loomis Fire",
 		"description": null,
-		"lat": 48.821085,
-		"lng": -119.615454,
+		"lat": 48.819583,
+		"lng": -119.617833,
 		"address": "Okanogan County - Loomis Oroville Rd, T38 R 26 S5",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -4526,7 +4526,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T22:50:02Z",
-		"date_modified": "2025-03-18T23:26:42Z",
+		"date_modified": "2025-03-18T23:52:45Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4772,7 +4772,7 @@
 	{
 		"id": 44194,
 		"is_active": true,
-		"name": "Red River 1461 Fire",
+		"name": "Red River 1463 Fire",
 		"description": null,
 		"lat": 33.572823,
 		"lng": -95.046623,
@@ -4799,7 +4799,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T23:30:20Z",
-		"date_modified": "2025-03-18T23:30:20Z",
+		"date_modified": "2025-03-18T23:50:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
