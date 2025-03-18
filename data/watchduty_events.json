@@ -4046,7 +4046,7 @@
 	},
 	{
 		"id": 44085,
-		"is_active": true,
+		"is_active": false,
 		"name": "Whetstone Fire",
 		"description": null,
 		"lat": 36.750283,
@@ -4074,7 +4074,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T02:02:39Z",
-		"date_modified": "2025-03-18T03:36:57Z",
+		"date_modified": "2025-03-18T07:39:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
