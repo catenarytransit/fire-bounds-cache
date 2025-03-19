@@ -4489,9 +4489,9 @@
 		"is_active": true,
 		"name": "Vegetation Fire",
 		"description": null,
-		"lat": 36.20900856585074,
-		"lng": -96.32391390845333,
-		"address": "Area of W 41st St N & 296th St W, Oak Grove",
+		"lat": 36.20209014445314,
+		"lng": -96.34691928197041,
+		"address": "Area of W 36th St N & 312th Ave W, Oak Grove",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -4514,7 +4514,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T09:20:50Z",
-		"date_modified": "2025-03-19T09:20:50Z",
+		"date_modified": "2025-03-19T11:06:46Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
