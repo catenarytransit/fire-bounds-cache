@@ -134,108 +134,26 @@
 			"containment": 50,
 			"acreage": 27855,
 			"links": [],
-			"has_custom_evacuation_orders": true,
-			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Angora",
-			"evacuation_warnings": "Rhea/Aledo area",
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "Leedey residents can return home",
+			"evacuation_notes": "Evacuation notices previously issued have been removed from this incident. Several days have passed without any official follow-up information, and no further action related to these evacuations have been provided. We will promptly update this incident if new details become available.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T16:42:26Z",
-		"date_modified": "2025-03-19T00:56:20Z",
+		"date_modified": "2025-03-19T22:33:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 43784,
-				"address": "802 Shockey St, Hammon, OK 73650, USA",
-				"name": "Evacuation Shelter Hammon High School Gym",
-				"lat": 35.6297874,
-				"lng": -99.38138579999999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation shelter has been established at Hammon High School Gym per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xkrqix3 x1sur9pj xzsf02u x1s688f\" href=\"https://www.facebook.com/profile.php?id=100069337594406&amp;__cft__[0]=AZUphaPxjHRIaJozrS536-jApiImDNn5DJStmH7Hsa_EqoDgNzKZ61s0iUdftz4zoO4jXKogfq200uGIv2ej8YNMSWu2Q1podvJqhQktjX0cx8P3ssgwafJtnnkNn0_nlejRP5_GMkc0R1qzH5m13RPI6ep_G28xzgJRYVqLE7l7uBr7b3BVtCZrJkJ6F3qdAeY&amp;__tn__=-UC%2CP-R\"><strong>Dewey County Emergency Management</strong></a><strong> </strong>on their post<strong> </strong><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/share/p/1E9iHeZwE2/\"><strong>HERE</strong></a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 43785,
-				"address": "43554 S County Rd 206, Woodward, OK 73801, USA",
-				"name": "Evacuation Shelter Cheyenne Arapaho Center in Woodward",
-				"lat": 36.3835384,
-				"lng": -99.33495839999999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation shelter has been established at the Cheyenne Arapaho Center in Woodward <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xkrqix3 x1sur9pj xzsf02u x1s688f\" href=\"https://www.facebook.com/profile.php?id=100069337594406&amp;__cft__[0]=AZUphaPxjHRIaJozrS536-jApiImDNn5DJStmH7Hsa_EqoDgNzKZ61s0iUdftz4zoO4jXKogfq200uGIv2ej8YNMSWu2Q1podvJqhQktjX0cx8P3ssgwafJtnnkNn0_nlejRP5_GMkc0R1qzH5m13RPI6ep_G28xzgJRYVqLE7l7uBr7b3BVtCZrJkJ6F3qdAeY&amp;__tn__=-UC%2CP-R\"><strong>Dewey County Emergency Management</strong></a><strong> </strong>on their post<strong> </strong><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/share/p/1E9iHeZwE2/\"><strong>HERE</strong></a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 43773,
-				"address": "500 E Broadway Ave, Cheyenne, OK 73628, USA",
-				"name": "Evacuation Shelter Cheyenne Courthouse",
-				"lat": 35.6135454,
-				"lng": -99.6709059,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation shelter has been established at Cheyenne Courthouse per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xkrqix3 x1sur9pj xzsf02u x1s688f\" href=\"https://www.facebook.com/profile.php?id=100069337594406&amp;__cft__[0]=AZWQsCViIbyNmClyvEq3HUnzGMWQB8nwYz5zIXrsJFhxJp0pkrtu-gN9bj_pWxQyp7EP7Bhv_d7fmpoql79B7EGT8lUKlg_dHW7TRzV8zmu5jwAhDloUkSqeC7Qp1Zc7EipVA-RlKenvpC-2WJN1C00g_Kt4ksMSSooQc5yxgjnqFA&amp;__tn__=-UC%2CP-R\"><strong>Dewey County Emergency Management</strong></a>. See the full post <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/permalink.php?story_fbid=pfbid08prmwCLcLjSv8GhwsVkHwSRYcN8zk5yoZ31VEvD84KfbVgwriNHBkYpTRVMgjfXql&amp;id=100069337594406\"><strong>HERE</strong></a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 43798,
-				"address": "1600 W Country Club Blvd, Elk City, OK",
-				"name": "Evacuation Shelter - Elk City 1st Baptist Church",
-				"lat": 35.4208145,
-				"lng": -99.42474879999999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation shelter has been established at Elk City First Baptist Church in Elk City - per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/share/p/18jxJFfYyk/\"><strong>Roger Mills County Emergency Management</strong></a><strong>.</strong></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 43800,
-				"address": "619 Main St, Vici",
-				"name": "Evacuation Shelter - Vici Community Building",
-				"lat": 36.1501032,
-				"lng": -99.2984475,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An Evacuation Shelter has been established at the Vici Community Building, 619 Main St in Vici - Per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/share/p/18jxJFfYyk/\"><strong>Roger Mills County Emergency Management</strong></a><strong>. </strong></p>",
-					"links": []
-				}
-			}
-		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"Angora"
-		],
-		"evacuation_warnings_arr": [
-			"Rhea/Aledo area"
-		]
+		"child_geo_events": [],
+		"parent_geo_events": []
 	},
 	{
 		"id": 43793,
@@ -408,7 +326,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 80,
+			"containment": 95,
 			"acreage": 21433,
 			"links": [],
 			"has_custom_evacuation_orders": false,
@@ -423,7 +341,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:49:11Z",
-		"date_modified": "2025-03-18T20:47:09Z",
+		"date_modified": "2025-03-19T22:36:58Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -450,45 +368,26 @@
 			"containment": 50,
 			"acreage": 6075,
 			"links": [],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Camargo",
+			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": null,
+			"evacuation_notes": "Evacuation notices previously issued have been removed from this incident. Several days have passed without any official follow-up information, and no further action related to these evacuations have been provided. We will promptly update this incident if new details become available.",
 			"is_complex_parent": false,
 			"reporter_only_notes": "<p>No official NIFC data for this Incident exists.  Name, acreage, and containment comes from the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://ag.ok.gov/wp-content/uploads/2023/04/Most-Recent-Fire-Situation-Report.pdf\">Oklahoma Department of Agriculture, Food &amp; Forestry</a> Fire Situation Report for March 16th - image of the data linked in the OK channel.  However, this is outside their \"coverage/protection\" area and may conflict with the official data for this fire if/when it comes in.<br><br>Due to no other data being available at this time, I decided to name and update the statistics of this fire based on the above report.  It can/should be adjusted when we receive official data for this incident. - ZP 03-16</p>",
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:02:49Z",
-		"date_modified": "2025-03-19T00:59:45Z",
+		"date_modified": "2025-03-19T22:33:25Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 43800,
-				"address": "619 Main St, Vici",
-				"name": "Evacuation Shelter - Vici Community Building",
-				"lat": 36.1501032,
-				"lng": -99.2984475,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An Evacuation Shelter has been established at the Vici Community Building, 619 Main St in Vici - Per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/share/p/18jxJFfYyk/\"><strong>Roger Mills County Emergency Management</strong></a><strong>. </strong></p>",
-					"links": []
-				}
-			}
-		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"Camargo"
-		]
+		"child_geo_events": [],
+		"parent_geo_events": []
 	},
 	{
 		"id": 43827,
@@ -3862,7 +3761,7 @@
 	},
 	{
 		"id": 44217,
-		"is_active": true,
+		"is_active": false,
 		"name": "Tin Man Fire",
 		"description": null,
 		"lat": 34.735087,
@@ -3890,7 +3789,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T02:50:31Z",
-		"date_modified": "2025-03-19T02:50:31Z",
+		"date_modified": "2025-03-19T22:38:30Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4737,7 +4636,7 @@
 	{
 		"id": 44273,
 		"is_active": true,
-		"name": "Paradise Fire",
+		"name": "BOMAG Paradise Fire",
 		"description": null,
 		"lat": 35.634778,
 		"lng": -93.835278,
@@ -4764,7 +4663,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T19:38:32Z",
-		"date_modified": "2025-03-19T20:53:54Z",
+		"date_modified": "2025-03-19T22:35:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
