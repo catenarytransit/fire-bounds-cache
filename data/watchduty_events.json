@@ -3709,8 +3709,8 @@
 		"is_active": true,
 		"name": "Double S Fire",
 		"description": null,
-		"lat": 35.6564358,
-		"lng": -101.4334531,
+		"lat": 35.65807789008538,
+		"lng": -101.43412342272376,
 		"address": "Near Hwy 136 and FM 1559, Borger",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -3734,7 +3734,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T23:55:18Z",
-		"date_modified": "2025-03-19T15:17:41Z",
+		"date_modified": "2025-03-19T15:56:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
