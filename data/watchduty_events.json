@@ -434,7 +434,7 @@
 	},
 	{
 		"id": 43811,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 36.11557696073464,
@@ -462,59 +462,13 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:37:58Z",
-		"date_modified": "2025-03-18T01:50:11Z",
+		"date_modified": "2025-03-19T00:39:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 43910,
-				"address": "4518 Expo Cir E, Stillwater, OK 74075, USA",
-				"name": "Overnight Evacuation Shelter - Payne County Expo Center",
-				"lat": 36.1187001,
-				"lng": -96.9990078,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>Overnight shelter is available at the Payne County Expo Center, if needed. Cots will be provided - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid02cJLrQLR8bFANnHvKKTzfVVmWdAfJLn77dUFeF2F7wgHhFDS9rs3dRuwWhs9Cg3Nml\"><strong>City of Stillwater Emergency Management</strong></a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 43899,
-				"address": "421 E Richmond Rd, Stillwater, OK 74075, USA",
-				"name": "Evacuation Safe Place - Sunnybrook Christian Church",
-				"lat": 36.1731335,
-				"lng": -97.05476739999999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol><p>For overnight shelter, go to the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43910\">Payne County Expo Center</a> located at 4518 Expo Cir E, Stillwater, OK 74075, USA.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 43892,
-				"address": "821 N Duck St, Stillwater, OK 74075, USA",
-				"name": "Evacuation Safe Place - Church of Christ",
-				"lat": 36.1313304,
-				"lng": -97.06213369999999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol><p>For overnight shelter, go to the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43910\">Payne County Expo Center</a> located at 4518 Expo Cir E, Stillwater, OK 74075, USA.</p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
@@ -632,19 +586,19 @@
 			"containment": null,
 			"acreage": null,
 			"links": [],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "NOTE: Residents ONLY may now return to their homes in the following areas, per City of Stillwater Emergency Management SEMA  Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court) The above areas remain closed to the general public. For evacuations within the city of Stillwater, refer to the evacuation map linked HERE.",
+			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": null,
+			"evacuation_notes": "NOTE: Previous updates stated that residents in mandatory evacuation areas were able to return home per the update from City of Stillwater Emergency Management SEMA.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:14:32Z",
-		"date_modified": "2025-03-17T16:05:40Z",
+		"date_modified": "2025-03-19T00:51:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -667,21 +621,6 @@
 				}
 			},
 			{
-				"id": 43899,
-				"address": "421 E Richmond Rd, Stillwater, OK 74075, USA",
-				"name": "Evacuation Safe Place - Sunnybrook Christian Church",
-				"lat": 36.1731335,
-				"lng": -97.05476739999999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol><p>For overnight shelter, go to the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43910\">Payne County Expo Center</a> located at 4518 Expo Cir E, Stillwater, OK 74075, USA.</p>",
-					"links": []
-				}
-			},
-			{
 				"id": 43892,
 				"address": "821 N Duck St, Stillwater, OK 74075, USA",
 				"name": "Evacuation Safe Place - Church of Christ",
@@ -695,14 +634,24 @@
 					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol><p>For overnight shelter, go to the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43910\">Payne County Expo Center</a> located at 4518 Expo Cir E, Stillwater, OK 74075, USA.</p>",
 					"links": []
 				}
+			},
+			{
+				"id": 43899,
+				"address": "421 E Richmond Rd, Stillwater, OK 74075, USA",
+				"name": "Evacuation Safe Place - Sunnybrook Christian Church",
+				"lat": 36.1731335,
+				"lng": -97.05476739999999,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>If you need a place to go, please go to these evacuation safe places, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/StwSema/posts/pfbid0z1yR98RqqaXrozzf9cdo69Wsvchx42LtqSp7vpu4ogmSHuEWoJ3cYUs7uvSAHm7xl\">City of Stillwater Emergency Management on Facebook</a>:</p><ol><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43892\">Church of Christ</a> at 821 N Duck St, Stillwater, OK</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43899\">Sunnybrook Christian Church</a> at 421 E Richmond Rd, Stillwater, OK 74075</p></li></ol><p>For overnight shelter, go to the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/43910\">Payne County Expo Center</a> located at 4518 Expo Cir E, Stillwater, OK 74075, USA.</p>",
+					"links": []
+				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"NOTE: Residents ONLY may now return to their homes in the following areas",
-			"per City of Stillwater Emergency Management SEMA  Harmony & Log Cabin Lawson & 68th Karaten Creek + 68th Karsten Creek & 51 SE Range & 65th Range & 3rd Range & 19th Nottingham Range & 51 Range & 44th Greenwood & Dunkin Country club & 32nd (Isabel court) The above areas remain closed to the general public. For evacuations within the city of Stillwater",
-			"refer to the evacuation map linked HERE."
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 43828,
@@ -745,7 +694,7 @@
 	},
 	{
 		"id": 43839,
-		"is_active": true,
+		"is_active": false,
 		"name": "Wildhorse Fire",
 		"description": null,
 		"lat": 34.43427856422821,
@@ -773,29 +722,13 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:36:08Z",
-		"date_modified": "2025-03-18T01:46:48Z",
+		"date_modified": "2025-03-19T00:37:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 43865,
-				"address": "2002 S 13th St, Duncan, OK 73533, USA",
-				"name": "Reunification Center - Stephens County Expo Center",
-				"lat": 34.4821524,
-				"lng": -97.96360419999999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>A reunification center is being set up at the Stephens County Expo Center located at 2002 S 13th St, Duncan, OK 73533, per a <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\">wireless emergency alert</a> sent by Oklahoma Emergency Management.</p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
@@ -2392,7 +2325,7 @@
 	},
 	{
 		"id": 44030,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 35.8126747,
@@ -2420,7 +2353,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T19:14:15Z",
-		"date_modified": "2025-03-17T19:31:54Z",
+		"date_modified": "2025-03-19T00:35:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3835,7 +3768,7 @@
 	},
 	{
 		"id": 44160,
-		"is_active": true,
+		"is_active": false,
 		"name": "Newton 1433 Fire",
 		"description": null,
 		"lat": 30.790129,
@@ -3863,7 +3796,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T20:20:31Z",
-		"date_modified": "2025-03-18T21:50:30Z",
+		"date_modified": "2025-03-19T00:39:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -3941,7 +3874,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T20:43:34Z",
-		"date_modified": "2025-03-18T22:43:57Z",
+		"date_modified": "2025-03-19T00:53:45Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4448,7 +4381,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T22:50:02Z",
-		"date_modified": "2025-03-18T23:52:45Z",
+		"date_modified": "2025-03-19T00:36:43Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4537,7 +4470,7 @@
 	},
 	{
 		"id": 44190,
-		"is_active": true,
+		"is_active": false,
 		"name": "Lancaster Fire",
 		"description": null,
 		"lat": 48.898633,
@@ -4550,7 +4483,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 1,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -4565,7 +4498,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T23:00:44Z",
-		"date_modified": "2025-03-18T23:21:51Z",
+		"date_modified": "2025-03-19T00:36:43Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4655,7 +4588,7 @@
 	{
 		"id": 44193,
 		"is_active": true,
-		"name": "La Salle 1466 Fire",
+		"name": "Dollar Fire",
 		"description": null,
 		"lat": 28.442051,
 		"lng": -99.234682,
@@ -4667,7 +4600,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
+			"containment": 85,
 			"acreage": 3,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -4682,7 +4615,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T23:25:19Z",
-		"date_modified": "2025-03-18T23:25:20Z",
+		"date_modified": "2025-03-19T00:45:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4760,13 +4693,29 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T23:55:18Z",
-		"date_modified": "2025-03-19T00:14:30Z",
+		"date_modified": "2025-03-19T00:48:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 44210,
+				"address": "611 Weatherly Street, Borger",
+				"name": "Evacuation Point - Municipal Court Building",
+				"lat": 35.67218309148281,
+				"lng": -101.38910567144771,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>If you are needing to evacuate, the City of Borger Municipal Court building is OPEN at 611 Weatherly Street. Do NOT evacuate to Johnson Park Youth Center - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/cityofborger/posts/pfbid02kma9S7QubTriNdh6w52io7eS25fWoQwJsAeG8Hh8iv7nHiUVzaXhZ5DZZLGSEp7il\"><strong>City of Borger</strong></a></p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": []
 	},
 	{
@@ -4784,8 +4733,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
-			"acreage": 40,
+			"containment": 100,
+			"acreage": 30.1,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -4799,7 +4748,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T00:04:33Z",
-		"date_modified": "2025-03-19T00:04:33Z",
+		"date_modified": "2025-03-19T00:45:42Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4823,8 +4772,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
-			"acreage": 1,
+			"containment": 100,
+			"acreage": 4,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -4838,7 +4787,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T00:04:33Z",
-		"date_modified": "2025-03-19T00:04:33Z",
+		"date_modified": "2025-03-19T00:43:31Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4921,6 +4870,123 @@
 		"incident_id": null,
 		"reporter_managed": false,
 		"external_id": "{23069B2D-7CE2-4BBF-A128-AE1AF45B50BD}",
+		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 44206,
+		"is_active": true,
+		"name": "Boggs Hollow Fire",
+		"description": null,
+		"lat": 34.7525,
+		"lng": -95.268333,
+		"address": "2.4 miles NW of Buffalo Valley, OK",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": 80,
+			"acreage": 308,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-19T00:33:31Z",
+		"date_modified": "2025-03-19T00:33:32Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "{353E3438-FEF6-4C14-9862-2E541C5C3F4F}",
+		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 44207,
+		"is_active": true,
+		"name": "Cave Road Area Fire",
+		"description": null,
+		"lat": 36.595436,
+		"lng": -92.83663,
+		"address": null,
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": null,
+			"acreage": 100,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-19T00:33:34Z",
+		"date_modified": "2025-03-19T00:33:35Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "{A268935D-91E3-4237-8633-CE59A00CA197}",
+		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 44209,
+		"is_active": true,
+		"name": "Waits Lane Fire",
+		"description": null,
+		"lat": 34.910833,
+		"lng": -95.8175,
+		"address": "7 miles SW of Wister, OK",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": 70,
+			"acreage": 300,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-19T00:45:42Z",
+		"date_modified": "2025-03-19T00:45:42Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "{6E1091FD-B96A-417F-AFC9-ED00C09C1A8D}",
 		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
