@@ -3144,7 +3144,7 @@
 	},
 	{
 		"id": 44104,
-		"is_active": true,
+		"is_active": false,
 		"name": "Lad Fire",
 		"description": null,
 		"lat": 36.106806,
@@ -3172,7 +3172,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T15:25:20Z",
-		"date_modified": "2025-03-18T15:25:20Z",
+		"date_modified": "2025-03-19T04:31:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -3784,7 +3784,7 @@
 	},
 	{
 		"id": 44175,
-		"is_active": true,
+		"is_active": false,
 		"name": "Sycamore Fire",
 		"description": null,
 		"lat": 32.946393,
@@ -3812,7 +3812,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T21:59:16Z",
-		"date_modified": "2025-03-18T22:21:16Z",
+		"date_modified": "2025-03-19T04:24:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
