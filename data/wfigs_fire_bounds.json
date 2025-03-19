@@ -55773,7 +55773,7 @@
         "attr_IsUnifiedCommand" : 0, 
         "attr_LocalIncidentIdentifier" : "251307", 
         "attr_ModifiedBySystem" : "firesponse", 
-        "attr_PercentContained" : 90, 
+        "attr_PercentContained" : 0, 
         "attr_PercentPerimToBeContained" : null, 
         "attr_POOCity" : null, 
         "attr_POOCounty" : "Jim Wells", 
@@ -55806,7 +55806,7 @@
         "attr_OrganizationalAssessment" : null, 
         "attr_StratDecisionPublishDate" : null, 
         "attr_CreatedOnDateTime_dt" : 1742157600250, 
-        "attr_ModifiedOnDateTime_dt" : 1742165494550, 
+        "attr_ModifiedOnDateTime_dt" : 1742391852333, 
         "attr_Source" : "IRWIN", 
         "attr_ActiveFireCandidate" : 1, 
         "attr_IsCpxChild" : 0, 
@@ -55816,7 +55816,7 @@
         "GlobalID" : "786a984f-c48f-42c8-9ab9-4aab312f3c13", 
         "Shape__Area" : 2.1095738702570088E-06, 
         "Shape__Length" : 0.015177770889650288, 
-        "attr_IncidentComplexityLevel" : null
+        "attr_IncidentComplexityLevel" : "Type 5 Incident"
       }
     }, 
     {
