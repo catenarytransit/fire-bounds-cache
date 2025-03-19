@@ -1077,7 +1077,7 @@
 	},
 	{
 		"id": 43927,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cherry Tree Fire",
 		"description": null,
 		"lat": 35.960556,
@@ -1105,7 +1105,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T16:05:49Z",
-		"date_modified": "2025-03-19T13:51:32Z",
+		"date_modified": "2025-03-19T21:54:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4633,7 +4633,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 100,
-			"acreage": 100,
+			"acreage": 77.8,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -4647,7 +4647,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T18:49:02Z",
-		"date_modified": "2025-03-19T20:17:35Z",
+		"date_modified": "2025-03-19T21:54:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4932,7 +4932,7 @@
 	{
 		"id": 44281,
 		"is_active": true,
-		"name": "San Jacinto 1534 Fire",
+		"name": "Pauline Road Fire",
 		"description": null,
 		"lat": 30.414533,
 		"lng": -95.227033,
@@ -4959,7 +4959,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T20:37:18Z",
-		"date_modified": "2025-03-19T21:30:15Z",
+		"date_modified": "2025-03-19T21:52:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -5207,8 +5207,8 @@
 		"is_active": true,
 		"name": "Howards Fire",
 		"description": null,
-		"lat": 32.4383,
-		"lng": -109.3482,
+		"lat": 32.439267,
+		"lng": -109.3474,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -5232,7 +5232,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T21:45:35Z",
-		"date_modified": "2025-03-19T21:45:35Z",
+		"date_modified": "2025-03-19T21:53:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
