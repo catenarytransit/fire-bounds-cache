@@ -63141,8 +63141,8 @@
         "attr_ContainmentDateTime" : null, 
         "attr_ControlDateTime" : null, 
         "attr_CreatedBySystem" : "firesponse", 
-        "attr_IncidentSize" : 200, 
-        "attr_DiscoveryAcres" : 200, 
+        "attr_IncidentSize" : 215, 
+        "attr_DiscoveryAcres" : 215, 
         "attr_DispatchCenterID" : "TXTIC", 
         "attr_EstimatedCostToDate" : null, 
         "attr_FinalAcres" : null, 
@@ -63191,7 +63191,7 @@
         "attr_IsUnifiedCommand" : 0, 
         "attr_LocalIncidentIdentifier" : "251495", 
         "attr_ModifiedBySystem" : "firesponse", 
-        "attr_PercentContained" : 30, 
+        "attr_PercentContained" : 45, 
         "attr_PercentPerimToBeContained" : null, 
         "attr_POOCity" : null, 
         "attr_POOCounty" : "Stonewall", 
@@ -63224,7 +63224,7 @@
         "attr_OrganizationalAssessment" : null, 
         "attr_StratDecisionPublishDate" : null, 
         "attr_CreatedOnDateTime_dt" : 1742390305503, 
-        "attr_ModifiedOnDateTime_dt" : 1742390338847, 
+        "attr_ModifiedOnDateTime_dt" : 1742397278583, 
         "attr_Source" : "IRWIN", 
         "attr_ActiveFireCandidate" : 1, 
         "attr_IsCpxChild" : 0, 
@@ -63234,7 +63234,7 @@
         "GlobalID" : "38f3fd1f-0746-4518-96c4-7fbdea4fe86e", 
         "Shape__Area" : 8.5658334683103021E-05, 
         "Shape__Length" : 0.039852639430784292, 
-        "attr_IncidentComplexityLevel" : null
+        "attr_IncidentComplexityLevel" : "Type 5 Incident"
       }
     }
   ]
