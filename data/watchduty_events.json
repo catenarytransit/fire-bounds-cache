@@ -4007,29 +4007,13 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T23:55:18Z",
-		"date_modified": "2025-03-19T02:35:46Z",
+		"date_modified": "2025-03-19T07:48:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 44210,
-				"address": "611 Weatherly Street, Borger",
-				"name": "Evacuation Point - Municipal Court Building",
-				"lat": 35.67218309148281,
-				"lng": -101.38910567144771,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>If you are needing to evacuate, the City of Borger Municipal Court building is OPEN at 611 Weatherly Street. Do NOT evacuate to Johnson Park Youth Center - per the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/cityofborger/posts/pfbid02kma9S7QubTriNdh6w52io7eS25fWoQwJsAeG8Hh8iv7nHiUVzaXhZ5DZZLGSEp7il\"><strong>City of Borger</strong></a></p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
