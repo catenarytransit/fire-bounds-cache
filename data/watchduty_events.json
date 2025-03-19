@@ -4307,7 +4307,7 @@
 	},
 	{
 		"id": 44229,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 35.509402051056384,
@@ -4335,7 +4335,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T09:40:29Z",
-		"date_modified": "2025-03-19T14:54:09Z",
+		"date_modified": "2025-03-19T20:54:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4895,8 +4895,8 @@
 		"is_active": true,
 		"name": "Paradise Fire",
 		"description": null,
-		"lat": 35.651123,
-		"lng": -93.835513,
+		"lat": 35.634778,
+		"lng": -93.835278,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -4920,7 +4920,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T19:38:32Z",
-		"date_modified": "2025-03-19T20:48:04Z",
+		"date_modified": "2025-03-19T20:53:54Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
