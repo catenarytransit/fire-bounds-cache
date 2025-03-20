@@ -3895,7 +3895,7 @@
 	{
 		"id": 44266,
 		"is_active": true,
-		"name": "San Augustine 1523 Fire",
+		"name": "White Rock Fire",
 		"description": null,
 		"lat": 31.552778,
 		"lng": -94.046944,
@@ -3908,7 +3908,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": 60,
-			"acreage": 50,
+			"acreage": 110,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -3922,7 +3922,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T18:55:46Z",
-		"date_modified": "2025-03-20T04:51:07Z",
+		"date_modified": "2025-03-20T05:16:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4500,7 +4500,7 @@
 	},
 	{
 		"id": 44296,
-		"is_active": true,
+		"is_active": false,
 		"name": "Howards Fire",
 		"description": null,
 		"lat": 32.439267,
@@ -4528,7 +4528,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T21:45:35Z",
-		"date_modified": "2025-03-20T01:00:25Z",
+		"date_modified": "2025-03-20T05:09:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -5046,7 +5046,7 @@
 	},
 	{
 		"id": 44327,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cass 1555 Fire",
 		"description": null,
 		"lat": 33.206111,
@@ -5074,7 +5074,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T23:41:04Z",
-		"date_modified": "2025-03-20T00:56:05Z",
+		"date_modified": "2025-03-20T05:09:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
