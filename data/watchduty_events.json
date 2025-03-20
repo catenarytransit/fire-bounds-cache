@@ -3263,7 +3263,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T20:37:18Z",
-		"date_modified": "2025-03-20T16:55:53Z",
+		"date_modified": "2025-03-20T18:47:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4651,7 +4651,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": 75,
-			"acreage": 85.5,
+			"acreage": 85.8,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -4665,7 +4665,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-20T01:45:05Z",
-		"date_modified": "2025-03-20T18:10:37Z",
+		"date_modified": "2025-03-20T18:45:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -5108,8 +5108,8 @@
 		"is_active": true,
 		"name": "Rusk 1600 Fire",
 		"description": null,
-		"lat": 32.329889,
-		"lng": -94.570182,
+		"lat": 32.331408,
+		"lng": -94.571224,
 		"address": "18200 Block of Co Rd 2187, Tatum, TX 75691",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -5133,7 +5133,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-20T18:15:37Z",
-		"date_modified": "2025-03-20T18:15:37Z",
+		"date_modified": "2025-03-20T18:45:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
