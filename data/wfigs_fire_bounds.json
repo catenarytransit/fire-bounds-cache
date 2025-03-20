@@ -47113,12 +47113,12 @@
         "attr_FFReportApprovedByTitle" : null, 
         "attr_FFReportApprovedByUnit" : null, 
         "attr_FFReportApprovedDate" : null, 
-        "attr_FireBehaviorGeneral" : "Minimal", 
+        "attr_FireBehaviorGeneral" : "Moderate", 
         "attr_FireBehaviorGeneral1" : null, 
         "attr_FireBehaviorGeneral2" : null, 
         "attr_FireBehaviorGeneral3" : null, 
-        "attr_FireCause" : "Undetermined", 
-        "attr_FireCauseGeneral" : null, 
+        "attr_FireCause" : "Human", 
+        "attr_FireCauseGeneral" : "Debris and open burning", 
         "attr_FireCauseSpecific" : null, 
         "attr_FireCode" : null, 
         "attr_FireDepartmentID" : null, 
@@ -47188,7 +47188,7 @@
         "attr_OrganizationalAssessment" : null, 
         "attr_StratDecisionPublishDate" : null, 
         "attr_CreatedOnDateTime_dt" : 1742410244273, 
-        "attr_ModifiedOnDateTime_dt" : 1742451519107, 
+        "attr_ModifiedOnDateTime_dt" : 1742492926050, 
         "attr_Source" : "IRWIN", 
         "attr_ActiveFireCandidate" : 1, 
         "attr_IsCpxChild" : 0, 
@@ -47198,7 +47198,7 @@
         "GlobalID" : "51f43612-c03a-4c21-9ad4-88fc44c2ef61", 
         "Shape__Area" : 4.6795527623544331E-05, 
         "Shape__Length" : 0.036226245081636813, 
-        "attr_IncidentComplexityLevel" : null
+        "attr_IncidentComplexityLevel" : "Type 5 Incident"
       }
     }, 
     {
