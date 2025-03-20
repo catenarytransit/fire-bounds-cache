@@ -2434,45 +2434,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 44175,
-		"is_active": false,
-		"name": "Sycamore Fire",
-		"description": null,
-		"lat": 32.946393,
-		"lng": -116.962818,
-		"address": "Hwy 67 & Sycamore Park Dr, Sycamore Canyon",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": true,
-			"containment": null,
-			"acreage": 0.25,
-			"links": [],
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-03-18T21:59:16Z",
-		"date_modified": "2025-03-19T04:24:37Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 44176,
 		"is_active": false,
 		"name": "Boundary Fire",
@@ -4351,7 +4312,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T20:37:18Z",
-		"date_modified": "2025-03-20T04:06:12Z",
+		"date_modified": "2025-03-20T04:30:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4385,6 +4346,21 @@
 					"geo_event_type": "location",
 					"location_type": "animal_shelter",
 					"information": "<p>Caney Creek Cowboy Church is accepting livestock that is displaced due to the wildfires. They are located at 17703 Nonesuch Rd. Conroe, TX 77306. If you have livestock that is being threatened, please utilize the church for safe storage - per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/mctx.oem/posts/pfbid02RJfgpNMgssCueWxUuMbiPuNCcx7oyakgPxmbzVqjwtxmCWvLXaEQ9Ho3P1Z68QGgl\"><strong>Montgomery County Office of Emergency Management</strong></a></p>",
+					"links": []
+				}
+			},
+			{
+				"id": 44354,
+				"address": "16401 1st St, Splendora, TX 77372, USA",
+				"name": "Evacuation Shelter",
+				"lat": 30.2069254,
+				"lng": -95.17876319999999,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>Open Evacuation Shelter - East Montgomery Community Development Center at 16401 1st St, Splendora Tx - per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/mctx.oem/posts/pfbid0Z1fa77PQ8FssLKYCGf2xuDADPzmfnhgUYmsWtMgNvG42ym6gv8Vnk61ckwS8HJqUl\"><strong>Montgomery County Office of Emergency Management</strong></a></p>",
 					"links": []
 				}
 			}
@@ -5069,7 +5045,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 40,
+			"containment": 50,
 			"acreage": 200,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -5084,7 +5060,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T23:26:05Z",
-		"date_modified": "2025-03-20T03:01:06Z",
+		"date_modified": "2025-03-20T04:31:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
