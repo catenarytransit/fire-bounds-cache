@@ -1794,45 +1794,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 44068,
-		"is_active": false,
-		"name": "Dirty Creek Fire",
-		"description": null,
-		"lat": 32.531783,
-		"lng": -94.4731,
-		"address": "The fire is 7 miles West of Marshall, TX",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": 100,
-			"acreage": 109,
-			"links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-03-17T23:00:18Z",
-		"date_modified": "2025-03-19T04:54:37Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "{C6D4F4E3-5058-46CA-95EE-8666F9C843FA}",
-		"external_source": "nifc",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 44074,
 		"is_active": true,
 		"name": "Duderstadt Fire",
@@ -3111,8 +3072,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 70,
-			"acreage": 600,
+			"containment": 80,
+			"acreage": 623.5,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -3126,7 +3087,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T01:10:31Z",
-		"date_modified": "2025-03-19T01:10:31Z",
+		"date_modified": "2025-03-20T04:56:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4222,10 +4183,10 @@
 			"containment": 10,
 			"acreage": 2000,
 			"links": [],
-			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
+			"evacuation_orders": "Holstein Dr, Hereford Way, Cross Cut, Rock Pigeon, Boar’s Run, Grey Goose, Brown Bear, Duroc Ct, Big Beaver, Blue Teal, Grant Lake Circle, N. Duck Creek north of Blue Teal.",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -4234,7 +4195,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T20:37:18Z",
-		"date_modified": "2025-03-20T04:30:22Z",
+		"date_modified": "2025-03-20T04:59:42Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4287,7 +4248,21 @@
 				}
 			}
 		],
-		"parent_geo_events": []
+		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"Holstein Dr",
+			"Hereford Way",
+			"Cross Cut",
+			"Rock Pigeon",
+			"Boar’s Run",
+			"Grey Goose",
+			"Brown Bear",
+			"Duroc Ct",
+			"Big Beaver",
+			"Blue Teal",
+			"Grant Lake Circle",
+			"N. Duck Creek north of Blue Teal."
+		]
 	},
 	{
 		"id": 44284,
@@ -5282,7 +5257,7 @@
 	},
 	{
 		"id": 44334,
-		"is_active": true,
+		"is_active": false,
 		"name": "Bowie 1556 Fire",
 		"description": null,
 		"lat": 33.614296,
@@ -5310,7 +5285,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-20T00:26:08Z",
-		"date_modified": "2025-03-20T01:26:05Z",
+		"date_modified": "2025-03-20T04:54:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
