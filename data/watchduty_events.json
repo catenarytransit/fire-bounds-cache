@@ -2924,7 +2924,7 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": false,
+			"is_fps": true,
 			"containment": 45,
 			"acreage": 2420.1,
 			"links": [
@@ -2939,10 +2939,10 @@
 					"value": "https://www.facebook.com/MCFMO"
 				}
 			],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Holstein Dr, Hereford Way, Cross Cut, Rock Pigeon, Boar’s Run, Grey Goose, Brown Bear, Duroc Ct, Big Beaver, Blue Teal, Grant Lake Circle, N. Duck Creek north of Blue Teal.",
+			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -2951,7 +2951,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T20:37:18Z",
-		"date_modified": "2025-03-20T21:46:47Z",
+		"date_modified": "2025-03-20T23:36:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3004,21 +3004,7 @@
 				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"Holstein Dr",
-			"Hereford Way",
-			"Cross Cut",
-			"Rock Pigeon",
-			"Boar’s Run",
-			"Grey Goose",
-			"Brown Bear",
-			"Duroc Ct",
-			"Big Beaver",
-			"Blue Teal",
-			"Grant Lake Circle",
-			"N. Duck Creek north of Blue Teal."
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 44284,
