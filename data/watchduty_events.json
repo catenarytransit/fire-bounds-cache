@@ -3620,7 +3620,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 75,
+			"containment": 95,
 			"acreage": 5.5,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -3635,7 +3635,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T21:46:04Z",
-		"date_modified": "2025-03-20T02:18:52Z",
+		"date_modified": "2025-03-20T17:23:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4192,7 +4192,7 @@
 	},
 	{
 		"id": 44328,
-		"is_active": true,
+		"is_active": false,
 		"name": "Sweet Water Fire",
 		"description": null,
 		"lat": 37.356033,
@@ -4220,7 +4220,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T23:42:37Z",
-		"date_modified": "2025-03-20T09:14:32Z",
+		"date_modified": "2025-03-20T17:24:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
