@@ -4109,23 +4109,7 @@
 		"reporter_managed": true,
 		"external_id": "d1b27bb2-45ed-4914-8207-632ee2d3fd12",
 		"external_source": "wildcad",
-		"child_geo_events": [
-			{
-				"id": 44341,
-				"address": "7th and Tubbs Avenue , Ellington",
-				"name": "Ellington School FEMA Building Shelter",
-				"lat": 37.23929073707903,
-				"lng": -90.96248386227671,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
@@ -4415,8 +4399,8 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": null,
+			"is_fps": false,
+			"containment": 99,
 			"acreage": 200,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -4431,10 +4415,10 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-20T01:06:13Z",
-		"date_modified": "2025-03-20T15:23:16Z",
+		"date_modified": "2025-03-20T22:14:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "0c9a9b15-29df-4959-b8d2-ee7d8182aa95",
 		"external_source": "wildcad",
 		"child_geo_events": [],
@@ -5274,7 +5258,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
+			"containment": 20,
 			"acreage": 15,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -5289,7 +5273,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-20T21:45:38Z",
-		"date_modified": "2025-03-20T21:45:38Z",
+		"date_modified": "2025-03-20T22:15:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -5313,7 +5297,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
+			"containment": 20,
 			"acreage": 15,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -5328,7 +5312,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-20T21:45:38Z",
-		"date_modified": "2025-03-20T21:45:38Z",
+		"date_modified": "2025-03-20T22:15:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
