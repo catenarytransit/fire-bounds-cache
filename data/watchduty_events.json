@@ -2068,7 +2068,7 @@
 	},
 	{
 		"id": 44148,
-		"is_active": true,
+		"is_active": false,
 		"name": "High Lonesome Fire",
 		"description": null,
 		"lat": 36.328899190243405,
@@ -2096,7 +2096,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T18:30:16Z",
-		"date_modified": "2025-03-19T20:02:00Z",
+		"date_modified": "2025-03-20T04:09:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -4337,7 +4337,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 10,
-			"acreage": 1300,
+			"acreage": 2000,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -4351,7 +4351,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T20:37:18Z",
-		"date_modified": "2025-03-20T03:20:04Z",
+		"date_modified": "2025-03-20T04:06:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -5017,7 +5017,7 @@
 	},
 	{
 		"id": 44322,
-		"is_active": true,
+		"is_active": false,
 		"name": "Gregg 1557 Fire",
 		"description": null,
 		"lat": 32.4249,
@@ -5045,7 +5045,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T23:26:04Z",
-		"date_modified": "2025-03-20T00:51:05Z",
+		"date_modified": "2025-03-20T04:09:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
