@@ -196,7 +196,7 @@
 	},
 	{
 		"id": 43804,
-		"is_active": true,
+		"is_active": false,
 		"name": "Conco Hill Fire",
 		"description": null,
 		"lat": 33.204555,
@@ -224,7 +224,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T19:10:48Z",
-		"date_modified": "2025-03-20T02:11:05Z",
+		"date_modified": "2025-03-20T10:24:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -881,7 +881,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 95,
+			"containment": 100,
 			"acreage": 22,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -896,7 +896,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-15T21:46:01Z",
-		"date_modified": "2025-03-16T21:35:54Z",
+		"date_modified": "2025-03-20T10:25:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4754,7 +4754,7 @@
 	},
 	{
 		"id": 44337,
-		"is_active": true,
+		"is_active": false,
 		"name": "28 Boy Fire",
 		"description": null,
 		"lat": 35.013611,
@@ -4782,7 +4782,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-20T00:51:06Z",
-		"date_modified": "2025-03-20T02:21:59Z",
+		"date_modified": "2025-03-20T10:24:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
