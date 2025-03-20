@@ -4754,7 +4754,7 @@
 	},
 	{
 		"id": 44339,
-		"is_active": true,
+		"is_active": false,
 		"name": "N Highway Fire",
 		"description": null,
 		"lat": 36.822,
@@ -4782,7 +4782,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-20T01:11:05Z",
-		"date_modified": "2025-03-20T02:58:08Z",
+		"date_modified": "2025-03-20T11:09:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
