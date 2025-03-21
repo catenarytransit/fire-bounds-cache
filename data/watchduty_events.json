@@ -969,7 +969,7 @@
 	},
 	{
 		"id": 44187,
-		"is_active": true,
+		"is_active": false,
 		"name": "Railroad Track Fire",
 		"description": null,
 		"lat": 34.451389,
@@ -997,7 +997,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T22:53:06Z",
-		"date_modified": "2025-03-21T15:29:39Z",
+		"date_modified": "2025-03-21T23:39:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1281,7 +1281,7 @@
 	},
 	{
 		"id": 44224,
-		"is_active": true,
+		"is_active": false,
 		"name": "Wesley Fire",
 		"description": null,
 		"lat": 34.586111,
@@ -1309,7 +1309,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T07:25:31Z",
-		"date_modified": "2025-03-21T15:30:41Z",
+		"date_modified": "2025-03-21T23:39:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
