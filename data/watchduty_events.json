@@ -852,7 +852,7 @@
 	},
 	{
 		"id": 43997,
-		"is_active": true,
+		"is_active": false,
 		"name": "Eight Mile Mountain Fire",
 		"description": null,
 		"lat": 34.812,
@@ -880,7 +880,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-17T04:55:58Z",
-		"date_modified": "2025-03-21T09:03:31Z",
+		"date_modified": "2025-03-21T17:09:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3895,8 +3895,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
-			"acreage": 5.7,
+			"containment": 80,
+			"acreage": 5.3,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -3910,7 +3910,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-21T15:05:41Z",
-		"date_modified": "2025-03-21T16:05:41Z",
+		"date_modified": "2025-03-21T17:10:41Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
