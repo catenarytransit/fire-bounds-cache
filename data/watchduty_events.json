@@ -1578,11 +1578,11 @@
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
 			"is_complex_parent": false,
-			"reporter_only_notes": null,
+			"reporter_only_notes": "<p>Due to fire weather, deactivate after 03/27/2025 if 100% containment is not announced by then. AJ</p>",
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T01:37:44Z",
-		"date_modified": "2025-03-21T15:19:36Z",
+		"date_modified": "2025-03-21T18:38:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
