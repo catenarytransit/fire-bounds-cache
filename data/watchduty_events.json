@@ -1918,7 +1918,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 80,
+			"containment": 100,
 			"acreage": 115,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1933,7 +1933,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T01:00:31Z",
-		"date_modified": "2025-03-19T01:00:31Z",
+		"date_modified": "2025-03-21T01:35:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2194,7 +2194,7 @@
 	},
 	{
 		"id": 44230,
-		"is_active": true,
+		"is_active": false,
 		"name": "Devils Canyon Fire",
 		"description": null,
 		"lat": 33.106833,
@@ -2222,7 +2222,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T13:20:28Z",
-		"date_modified": "2025-03-20T17:57:54Z",
+		"date_modified": "2025-03-21T02:09:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2622,45 +2622,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 44272,
-		"is_active": false,
-		"name": "Ryan Fire",
-		"description": null,
-		"lat": 34.548216,
-		"lng": -93.876525,
-		"address": null,
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": 100,
-			"acreage": 5.4,
-			"links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-03-19T19:38:31Z",
-		"date_modified": "2025-03-20T01:39:37Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "5da71ae2-a044-4af4-a171-0c853640518e",
-		"external_source": "wildcad",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 44273,
 		"is_active": false,
 		"name": "BOMAG Paradise Fire",
@@ -2785,53 +2746,7 @@
 		"reporter_managed": true,
 		"external_id": "ef9832b3-43fb-4873-9a80-5cfc29a22388",
 		"external_source": "wildcad",
-		"child_geo_events": [
-			{
-				"id": 44342,
-				"address": "255 Live Oak St, Coldspring, TX 77331, USA",
-				"name": "Evacuation shelter",
-				"lat": 30.5895505,
-				"lng": -95.1286178,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "",
-					"links": []
-				}
-			},
-			{
-				"id": 44346,
-				"address": "17703 Nonesuch Rd, Conroe, TX 77306, USA",
-				"name": "Caney Creek Cowboy Church Livestock Shelter",
-				"lat": 30.2418503,
-				"lng": -95.29945219999999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Caney Creek Cowboy Church is accepting livestock that is displaced due to the wildfires. They are located at 17703 Nonesuch Rd. Conroe, TX 77306. If you have livestock that is being threatened, please utilize the church for safe storage - per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/mctx.oem/posts/pfbid02RJfgpNMgssCueWxUuMbiPuNCcx7oyakgPxmbzVqjwtxmCWvLXaEQ9Ho3P1Z68QGgl\"><strong>Montgomery County Office of Emergency Management</strong></a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 44354,
-				"address": "16401 1st St, Splendora, TX 77372, USA",
-				"name": "Evacuation Shelter",
-				"lat": 30.2069254,
-				"lng": -95.17876319999999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>Open Evacuation Shelter - East Montgomery Community Development Center at 16401 1st St, Splendora Tx - per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/mctx.oem/posts/pfbid0Z1fa77PQ8FssLKYCGf2xuDADPzmfnhgUYmsWtMgNvG42ym6gv8Vnk61ckwS8HJqUl\"><strong>Montgomery County Office of Emergency Management</strong></a></p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
@@ -2913,45 +2828,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 44288,
-		"is_active": false,
-		"name": "Nacogdoches 1536 Fire",
-		"description": null,
-		"lat": 31.636615,
-		"lng": -94.437967,
-		"address": "11400 Block of TX-7, Nacogdoches, TX 75961",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": 100,
-			"acreage": 1,
-			"links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-03-19T21:10:33Z",
-		"date_modified": "2025-03-20T01:39:37Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "{4412AADE-8E1C-4631-8618-AEEB55494089}",
-		"external_source": "nifc",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 44290,
 		"is_active": false,
 		"name": "Upshur 1547 Fire",
@@ -2992,7 +2868,7 @@
 	},
 	{
 		"id": 44292,
-		"is_active": true,
+		"is_active": false,
 		"name": "Perkins Fire",
 		"description": null,
 		"lat": 37.0172,
@@ -3020,7 +2896,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T21:20:00Z",
-		"date_modified": "2025-03-20T17:52:07Z",
+		"date_modified": "2025-03-21T01:54:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -5048,7 +4924,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-21T01:02:04Z",
-		"date_modified": "2025-03-21T01:11:57Z",
+		"date_modified": "2025-03-21T01:48:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
