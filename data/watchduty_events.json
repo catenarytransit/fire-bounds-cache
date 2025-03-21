@@ -3846,8 +3846,8 @@
 		"is_active": true,
 		"name": "Mudbug Fire",
 		"description": null,
-		"lat": 32.071068,
-		"lng": -94.856425,
+		"lat": 32.058737,
+		"lng": -94.86232,
 		"address": "6400 Block of County Rd 401 S, Henderson, TX 75654",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -3871,7 +3871,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-21T22:25:14Z",
-		"date_modified": "2025-03-21T22:30:14Z",
+		"date_modified": "2025-03-21T22:50:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
