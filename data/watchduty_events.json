@@ -2361,7 +2361,7 @@
 	},
 	{
 		"id": 44351,
-		"is_active": true,
+		"is_active": false,
 		"name": "Limestone 1579 Fire",
 		"description": null,
 		"lat": 31.46134,
@@ -2389,7 +2389,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-20T04:00:08Z",
-		"date_modified": "2025-03-20T04:00:08Z",
+		"date_modified": "2025-03-21T22:11:29Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -3738,7 +3738,7 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": false,
+			"is_fps": true,
 			"containment": null,
 			"acreage": 3,
 			"links": [],
@@ -3754,7 +3754,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-21T21:47:12Z",
-		"date_modified": "2025-03-21T22:01:25Z",
+		"date_modified": "2025-03-21T22:14:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
