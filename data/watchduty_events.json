@@ -2093,7 +2093,7 @@
 		"description": null,
 		"lat": 36.95025,
 		"lng": -90.812417,
-		"address": null,
+		"address": "4 miles WNW of Ellsinore, MO.",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -2116,7 +2116,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T22:43:32Z",
-		"date_modified": "2025-03-21T21:29:23Z",
+		"date_modified": "2025-03-21T21:34:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
