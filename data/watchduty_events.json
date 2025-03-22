@@ -3144,7 +3144,7 @@
 	},
 	{
 		"id": 44564,
-		"is_active": true,
+		"is_active": false,
 		"name": "Lory Lake Fire",
 		"description": null,
 		"lat": 45.718252,
@@ -3172,7 +3172,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-22T21:42:08Z",
-		"date_modified": "2025-03-22T22:31:07Z",
+		"date_modified": "2025-03-22T22:53:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
