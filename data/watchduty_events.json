@@ -3102,7 +3102,7 @@
 	},
 	{
 		"id": 44545,
-		"is_active": true,
+		"is_active": false,
 		"name": "Blade Fire",
 		"description": null,
 		"lat": 45.606336,
@@ -3130,7 +3130,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-22T19:43:07Z",
-		"date_modified": "2025-03-22T20:59:17Z",
+		"date_modified": "2025-03-22T21:31:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
