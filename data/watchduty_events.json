@@ -2428,12 +2428,12 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-22T16:25:13Z",
-		"date_modified": "2025-03-22T22:36:02Z",
+		"date_modified": "2025-03-22T22:58:29Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": "288a4b32-3434-4605-942a-a0f645d74368",
-		"external_source": "wildcad",
+		"reporter_managed": false,
+		"external_id": "{46ACCBBA-7142-44F9-A51C-EEFC6996F527}",
+		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
 	},
