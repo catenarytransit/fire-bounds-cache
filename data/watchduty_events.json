@@ -1102,7 +1102,7 @@
 	},
 	{
 		"id": 44246,
-		"is_active": true,
+		"is_active": false,
 		"name": "Little Hominy Fire",
 		"description": null,
 		"lat": 36.555931,
@@ -1130,7 +1130,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T15:08:52Z",
-		"date_modified": "2025-03-19T15:08:52Z",
+		"date_modified": "2025-03-22T22:51:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2740,7 +2740,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-22T19:24:32Z",
-		"date_modified": "2025-03-22T19:47:36Z",
+		"date_modified": "2025-03-22T22:46:45Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3183,11 +3183,11 @@
 	},
 	{
 		"id": 44565,
-		"is_active": true,
-		"name": "Lamar 1700 Fire",
+		"is_active": false,
+		"name": "Midcity Fire",
 		"description": null,
-		"lat": 33.85362,
-		"lng": -95.514835,
+		"lat": 33.85219,
+		"lng": -95.51908,
 		"address": "800 Block of County Rd 35980, Arthur City, TX 75411",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -3196,8 +3196,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
-			"acreage": 20,
+			"containment": 100,
+			"acreage": 17,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -3211,7 +3211,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-22T21:55:24Z",
-		"date_modified": "2025-03-22T22:00:24Z",
+		"date_modified": "2025-03-22T22:50:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
