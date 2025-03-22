@@ -3147,8 +3147,8 @@
 		"is_active": true,
 		"name": "Rough Road Fire",
 		"description": null,
-		"lat": 32.056503,
-		"lng": -94.78501,
+		"lat": 32.057,
+		"lng": -94.780217,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -3172,7 +3172,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-22T23:30:25Z",
-		"date_modified": "2025-03-22T23:35:24Z",
+		"date_modified": "2025-03-22T23:45:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
