@@ -2868,7 +2868,7 @@
 	},
 	{
 		"id": 44496,
-		"is_active": true,
+		"is_active": false,
 		"name": "Blackbird Creek Fire",
 		"description": null,
 		"lat": 36.04103106206122,
@@ -2896,7 +2896,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-21T22:04:57Z",
-		"date_modified": "2025-03-22T03:08:30Z",
+		"date_modified": "2025-03-22T11:09:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
