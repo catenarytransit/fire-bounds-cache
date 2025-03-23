@@ -852,7 +852,7 @@
 	},
 	{
 		"id": 44267,
-		"is_active": true,
+		"is_active": false,
 		"name": "3001 Fire",
 		"description": null,
 		"lat": 32.70322132419673,
@@ -880,7 +880,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T18:55:46Z",
-		"date_modified": "2025-03-23T15:34:12Z",
+		"date_modified": "2025-03-23T23:40:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1110,7 +1110,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": 80,
+			"containment": 100,
 			"acreage": 137.8,
 			"links": [],
 			"has_custom_evacuation_orders": false,
@@ -1125,7 +1125,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-21T01:02:04Z",
-		"date_modified": "2025-03-23T17:27:35Z",
+		"date_modified": "2025-03-23T23:42:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
