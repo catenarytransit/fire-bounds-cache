@@ -48002,7 +48002,7 @@
         "attr_ContainmentDateTime" : null, 
         "attr_ControlDateTime" : null, 
         "attr_CreatedBySystem" : "wildcade", 
-        "attr_IncidentSize" : 74.26, 
+        "attr_IncidentSize" : 110.3, 
         "attr_DiscoveryAcres" : 50, 
         "attr_DispatchCenterID" : "GAGIC", 
         "attr_EstimatedCostToDate" : 250000, 
@@ -48085,7 +48085,7 @@
         "attr_OrganizationalAssessment" : null, 
         "attr_StratDecisionPublishDate" : null, 
         "attr_CreatedOnDateTime_dt" : 1742582055717, 
-        "attr_ModifiedOnDateTime_dt" : 1742699627947, 
+        "attr_ModifiedOnDateTime_dt" : 1742750697017, 
         "attr_Source" : "IRWIN", 
         "attr_ActiveFireCandidate" : 1, 
         "attr_IsCpxChild" : 0, 
@@ -48095,7 +48095,7 @@
         "GlobalID" : "d4f5cc5d-50fd-42fe-8647-fcb920e02432", 
         "Shape__Area" : 4.4036368763045175E-05, 
         "Shape__Length" : 0.045829425889092265, 
-        "attr_IncidentComplexityLevel" : null
+        "attr_IncidentComplexityLevel" : "Type 4 Incident"
       }
     }, 
     {
