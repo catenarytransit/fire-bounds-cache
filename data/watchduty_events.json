@@ -2373,7 +2373,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-23T20:03:17Z",
-		"date_modified": "2025-03-23T22:04:15Z",
+		"date_modified": "2025-03-23T23:27:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2389,7 +2389,7 @@
 		"description": null,
 		"lat": 43.814028,
 		"lng": -106.411167,
-		"address": "6 Miles Northwest of Sussex Road & Buffalo Sussex Cutoff Road, 9 Miles Northeast of Kaycee",
+		"address": "Buffalo Sussex Cutoff Road, 8 Miles North of Sussex Road, Northeast of Kaycee",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -2412,7 +2412,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-23T23:13:09Z",
-		"date_modified": "2025-03-23T23:23:32Z",
+		"date_modified": "2025-03-23T23:30:31Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
