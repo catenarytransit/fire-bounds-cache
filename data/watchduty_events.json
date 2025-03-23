@@ -618,7 +618,7 @@
 	},
 	{
 		"id": 44088,
-		"is_active": true,
+		"is_active": false,
 		"name": "Doublehead South Fire",
 		"description": null,
 		"lat": 35.729167,
@@ -646,7 +646,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-18T06:00:18Z",
-		"date_modified": "2025-03-22T19:20:45Z",
+		"date_modified": "2025-03-23T03:24:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2852,7 +2852,7 @@
 	},
 	{
 		"id": 44570,
-		"is_active": true,
+		"is_active": false,
 		"name": "Turtle Pond Fire",
 		"description": null,
 		"lat": 34.805217,
@@ -2880,7 +2880,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-22T23:15:46Z",
-		"date_modified": "2025-03-22T23:18:36Z",
+		"date_modified": "2025-03-23T03:24:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
