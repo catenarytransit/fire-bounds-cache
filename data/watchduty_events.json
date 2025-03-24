@@ -1653,8 +1653,8 @@
 		"is_active": true,
 		"name": "Houston 1762 Fire",
 		"description": null,
-		"lat": 31.279799,
-		"lng": -95.481464,
+		"lat": 31.210833,
+		"lng": -95.3828,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1678,7 +1678,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-24T19:00:18Z",
-		"date_modified": "2025-03-24T19:00:18Z",
+		"date_modified": "2025-03-24T19:05:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
