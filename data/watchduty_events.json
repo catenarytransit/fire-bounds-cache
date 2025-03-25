@@ -2029,10 +2029,10 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-25T20:01:05Z",
-		"date_modified": "2025-03-25T21:46:06Z",
+		"date_modified": "2025-03-25T22:49:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "{242DDCA5-8158-44C7-8E90-6FADF0A33ECC}",
 		"external_source": "nifc",
 		"child_geo_events": [],
