@@ -1104,7 +1104,7 @@
 	},
 	{
 		"id": 44659,
-		"is_active": true,
+		"is_active": false,
 		"name": "Switch Fire",
 		"description": null,
 		"lat": 36.789642,
@@ -1132,7 +1132,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-24T19:39:42Z",
-		"date_modified": "2025-03-24T19:45:39Z",
+		"date_modified": "2025-03-25T23:34:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1221,7 +1221,7 @@
 	},
 	{
 		"id": 44682,
-		"is_active": true,
+		"is_active": false,
 		"name": "Lindal Fire",
 		"description": null,
 		"lat": 36.515853,
@@ -1249,7 +1249,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-24T22:20:43Z",
-		"date_modified": "2025-03-24T22:20:43Z",
+		"date_modified": "2025-03-25T23:34:42Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
