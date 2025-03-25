@@ -235,7 +235,7 @@
 	},
 	{
 		"id": 43845,
-		"is_active": true,
+		"is_active": false,
 		"name": "Big Eagle Fire",
 		"description": null,
 		"lat": 36.622144,
@@ -263,7 +263,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T20:46:30Z",
-		"date_modified": "2025-03-24T21:25:42Z",
+		"date_modified": "2025-03-25T05:40:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -753,7 +753,7 @@
 	},
 	{
 		"id": 44440,
-		"is_active": true,
+		"is_active": false,
 		"name": "Pale Rock Fire",
 		"description": null,
 		"lat": 36.929438,
@@ -781,7 +781,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-21T12:00:40Z",
-		"date_modified": "2025-03-24T21:25:42Z",
+		"date_modified": "2025-03-25T05:40:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1884,7 +1884,7 @@
 	},
 	{
 		"id": 44692,
-		"is_active": true,
+		"is_active": false,
 		"name": "Volk Fire",
 		"description": null,
 		"lat": 37.363,
@@ -1912,7 +1912,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-24T23:39:07Z",
-		"date_modified": "2025-03-25T01:28:07Z",
+		"date_modified": "2025-03-25T05:40:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
