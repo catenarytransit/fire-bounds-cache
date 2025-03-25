@@ -2199,8 +2199,8 @@
 		"is_active": true,
 		"name": "White House Fire",
 		"description": null,
-		"lat": 32.006321,
-		"lng": -95.289891,
+		"lat": 31.94021,
+		"lng": -95.18341,
 		"address": "400 Block of County Rd 1410, Jacksonville, TX 75766",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2224,7 +2224,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-25T21:50:06Z",
-		"date_modified": "2025-03-25T21:50:06Z",
+		"date_modified": "2025-03-25T21:55:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
