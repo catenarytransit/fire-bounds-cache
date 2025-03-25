@@ -1416,7 +1416,7 @@
 	},
 	{
 		"id": 44636,
-		"is_active": true,
+		"is_active": false,
 		"name": "Adams Fire",
 		"description": null,
 		"lat": 32.055,
@@ -1444,7 +1444,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-24T16:23:38Z",
-		"date_modified": "2025-03-24T23:02:44Z",
+		"date_modified": "2025-03-25T03:10:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
