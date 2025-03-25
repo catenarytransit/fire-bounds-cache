@@ -675,7 +675,7 @@
 	},
 	{
 		"id": 44520,
-		"is_active": true,
+		"is_active": false,
 		"name": "Big Guppy Fire",
 		"description": null,
 		"lat": 26.241167,
@@ -703,7 +703,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-22T14:45:45Z",
-		"date_modified": "2025-03-25T19:46:04Z",
+		"date_modified": "2025-03-25T22:18:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2157,7 +2157,7 @@
 	},
 	{
 		"id": 44782,
-		"is_active": true,
+		"is_active": false,
 		"name": "Elbow Ridge Fire",
 		"description": null,
 		"lat": 31.754132,
@@ -2170,7 +2170,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
+			"containment": 100,
 			"acreage": 1,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -2185,7 +2185,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-25T21:30:07Z",
-		"date_modified": "2025-03-25T21:35:05Z",
+		"date_modified": "2025-03-25T22:25:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
