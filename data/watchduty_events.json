@@ -1767,7 +1767,7 @@
 	},
 	{
 		"id": 44814,
-		"is_active": true,
+		"is_active": false,
 		"name": "Tom Fire",
 		"description": null,
 		"lat": 33.721783,
@@ -1795,7 +1795,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-26T13:24:27Z",
-		"date_modified": "2025-03-26T18:51:31Z",
+		"date_modified": "2025-03-26T22:55:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
