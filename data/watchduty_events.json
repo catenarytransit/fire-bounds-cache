@@ -2160,9 +2160,9 @@
 		"is_active": true,
 		"name": "Vegetation Fire",
 		"description": null,
-		"lat": 41.26949336301496,
-		"lng": -100.65189577126048,
-		"address": "Highway 83 & Stewart Road, North of North Platte",
+		"lat": 41.292286,
+		"lng": -100.5135469,
+		"address": "E Niedan Road, 1.5 Miles West of N Maxwell Road, Northeast of North Platte",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -2185,7 +2185,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-26T20:43:53Z",
-		"date_modified": "2025-03-26T20:43:53Z",
+		"date_modified": "2025-03-26T20:51:56Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
