@@ -1728,12 +1728,12 @@
 	},
 	{
 		"id": 44766,
-		"is_active": true,
+		"is_active": false,
 		"name": "Ranchview Fire",
 		"description": null,
 		"lat": 34.02837,
 		"lng": -105.83752,
-		"address": null,
+		"address": "-",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1743,7 +1743,7 @@
 			"is_fps": false,
 			"containment": null,
 			"acreage": 2.9,
-			"links": null,
+			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
@@ -1756,7 +1756,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-25T20:01:05Z",
-		"date_modified": "2025-03-25T22:51:23Z",
+		"date_modified": "2025-03-26T06:12:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
