@@ -1733,7 +1733,7 @@
 		"description": null,
 		"lat": 48.10692,
 		"lng": -105.04257,
-		"address": null,
+		"address": "SW of Brockton",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1741,7 +1741,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 753,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1756,7 +1756,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-25T22:56:06Z",
-		"date_modified": "2025-03-26T01:26:06Z",
+		"date_modified": "2025-03-26T20:05:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
