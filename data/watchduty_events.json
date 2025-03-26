@@ -2121,8 +2121,8 @@
 		"is_active": true,
 		"name": "River Road Fire",
 		"description": null,
-		"lat": 46.871085,
-		"lng": -93.371076,
+		"lat": 46.870776,
+		"lng": -93.386364,
 		"address": "59000 Block of Great River Rd, Palisade, MN 56469",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2146,7 +2146,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-26T13:16:08Z",
-		"date_modified": "2025-03-26T13:16:08Z",
+		"date_modified": "2025-03-26T14:41:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
