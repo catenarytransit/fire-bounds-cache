@@ -1,7 +1,7 @@
 [
 	{
 		"id": 43771,
-		"is_active": true,
+		"is_active": false,
 		"name": "840 Road Fire",
 		"description": null,
 		"lat": 35.8284135,
@@ -29,7 +29,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T16:42:26Z",
-		"date_modified": "2025-03-25T23:40:28Z",
+		"date_modified": "2025-03-26T07:55:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
