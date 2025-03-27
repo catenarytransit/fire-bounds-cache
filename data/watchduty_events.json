@@ -1939,7 +1939,7 @@
 	},
 	{
 		"id": 44892,
-		"is_active": true,
+		"is_active": false,
 		"name": "South Tiger Fire",
 		"description": null,
 		"lat": 35.3875,
@@ -1951,7 +1951,7 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": null,
+			"is_fps": false,
 			"containment": 80,
 			"acreage": 1909,
 			"links": null,
@@ -1967,7 +1967,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-27T12:50:14Z",
-		"date_modified": "2025-03-27T13:56:27Z",
+		"date_modified": "2025-03-27T14:02:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
