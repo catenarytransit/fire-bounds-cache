@@ -1471,7 +1471,7 @@
 	},
 	{
 		"id": 44850,
-		"is_active": true,
+		"is_active": false,
 		"name": "Fargo Fire",
 		"description": null,
 		"lat": 36.993689,
@@ -1499,7 +1499,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-26T20:58:31Z",
-		"date_modified": "2025-03-27T00:17:55Z",
+		"date_modified": "2025-03-27T08:25:51Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
