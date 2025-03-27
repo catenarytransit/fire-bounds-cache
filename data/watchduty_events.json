@@ -1861,7 +1861,7 @@
 	},
 	{
 		"id": 44898,
-		"is_active": true,
+		"is_active": false,
 		"name": "East Benedict Creek Fire",
 		"description": null,
 		"lat": 38.30998,
@@ -1889,7 +1889,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-27T14:16:14Z",
-		"date_modified": "2025-03-27T14:20:02Z",
+		"date_modified": "2025-03-27T22:25:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
