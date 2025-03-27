@@ -1432,7 +1432,7 @@
 	},
 	{
 		"id": 44860,
-		"is_active": true,
+		"is_active": false,
 		"name": "Olson Road Fire",
 		"description": null,
 		"lat": 45.548467,
@@ -1445,7 +1445,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 15,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1460,7 +1460,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-26T21:52:33Z",
-		"date_modified": "2025-03-26T23:44:36Z",
+		"date_modified": "2025-03-27T16:50:43Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
