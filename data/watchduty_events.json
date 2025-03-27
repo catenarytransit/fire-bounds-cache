@@ -1822,7 +1822,7 @@
 	},
 	{
 		"id": 44864,
-		"is_active": true,
+		"is_active": false,
 		"name": "Trout Fire",
 		"description": null,
 		"lat": 42.981717,
@@ -1850,7 +1850,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-26T22:17:50Z",
-		"date_modified": "2025-03-27T00:26:01Z",
+		"date_modified": "2025-03-27T04:40:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
