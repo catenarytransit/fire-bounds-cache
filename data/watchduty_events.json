@@ -1967,10 +1967,10 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-27T12:50:14Z",
-		"date_modified": "2025-03-27T13:02:14Z",
+		"date_modified": "2025-03-27T13:56:27Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "{B519BE21-7DE3-44CD-9F29-53ED4A635FCF}",
 		"external_source": "nifc",
 		"child_geo_events": [],
