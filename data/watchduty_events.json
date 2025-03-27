@@ -792,7 +792,7 @@
 	},
 	{
 		"id": 44765,
-		"is_active": true,
+		"is_active": false,
 		"name": "Yakima Delta Fire",
 		"description": null,
 		"lat": 46.247865687501985,
@@ -820,7 +820,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-25T19:42:33Z",
-		"date_modified": "2025-03-27T03:42:20Z",
+		"date_modified": "2025-03-27T11:55:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
