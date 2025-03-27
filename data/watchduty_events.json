@@ -274,7 +274,7 @@
 	},
 	{
 		"id": 44214,
-		"is_active": true,
+		"is_active": false,
 		"name": "266 Fire",
 		"description": null,
 		"lat": 38.062297,
@@ -302,7 +302,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-19T01:37:44Z",
-		"date_modified": "2025-03-21T18:38:38Z",
+		"date_modified": "2025-03-27T10:26:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1393,7 +1393,7 @@
 	},
 	{
 		"id": 44849,
-		"is_active": true,
+		"is_active": false,
 		"name": "Pile 2 Fire",
 		"description": null,
 		"lat": 44.325786,
@@ -1421,7 +1421,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-26T20:57:49Z",
-		"date_modified": "2025-03-27T02:17:32Z",
+		"date_modified": "2025-03-27T10:25:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1588,7 +1588,7 @@
 	},
 	{
 		"id": 44863,
-		"is_active": true,
+		"is_active": false,
 		"name": "Thorpe Fire",
 		"description": null,
 		"lat": 47.60736701277213,
@@ -1616,7 +1616,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-26T22:17:19Z",
-		"date_modified": "2025-03-27T04:13:41Z",
+		"date_modified": "2025-03-27T10:25:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
