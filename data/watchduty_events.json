@@ -636,7 +636,7 @@
 	},
 	{
 		"id": 44693,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 33.62980704624336,
@@ -664,7 +664,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-24T23:53:01Z",
-		"date_modified": "2025-03-24T23:53:01Z",
+		"date_modified": "2025-03-27T07:23:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
