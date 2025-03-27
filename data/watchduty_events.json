@@ -2213,7 +2213,7 @@
 	{
 		"id": 44932,
 		"is_active": true,
-		"name": "545Th Fire",
+		"name": "Coyote Fire",
 		"description": null,
 		"lat": 45.736894,
 		"lng": -92.907611,
@@ -2240,7 +2240,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-27T21:09:46Z",
-		"date_modified": "2025-03-27T21:09:46Z",
+		"date_modified": "2025-03-27T21:41:03Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
