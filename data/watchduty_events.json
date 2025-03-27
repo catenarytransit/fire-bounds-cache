@@ -753,7 +753,7 @@
 	},
 	{
 		"id": 44763,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hoblin Creek Fire",
 		"description": null,
 		"lat": 46.687027,
@@ -781,7 +781,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-25T19:21:34Z",
-		"date_modified": "2025-03-25T20:08:50Z",
+		"date_modified": "2025-03-27T10:01:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1510,7 +1510,7 @@
 	},
 	{
 		"id": 44859,
-		"is_active": true,
+		"is_active": false,
 		"name": "Belcourt Fire",
 		"description": null,
 		"lat": 48.251708,
@@ -1538,7 +1538,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-26T21:46:09Z",
-		"date_modified": "2025-03-26T23:15:20Z",
+		"date_modified": "2025-03-27T10:01:00Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1861,7 +1861,7 @@
 	},
 	{
 		"id": 44888,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hayfield Fire",
 		"description": null,
 		"lat": 47.981183,
@@ -1889,7 +1889,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-27T04:44:34Z",
-		"date_modified": "2025-03-27T04:50:05Z",
+		"date_modified": "2025-03-27T09:59:42Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
