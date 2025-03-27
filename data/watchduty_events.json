@@ -1744,7 +1744,7 @@
 	},
 	{
 		"id": 44877,
-		"is_active": true,
+		"is_active": false,
 		"name": "24 Fire",
 		"description": null,
 		"lat": 39.019138,
@@ -1772,7 +1772,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-27T00:04:55Z",
-		"date_modified": "2025-03-27T00:32:31Z",
+		"date_modified": "2025-03-27T10:02:43Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
