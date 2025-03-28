@@ -351,52 +351,13 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 44722,
-		"is_active": false,
-		"name": "Half Bank Road Fire",
-		"description": null,
-		"lat": 34.365556,
-		"lng": -95.959167,
-		"address": "4 miles E of Atoka",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": 100,
-			"acreage": 498,
-			"links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-03-25T14:20:58Z",
-		"date_modified": "2025-03-27T21:55:14Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "{51973333-6C7F-499C-AD04-14CA7ED24717}",
-		"external_source": "nifc",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 44730,
-		"is_active": true,
+		"is_active": false,
 		"name": "Walnut Fire",
 		"description": null,
 		"lat": 35.557222,
 		"lng": -96.491111,
-		"address": null,
+		"address": "Chilesville",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -406,7 +367,7 @@
 			"is_fps": false,
 			"containment": 100,
 			"acreage": 1558,
-			"links": null,
+			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
@@ -419,7 +380,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-25T15:28:37Z",
-		"date_modified": "2025-03-28T15:40:46Z",
+		"date_modified": "2025-03-28T21:56:53Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -469,7 +430,7 @@
 	},
 	{
 		"id": 44798,
-		"is_active": true,
+		"is_active": false,
 		"name": "Red Hill Fire",
 		"description": null,
 		"lat": 35.3536824,
@@ -497,7 +458,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-25T23:23:40Z",
-		"date_modified": "2025-03-28T15:46:58Z",
+		"date_modified": "2025-03-28T21:57:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -508,7 +469,7 @@
 	},
 	{
 		"id": 44806,
-		"is_active": true,
+		"is_active": false,
 		"name": "Fisherman'S Corner Fire",
 		"description": null,
 		"lat": 35.29,
@@ -536,7 +497,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-26T04:01:06Z",
-		"date_modified": "2025-03-28T19:15:48Z",
+		"date_modified": "2025-03-28T21:57:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2336,7 +2297,23 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 45006,
+				"address": "900 Avenue Q, Sunray",
+				"name": "Evacuation Shelter & Reunification Center - Sunray High School Gym",
+				"lat": 36.01350307163898,
+				"lng": -101.82022624294284,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>The High School Gym is open for anyone needing shelter, per <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link\" href=\"https://warn.pbs.org/\">Moore County Emergency Management via a Wireless Emergency Alert</a>. It is also acting as a reunification center, per radio traffic.</p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
 			"North Sunray",
