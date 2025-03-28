@@ -1795,7 +1795,7 @@
 	},
 	{
 		"id": 44975,
-		"is_active": true,
+		"is_active": false,
 		"name": "Portage Lake Fire",
 		"description": null,
 		"lat": 46.571068,
@@ -1823,7 +1823,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-28T13:25:22Z",
-		"date_modified": "2025-03-28T13:25:22Z",
+		"date_modified": "2025-03-28T15:55:23Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2185,7 +2185,7 @@
 	},
 	{
 		"id": 44986,
-		"is_active": true,
+		"is_active": false,
 		"name": "Crush Fire",
 		"description": null,
 		"lat": 47.05,
@@ -2213,7 +2213,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-28T15:50:23Z",
-		"date_modified": "2025-03-28T15:50:23Z",
+		"date_modified": "2025-03-28T15:55:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
