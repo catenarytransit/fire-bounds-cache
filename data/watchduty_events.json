@@ -2299,5 +2299,48 @@
 		"external_source": null,
 		"child_geo_events": [],
 		"parent_geo_events": []
+	},
+	{
+		"id": 45005,
+		"is_active": true,
+		"name": "Grain Elevator Explosion Risk",
+		"description": null,
+		"lat": 36.023444049125345,
+		"lng": -101.82343950843918,
+		"address": "Northeast of Main Street & East 2nd Street, Sunray",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": null,
+			"links": [],
+			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": "North Sunray, specifically North of Third Street to Cemetery Road",
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-28T21:46:29Z",
+		"date_modified": "2025-03-28T21:47:02Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
+		"child_geo_events": [],
+		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"North Sunray",
+			"specifically North of Third Street to Cemetery Road"
+		]
 	}
 ]
