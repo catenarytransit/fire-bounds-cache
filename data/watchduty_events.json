@@ -2266,8 +2266,8 @@
 		"is_active": true,
 		"name": "Durant Fire",
 		"description": null,
-		"lat": 45.375339,
-		"lng": -93.165532,
+		"lat": 45.37541842429826,
+		"lng": -93.16625693169638,
 		"address": "22000 Block of Durant St. NE East Bethel",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2291,7 +2291,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-28T19:41:24Z",
-		"date_modified": "2025-03-28T20:05:54Z",
+		"date_modified": "2025-03-28T20:31:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
