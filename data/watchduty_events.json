@@ -1990,7 +1990,7 @@
 	},
 	{
 		"id": 45003,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 31.461,
@@ -2018,7 +2018,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-28T20:51:23Z",
-		"date_modified": "2025-03-28T21:37:59Z",
+		"date_modified": "2025-03-29T03:40:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2178,7 +2178,7 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": false,
+			"is_fps": true,
 			"containment": null,
 			"acreage": 100,
 			"links": [],
@@ -2194,7 +2194,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-28T23:31:06Z",
-		"date_modified": "2025-03-29T01:53:38Z",
+		"date_modified": "2025-03-29T03:39:56Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
