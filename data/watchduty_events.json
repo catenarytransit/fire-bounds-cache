@@ -1426,7 +1426,7 @@
 	},
 	{
 		"id": 45026,
-		"is_active": true,
+		"is_active": false,
 		"name": "Woodpile Fire",
 		"description": null,
 		"lat": 31.768211,
@@ -1454,7 +1454,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-29T16:15:59Z",
-		"date_modified": "2025-03-29T22:30:15Z",
+		"date_modified": "2025-03-29T22:40:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
