@@ -1989,7 +1989,7 @@
 			{
 				"id": 45006,
 				"address": "900 Avenue Q, Sunray",
-				"name": "Evacuation Shelter & Reunification Center - Sunray High School Gym",
+				"name": "Evacuation Shelter - Sunray High School Gym",
 				"lat": 36.01350307163898,
 				"lng": -101.82022624294284,
 				"is_active": true,
@@ -1997,7 +1997,7 @@
 				"data": {
 					"geo_event_type": "location",
 					"location_type": "evac_shelter",
-					"information": "<p>The High School Gym is open for anyone needing shelter, per <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link\" href=\"https://warn.pbs.org/\">Moore County Emergency Management via a Wireless Emergency Alert</a>. It is also acting as a reunification center, per radio traffic.</p>",
+					"information": "<p>The High School Gym is open for anyone needing shelter, per <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link\" href=\"https://warn.pbs.org/\">Moore County Emergency Management via a Wireless Emergency Alert</a>.</p><p>Note: If no one is at the shelter by 10:30pm Moore County EM will close it and allow the workers to go home, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/MooreCOOEM/posts/pfbid0WcRogmR4NMSv5bzDK2qedimPPmXHKHM1G6hgjNVGM7Gt2MdMZm6yW66wvPLznua5l\">their Facebook page</a>.</p>",
 					"links": []
 				}
 			}
