@@ -1522,7 +1522,7 @@
 	},
 	{
 		"id": 44982,
-		"is_active": true,
+		"is_active": false,
 		"name": "2025-12 Fire",
 		"description": null,
 		"lat": 48.252523,
@@ -1550,7 +1550,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-28T14:40:22Z",
-		"date_modified": "2025-03-29T00:40:51Z",
+		"date_modified": "2025-03-29T04:55:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
