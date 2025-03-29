@@ -1780,8 +1780,8 @@
 		"is_active": true,
 		"name": "Four Seven Fire",
 		"description": null,
-		"lat": 31.70093,
-		"lng": -98.76979,
+		"lat": 31.70012,
+		"lng": -98.7704,
 		"address": "1400 Block of Farm to Market 590, Zephyr, TX 76890",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1805,7 +1805,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-29T19:10:03Z",
-		"date_modified": "2025-03-29T19:10:04Z",
+		"date_modified": "2025-03-29T19:15:03Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
