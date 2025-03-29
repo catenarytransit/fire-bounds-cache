@@ -1016,11 +1016,11 @@
 	{
 		"id": 45000,
 		"is_active": true,
-		"name": "Nevar-Fy25-Wf-Dads Lake Fire",
+		"name": "Dads Lake Fire",
 		"description": null,
 		"lat": 42.499052,
 		"lng": -100.683474,
-		"address": null,
+		"address": "Between Dads Lake and Mule Lake, Valentine National Wildlife Refuge",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1030,7 +1030,7 @@
 			"is_fps": false,
 			"containment": 100,
 			"acreage": 100,
-			"links": null,
+			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
@@ -1043,7 +1043,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-28T20:00:53Z",
-		"date_modified": "2025-03-29T18:18:06Z",
+		"date_modified": "2025-03-29T23:41:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
