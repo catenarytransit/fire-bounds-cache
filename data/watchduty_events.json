@@ -1778,7 +1778,7 @@
 	{
 		"id": 45029,
 		"is_active": true,
-		"name": "Battery  Fire",
+		"name": "Battery Fire",
 		"description": null,
 		"lat": 30.464722,
 		"lng": -102.495833,
@@ -1805,7 +1805,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-29T17:26:00Z",
-		"date_modified": "2025-03-29T17:26:01Z",
+		"date_modified": "2025-03-29T17:31:00Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
