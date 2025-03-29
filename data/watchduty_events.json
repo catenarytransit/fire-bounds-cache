@@ -1795,7 +1795,7 @@
 	},
 	{
 		"id": 45004,
-		"is_active": true,
+		"is_active": false,
 		"name": "I40 228 Fire",
 		"description": null,
 		"lat": 35.00255056199889,
@@ -1823,7 +1823,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-28T21:05:49Z",
-		"date_modified": "2025-03-29T01:23:47Z",
+		"date_modified": "2025-03-29T09:25:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
