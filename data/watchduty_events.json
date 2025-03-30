@@ -887,7 +887,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-30T21:22:14Z",
-		"date_modified": "2025-03-30T23:10:21Z",
+		"date_modified": "2025-03-30T23:21:46Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -906,6 +906,21 @@
 					"geo_event_type": "location",
 					"location_type": "general",
 					"information": "<p>An evacuation center is established at the Bishop Senior Center located at 682 Spruce St, Bishop, CA 93514, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/InyoCountySheriffsOffice/posts/pfbid02rsrcn6NJpZF5pgGr1GX5VyUNWgou2jfnUoMQ54d8GPWj4DVuXAHWjwgQDtacTnLGl\">Inyo County Sheriff's Office on Facebook</a>.</p>",
+					"links": []
+				}
+			},
+			{
+				"id": 45061,
+				"address": "58869 CA-120, Benton, CA 93512, USA",
+				"name": "Evacuation Center - Benton Community Center",
+				"lat": 37.8187046,
+				"lng": -118.4786912,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>An Evacuation Center has been established at the Benton Community Center located at 58869 Highway 120, Benton, CA, per a <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://warn.pbs.org/\">Wireless Emergency Alert</a>.</p>",
 					"links": []
 				}
 			}
