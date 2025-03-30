@@ -1057,8 +1057,8 @@
 		"is_active": true,
 		"name": "Silver Fire",
 		"description": null,
-		"lat": 37.3985,
-		"lng": -118.355691,
+		"lat": 37.40615,
+		"lng": -118.359414,
 		"address": "Off of Highway 6, Laws",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1082,7 +1082,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-30T21:22:14Z",
-		"date_modified": "2025-03-30T21:33:37Z",
+		"date_modified": "2025-03-30T21:38:28Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
