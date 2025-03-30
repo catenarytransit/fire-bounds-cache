@@ -875,10 +875,10 @@
 			"containment": null,
 			"acreage": 150,
 			"links": [],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "ICU-017-B, ICU-019, ICU-057-B, ICU-065, ICU-087-B, ICU-087-E White Mountain Estates",
+			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": "Genasys Evacuation Map",
@@ -887,7 +887,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-30T21:22:14Z",
-		"date_modified": "2025-03-30T23:34:42Z",
+		"date_modified": "2025-03-30T23:48:51Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -925,14 +925,6 @@
 				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"ICU-017-B",
-			"ICU-019",
-			"ICU-057-B",
-			"ICU-065",
-			"ICU-087-B",
-			"ICU-087-E White Mountain Estates"
-		]
+		"parent_geo_events": []
 	}
 ]
