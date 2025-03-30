@@ -625,7 +625,7 @@
 	},
 	{
 		"id": 45000,
-		"is_active": true,
+		"is_active": false,
 		"name": "Dads Lake Fire",
 		"description": null,
 		"lat": 42.499052,
@@ -653,7 +653,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-28T20:00:53Z",
-		"date_modified": "2025-03-29T23:44:41Z",
+		"date_modified": "2025-03-30T07:55:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
