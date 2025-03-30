@@ -50857,7 +50857,7 @@
       "properties" : {
         "OBJECTID" : 38078, 
         "poly_SourceOID" : 7290, 
-        "poly_IncidentName" : "Eagle B", 
+        "poly_IncidentName" : "Eagle", 
         "poly_FeatureCategory" : "Wildfire Daily Fire Perimeter", 
         "poly_MapMethod" : "Mixed Methods", 
         "poly_GISAcres" : 1.5322410049702524, 
@@ -50866,7 +50866,7 @@
         "poly_FeatureStatus" : "Approved", 
         "poly_IsVisible" : "Yes", 
         "poly_CreateDate" : 1742941173519, 
-        "poly_DateCurrent" : 1743166501000, 
+        "poly_DateCurrent" : 1743348189120, 
         "poly_PolygonDateTime" : 1742941174000, 
         "poly_IRWINID" : "{B161148B-FDEE-4C57-9EDA-8ACA6317CE93}", 
         "poly_FORID" : null, 
