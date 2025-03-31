@@ -625,7 +625,7 @@
 	},
 	{
 		"id": 45050,
-		"is_active": true,
+		"is_active": false,
 		"name": "Mile 38 Fire",
 		"description": null,
 		"lat": 47.02615,
@@ -653,7 +653,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-30T16:25:17Z",
-		"date_modified": "2025-03-31T14:14:17Z",
+		"date_modified": "2025-03-31T15:40:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
