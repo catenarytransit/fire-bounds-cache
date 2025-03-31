@@ -209,7 +209,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 90,
+			"containment": 95,
 			"acreage": 303,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -224,7 +224,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-28T13:55:21Z",
-		"date_modified": "2025-03-31T18:15:48Z",
+		"date_modified": "2025-03-31T22:00:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -788,7 +788,7 @@
 	},
 	{
 		"id": 45097,
-		"is_active": true,
+		"is_active": false,
 		"name": "Knutson Lake Fire",
 		"description": null,
 		"lat": 46.863531,
@@ -816,7 +816,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-31T21:13:10Z",
-		"date_modified": "2025-03-31T21:40:12Z",
+		"date_modified": "2025-03-31T22:02:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
