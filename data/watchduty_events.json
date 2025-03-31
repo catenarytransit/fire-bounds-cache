@@ -816,10 +816,10 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-31T18:35:08Z",
-		"date_modified": "2025-03-31T18:35:08Z",
+		"date_modified": "2025-03-31T20:24:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "f601f132-a8d5-4fcc-90c1-644bfdd2a2b1",
 		"external_source": "wildcad",
 		"child_geo_events": [],
