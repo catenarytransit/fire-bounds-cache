@@ -508,7 +508,7 @@
 	},
 	{
 		"id": 45022,
-		"is_active": true,
+		"is_active": false,
 		"name": "Lick Fire",
 		"description": null,
 		"lat": 32.643867,
@@ -536,7 +536,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-29T01:30:51Z",
-		"date_modified": "2025-03-30T22:53:53Z",
+		"date_modified": "2025-03-31T02:55:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -742,7 +742,7 @@
 	},
 	{
 		"id": 45048,
-		"is_active": true,
+		"is_active": false,
 		"name": "Allen Fire",
 		"description": null,
 		"lat": 37.736367,
@@ -770,7 +770,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-30T15:33:07Z",
-		"date_modified": "2025-03-30T22:52:09Z",
+		"date_modified": "2025-03-31T02:55:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -795,7 +795,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": 150,
+			"acreage": 1000,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -809,7 +809,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-30T21:22:14Z",
-		"date_modified": "2025-03-30T23:48:51Z",
+		"date_modified": "2025-03-31T02:55:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -862,6 +862,45 @@
 				}
 			}
 		],
+		"parent_geo_events": []
+	},
+	{
+		"id": 45064,
+		"is_active": true,
+		"name": "Bull Fire",
+		"description": null,
+		"lat": 33.124583,
+		"lng": -110.105389,
+		"address": "0 Block of Co Rd 105, Bylas, AZ 85530",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": null,
+			"acreage": 25,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false
+		},
+		"date_created": "2025-03-31T01:02:14Z",
+		"date_modified": "2025-03-31T02:57:24Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "78ba21d0-9541-4e11-86c6-ad001a3b83da",
+		"external_source": "wildcad",
+		"child_geo_events": [],
 		"parent_geo_events": []
 	}
 ]
