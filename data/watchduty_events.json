@@ -578,7 +578,7 @@
 	},
 	{
 		"id": 45105,
-		"is_active": true,
+		"is_active": false,
 		"name": "Pine Fire",
 		"description": null,
 		"lat": 36.704883,
@@ -606,7 +606,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-31T22:45:48Z",
-		"date_modified": "2025-03-31T23:26:14Z",
+		"date_modified": "2025-04-01T05:40:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
