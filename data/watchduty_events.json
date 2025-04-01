@@ -542,8 +542,8 @@
 		"is_active": false,
 		"name": "Knutson Lake Fire",
 		"description": null,
-		"lat": 46.863531,
-		"lng": -95.185104,
+		"lat": 46.85384,
+		"lng": -95.185955,
 		"address": "20000 Block of 580th Ave, Park Rapids, MN 56470",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -567,7 +567,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-31T21:13:10Z",
-		"date_modified": "2025-03-31T22:02:10Z",
+		"date_modified": "2025-04-01T13:54:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
