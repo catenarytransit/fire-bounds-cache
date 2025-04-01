@@ -828,11 +828,11 @@
 			"containment": null,
 			"acreage": 2.5,
 			"links": [],
-			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": "SET in a 1 mile radius within Alpine School",
+			"evacuation_orders": "Alpine Village East and the surrounding area",
+			"evacuation_warnings": "1 mile radius within Alpine School",
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
 			"is_complex_parent": false,
@@ -840,7 +840,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-01T19:19:29Z",
-		"date_modified": "2025-04-01T19:38:31Z",
+		"date_modified": "2025-04-01T19:47:44Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -848,8 +848,11 @@
 		"external_source": null,
 		"child_geo_events": [],
 		"parent_geo_events": [],
+		"evacuation_orders_arr": [
+			"Alpine Village East and the surrounding area"
+		],
 		"evacuation_warnings_arr": [
-			"SET in a 1 mile radius within Alpine School"
+			"1 mile radius within Alpine School"
 		]
 	}
 ]
