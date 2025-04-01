@@ -656,7 +656,7 @@
 	},
 	{
 		"id": 45108,
-		"is_active": true,
+		"is_active": false,
 		"name": "Walker Fire",
 		"description": null,
 		"lat": 34.826417,
@@ -684,7 +684,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-31T23:33:37Z",
-		"date_modified": "2025-04-01T01:54:45Z",
+		"date_modified": "2025-04-01T05:55:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
