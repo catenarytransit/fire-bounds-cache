@@ -656,7 +656,7 @@
 	},
 	{
 		"id": 45107,
-		"is_active": true,
+		"is_active": false,
 		"name": "Kane Creek Fire",
 		"description": null,
 		"lat": 34.86295,
@@ -684,7 +684,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-31T23:33:36Z",
-		"date_modified": "2025-04-01T01:05:52Z",
+		"date_modified": "2025-04-01T04:40:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
