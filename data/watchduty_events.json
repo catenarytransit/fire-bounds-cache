@@ -196,7 +196,7 @@
 	},
 	{
 		"id": 44987,
-		"is_active": true,
+		"is_active": false,
 		"name": "Nuuba Ridge Fire",
 		"description": null,
 		"lat": 47.555572,
@@ -224,7 +224,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-28T16:20:23Z",
-		"date_modified": "2025-03-28T16:20:23Z",
+		"date_modified": "2025-04-01T17:05:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
