@@ -815,9 +815,9 @@
 		"is_active": true,
 		"name": "Alpine Village Fire",
 		"description": null,
-		"lat": 33.824283,
-		"lng": -109.151,
-		"address": "Correctional Center Road, Alpine",
+		"lat": 33.82484110175018,
+		"lng": -109.15105169298404,
+		"address": "US 191 and Correctional Center Rd, Alpine",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -840,7 +840,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-01T19:19:29Z",
-		"date_modified": "2025-04-01T19:31:16Z",
+		"date_modified": "2025-04-01T19:36:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
