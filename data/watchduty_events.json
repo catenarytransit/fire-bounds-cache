@@ -235,7 +235,7 @@
 	},
 	{
 		"id": 45005,
-		"is_active": true,
+		"is_active": false,
 		"name": "Grain Elevator Explosion Risk",
 		"description": null,
 		"lat": 36.023444049125345,
@@ -263,7 +263,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-28T21:46:29Z",
-		"date_modified": "2025-03-31T22:57:00Z",
+		"date_modified": "2025-04-01T16:49:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
