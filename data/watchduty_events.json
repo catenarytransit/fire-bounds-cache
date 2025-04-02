@@ -522,13 +522,13 @@
 			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": null,
+			"evacuation_notes": "Genasys Protect Evacuation Map",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": true
+			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-02T19:13:40Z",
-		"date_modified": "2025-04-02T20:12:28Z",
+		"date_modified": "2025-04-02T20:28:53Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
