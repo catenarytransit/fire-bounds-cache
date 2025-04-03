@@ -140,50 +140,19 @@
 			"evacuation_orders": null,
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": "Genasys Evacuation Map",
+			"evacuation_notes": "All Evacuation Orders and Warnings have been LIFTED.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-30T21:22:14Z",
-		"date_modified": "2025-04-02T23:55:08Z",
+		"date_modified": "2025-04-03T02:59:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 45059,
-				"address": "682 Spruce St, Bishop, CA 93514, USA",
-				"name": "Evacuation Center - Bishop Senior Center",
-				"lat": 37.3675491,
-				"lng": -118.3903345,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "general",
-					"information": "<p>An evacuation center is established at the Bishop Senior Center located at 682 Spruce St, Bishop, CA 93514, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/InyoCountySheriffsOffice/posts/pfbid02rsrcn6NJpZF5pgGr1GX5VyUNWgou2jfnUoMQ54d8GPWj4DVuXAHWjwgQDtacTnLGl\">Inyo County Sheriff's Office on Facebook</a>.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 45067,
-				"address": "475 Sierra St, Bishop, CA 93514, USA",
-				"name": "Large Animal Shelter - Tri-County Fairgrounds",
-				"lat": 37.3728174,
-				"lng": -118.3994443,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>The Tri County Fairgrounds and Events Center will be available for Evacuated Animals, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/MonoSheriff/posts/pfbid0XggLkktoDhjxYtebteprx1oYsKYnKTR2tbQZ62vayLnc1obBTz2a813UjXSdN9Wml?comment_id=686515900608112&amp;__cft__[0]=AZUCiEy8IltKJM-V9kiCUyB9gR-N8U-7rvQRv0cLZOi-TqYdSg4n5SiSMHHFgq3WK-MPSlZRS6ssGTH9-Gy_8ttz55FGx7inGpnEX60dpfCT64dChrZmOK7tH9wmUjs_x9eZA0T6qsWbsyCryBC0JDA-9Zm7BUNMng9b2jQOvy9v2Q&amp;__tn__=R]-R\">Mono County Sheriff's Office on Facebook</a>.</p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
