@@ -313,7 +313,7 @@
 	},
 	{
 		"id": 45180,
-		"is_active": true,
+		"is_active": false,
 		"name": "68th Fire",
 		"description": null,
 		"lat": 33.5547229,
@@ -341,7 +341,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-02T19:13:40Z",
-		"date_modified": "2025-04-03T04:32:59Z",
+		"date_modified": "2025-04-03T10:40:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
