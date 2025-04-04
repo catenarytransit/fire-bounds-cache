@@ -1,7 +1,7 @@
 [
 	{
 		"id": 43793,
-		"is_active": true,
+		"is_active": false,
 		"name": "Tango Fire",
 		"description": null,
 		"lat": 36.483184,
@@ -29,7 +29,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-03-14T18:45:47Z",
-		"date_modified": "2025-04-03T20:05:15Z",
+		"date_modified": "2025-04-04T04:10:16Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
