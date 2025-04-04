@@ -391,7 +391,7 @@
 	},
 	{
 		"id": 45211,
-		"is_active": true,
+		"is_active": false,
 		"name": "Bluebell North Fire",
 		"description": null,
 		"lat": 40.40343,
@@ -419,7 +419,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-03T19:00:17Z",
-		"date_modified": "2025-04-03T21:26:52Z",
+		"date_modified": "2025-04-04T03:40:16Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
