@@ -238,8 +238,8 @@
 		"is_active": true,
 		"name": "Burgess Fire",
 		"description": null,
-		"lat": 48.32195,
-		"lng": -118.008383,
+		"lat": 48.320867,
+		"lng": -118.006383,
 		"address": "2500 Block ofA Burgess Rd, Addy, WA 99101",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -263,7 +263,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-04T23:00:31Z",
-		"date_modified": "2025-04-04T23:50:31Z",
+		"date_modified": "2025-04-04T23:56:30Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
