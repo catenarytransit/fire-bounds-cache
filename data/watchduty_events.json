@@ -469,7 +469,7 @@
 	},
 	{
 		"id": 45276,
-		"is_active": true,
+		"is_active": false,
 		"name": "South Ridge Fire",
 		"description": null,
 		"lat": 45.588167,
@@ -497,7 +497,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-06T00:50:11Z",
-		"date_modified": "2025-04-06T01:26:11Z",
+		"date_modified": "2025-04-06T05:40:16Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
