@@ -704,11 +704,11 @@
 	{
 		"id": 45307,
 		"is_active": true,
-		"name": "Mm 31 Fire",
+		"name": "Ice Slough Fire",
 		"description": null,
-		"lat": 42.5154,
-		"lng": -107.978,
-		"address": null,
+		"lat": 42.517633,
+		"lng": -108.008217,
+		"address": "Ice Slough",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -731,7 +731,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-06T20:46:54Z",
-		"date_modified": "2025-04-06T22:55:31Z",
+		"date_modified": "2025-04-06T22:59:46Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
