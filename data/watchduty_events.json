@@ -274,7 +274,7 @@
 	},
 	{
 		"id": 45264,
-		"is_active": true,
+		"is_active": false,
 		"name": "Bain Fire",
 		"description": null,
 		"lat": 33.96744995302009,
@@ -302,7 +302,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-05T21:33:01Z",
-		"date_modified": "2025-04-05T23:14:18Z",
+		"date_modified": "2025-04-06T05:25:16Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
