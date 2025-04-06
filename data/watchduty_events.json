@@ -391,7 +391,7 @@
 	},
 	{
 		"id": 45270,
-		"is_active": true,
+		"is_active": false,
 		"name": "Scared Horse Fire",
 		"description": null,
 		"lat": 34.59055,
@@ -419,7 +419,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-05T22:31:52Z",
-		"date_modified": "2025-04-05T23:47:42Z",
+		"date_modified": "2025-04-06T10:24:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
