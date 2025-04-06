@@ -79,7 +79,7 @@
 	},
 	{
 		"id": 45151,
-		"is_active": true,
+		"is_active": false,
 		"name": "Bueno Aires 2 Fire",
 		"description": null,
 		"lat": 29.097955,
@@ -107,10 +107,10 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-01T21:05:18Z",
-		"date_modified": "2025-04-01T21:05:18Z",
+		"date_modified": "2025-04-06T17:21:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "{031A9DE9-3F7C-42C5-9800-0938B892D272}",
 		"external_source": "nifc",
 		"child_geo_events": [],
