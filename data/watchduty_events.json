@@ -391,7 +391,7 @@
 	},
 	{
 		"id": 45269,
-		"is_active": true,
+		"is_active": false,
 		"name": "Rocky Top Fire",
 		"description": null,
 		"lat": 45.649617,
@@ -419,7 +419,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-05T22:28:37Z",
-		"date_modified": "2025-04-05T23:30:39Z",
+		"date_modified": "2025-04-06T03:40:40Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
