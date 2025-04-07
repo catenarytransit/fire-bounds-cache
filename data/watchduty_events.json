@@ -703,7 +703,7 @@
 	},
 	{
 		"id": 45325,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hwy 451 Inc 100 Fire",
 		"description": null,
 		"lat": 45.244,
@@ -731,7 +731,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-07T01:15:51Z",
-		"date_modified": "2025-04-07T01:15:51Z",
+		"date_modified": "2025-04-07T08:44:03Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -742,7 +742,7 @@
 	},
 	{
 		"id": 45326,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hwy 451 Inc 101 Fire",
 		"description": null,
 		"lat": 45.198333,
@@ -770,7 +770,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-07T01:31:23Z",
-		"date_modified": "2025-04-07T01:36:47Z",
+		"date_modified": "2025-04-07T08:43:54Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
