@@ -664,7 +664,7 @@
 	},
 	{
 		"id": 45388,
-		"is_active": true,
+		"is_active": false,
 		"name": "5600 North Fire",
 		"description": null,
 		"lat": 37.86786,
@@ -692,7 +692,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-08T01:30:12Z",
-		"date_modified": "2025-04-08T02:06:48Z",
+		"date_modified": "2025-04-08T09:55:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
