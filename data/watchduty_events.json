@@ -547,7 +547,7 @@
 	},
 	{
 		"id": 45360,
-		"is_active": true,
+		"is_active": false,
 		"name": "US 160 Fire",
 		"description": null,
 		"lat": 37.27877002216083,
@@ -575,7 +575,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-07T19:34:46Z",
-		"date_modified": "2025-04-07T23:21:33Z",
+		"date_modified": "2025-04-08T07:25:16Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
