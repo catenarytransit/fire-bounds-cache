@@ -862,8 +862,8 @@
 		"is_active": true,
 		"name": "Hotdog Fire",
 		"description": null,
-		"lat": 32.71247,
-		"lng": -99.36108,
+		"lat": 32.718333,
+		"lng": -99.3675,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -887,7 +887,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-08T22:50:19Z",
-		"date_modified": "2025-04-08T22:50:19Z",
+		"date_modified": "2025-04-08T23:00:29Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
