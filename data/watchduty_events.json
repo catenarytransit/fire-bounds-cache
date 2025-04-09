@@ -742,11 +742,11 @@
 	},
 	{
 		"id": 45506,
-		"is_active": true,
+		"is_active": false,
 		"name": "Walker 2064 Fire",
 		"description": null,
-		"lat": 30.851575,
-		"lng": -95.808961,
+		"lat": 30.852384,
+		"lng": -95.80894,
 		"address": "500 Block of Round Prairie Rd, Huntsville, TX 77320",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -755,8 +755,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 50,
-			"acreage": 5,
+			"containment": 100,
+			"acreage": 8.7,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -770,7 +770,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-09T19:35:52Z",
-		"date_modified": "2025-04-09T20:15:30Z",
+		"date_modified": "2025-04-09T21:15:30Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -794,8 +794,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 50,
-			"acreage": 30,
+			"containment": 95,
+			"acreage": 24,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -809,7 +809,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-09T19:55:11Z",
-		"date_modified": "2025-04-09T20:40:56Z",
+		"date_modified": "2025-04-09T21:10:25Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -848,28 +848,13 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-09T20:08:37Z",
-		"date_modified": "2025-04-09T21:08:27Z",
+		"date_modified": "2025-04-09T21:17:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [
-			{
-				"id": 45514,
-				"address": "872 Airport Rd, Rockport, TX 78382, USA",
-				"name": "Animal Shelter - Aransas County Animal Care Services",
-				"lat": 28.0794144,
-				"lng": -97.04435649999999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Any evacuated pets can be brought to the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/45512\">evacuation shelter</a> or at Aransas County Animal Care Services at 872 Airport Rd, Rockport, TX 78382, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/permalink.php?story_fbid=pfbid02nW4KEPKV3N829yYouuVXromo3mSThw8HQwzxvXjxjAW1DYYt2nJJupszYXGLEKNvl&amp;id=100064902151572\">Rockport Public Safety Center on Facebook</a>.</p>",
-					"links": []
-				}
-			},
 			{
 				"id": 45512,
 				"address": "402 N Fulton Beach Rd, Fulton, TX 78358, USA",
@@ -883,6 +868,27 @@
 					"location_type": "evac_shelter",
 					"information": "<p>An evacuation shelter is set up at Fulton Convention Center located at 402 N Fulton Beach Rd, Fulton, TX 78358, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/permalink.php?story_fbid=pfbid02nW4KEPKV3N829yYouuVXromo3mSThw8HQwzxvXjxjAW1DYYt2nJJupszYXGLEKNvl&amp;id=100064902151572\">Rockport Public Safety Communications</a>. Red Cross is on site with food and water. Pets can also be brought to the evacuation shelter.</p>",
 					"links": []
+				}
+			},
+			{
+				"id": 45514,
+				"address": "872 Airport Rd, Rockport, TX 78382, USA",
+				"name": "Animal Shelter - Aransas County Animal Care Services",
+				"lat": 28.0794144,
+				"lng": -97.04435649999999,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "animal_shelter",
+					"information": "<p>Any evacuated pets can be brought to the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/45512\">evacuation shelter</a> or at Aransas County Animal Care Services at 872 Airport Rd, Rockport, TX 78382, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/permalink.php?story_fbid=pfbid02nW4KEPKV3N829yYouuVXromo3mSThw8HQwzxvXjxjAW1DYYt2nJJupszYXGLEKNvl&amp;id=100064902151572\">Rockport Public Safety Center on Facebook</a>.</p><p>For animals brought to Aransas County Animal Care Services&nbsp;that are not dogs or cats, please bring containments for them per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/actxanimalcare/posts/pfbid0unV1PXXuQgpcSZ8c8rtY4koKpiznAQRyWvaxXe5BpF3N3741an6DTY2T9vZzcEKtl\">their Facebook page</a>. Call 361-790-0151 if you need assistance.</p>",
+					"links": [
+						{
+							"link_type": "phone",
+							"label": "Animal Assistance",
+							"value": "3617900151"
+						}
+					]
 				}
 			}
 		],
