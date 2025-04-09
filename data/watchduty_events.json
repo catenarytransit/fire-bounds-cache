@@ -859,7 +859,7 @@
 	},
 	{
 		"id": 45451,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hotdog Fire",
 		"description": null,
 		"lat": 32.718333,
@@ -872,7 +872,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 95,
+			"containment": 100,
 			"acreage": 16,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -887,7 +887,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-08T22:50:19Z",
-		"date_modified": "2025-04-08T23:50:18Z",
+		"date_modified": "2025-04-09T00:15:43Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -899,10 +899,10 @@
 	{
 		"id": 45455,
 		"is_active": true,
-		"name": "Vegetation Fire",
+		"name": "Vineyard Fire",
 		"description": null,
-		"lat": 31.9172582,
-		"lng": -110.6443766,
+		"lat": 31.9161,
+		"lng": -110.644083,
 		"address": "18600 block of South Sonoita Highway, S of Vail",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -926,7 +926,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-08T23:50:12Z",
-		"date_modified": "2025-04-08T23:58:35Z",
+		"date_modified": "2025-04-09T00:31:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
