@@ -860,7 +860,7 @@
 	},
 	{
 		"id": 45521,
-		"is_active": true,
+		"is_active": false,
 		"name": "Adot Fire",
 		"description": null,
 		"lat": 35.710278,
@@ -888,7 +888,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-09T21:40:58Z",
-		"date_modified": "2025-04-09T23:55:59Z",
+		"date_modified": "2025-04-10T04:10:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
