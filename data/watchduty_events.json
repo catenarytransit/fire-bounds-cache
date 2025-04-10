@@ -935,7 +935,7 @@
 	},
 	{
 		"id": 45610,
-		"is_active": true,
+		"is_active": false,
 		"name": "Long Fire",
 		"description": null,
 		"lat": 37.0179,
@@ -963,7 +963,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-10T21:28:38Z",
-		"date_modified": "2025-04-10T23:11:50Z",
+		"date_modified": "2025-04-10T23:38:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
