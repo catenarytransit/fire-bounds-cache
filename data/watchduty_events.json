@@ -586,7 +586,7 @@
 	},
 	{
 		"id": 45480,
-		"is_active": true,
+		"is_active": false,
 		"name": "Arch Fire",
 		"description": null,
 		"lat": 34.872683,
@@ -614,7 +614,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-09T15:00:56Z",
-		"date_modified": "2025-04-09T15:05:56Z",
+		"date_modified": "2025-04-10T00:40:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -770,7 +770,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-09T20:08:37Z",
-		"date_modified": "2025-04-09T23:57:26Z",
+		"date_modified": "2025-04-10T00:41:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
