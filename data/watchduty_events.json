@@ -1096,7 +1096,7 @@
 		"description": null,
 		"lat": 36.514533,
 		"lng": -106.044667,
-		"address": null,
+		"address": "SW of Sandoval Tank",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1119,7 +1119,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-10T22:48:37Z",
-		"date_modified": "2025-04-10T22:53:31Z",
+		"date_modified": "2025-04-10T22:58:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
