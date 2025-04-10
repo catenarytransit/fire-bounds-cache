@@ -782,7 +782,7 @@
 	},
 	{
 		"id": 45541,
-		"is_active": true,
+		"is_active": false,
 		"name": "Montezuma Fire",
 		"description": null,
 		"lat": 31.333721,
@@ -810,7 +810,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-09T23:16:23Z",
-		"date_modified": "2025-04-10T12:21:18Z",
+		"date_modified": "2025-04-10T16:25:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
