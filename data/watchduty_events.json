@@ -118,7 +118,7 @@
 	},
 	{
 		"id": 45438,
-		"is_active": true,
+		"is_active": false,
 		"name": "Rl 020 - 2301 Ponemah Lagoon Fire",
 		"description": null,
 		"lat": 48.02598,
@@ -146,7 +146,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-08T21:20:41Z",
-		"date_modified": "2025-04-08T21:20:41Z",
+		"date_modified": "2025-04-11T10:14:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -235,7 +235,7 @@
 	},
 	{
 		"id": 45468,
-		"is_active": true,
+		"is_active": false,
 		"name": "Marsh Fire",
 		"description": null,
 		"lat": 47.984833,
@@ -263,7 +263,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-09T13:15:57Z",
-		"date_modified": "2025-04-09T13:15:57Z",
+		"date_modified": "2025-04-11T10:13:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -974,7 +974,7 @@
 	},
 	{
 		"id": 45627,
-		"is_active": true,
+		"is_active": false,
 		"name": "Lake Minnequa Fire",
 		"description": null,
 		"lat": 38.2255125,
@@ -1002,7 +1002,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-10T23:59:37Z",
-		"date_modified": "2025-04-11T02:33:56Z",
+		"date_modified": "2025-04-11T10:16:59Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1013,7 +1013,7 @@
 	},
 	{
 		"id": 45628,
-		"is_active": true,
+		"is_active": false,
 		"name": "Little Knife Bay Fire",
 		"description": null,
 		"lat": 48.003739,
@@ -1041,7 +1041,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-11T00:11:09Z",
-		"date_modified": "2025-04-11T00:11:10Z",
+		"date_modified": "2025-04-11T10:13:41Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
