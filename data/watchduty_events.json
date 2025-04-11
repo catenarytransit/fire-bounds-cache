@@ -896,7 +896,7 @@
 	},
 	{
 		"id": 45633,
-		"is_active": true,
+		"is_active": false,
 		"name": "Sheep Creek Fire",
 		"description": null,
 		"lat": 45.839583,
@@ -910,7 +910,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": 100,
-			"acreage": 12,
+			"acreage": 7.1,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -924,7 +924,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-11T01:33:32Z",
-		"date_modified": "2025-04-11T23:19:31Z",
+		"date_modified": "2025-04-11T23:47:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
