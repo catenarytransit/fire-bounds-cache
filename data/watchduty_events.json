@@ -935,7 +935,7 @@
 	},
 	{
 		"id": 45611,
-		"is_active": true,
+		"is_active": false,
 		"name": "Elder Ridge Fire",
 		"description": null,
 		"lat": 37.647383,
@@ -963,7 +963,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-10T21:31:06Z",
-		"date_modified": "2025-04-10T23:06:08Z",
+		"date_modified": "2025-04-11T03:10:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
