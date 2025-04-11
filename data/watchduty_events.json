@@ -1287,7 +1287,7 @@
 	{
 		"id": 45688,
 		"is_active": true,
-		"name": "Beaver Cree Fire",
+		"name": "Beaver Fire",
 		"description": null,
 		"lat": 47.970333,
 		"lng": -108.401,
@@ -1314,7 +1314,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-11T18:51:26Z",
-		"date_modified": "2025-04-11T21:28:46Z",
+		"date_modified": "2025-04-11T21:34:25Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1455,7 +1455,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 5,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1470,7 +1470,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-11T20:55:38Z",
-		"date_modified": "2025-04-11T21:11:25Z",
+		"date_modified": "2025-04-11T21:38:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
