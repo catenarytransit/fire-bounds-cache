@@ -1016,8 +1016,8 @@
 		"is_active": true,
 		"name": "Dimcher Hollow Fire",
 		"description": null,
-		"lat": 36.962623,
-		"lng": -92.154332,
+		"lat": 36.967883,
+		"lng": -92.14945,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1041,7 +1041,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-11T03:25:38Z",
-		"date_modified": "2025-04-11T19:06:43Z",
+		"date_modified": "2025-04-11T19:42:16Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
