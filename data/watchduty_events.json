@@ -1250,8 +1250,8 @@
 		"is_active": true,
 		"name": "Walker 2154 Fire",
 		"description": null,
-		"lat": 30.766217,
-		"lng": -95.64055,
+		"lat": 30.765133,
+		"lng": -95.641966,
 		"address": "1200 Block of I-45, Huntsville, TX 77320",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1275,7 +1275,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-11T18:20:56Z",
-		"date_modified": "2025-04-11T19:35:09Z",
+		"date_modified": "2025-04-11T21:10:43Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1404,7 +1404,7 @@
 	{
 		"id": 45699,
 		"is_active": true,
-		"name": "New Fire",
+		"name": "Arthyde Fire",
 		"description": null,
 		"lat": 46.357417,
 		"lng": -93.093422,
@@ -1431,7 +1431,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-11T20:55:38Z",
-		"date_modified": "2025-04-11T21:00:28Z",
+		"date_modified": "2025-04-11T21:11:25Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
