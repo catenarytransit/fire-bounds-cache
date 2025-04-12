@@ -1481,7 +1481,7 @@
 	},
 	{
 		"id": 45730,
-		"is_active": true,
+		"is_active": false,
 		"name": "Smith Fire",
 		"description": null,
 		"lat": 48.762917,
@@ -1509,7 +1509,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-11T23:32:26Z",
-		"date_modified": "2025-04-12T04:11:22Z",
+		"date_modified": "2025-04-12T08:25:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
