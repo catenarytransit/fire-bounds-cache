@@ -1052,7 +1052,7 @@
 	},
 	{
 		"id": 45701,
-		"is_active": true,
+		"is_active": false,
 		"name": "Warwick Fire",
 		"description": null,
 		"lat": 48.542017,
@@ -1080,7 +1080,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-11T21:05:19Z",
-		"date_modified": "2025-04-11T22:38:43Z",
+		"date_modified": "2025-04-12T11:00:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1364,7 +1364,7 @@
 	},
 	{
 		"id": 45743,
-		"is_active": true,
+		"is_active": false,
 		"name": "South Basin Fire",
 		"description": null,
 		"lat": 48.436083,
@@ -1392,7 +1392,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-12T02:39:39Z",
-		"date_modified": "2025-04-12T03:47:50Z",
+		"date_modified": "2025-04-12T11:00:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
