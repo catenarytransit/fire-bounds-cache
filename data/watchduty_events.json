@@ -311,7 +311,7 @@
 	},
 	{
 		"id": 45537,
-		"is_active": true,
+		"is_active": false,
 		"name": "Dugdale Fire",
 		"description": null,
 		"lat": 47.694694,
@@ -339,7 +339,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-09T22:59:24Z",
-		"date_modified": "2025-04-11T20:55:38Z",
+		"date_modified": "2025-04-12T05:10:40Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
