@@ -1442,7 +1442,7 @@
 	},
 	{
 		"id": 45759,
-		"is_active": true,
+		"is_active": false,
 		"name": "Harbor Fire",
 		"description": null,
 		"lat": 45.845273,
@@ -1470,7 +1470,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-12T17:45:40Z",
-		"date_modified": "2025-04-12T17:50:40Z",
+		"date_modified": "2025-04-12T22:58:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1481,7 +1481,7 @@
 	},
 	{
 		"id": 45760,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hill Fire",
 		"description": null,
 		"lat": 38.020933,
@@ -1509,7 +1509,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-12T17:59:07Z",
-		"date_modified": "2025-04-12T18:44:15Z",
+		"date_modified": "2025-04-12T22:55:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
