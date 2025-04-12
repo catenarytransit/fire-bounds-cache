@@ -350,7 +350,7 @@
 	},
 	{
 		"id": 45544,
-		"is_active": true,
+		"is_active": false,
 		"name": "Canyon Fire",
 		"description": null,
 		"lat": 38.243,
@@ -378,7 +378,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-09T23:43:34Z",
-		"date_modified": "2025-04-11T20:54:52Z",
+		"date_modified": "2025-04-12T00:55:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1236,7 +1236,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-11T18:51:26Z",
-		"date_modified": "2025-04-11T22:42:53Z",
+		"date_modified": "2025-04-12T00:32:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
