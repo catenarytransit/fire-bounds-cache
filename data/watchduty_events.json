@@ -545,7 +545,7 @@
 	},
 	{
 		"id": 45630,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hwy 451 Inc 133 Fire",
 		"description": null,
 		"lat": 45.2457,
@@ -573,7 +573,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-11T00:50:36Z",
-		"date_modified": "2025-04-11T01:31:49Z",
+		"date_modified": "2025-04-12T09:43:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -623,7 +623,7 @@
 	},
 	{
 		"id": 45632,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hwy 451 Inc 133 Fire",
 		"description": null,
 		"lat": 45.2457,
@@ -651,7 +651,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-11T01:26:10Z",
-		"date_modified": "2025-04-11T01:31:10Z",
+		"date_modified": "2025-04-12T09:42:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -935,7 +935,7 @@
 	},
 	{
 		"id": 45675,
-		"is_active": true,
+		"is_active": false,
 		"name": "Typical Tombre - Richland Fire",
 		"description": null,
 		"lat": 47.411363,
@@ -963,7 +963,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-11T17:00:54Z",
-		"date_modified": "2025-04-11T17:00:54Z",
+		"date_modified": "2025-04-12T09:41:57Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
