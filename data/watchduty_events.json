@@ -79,7 +79,7 @@
 	},
 	{
 		"id": 45449,
-		"is_active": true,
+		"is_active": false,
 		"name": "Aransas Woods Fire",
 		"description": null,
 		"lat": 27.98867,
@@ -107,7 +107,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-08T22:30:42Z",
-		"date_modified": "2025-04-11T23:31:00Z",
+		"date_modified": "2025-04-12T07:40:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
