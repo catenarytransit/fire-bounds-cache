@@ -272,7 +272,7 @@
 	},
 	{
 		"id": 45532,
-		"is_active": true,
+		"is_active": false,
 		"name": "Canones Fire",
 		"description": null,
 		"lat": 36.2088,
@@ -300,7 +300,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-09T22:17:35Z",
-		"date_modified": "2025-04-09T22:17:35Z",
+		"date_modified": "2025-04-12T09:48:45Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1091,7 +1091,7 @@
 	},
 	{
 		"id": 45694,
-		"is_active": true,
+		"is_active": false,
 		"name": "Duck Fire",
 		"description": null,
 		"lat": 47.999833,
@@ -1119,7 +1119,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-11T19:55:57Z",
-		"date_modified": "2025-04-11T19:55:57Z",
+		"date_modified": "2025-04-12T09:46:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1481,7 +1481,7 @@
 	},
 	{
 		"id": 45737,
-		"is_active": true,
+		"is_active": false,
 		"name": "Nenahnezad 2 Fire",
 		"description": null,
 		"lat": 36.741556,
@@ -1509,7 +1509,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-12T00:23:01Z",
-		"date_modified": "2025-04-12T00:23:01Z",
+		"date_modified": "2025-04-12T09:47:57Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
