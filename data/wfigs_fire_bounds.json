@@ -53319,11 +53319,11 @@
         "attr_POOCounty" : "Burnett", 
         "attr_POODispatchCenterID" : "WIWIC", 
         "attr_POOFips" : "55013", 
-        "attr_POOJurisdictionalAgency" : null, 
-        "attr_POOJurisdictionalUnit" : null, 
+        "attr_POOJurisdictionalAgency" : "DNR", 
+        "attr_POOJurisdictionalUnit" : "WIWIS", 
         "attr_POOJurisdictUnitParentUnit" : null, 
-        "attr_POOLandownerCategory" : "Private", 
-        "attr_POOLandownerKind" : "Private", 
+        "attr_POOLandownerCategory" : "State", 
+        "attr_POOLandownerKind" : "Other", 
         "attr_POOLegalDescPrincipalMerid" : null, 
         "attr_POOLegalDescQtr" : null, 
         "attr_POOLegalDescQtrQtr" : null, 
@@ -53346,7 +53346,7 @@
         "attr_OrganizationalAssessment" : null, 
         "attr_StratDecisionPublishDate" : null, 
         "attr_CreatedOnDateTime_dt" : 1744544336180, 
-        "attr_ModifiedOnDateTime_dt" : 1744569506500, 
+        "attr_ModifiedOnDateTime_dt" : 1744579877387, 
         "attr_Source" : "IRWIN", 
         "attr_ActiveFireCandidate" : 1, 
         "attr_IsCpxChild" : 0, 
@@ -53974,7 +53974,6 @@
         "coordinates" : 
         [
           [
-            [-85.8509045935869, 33.4018097321671], 
             [-85.8508690993533, 33.4017973896377], 
             [-85.850826112272, 33.4017839896894], 
             [-85.8507819151601, 33.4017713974258], 
@@ -54127,9 +54126,7 @@
             [-85.8509054137487, 33.4016440625483], 
             [-85.8508872632884, 33.4016669477877], 
             [-85.8508698458534, 33.4017016723548], 
-            [-85.8508440929508, 33.4017267279104], 
-            [-85.8508058247197, 33.4017371520993], 
-            [-85.8509045935869, 33.4018097321671]
+            [-85.8508690993533, 33.4017973896377]
           ]
         ]
       }, 
@@ -54145,11 +54142,11 @@
         "poly_FeatureStatus" : "Approved", 
         "poly_IsVisible" : "Yes", 
         "poly_CreateDate" : 1744566022257, 
-        "poly_DateCurrent" : 1744579744973, 
+        "poly_DateCurrent" : 1744579830903, 
         "poly_PolygonDateTime" : 1744578686722, 
         "poly_IRWINID" : "{9B6093B2-73D3-48B1-B04F-119DDA3DE6FA}", 
         "poly_FORID" : null, 
-        "poly_Acres_AutoCalc" : 2.9861967089892261, 
+        "poly_Acres_AutoCalc" : 2.9913646430640086, 
         "poly_SourceGlobalID" : "{C9207300-65F3-4907-9E28-86A6BBAEE4D6}", 
         "poly_Source" : "2025 NIFS", 
         "attr_SourceOID" : 38404264, 
@@ -54250,8 +54247,8 @@
         "attr_CpxID" : null, 
         "attr_SourceGlobalID" : "{F6D0D83B-42B9-4ED6-AA41-8E5DA1FF8EEE}", 
         "GlobalID" : "a16e2b05-540d-4e69-90ea-80cd85cf3b84", 
-        "Shape__Area" : 1.1712374998751329E-06, 
-        "Shape__Length" : 0.005859469033187451, 
+        "Shape__Area" : 1.1732640814443585E-06, 
+        "Shape__Length" : 0.0057194482980577792, 
         "attr_IncidentComplexityLevel" : null
       }
     }
