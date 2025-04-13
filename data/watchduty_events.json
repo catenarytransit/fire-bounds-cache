@@ -1526,8 +1526,8 @@
 		"is_active": true,
 		"name": "Vegetation Fire",
 		"description": null,
-		"lat": 31.7511473,
-		"lng": -98.6181499,
+		"lat": 31.755800922227934,
+		"lng": -98.60515009684535,
 		"address": "1200 Block of County Road 255, South of Comanche",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1537,7 +1537,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": null,
+			"acreage": 15,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1551,7 +1551,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-13T19:42:59Z",
-		"date_modified": "2025-04-13T19:43:00Z",
+		"date_modified": "2025-04-13T21:02:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
