@@ -1286,7 +1286,7 @@
 	},
 	{
 		"id": 45780,
-		"is_active": true,
+		"is_active": false,
 		"name": "Creek Bottom Fire",
 		"description": null,
 		"lat": 40.530261888531356,
@@ -1314,7 +1314,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-12T21:33:45Z",
-		"date_modified": "2025-04-13T00:40:35Z",
+		"date_modified": "2025-04-13T04:55:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1841,8 +1841,8 @@
 		"is_active": true,
 		"name": "Cass 2191 Fire",
 		"description": null,
-		"lat": 33.0145,
-		"lng": -94.168673,
+		"lat": 33.017017,
+		"lng": -94.1685,
 		"address": "10900 Block of FM1841, Bivins, TX 75555",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1866,7 +1866,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-13T04:40:04Z",
-		"date_modified": "2025-04-13T04:40:04Z",
+		"date_modified": "2025-04-13T04:45:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
