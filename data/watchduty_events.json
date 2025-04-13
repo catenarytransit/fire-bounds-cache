@@ -1640,7 +1640,7 @@
 	},
 	{
 		"id": 45804,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 31.9015715,
@@ -1657,10 +1657,10 @@
 			"acreage": null,
 			"links": [],
 			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": null,
-			"evacuation_warnings": "Residents within a one-mile radius of South Desert Road and West Bryant Street in Pearce.",
+			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
 			"is_complex_parent": false,
@@ -1668,17 +1668,14 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-12T23:24:16Z",
-		"date_modified": "2025-04-12T23:39:10Z",
+		"date_modified": "2025-04-13T05:22:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [],
-		"parent_geo_events": [],
-		"evacuation_warnings_arr": [
-			"Residents within a one-mile radius of South Desert Road and West Bryant Street in Pearce."
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 45805,
