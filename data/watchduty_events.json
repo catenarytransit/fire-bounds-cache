@@ -857,7 +857,7 @@
 	},
 	{
 		"id": 45746,
-		"is_active": true,
+		"is_active": false,
 		"name": "Sodus Fire",
 		"description": null,
 		"lat": 44.297051,
@@ -885,7 +885,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-12T13:06:12Z",
-		"date_modified": "2025-04-12T13:11:12Z",
+		"date_modified": "2025-04-13T09:29:43Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
