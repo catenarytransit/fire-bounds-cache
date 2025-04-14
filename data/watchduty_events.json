@@ -1169,7 +1169,7 @@
 	},
 	{
 		"id": 45855,
-		"is_active": true,
+		"is_active": false,
 		"name": "Navajo Fire",
 		"description": null,
 		"lat": 37.02035,
@@ -1197,7 +1197,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-13T19:47:25Z",
-		"date_modified": "2025-04-13T22:32:40Z",
+		"date_modified": "2025-04-14T04:40:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1208,7 +1208,7 @@
 	},
 	{
 		"id": 45857,
-		"is_active": true,
+		"is_active": false,
 		"name": "Gomez Fire",
 		"description": null,
 		"lat": 32.848367,
@@ -1236,7 +1236,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-13T19:49:24Z",
-		"date_modified": "2025-04-14T00:35:40Z",
+		"date_modified": "2025-04-14T04:40:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
