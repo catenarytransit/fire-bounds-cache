@@ -1603,8 +1603,8 @@
 		"is_active": true,
 		"name": "Orange 2241 Fire",
 		"description": null,
-		"lat": 30.111883,
-		"lng": -93.821916,
+		"lat": 30.0951,
+		"lng": -93.817167,
 		"address": "2200 Block of TX-62, Orange, TX 77630",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1628,7 +1628,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-14T22:10:42Z",
-		"date_modified": "2025-04-14T22:10:42Z",
+		"date_modified": "2025-04-14T22:15:42Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
