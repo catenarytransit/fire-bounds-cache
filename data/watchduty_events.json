@@ -1325,7 +1325,7 @@
 	},
 	{
 		"id": 45885,
-		"is_active": true,
+		"is_active": false,
 		"name": "Burn Pile 3 Fire",
 		"description": null,
 		"lat": 44.266383,
@@ -1353,7 +1353,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-13T23:32:29Z",
-		"date_modified": "2025-04-14T01:43:51Z",
+		"date_modified": "2025-04-14T05:55:27Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
