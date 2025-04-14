@@ -74,44 +74,7 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 45512,
-				"address": "402 N Fulton Beach Rd, Fulton, TX 78358, USA",
-				"name": "Evacuation Shelter - Fulton Convention Center",
-				"lat": 28.0658528,
-				"lng": -97.03431139999999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>An evacuation shelter is set up at Fulton Convention Center located at 402 N Fulton Beach Rd, Fulton, TX 78358, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/permalink.php?story_fbid=pfbid02nW4KEPKV3N829yYouuVXromo3mSThw8HQwzxvXjxjAW1DYYt2nJJupszYXGLEKNvl&amp;id=100064902151572\">Rockport Public Safety Communications</a>. Red Cross is on site with food and water. Pets can also be brought to the evacuation shelter.</p>",
-					"links": []
-				}
-			},
-			{
-				"id": 45514,
-				"address": "872 Airport Rd, Rockport, TX 78382, USA",
-				"name": "Animal Shelter - Aransas County Animal Care Services",
-				"lat": 28.0794144,
-				"lng": -97.04435649999999,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>Any evacuated pets can be brought to the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/45512\">evacuation shelter</a> or at Aransas County Animal Care Services at 872 Airport Rd, Rockport, TX 78382, per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/permalink.php?story_fbid=pfbid02nW4KEPKV3N829yYouuVXromo3mSThw8HQwzxvXjxjAW1DYYt2nJJupszYXGLEKNvl&amp;id=100064902151572\">Rockport Public Safety Center on Facebook</a>.</p><p>For animals brought to Aransas County Animal Care Services&nbsp;that are not dogs or cats, please bring containments for them per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/actxanimalcare/posts/pfbid0unV1PXXuQgpcSZ8c8rtY4koKpiznAQRyWvaxXe5BpF3N3741an6DTY2T9vZzcEKtl\">their Facebook page</a>. Call 361-790-0151 if you need assistance.</p>",
-					"links": [
-						{
-							"link_type": "phone",
-							"label": "Animal Assistance",
-							"value": "3617900151"
-						}
-					]
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": []
 	},
 	{
