@@ -1158,7 +1158,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-13T19:42:59Z",
-		"date_modified": "2025-04-14T03:17:32Z",
+		"date_modified": "2025-04-14T03:57:51Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1364,7 +1364,7 @@
 	},
 	{
 		"id": 45883,
-		"is_active": true,
+		"is_active": false,
 		"name": "Bale 2 Fire",
 		"description": null,
 		"lat": 46.056556,
@@ -1392,7 +1392,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-13T23:00:33Z",
-		"date_modified": "2025-04-14T01:45:49Z",
+		"date_modified": "2025-04-14T03:55:40Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
