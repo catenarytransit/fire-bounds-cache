@@ -1405,7 +1405,7 @@
 	},
 	{
 		"id": 45990,
-		"is_active": true,
+		"is_active": false,
 		"name": "Orange 2241 Fire",
 		"description": null,
 		"lat": 30.0951,
@@ -1433,7 +1433,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-14T22:10:42Z",
-		"date_modified": "2025-04-14T22:30:42Z",
+		"date_modified": "2025-04-15T02:40:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
