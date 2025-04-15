@@ -742,7 +742,7 @@
 	},
 	{
 		"id": 45917,
-		"is_active": true,
+		"is_active": false,
 		"name": "Sierra Ln Fire",
 		"description": null,
 		"lat": 46.436944,
@@ -770,7 +770,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-14T14:02:45Z",
-		"date_modified": "2025-04-14T17:48:37Z",
+		"date_modified": "2025-04-15T11:48:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
