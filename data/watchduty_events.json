@@ -937,7 +937,7 @@
 	},
 	{
 		"id": 45988,
-		"is_active": true,
+		"is_active": false,
 		"name": "Union Fire",
 		"description": null,
 		"lat": 37.394833,
@@ -965,7 +965,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-14T22:05:42Z",
-		"date_modified": "2025-04-15T06:24:12Z",
+		"date_modified": "2025-04-15T14:10:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
