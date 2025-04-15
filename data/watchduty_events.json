@@ -1132,7 +1132,7 @@
 	},
 	{
 		"id": 46079,
-		"is_active": true,
+		"is_active": false,
 		"name": "Panola 2278 Fire",
 		"description": null,
 		"lat": 32.032548,
@@ -1145,8 +1145,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
-			"acreage": 1,
+			"containment": 100,
+			"acreage": 4,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1160,7 +1160,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-15T19:45:13Z",
-		"date_modified": "2025-04-15T19:45:13Z",
+		"date_modified": "2025-04-15T20:45:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
