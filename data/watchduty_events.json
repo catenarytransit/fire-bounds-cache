@@ -1176,7 +1176,7 @@
 		"description": null,
 		"lat": 37.394833,
 		"lng": -92.21725,
-		"address": null,
+		"address": "South of Long Valley Road, 4 miles Southwest of Roubidoux",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1186,7 +1186,7 @@
 			"is_fps": false,
 			"containment": 100,
 			"acreage": 200,
-			"links": null,
+			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
@@ -1199,7 +1199,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-14T22:05:42Z",
-		"date_modified": "2025-04-15T06:07:41Z",
+		"date_modified": "2025-04-15T06:24:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
