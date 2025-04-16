@@ -1174,8 +1174,8 @@
 		"is_active": true,
 		"name": "Bear Camp Fire",
 		"description": null,
-		"lat": 48.748686,
-		"lng": -119.308175,
+		"lat": 48.761,
+		"lng": -119.3027,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1199,7 +1199,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T15:11:14Z",
-		"date_modified": "2025-04-16T15:11:14Z",
+		"date_modified": "2025-04-16T22:16:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1408,8 +1408,8 @@
 		"is_active": true,
 		"name": "Rattle Snake Fire",
 		"description": null,
-		"lat": 40.564187,
-		"lng": -115.542887,
+		"lat": 40.558067,
+		"lng": -115.58685,
 		"address": "Off of Long Canyon Road, south of Elko",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1433,7 +1433,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T19:02:43Z",
-		"date_modified": "2025-04-16T21:29:10Z",
+		"date_modified": "2025-04-16T22:25:13Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1488,7 +1488,7 @@
 		"description": null,
 		"lat": 38.89306690179194,
 		"lng": -95.48369478834991,
-		"address": "North 1150 Road and E 100 Road, Berryton",
+		"address": "E 100 Road, South of North 1150 Road, 5 Miles West of Clinton",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1511,7 +1511,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T19:55:56Z",
-		"date_modified": "2025-04-16T22:05:03Z",
+		"date_modified": "2025-04-16T22:24:59Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
