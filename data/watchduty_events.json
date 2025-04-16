@@ -1327,7 +1327,7 @@
 	},
 	{
 		"id": 46138,
-		"is_active": true,
+		"is_active": false,
 		"name": "O Highway Fire",
 		"description": null,
 		"lat": 36.880717,
@@ -1355,7 +1355,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T12:36:56Z",
-		"date_modified": "2025-04-16T13:03:41Z",
+		"date_modified": "2025-04-16T17:10:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1536,7 +1536,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 5,
+			"acreage": 4.1,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1550,7 +1550,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T15:43:52Z",
-		"date_modified": "2025-04-16T15:49:42Z",
+		"date_modified": "2025-04-16T17:08:34Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
