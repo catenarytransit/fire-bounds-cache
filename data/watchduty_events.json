@@ -1496,7 +1496,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 10,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1511,7 +1511,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T20:42:37Z",
-		"date_modified": "2025-04-16T20:48:38Z",
+		"date_modified": "2025-04-16T22:48:45Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1564,8 +1564,8 @@
 		"is_active": true,
 		"name": "Saddle Fire",
 		"description": null,
-		"lat": 48.225524,
-		"lng": -117.138214,
+		"lat": 48.233617,
+		"lng": -117.1227,
 		"address": "Pend Orielle County - Yergens Rd, T32 R45 S32",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1589,7 +1589,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T22:30:42Z",
-		"date_modified": "2025-04-16T22:35:59Z",
+		"date_modified": "2025-04-16T22:45:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
