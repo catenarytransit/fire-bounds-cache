@@ -976,7 +976,7 @@
 	},
 	{
 		"id": 46075,
-		"is_active": true,
+		"is_active": false,
 		"name": "Grassy Fire",
 		"description": null,
 		"lat": 37.886533,
@@ -1004,7 +1004,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-15T19:39:32Z",
-		"date_modified": "2025-04-15T22:58:26Z",
+		"date_modified": "2025-04-16T05:10:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
