@@ -56661,8 +56661,8 @@
         "attr_ContainmentDateTime" : null, 
         "attr_ControlDateTime" : null, 
         "attr_CreatedBySystem" : "firesponse", 
-        "attr_IncidentSize" : 80, 
-        "attr_DiscoveryAcres" : 80, 
+        "attr_IncidentSize" : 71.4, 
+        "attr_DiscoveryAcres" : 71.4, 
         "attr_DispatchCenterID" : "TNTNSC", 
         "attr_EstimatedCostToDate" : null, 
         "attr_FinalAcres" : null, 
@@ -56744,7 +56744,7 @@
         "attr_OrganizationalAssessment" : null, 
         "attr_StratDecisionPublishDate" : null, 
         "attr_CreatedOnDateTime_dt" : 1744654072853, 
-        "attr_ModifiedOnDateTime_dt" : 1744812068340, 
+        "attr_ModifiedOnDateTime_dt" : 1744818777050, 
         "attr_Source" : "IRWIN", 
         "attr_ActiveFireCandidate" : 1, 
         "attr_IsCpxChild" : 0, 
@@ -56754,7 +56754,7 @@
         "GlobalID" : "3281600b-4fd5-4fdf-91e0-806f1af56ba9", 
         "Shape__Area" : 1.7577646076460951E-05, 
         "Shape__Length" : 0.021731253958776692, 
-        "attr_IncidentComplexityLevel" : null
+        "attr_IncidentComplexityLevel" : "Type 5 Incident"
       }
     }, 
     {
