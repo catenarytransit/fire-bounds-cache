@@ -1366,7 +1366,7 @@
 	},
 	{
 		"id": 46158,
-		"is_active": true,
+		"is_active": false,
 		"name": "Clow Grass Fire",
 		"description": null,
 		"lat": 48.970345,
@@ -1394,7 +1394,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T14:24:53Z",
-		"date_modified": "2025-04-16T18:05:52Z",
+		"date_modified": "2025-04-16T18:12:42Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1483,7 +1483,7 @@
 	},
 	{
 		"id": 46166,
-		"is_active": true,
+		"is_active": false,
 		"name": "Clow Grass Fire",
 		"description": null,
 		"lat": 48.970345,
@@ -1511,7 +1511,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T15:36:14Z",
-		"date_modified": "2025-04-16T18:06:14Z",
+		"date_modified": "2025-04-16T18:12:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
