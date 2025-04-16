@@ -547,7 +547,7 @@
 	},
 	{
 		"id": 46058,
-		"is_active": true,
+		"is_active": false,
 		"name": "Warm River Fire",
 		"description": null,
 		"lat": 44.116117,
@@ -575,7 +575,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-15T17:48:45Z",
-		"date_modified": "2025-04-16T16:49:53Z",
+		"date_modified": "2025-04-16T20:55:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
