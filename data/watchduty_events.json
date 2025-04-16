@@ -1527,7 +1527,7 @@
 		"description": null,
 		"lat": 36.843,
 		"lng": -91.449533,
-		"address": null,
+		"address": "5 miles NE of Thomasville, MO.",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1550,7 +1550,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T15:43:52Z",
-		"date_modified": "2025-04-16T19:32:33Z",
+		"date_modified": "2025-04-16T20:14:41Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
