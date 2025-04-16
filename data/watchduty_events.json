@@ -1327,7 +1327,7 @@
 	},
 	{
 		"id": 46128,
-		"is_active": true,
+		"is_active": false,
 		"name": "Panorama Fire",
 		"description": null,
 		"lat": 47.526633,
@@ -1355,7 +1355,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T02:21:08Z",
-		"date_modified": "2025-04-16T02:21:09Z",
+		"date_modified": "2025-04-16T13:03:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1418,7 +1418,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 6,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1433,7 +1433,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T12:36:56Z",
-		"date_modified": "2025-04-16T12:57:41Z",
+		"date_modified": "2025-04-16T13:03:41Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
