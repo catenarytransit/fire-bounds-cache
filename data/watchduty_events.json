@@ -781,7 +781,7 @@
 	},
 	{
 		"id": 46073,
-		"is_active": true,
+		"is_active": false,
 		"name": "Pile 4 Fire",
 		"description": null,
 		"lat": 44.200633,
@@ -809,7 +809,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-15T19:38:26Z",
-		"date_modified": "2025-04-16T03:08:57Z",
+		"date_modified": "2025-04-16T09:10:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
