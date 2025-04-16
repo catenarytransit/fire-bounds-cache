@@ -1135,8 +1135,8 @@
 		"is_active": false,
 		"name": "Coolidge Fire",
 		"description": null,
-		"lat": 43.01015,
-		"lng": -108.753067,
+		"lat": 43.025183,
+		"lng": -108.745017,
 		"address": "500 Block of Ethete Rd, Ethete, WY 82520",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1146,7 +1146,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": 100,
-			"acreage": 30,
+			"acreage": 34.7,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1160,7 +1160,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T00:32:55Z",
-		"date_modified": "2025-04-16T10:55:18Z",
+		"date_modified": "2025-04-16T19:41:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
