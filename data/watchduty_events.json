@@ -1366,7 +1366,7 @@
 	},
 	{
 		"id": 46135,
-		"is_active": true,
+		"is_active": false,
 		"name": "Houston 2288 Fire",
 		"description": null,
 		"lat": 31.51095,
@@ -1379,8 +1379,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
-			"acreage": 2,
+			"containment": 100,
+			"acreage": 2.2,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1394,7 +1394,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T11:10:24Z",
-		"date_modified": "2025-04-16T11:15:29Z",
+		"date_modified": "2025-04-16T12:40:53Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
