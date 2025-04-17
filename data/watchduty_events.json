@@ -1082,7 +1082,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T21:08:40Z",
-		"date_modified": "2025-04-17T17:16:57Z",
+		"date_modified": "2025-04-17T20:40:56Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1160,7 +1160,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T22:17:42Z",
-		"date_modified": "2025-04-17T20:35:42Z",
+		"date_modified": "2025-04-17T20:36:41Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1394,7 +1394,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-17T01:16:51Z",
-		"date_modified": "2025-04-17T20:33:57Z",
+		"date_modified": "2025-04-17T20:38:44Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1917,7 +1917,7 @@
 		"description": null,
 		"lat": 38.89304308653286,
 		"lng": -119.40430060242964,
-		"address": "Simpson Lane off of of Artesia Road, Smith Valley",
+		"address": "Simpson Trail off of Artesia Road, Smith Valley",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1940,7 +1940,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-17T20:20:58Z",
-		"date_modified": "2025-04-17T20:28:29Z",
+		"date_modified": "2025-04-17T20:38:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
