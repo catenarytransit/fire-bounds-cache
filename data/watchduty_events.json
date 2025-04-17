@@ -547,7 +547,7 @@
 	},
 	{
 		"id": 46112,
-		"is_active": true,
+		"is_active": false,
 		"name": "Sunstone Fire",
 		"description": null,
 		"lat": 45.77835,
@@ -575,7 +575,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-15T22:32:56Z",
-		"date_modified": "2025-04-15T23:08:34Z",
+		"date_modified": "2025-04-17T08:48:44Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
