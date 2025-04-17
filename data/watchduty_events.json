@@ -469,7 +469,7 @@
 	},
 	{
 		"id": 46095,
-		"is_active": true,
+		"is_active": false,
 		"name": "Silt Fire",
 		"description": null,
 		"lat": 35.06191334742178,
@@ -497,7 +497,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-15T20:53:46Z",
-		"date_modified": "2025-04-15T21:26:11Z",
+		"date_modified": "2025-04-17T09:00:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
