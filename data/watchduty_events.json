@@ -1098,7 +1098,7 @@
 		"description": null,
 		"lat": 48.761,
 		"lng": -119.3027,
-		"address": null,
+		"address": "",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1121,7 +1121,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T15:11:14Z",
-		"date_modified": "2025-04-17T02:51:15Z",
+		"date_modified": "2025-04-17T03:21:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
