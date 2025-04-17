@@ -1210,7 +1210,7 @@
 	},
 	{
 		"id": 46242,
-		"is_active": true,
+		"is_active": false,
 		"name": "Lumberjack Ridge Fire",
 		"description": null,
 		"lat": 45.392333,
@@ -1238,7 +1238,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-17T01:15:04Z",
-		"date_modified": "2025-04-17T19:27:39Z",
+		"date_modified": "2025-04-17T23:40:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2043,7 +2043,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 50,
+			"acreage": 60,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2057,7 +2057,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-17T22:31:18Z",
-		"date_modified": "2025-04-17T22:31:18Z",
+		"date_modified": "2025-04-17T23:41:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
