@@ -1717,7 +1717,7 @@
 	},
 	{
 		"id": 46224,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cabin Fire",
 		"description": null,
 		"lat": 37.6973,
@@ -1745,7 +1745,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T22:41:15Z",
-		"date_modified": "2025-04-17T01:11:15Z",
+		"date_modified": "2025-04-17T05:25:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
