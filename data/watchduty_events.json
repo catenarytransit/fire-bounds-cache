@@ -274,7 +274,7 @@
 	},
 	{
 		"id": 46019,
-		"is_active": true,
+		"is_active": false,
 		"name": "Sandpiper Hills Wildfire Fire",
 		"description": null,
 		"lat": 43.244122,
@@ -302,7 +302,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-15T13:43:54Z",
-		"date_modified": "2025-04-15T13:43:54Z",
+		"date_modified": "2025-04-17T08:51:16Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
