@@ -887,10 +887,10 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T18:46:14Z",
-		"date_modified": "2025-04-16T23:31:15Z",
+		"date_modified": "2025-04-17T19:51:29Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "{786334E2-4775-442D-8201-DD078C49BF11}",
 		"external_source": "nifc",
 		"child_geo_events": [],
