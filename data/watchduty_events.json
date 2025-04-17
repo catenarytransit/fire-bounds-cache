@@ -1915,8 +1915,8 @@
 		"is_active": true,
 		"name": "Lime Fire",
 		"description": null,
-		"lat": 44.406083,
-		"lng": -114.047133,
+		"lat": 44.406131,
+		"lng": -114.047119,
 		"address": "2400 Block of Lime Creek Rd, Challis, ID 83226",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1940,7 +1940,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-17T01:16:51Z",
-		"date_modified": "2025-04-17T03:26:49Z",
+		"date_modified": "2025-04-17T03:42:45Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
