@@ -1717,7 +1717,7 @@
 	},
 	{
 		"id": 46329,
-		"is_active": true,
+		"is_active": false,
 		"name": "Pine Flat Fire",
 		"description": null,
 		"lat": 45.936622,
@@ -1745,7 +1745,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-17T22:47:04Z",
-		"date_modified": "2025-04-18T04:44:44Z",
+		"date_modified": "2025-04-18T08:55:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
