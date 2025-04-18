@@ -1015,7 +1015,7 @@
 	},
 	{
 		"id": 46243,
-		"is_active": true,
+		"is_active": false,
 		"name": "Lime Fire",
 		"description": null,
 		"lat": 44.406131,
@@ -1043,7 +1043,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-17T01:16:51Z",
-		"date_modified": "2025-04-17T23:08:38Z",
+		"date_modified": "2025-04-18T07:10:51Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2168,7 +2168,7 @@
 	},
 	{
 		"id": 46354,
-		"is_active": true,
+		"is_active": false,
 		"name": "Wood 2371 Fire",
 		"description": null,
 		"lat": 32.698056,
@@ -2181,7 +2181,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 0,
+			"containment": 100,
 			"acreage": 2,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -2196,7 +2196,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-18T06:35:11Z",
-		"date_modified": "2025-04-18T06:35:11Z",
+		"date_modified": "2025-04-18T07:15:51Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
