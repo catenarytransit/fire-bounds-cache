@@ -1717,7 +1717,7 @@
 	},
 	{
 		"id": 46317,
-		"is_active": true,
+		"is_active": false,
 		"name": "Meadow Fire",
 		"description": null,
 		"lat": 42.43617,
@@ -1745,7 +1745,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-17T21:41:47Z",
-		"date_modified": "2025-04-17T23:27:09Z",
+		"date_modified": "2025-04-18T03:40:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -2196,7 +2196,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-18T00:32:39Z",
-		"date_modified": "2025-04-18T00:53:57Z",
+		"date_modified": "2025-04-18T03:39:42Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
