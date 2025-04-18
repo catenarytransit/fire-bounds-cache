@@ -1722,7 +1722,7 @@
 		"description": null,
 		"lat": 45.42395,
 		"lng": -117.299533,
-		"address": "ODF, 1 Mile West of Enterprise, OR",
+		"address": "WAL ODF, 1 Mile West of Enterprise, OR",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1745,7 +1745,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-18T19:18:49Z",
-		"date_modified": "2025-04-18T19:57:07Z",
+		"date_modified": "2025-04-18T20:06:51Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
