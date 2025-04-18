@@ -1496,22 +1496,22 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 0,
-			"acreage": 150,
+			"containment": 10,
+			"acreage": 60,
 			"links": [],
-			"has_custom_evacuation_orders": true,
-			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Residents between Lillie Drive north to Truchas Lane Residents west of W Bosque Loop between Lillie Drive and Cottonwood Drive",
-			"evacuation_warnings": "Residents between Cottonwood Drive and Sutton Lane",
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
 			"evacuation_advisories": null,
-			"evacuation_notes": null,
+			"evacuation_notes": "All evacuations have been lifted",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-17T23:03:44Z",
-		"date_modified": "2025-04-18T04:44:43Z",
+		"date_modified": "2025-04-18T17:42:57Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1534,13 +1534,7 @@
 				}
 			}
 		],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"Residents between Lillie Drive north to Truchas Lane Residents west of W Bosque Loop between Lillie Drive and Cottonwood Drive"
-		],
-		"evacuation_warnings_arr": [
-			"Residents between Cottonwood Drive and Sutton Lane"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 46337,
