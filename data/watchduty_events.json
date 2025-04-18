@@ -1664,8 +1664,8 @@
 		"is_active": false,
 		"name": "Rrmp 416 Fire",
 		"description": null,
-		"lat": 43.263746,
-		"lng": -115.907936,
+		"lat": 43.263773,
+		"lng": -115.907911,
 		"address": "2 Miles East Of Simco Road Off Rr Tracks",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1689,7 +1689,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-17T23:53:38Z",
-		"date_modified": "2025-04-18T03:28:40Z",
+		"date_modified": "2025-04-18T16:13:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
