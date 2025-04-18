@@ -1444,7 +1444,7 @@
 	},
 	{
 		"id": 46298,
-		"is_active": true,
+		"is_active": false,
 		"name": "67 Lane Fire",
 		"description": null,
 		"lat": 38.12763615552848,
@@ -1472,7 +1472,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-17T19:10:46Z",
-		"date_modified": "2025-04-18T06:20:30Z",
+		"date_modified": "2025-04-18T08:40:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
