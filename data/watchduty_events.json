@@ -1213,8 +1213,8 @@
 		"is_active": true,
 		"name": "Lily Fire",
 		"description": null,
-		"lat": 45.477987,
-		"lng": -93.347094,
+		"lat": 45.478059,
+		"lng": -93.350337,
 		"address": "28000 Block of Bay Shore Dr NW, Isanti, MN 55040",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1238,7 +1238,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-19T14:16:31Z",
-		"date_modified": "2025-04-19T14:16:31Z",
+		"date_modified": "2025-04-19T14:50:31Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
