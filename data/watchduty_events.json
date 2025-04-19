@@ -157,7 +157,7 @@
 	},
 	{
 		"id": 46120,
-		"is_active": true,
+		"is_active": false,
 		"name": "Horizon Hills Fire",
 		"description": null,
 		"lat": 45.158063,
@@ -185,7 +185,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T00:11:07Z",
-		"date_modified": "2025-04-17T02:31:15Z",
+		"date_modified": "2025-04-19T10:20:30Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -391,7 +391,7 @@
 	},
 	{
 		"id": 46270,
-		"is_active": true,
+		"is_active": false,
 		"name": "Ranch Fire",
 		"description": null,
 		"lat": 44.235929,
@@ -419,7 +419,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-17T15:46:17Z",
-		"date_modified": "2025-04-17T15:46:17Z",
+		"date_modified": "2025-04-19T10:21:28Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -508,7 +508,7 @@
 	},
 	{
 		"id": 46293,
-		"is_active": true,
+		"is_active": false,
 		"name": "Red Feather Fire",
 		"description": null,
 		"lat": 47.825722,
@@ -536,7 +536,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-17T18:36:18Z",
-		"date_modified": "2025-04-17T18:36:18Z",
+		"date_modified": "2025-04-19T10:19:00Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
