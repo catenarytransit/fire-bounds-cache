@@ -1093,7 +1093,7 @@
 	},
 	{
 		"id": 46412,
-		"is_active": true,
+		"is_active": false,
 		"name": "Dunes Fire",
 		"description": null,
 		"lat": 41.79942251072495,
@@ -1121,7 +1121,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-18T23:45:34Z",
-		"date_modified": "2025-04-19T04:12:19Z",
+		"date_modified": "2025-04-19T12:25:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
