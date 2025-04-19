@@ -313,7 +313,7 @@
 	},
 	{
 		"id": 46231,
-		"is_active": true,
+		"is_active": false,
 		"name": "Yaeger Fire",
 		"description": null,
 		"lat": 46.725918,
@@ -341,7 +341,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-16T23:13:48Z",
-		"date_modified": "2025-04-16T23:13:48Z",
+		"date_modified": "2025-04-19T08:53:13Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
