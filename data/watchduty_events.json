@@ -1171,7 +1171,7 @@
 	},
 	{
 		"id": 46384,
-		"is_active": true,
+		"is_active": false,
 		"name": "Grove Lake Fire",
 		"description": null,
 		"lat": 46.616356,
@@ -1199,7 +1199,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-18T19:39:01Z",
-		"date_modified": "2025-04-18T22:52:23Z",
+		"date_modified": "2025-04-19T06:55:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
