@@ -937,7 +937,7 @@
 	},
 	{
 		"id": 46484,
-		"is_active": true,
+		"is_active": false,
 		"name": "Sdmdr-Fy25-Wf-Bothwell West Fire",
 		"description": null,
 		"lat": 44.044171,
@@ -951,7 +951,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 80,
+			"acreage": 87.52,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -965,7 +965,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-20T13:40:39Z",
-		"date_modified": "2025-04-20T13:40:39Z",
+		"date_modified": "2025-04-20T14:00:39Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
