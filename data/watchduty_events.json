@@ -1055,7 +1055,7 @@
 	{
 		"id": 46503,
 		"is_active": true,
-		"name": "New Fire",
+		"name": "Wood Fire",
 		"description": null,
 		"lat": 46.65878,
 		"lng": -95.306693,
@@ -1082,7 +1082,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-20T19:32:29Z",
-		"date_modified": "2025-04-20T19:32:29Z",
+		"date_modified": "2025-04-20T19:37:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
