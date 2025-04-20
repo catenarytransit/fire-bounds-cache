@@ -196,7 +196,7 @@
 	},
 	{
 		"id": 46281,
-		"is_active": true,
+		"is_active": false,
 		"name": "Buenos Aires 3 Fire",
 		"description": null,
 		"lat": 29.088,
@@ -224,10 +224,10 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-17T16:51:18Z",
-		"date_modified": "2025-04-17T16:51:19Z",
+		"date_modified": "2025-04-20T17:42:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "{789A5EEA-BF6D-447E-B34C-537A4F67D1D2}",
 		"external_source": "nifc",
 		"child_geo_events": [],
