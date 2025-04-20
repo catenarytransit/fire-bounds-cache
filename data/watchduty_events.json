@@ -274,7 +274,7 @@
 	},
 	{
 		"id": 46415,
-		"is_active": true,
+		"is_active": false,
 		"name": "Ridge Fire",
 		"description": null,
 		"lat": 47.988056,
@@ -302,7 +302,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-19T00:19:03Z",
-		"date_modified": "2025-04-19T00:21:35Z",
+		"date_modified": "2025-04-20T22:45:13Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -508,7 +508,7 @@
 	},
 	{
 		"id": 46440,
-		"is_active": true,
+		"is_active": false,
 		"name": "Peninsula Fire",
 		"description": null,
 		"lat": 47.931944,
@@ -536,7 +536,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-19T18:00:07Z",
-		"date_modified": "2025-04-19T18:46:59Z",
+		"date_modified": "2025-04-20T22:43:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -664,7 +664,7 @@
 	},
 	{
 		"id": 46454,
-		"is_active": true,
+		"is_active": false,
 		"name": "Powerline Fire",
 		"description": null,
 		"lat": 47.988056,
@@ -692,7 +692,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-19T20:41:34Z",
-		"date_modified": "2025-04-19T20:41:34Z",
+		"date_modified": "2025-04-20T22:44:59Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
