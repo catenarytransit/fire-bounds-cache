@@ -781,7 +781,7 @@
 	},
 	{
 		"id": 46500,
-		"is_active": true,
+		"is_active": false,
 		"name": "Concrete Fire",
 		"description": null,
 		"lat": 47.535468,
@@ -809,7 +809,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-20T19:06:45Z",
-		"date_modified": "2025-04-20T22:48:46Z",
+		"date_modified": "2025-04-21T06:55:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
