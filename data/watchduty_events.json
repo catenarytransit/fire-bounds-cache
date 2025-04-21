@@ -1135,8 +1135,8 @@
 		"is_active": false,
 		"name": "Golf Fire",
 		"description": null,
-		"lat": 46.221937,
-		"lng": -93.804091,
+		"lat": 46.222882,
+		"lng": -93.800615,
 		"address": "46600 Block of Fairway Dr, Garrison, MN 56450",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1160,7 +1160,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-21T18:40:21Z",
-		"date_modified": "2025-04-21T19:27:54Z",
+		"date_modified": "2025-04-21T19:33:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
