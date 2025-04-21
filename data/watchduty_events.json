@@ -625,7 +625,7 @@
 	},
 	{
 		"id": 46457,
-		"is_active": true,
+		"is_active": false,
 		"name": "Sandhill Lake Fire",
 		"description": null,
 		"lat": 47.521302,
@@ -653,7 +653,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-19T21:00:33Z",
-		"date_modified": "2025-04-19T21:00:33Z",
+		"date_modified": "2025-04-21T10:56:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -859,7 +859,7 @@
 	},
 	{
 		"id": 46503,
-		"is_active": true,
+		"is_active": false,
 		"name": "Wood Fire",
 		"description": null,
 		"lat": 46.65878,
@@ -887,7 +887,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-20T19:32:29Z",
-		"date_modified": "2025-04-20T19:37:21Z",
+		"date_modified": "2025-04-21T10:57:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
