@@ -1172,7 +1172,7 @@
 	{
 		"id": 46693,
 		"is_active": false,
-		"name": "Espelie_14Ag Fire",
+		"name": "Espelie_14 Fire",
 		"description": null,
 		"lat": 48.248408,
 		"lng": -95.616854,
@@ -1185,7 +1185,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": 100,
-			"acreage": 239,
+			"acreage": 1,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1199,7 +1199,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-22T16:26:53Z",
-		"date_modified": "2025-04-22T17:04:52Z",
+		"date_modified": "2025-04-22T17:30:53Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
