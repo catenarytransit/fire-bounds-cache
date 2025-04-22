@@ -507,45 +507,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 46573,
-		"is_active": false,
-		"name": "Golf Fire",
-		"description": null,
-		"lat": 46.222882,
-		"lng": -93.800615,
-		"address": "46600 Block of Fairway Dr, Garrison, MN 56450",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": null,
-			"acreage": 2,
-			"links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
-		},
-		"date_created": "2025-04-21T18:40:21Z",
-		"date_modified": "2025-04-21T19:33:12Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "a5e0aa70-5b3a-409b-a91a-746145190142",
-		"external_source": "wildcad",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 46585,
 		"is_active": false,
 		"name": "Wren Fire",
@@ -1263,13 +1224,13 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": 1,
+			"acreage": 17,
 			"links": [],
-			"has_custom_evacuation_orders": true,
-			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "4300 block of W County Road 54G.",
-			"evacuation_warnings": "Rawhide Drive to the new 287 bypass, and north of the 287 bypass.",
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
 			"is_complex_parent": false,
@@ -1277,20 +1238,13 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-22T18:15:05Z",
-		"date_modified": "2025-04-22T19:23:38Z",
+		"date_modified": "2025-04-22T19:40:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [],
-		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"4300 block of W County Road 54G."
-		],
-		"evacuation_warnings_arr": [
-			"Rawhide Drive to the new 287 bypass",
-			"and north of the 287 bypass."
-		]
+		"parent_geo_events": []
 	}
 ]
