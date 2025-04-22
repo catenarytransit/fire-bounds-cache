@@ -274,7 +274,7 @@
 	},
 	{
 		"id": 46442,
-		"is_active": true,
+		"is_active": false,
 		"name": "330Th Fire",
 		"description": null,
 		"lat": 47.162565,
@@ -302,7 +302,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-19T18:35:14Z",
-		"date_modified": "2025-04-19T23:34:51Z",
+		"date_modified": "2025-04-22T09:11:31Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -625,7 +625,7 @@
 	},
 	{
 		"id": 46536,
-		"is_active": true,
+		"is_active": false,
 		"name": "Eepy Fire",
 		"description": null,
 		"lat": 48.006883,
@@ -653,7 +653,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-21T14:14:19Z",
-		"date_modified": "2025-04-21T14:14:19Z",
+		"date_modified": "2025-04-22T09:10:25Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -703,7 +703,7 @@
 	},
 	{
 		"id": 46544,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cottontail Fire",
 		"description": null,
 		"lat": 47.9497,
@@ -731,7 +731,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-21T14:58:41Z",
-		"date_modified": "2025-04-21T15:30:49Z",
+		"date_modified": "2025-04-22T09:10:39Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -781,7 +781,7 @@
 	},
 	{
 		"id": 46556,
-		"is_active": true,
+		"is_active": false,
 		"name": "Rl 047 Fire",
 		"description": null,
 		"lat": 47.87515,
@@ -809,7 +809,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-21T16:31:21Z",
-		"date_modified": "2025-04-21T16:31:21Z",
+		"date_modified": "2025-04-22T09:12:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
