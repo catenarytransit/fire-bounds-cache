@@ -1252,8 +1252,8 @@
 		"is_active": true,
 		"name": "Vegetation Fire",
 		"description": null,
-		"lat": 40.634782,
-		"lng": -105.157291,
+		"lat": 40.63592637073981,
+		"lng": -105.15749073913763,
 		"address": "4300 Block W CR 54G, Fort Collins",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1277,7 +1277,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-22T18:15:05Z",
-		"date_modified": "2025-04-22T18:47:52Z",
+		"date_modified": "2025-04-22T19:23:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
