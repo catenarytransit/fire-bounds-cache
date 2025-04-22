@@ -47893,7 +47893,7 @@
       "properties" : {
         "OBJECTID" : 38824, 
         "poly_SourceOID" : 10911, 
-        "poly_IncidentName" : "Mayo Fire", 
+        "poly_IncidentName" : "Mayo", 
         "poly_FeatureCategory" : "Wildfire Daily Fire Perimeter", 
         "poly_MapMethod" : "Phone/Tablet", 
         "poly_GISAcres" : 1.23, 
@@ -47902,7 +47902,7 @@
         "poly_FeatureStatus" : "Approved", 
         "poly_IsVisible" : "Yes", 
         "poly_CreateDate" : 1745095834997, 
-        "poly_DateCurrent" : 1745335516000, 
+        "poly_DateCurrent" : 1745340728000, 
         "poly_PolygonDateTime" : 1745158225000, 
         "poly_IRWINID" : "{D0945840-7518-4E00-B2AF-5E5E9E298ED2}", 
         "poly_FORID" : null, 
