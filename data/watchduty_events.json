@@ -1483,7 +1483,7 @@
 	},
 	{
 		"id": 46650,
-		"is_active": true,
+		"is_active": false,
 		"name": "Pasteurized Fire",
 		"description": null,
 		"lat": 47.940403,
@@ -1511,7 +1511,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-22T00:18:04Z",
-		"date_modified": "2025-04-22T00:44:16Z",
+		"date_modified": "2025-04-22T04:55:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
