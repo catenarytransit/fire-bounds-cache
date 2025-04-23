@@ -352,7 +352,7 @@
 	},
 	{
 		"id": 46606,
-		"is_active": true,
+		"is_active": false,
 		"name": "Higgins Fire",
 		"description": null,
 		"lat": 47.791749,
@@ -380,7 +380,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-21T21:27:57Z",
-		"date_modified": "2025-04-21T22:42:02Z",
+		"date_modified": "2025-04-23T09:24:56Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -391,7 +391,7 @@
 	},
 	{
 		"id": 46615,
-		"is_active": true,
+		"is_active": false,
 		"name": "Crystal Lake Fire",
 		"description": null,
 		"lat": 47.623567,
@@ -419,7 +419,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-21T22:15:56Z",
-		"date_modified": "2025-04-22T00:50:24Z",
+		"date_modified": "2025-04-23T09:24:43Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -508,7 +508,7 @@
 	},
 	{
 		"id": 46634,
-		"is_active": true,
+		"is_active": false,
 		"name": "Beamer Fire",
 		"description": null,
 		"lat": 46.392811,
@@ -536,7 +536,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-21T23:08:17Z",
-		"date_modified": "2025-04-21T23:18:14Z",
+		"date_modified": "2025-04-23T09:24:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -781,7 +781,7 @@
 	},
 	{
 		"id": 46694,
-		"is_active": true,
+		"is_active": false,
 		"name": "Leerdditch Fire",
 		"description": null,
 		"lat": 48.295156,
@@ -809,7 +809,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-22T16:51:53Z",
-		"date_modified": "2025-04-22T16:51:53Z",
+		"date_modified": "2025-04-23T09:25:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
