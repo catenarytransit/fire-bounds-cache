@@ -430,7 +430,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-21T23:38:57Z",
-		"date_modified": "2025-04-23T17:04:06Z",
+		"date_modified": "2025-04-23T22:20:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1030,7 +1030,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T16:40:17Z",
-		"date_modified": "2025-04-23T22:07:17Z",
+		"date_modified": "2025-04-23T22:23:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1335,7 +1335,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 3,
+			"acreage": 2.2,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1350,7 +1350,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T21:15:58Z",
-		"date_modified": "2025-04-23T21:15:58Z",
+		"date_modified": "2025-04-23T22:20:58Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
