@@ -1210,7 +1210,7 @@
 	},
 	{
 		"id": 46729,
-		"is_active": true,
+		"is_active": false,
 		"name": "North Cabin Fire",
 		"description": null,
 		"lat": 40.322,
@@ -1238,7 +1238,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-22T21:46:15Z",
-		"date_modified": "2025-04-23T00:22:21Z",
+		"date_modified": "2025-04-23T04:25:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
