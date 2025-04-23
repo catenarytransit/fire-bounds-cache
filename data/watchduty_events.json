@@ -898,7 +898,7 @@
 	},
 	{
 		"id": 46744,
-		"is_active": true,
+		"is_active": false,
 		"name": "Mule Fire",
 		"description": null,
 		"lat": 34.53485,
@@ -926,7 +926,7 @@
 			"temporarily_display_evac_zones": false
 		},
 		"date_created": "2025-04-23T00:04:33Z",
-		"date_modified": "2025-04-23T00:14:40Z",
+		"date_modified": "2025-04-23T17:10:40Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
