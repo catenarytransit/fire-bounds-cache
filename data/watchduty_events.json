@@ -26,7 +26,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-11T21:45:59Z",
 		"date_modified": "2025-04-18T21:45:29Z",
@@ -65,7 +66,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-14T18:47:39Z",
 		"date_modified": "2025-04-18T21:05:29Z",
@@ -104,7 +106,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-17T03:31:15Z",
 		"date_modified": "2025-04-18T13:40:30Z",
@@ -143,7 +146,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-17T12:24:05Z",
 		"date_modified": "2025-04-18T16:00:29Z",
@@ -182,7 +186,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-20T23:33:25Z",
 		"date_modified": "2025-04-22T21:55:36Z",
@@ -221,7 +226,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-21T20:36:15Z",
 		"date_modified": "2025-04-21T21:49:11Z",
@@ -260,7 +266,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-21T21:27:57Z",
 		"date_modified": "2025-04-23T09:24:56Z",
@@ -299,7 +306,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-21T22:15:56Z",
 		"date_modified": "2025-04-23T09:24:43Z",
@@ -338,7 +346,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-21T22:25:36Z",
 		"date_modified": "2025-04-22T22:35:54Z",
@@ -377,7 +386,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-21T22:36:57Z",
 		"date_modified": "2025-04-23T18:08:39Z",
@@ -416,7 +426,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-21T23:08:17Z",
 		"date_modified": "2025-04-23T09:24:22Z",
@@ -455,7 +466,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-21T23:38:57Z",
 		"date_modified": "2025-04-23T17:04:06Z",
@@ -494,7 +506,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-22T00:01:17Z",
 		"date_modified": "2025-04-22T20:09:17Z",
@@ -533,7 +546,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-22T16:51:53Z",
 		"date_modified": "2025-04-23T09:25:12Z",
@@ -572,7 +586,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-22T18:15:05Z",
 		"date_modified": "2025-04-23T03:05:49Z",
@@ -611,7 +626,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-22T19:13:41Z",
 		"date_modified": "2025-04-23T00:43:35Z",
@@ -650,7 +666,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-22T20:04:15Z",
 		"date_modified": "2025-04-22T20:25:41Z",
@@ -689,7 +706,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-22T20:55:55Z",
 		"date_modified": "2025-04-23T17:08:20Z",
@@ -728,7 +746,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-22T21:25:32Z",
 		"date_modified": "2025-04-23T07:55:19Z",
@@ -767,7 +786,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-22T21:27:46Z",
 		"date_modified": "2025-04-23T17:07:09Z",
@@ -806,7 +826,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-22T21:46:15Z",
 		"date_modified": "2025-04-23T04:25:19Z",
@@ -845,7 +866,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T00:04:33Z",
 		"date_modified": "2025-04-23T17:10:40Z",
@@ -884,7 +906,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T01:45:55Z",
 		"date_modified": "2025-04-23T05:55:19Z",
@@ -923,7 +946,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T14:46:25Z",
 		"date_modified": "2025-04-23T14:51:50Z",
@@ -962,7 +986,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T15:51:45Z",
 		"date_modified": "2025-04-23T16:57:30Z",
@@ -1001,7 +1026,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T16:11:24Z",
 		"date_modified": "2025-04-23T18:27:19Z",
@@ -1040,7 +1066,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T16:40:17Z",
 		"date_modified": "2025-04-23T18:45:18Z",
@@ -1079,7 +1106,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T17:42:31Z",
 		"date_modified": "2025-04-23T18:45:17Z",
@@ -1118,7 +1146,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T17:52:36Z",
 		"date_modified": "2025-04-23T19:06:38Z",
@@ -1157,7 +1186,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T18:08:18Z",
 		"date_modified": "2025-04-23T19:00:22Z",
@@ -1196,7 +1226,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T18:20:59Z",
 		"date_modified": "2025-04-23T18:31:57Z",
@@ -1235,7 +1266,8 @@
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T19:10:57Z",
 		"date_modified": "2025-04-23T19:30:57Z",
@@ -1244,6 +1276,46 @@
 		"reporter_managed": false,
 		"external_id": "{030876BE-3126-435A-A4BF-8C2593F93D4B}",
 		"external_source": "nifc",
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 46800,
+		"is_active": true,
+		"name": "Mud Lake Fire",
+		"description": null,
+		"lat": 46.692077,
+		"lng": -93.265514,
+		"address": "20500 Block of Co Hwy 6, McGregor, MN 55760",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": null,
+			"acreage": 3,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
+		},
+		"date_created": "2025-04-23T19:31:19Z",
+		"date_modified": "2025-04-23T19:52:18Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "09cee4d7-4db3-47ea-a61a-d32d19db6aba",
+		"external_source": "wildcad",
 		"child_geo_events": [],
 		"parent_geo_events": []
 	}
