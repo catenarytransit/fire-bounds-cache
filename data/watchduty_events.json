@@ -281,7 +281,7 @@
 	},
 	{
 		"id": 46621,
-		"is_active": true,
+		"is_active": false,
 		"name": "Horse Creek Fire",
 		"description": null,
 		"lat": 41.88726,
@@ -310,7 +310,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-21T22:25:36Z",
-		"date_modified": "2025-04-22T22:35:54Z",
+		"date_modified": "2025-04-23T23:13:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
