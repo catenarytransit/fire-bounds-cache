@@ -1,7 +1,7 @@
 [
 	{
 		"id": 45709,
-		"is_active": true,
+		"is_active": false,
 		"name": "Buffalo Fire",
 		"description": null,
 		"lat": 45.093889,
@@ -13,7 +13,7 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": null,
+			"is_fps": false,
 			"containment": 95,
 			"acreage": 611,
 			"links": null,
@@ -30,10 +30,10 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-11T21:45:59Z",
-		"date_modified": "2025-04-18T21:45:29Z",
+		"date_modified": "2025-04-23T22:03:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "{A0A08F70-7A56-4261-A1F6-696C04841B11}",
 		"external_source": "nifc",
 		"child_geo_events": [],
@@ -1004,8 +1004,8 @@
 		"is_active": true,
 		"name": "Hingeley Fire",
 		"description": null,
-		"lat": 46.821628,
-		"lng": -92.873641,
+		"lat": 46.821694,
+		"lng": -92.877227,
 		"address": "4200 Block of Hingeley Rd, Floodwood, MN 55736",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1030,7 +1030,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T16:40:17Z",
-		"date_modified": "2025-04-23T18:45:18Z",
+		"date_modified": "2025-04-23T22:07:17Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
