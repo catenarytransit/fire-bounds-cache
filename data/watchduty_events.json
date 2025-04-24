@@ -641,7 +641,7 @@
 	},
 	{
 		"id": 46774,
-		"is_active": true,
+		"is_active": false,
 		"name": "Mackie Square Fire",
 		"description": null,
 		"lat": 48.355087,
@@ -670,7 +670,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T16:11:24Z",
-		"date_modified": "2025-04-23T18:27:19Z",
+		"date_modified": "2025-04-24T15:40:54Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
