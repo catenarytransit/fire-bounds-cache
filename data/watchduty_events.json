@@ -1241,7 +1241,7 @@
 	},
 	{
 		"id": 46879,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cello Fire",
 		"description": null,
 		"lat": 46.03083,
@@ -1270,7 +1270,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-24T17:01:12Z",
-		"date_modified": "2025-04-24T17:01:12Z",
+		"date_modified": "2025-04-24T21:17:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
