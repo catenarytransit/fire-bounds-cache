@@ -1401,7 +1401,7 @@
 	},
 	{
 		"id": 46841,
-		"is_active": true,
+		"is_active": false,
 		"name": "Clark Creek Fire",
 		"description": null,
 		"lat": 46.207883,
@@ -1430,7 +1430,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-24T00:10:50Z",
-		"date_modified": "2025-04-24T01:25:02Z",
+		"date_modified": "2025-04-24T05:25:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
