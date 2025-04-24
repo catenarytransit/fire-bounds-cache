@@ -1321,7 +1321,7 @@
 	},
 	{
 		"id": 46827,
-		"is_active": true,
+		"is_active": false,
 		"name": "Union Fire",
 		"description": null,
 		"lat": 35.215,
@@ -1350,7 +1350,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T23:05:30Z",
-		"date_modified": "2025-04-24T00:19:20Z",
+		"date_modified": "2025-04-24T04:25:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
