@@ -1173,7 +1173,7 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": false,
+			"is_fps": true,
 			"containment": null,
 			"acreage": 66.8,
 			"links": [],
@@ -1190,7 +1190,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-24T20:51:48Z",
-		"date_modified": "2025-04-24T22:29:57Z",
+		"date_modified": "2025-04-24T22:58:54Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
