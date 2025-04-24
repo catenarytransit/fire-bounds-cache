@@ -481,7 +481,7 @@
 	},
 	{
 		"id": 46764,
-		"is_active": true,
+		"is_active": false,
 		"name": "Mm14 191 N Fire",
 		"description": null,
 		"lat": 46.619544,
@@ -510,7 +510,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T14:46:25Z",
-		"date_modified": "2025-04-24T15:55:18Z",
+		"date_modified": "2025-04-24T19:55:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
