@@ -1201,7 +1201,7 @@
 	},
 	{
 		"id": 46870,
-		"is_active": true,
+		"is_active": false,
 		"name": "Blue House Fire",
 		"description": null,
 		"lat": 47.954067,
@@ -1230,7 +1230,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-24T15:36:13Z",
-		"date_modified": "2025-04-24T16:06:12Z",
+		"date_modified": "2025-04-24T20:10:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
