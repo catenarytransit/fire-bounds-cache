@@ -1041,7 +1041,7 @@
 	},
 	{
 		"id": 46918,
-		"is_active": true,
+		"is_active": false,
 		"name": "Forest Way Fire",
 		"description": null,
 		"lat": 48.019367,
@@ -1070,7 +1070,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-24T22:42:45Z",
-		"date_modified": "2025-04-25T02:45:51Z",
+		"date_modified": "2025-04-25T02:50:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
