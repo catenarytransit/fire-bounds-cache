@@ -830,10 +830,10 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-24T23:25:25Z",
-		"date_modified": "2025-04-25T02:20:26Z",
+		"date_modified": "2025-04-25T17:40:29Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "{DFA1FBEF-F638-4196-A1D4-9E9B18B9C5B2}",
 		"external_source": "nifc",
 		"child_geo_events": [],
