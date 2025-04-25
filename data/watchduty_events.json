@@ -1,7 +1,7 @@
 [
 	{
 		"id": 46595,
-		"is_active": true,
+		"is_active": false,
 		"name": "Bugle Fire",
 		"description": null,
 		"lat": 46.27964,
@@ -30,7 +30,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-21T20:36:15Z",
-		"date_modified": "2025-04-21T21:49:11Z",
+		"date_modified": "2025-04-25T12:16:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -401,7 +401,7 @@
 	},
 	{
 		"id": 46802,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hay Creek Fire",
 		"description": null,
 		"lat": 44.50667245656055,
@@ -430,7 +430,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T19:58:18Z",
-		"date_modified": "2025-04-23T23:10:54Z",
+		"date_modified": "2025-04-25T12:19:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -441,7 +441,7 @@
 	},
 	{
 		"id": 46824,
-		"is_active": true,
+		"is_active": false,
 		"name": "Little Ditch Fire",
 		"description": null,
 		"lat": 47.963611,
@@ -470,7 +470,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-23T23:01:58Z",
-		"date_modified": "2025-04-23T23:01:58Z",
+		"date_modified": "2025-04-25T12:17:58Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -561,7 +561,7 @@
 	},
 	{
 		"id": 46846,
-		"is_active": true,
+		"is_active": false,
 		"name": "57 Fire",
 		"description": null,
 		"lat": 47.982222,
@@ -590,7 +590,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-24T01:35:58Z",
-		"date_modified": "2025-04-24T03:35:58Z",
+		"date_modified": "2025-04-25T12:18:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
