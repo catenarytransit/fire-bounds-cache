@@ -881,7 +881,7 @@
 	},
 	{
 		"id": 46900,
-		"is_active": true,
+		"is_active": false,
 		"name": "Bear Fire",
 		"description": null,
 		"lat": 37.9393051,
@@ -910,7 +910,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-24T20:33:01Z",
-		"date_modified": "2025-04-24T22:21:16Z",
+		"date_modified": "2025-04-25T02:25:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1046,7 +1046,7 @@
 		"description": null,
 		"lat": 48.019367,
 		"lng": -117.015783,
-		"address": "48°,01.16 N x 117°,00.95",
+		"address": "48°01.16 N x 117°00.95",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1070,7 +1070,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-24T22:42:45Z",
-		"date_modified": "2025-04-25T00:21:04Z",
+		"date_modified": "2025-04-25T02:45:51Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1084,8 +1084,8 @@
 		"is_active": true,
 		"name": "Turnbull Fire",
 		"description": null,
-		"lat": 33.080806,
-		"lng": -110.207111,
+		"lat": 33.076389,
+		"lng": -110.195194,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1110,7 +1110,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-24T23:25:25Z",
-		"date_modified": "2025-04-25T01:20:25Z",
+		"date_modified": "2025-04-25T02:20:26Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
