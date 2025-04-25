@@ -1164,8 +1164,8 @@
 		"is_active": true,
 		"name": "Church Fire",
 		"description": null,
-		"lat": 33.63668561616501,
-		"lng": -116.14202593577505,
+		"lat": 33.63478041953769,
+		"lng": -116.13992966597375,
 		"address": "Southeast of Church Street & Olive Street, Thermal",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1190,7 +1190,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-25T05:23:52Z",
-		"date_modified": "2025-04-25T06:01:10Z",
+		"date_modified": "2025-04-25T06:44:41Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
