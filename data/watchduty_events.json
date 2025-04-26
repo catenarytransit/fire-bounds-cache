@@ -1081,7 +1081,7 @@
 	},
 	{
 		"id": 47003,
-		"is_active": true,
+		"is_active": false,
 		"name": "Duranzo Fire",
 		"description": null,
 		"lat": 31.638,
@@ -1110,7 +1110,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-25T21:48:51Z",
-		"date_modified": "2025-04-26T02:18:59Z",
+		"date_modified": "2025-04-26T08:25:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
