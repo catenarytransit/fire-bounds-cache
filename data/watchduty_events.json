@@ -1402,7 +1402,7 @@
 	{
 		"id": 47051,
 		"is_active": true,
-		"name": "Blueberry Fire",
+		"name": "Blue Berry Fire",
 		"description": null,
 		"lat": 46.114924,
 		"lng": -93.257674,
@@ -1430,7 +1430,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T18:01:02Z",
-		"date_modified": "2025-04-26T18:22:53Z",
+		"date_modified": "2025-04-26T18:54:53Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1453,7 +1453,7 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": null,
+			"is_fps": false,
 			"containment": null,
 			"acreage": 2.5,
 			"links": null,
@@ -1470,7 +1470,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T18:08:53Z",
-		"date_modified": "2025-04-26T18:49:48Z",
+		"date_modified": "2025-04-26T18:51:25Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
