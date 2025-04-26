@@ -1324,8 +1324,8 @@
 		"is_active": false,
 		"name": "Evergreen Fire",
 		"description": null,
-		"lat": 46.8938,
-		"lng": -92.9505,
+		"lat": 46.894033,
+		"lng": -92.949967,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1350,7 +1350,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T16:00:19Z",
-		"date_modified": "2025-04-26T17:03:54Z",
+		"date_modified": "2025-04-26T17:45:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1401,7 +1401,7 @@
 	},
 	{
 		"id": 47049,
-		"is_active": true,
+		"is_active": false,
 		"name": "Stoddard Fire",
 		"description": null,
 		"lat": 41.0662,
@@ -1414,7 +1414,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 4,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1430,7 +1430,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T17:38:56Z",
-		"date_modified": "2025-04-26T17:38:56Z",
+		"date_modified": "2025-04-26T17:44:13Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
