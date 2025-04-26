@@ -1444,8 +1444,8 @@
 		"is_active": true,
 		"name": "Reef Fire",
 		"description": null,
-		"lat": 35.79437179804404,
-		"lng": -119.98781156233869,
+		"lat": 35.81424750786314,
+		"lng": -120.0136926178603,
 		"address": "Near Hwy 33 & Pyramid Hills Rd, South of Reef Station",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1470,7 +1470,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T03:19:51Z",
-		"date_modified": "2025-04-26T04:12:22Z",
+		"date_modified": "2025-04-26T04:25:45Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
