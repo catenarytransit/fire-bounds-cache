@@ -641,7 +641,7 @@
 	},
 	{
 		"id": 46945,
-		"is_active": true,
+		"is_active": false,
 		"name": "Church Fire",
 		"description": null,
 		"lat": 33.63478041953769,
@@ -670,7 +670,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-25T05:23:52Z",
-		"date_modified": "2025-04-26T01:42:12Z",
+		"date_modified": "2025-04-26T09:55:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
