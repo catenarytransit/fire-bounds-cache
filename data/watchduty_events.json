@@ -1321,7 +1321,7 @@
 	},
 	{
 		"id": 47022,
-		"is_active": true,
+		"is_active": false,
 		"name": "Grouse Creek Fire",
 		"description": null,
 		"lat": 48.415867,
@@ -1350,7 +1350,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T00:39:10Z",
-		"date_modified": "2025-04-26T03:54:52Z",
+		"date_modified": "2025-04-26T07:55:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
