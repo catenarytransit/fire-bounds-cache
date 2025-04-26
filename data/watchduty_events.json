@@ -1161,7 +1161,7 @@
 	},
 	{
 		"id": 47032,
-		"is_active": true,
+		"is_active": false,
 		"name": "Reef Fire",
 		"description": null,
 		"lat": 35.81424750786314,
@@ -1190,7 +1190,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T03:19:51Z",
-		"date_modified": "2025-04-26T13:07:10Z",
+		"date_modified": "2025-04-26T21:10:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1681,7 +1681,7 @@
 	},
 	{
 		"id": 47072,
-		"is_active": true,
+		"is_active": false,
 		"name": "Rogers Fire",
 		"description": null,
 		"lat": 48.497025,
@@ -1710,7 +1710,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T20:23:55Z",
-		"date_modified": "2025-04-26T20:59:04Z",
+		"date_modified": "2025-04-26T21:04:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
