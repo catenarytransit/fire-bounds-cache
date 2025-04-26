@@ -441,7 +441,7 @@
 	},
 	{
 		"id": 46917,
-		"is_active": true,
+		"is_active": false,
 		"name": "Elgin Fire",
 		"description": null,
 		"lat": 37.323123,
@@ -470,7 +470,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-24T22:40:17Z",
-		"date_modified": "2025-04-26T03:51:49Z",
+		"date_modified": "2025-04-26T11:55:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
