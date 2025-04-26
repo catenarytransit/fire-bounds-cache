@@ -1281,7 +1281,7 @@
 	},
 	{
 		"id": 47041,
-		"is_active": true,
+		"is_active": false,
 		"name": "Artichoke Lake Fire",
 		"description": null,
 		"lat": 46.983633,
@@ -1294,7 +1294,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 10.5,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1310,7 +1310,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T15:28:54Z",
-		"date_modified": "2025-04-26T16:08:54Z",
+		"date_modified": "2025-04-26T18:05:54Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1364,8 +1364,8 @@
 		"is_active": false,
 		"name": "Jump Start Fire",
 		"description": null,
-		"lat": 48.2419,
-		"lng": -93.43,
+		"lat": 48.403303,
+		"lng": -93.731457,
 		"address": "48.2419 N 93.43 W",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1390,7 +1390,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T16:16:55Z",
-		"date_modified": "2025-04-26T17:13:53Z",
+		"date_modified": "2025-04-26T18:01:02Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
