@@ -881,7 +881,7 @@
 	},
 	{
 		"id": 46982,
-		"is_active": true,
+		"is_active": false,
 		"name": "Pioneer Fire",
 		"description": null,
 		"lat": 47.919583,
@@ -910,7 +910,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-25T19:16:00Z",
-		"date_modified": "2025-04-26T00:47:58Z",
+		"date_modified": "2025-04-26T08:56:25Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
