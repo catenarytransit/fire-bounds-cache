@@ -1684,8 +1684,8 @@
 		"is_active": true,
 		"name": "Rogers Fire",
 		"description": null,
-		"lat": 48.495126,
-		"lng": -93.373489,
+		"lat": 48.497025,
+		"lng": -93.373704,
 		"address": "48.495040 N 93.37362 W",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1710,7 +1710,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T20:23:55Z",
-		"date_modified": "2025-04-26T20:48:55Z",
+		"date_modified": "2025-04-26T20:59:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
