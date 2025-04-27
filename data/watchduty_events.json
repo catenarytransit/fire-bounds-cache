@@ -1721,7 +1721,7 @@
 	},
 	{
 		"id": 47117,
-		"is_active": true,
+		"is_active": false,
 		"name": "Red Squirrel Fire",
 		"description": null,
 		"lat": 46.188863,
@@ -1750,7 +1750,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-27T00:45:55Z",
-		"date_modified": "2025-04-27T16:10:23Z",
+		"date_modified": "2025-04-27T20:46:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
