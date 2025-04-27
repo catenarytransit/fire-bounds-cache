@@ -2244,8 +2244,8 @@
 		"is_active": true,
 		"name": "Cross Creek Fire",
 		"description": null,
-		"lat": 42.2261,
-		"lng": -113.6026,
+		"lat": 42.226111,
+		"lng": -113.602611,
 		"address": "MRD- 3 Miles SW of Elba",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -2270,7 +2270,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-27T01:04:12Z",
-		"date_modified": "2025-04-27T02:58:03Z",
+		"date_modified": "2025-04-27T03:45:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
