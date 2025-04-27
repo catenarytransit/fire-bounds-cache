@@ -1521,7 +1521,7 @@
 	},
 	{
 		"id": 47074,
-		"is_active": true,
+		"is_active": false,
 		"name": "Johnson Fire",
 		"description": null,
 		"lat": 32.754374977556424,
@@ -1550,7 +1550,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T20:25:59Z",
-		"date_modified": "2025-04-27T02:18:17Z",
+		"date_modified": "2025-04-27T10:35:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
