@@ -1761,7 +1761,7 @@
 	},
 	{
 		"id": 47084,
-		"is_active": true,
+		"is_active": false,
 		"name": "Stray Dog Fire",
 		"description": null,
 		"lat": 48.2266,
@@ -1790,7 +1790,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T21:11:25Z",
-		"date_modified": "2025-04-27T04:00:05Z",
+		"date_modified": "2025-04-27T08:10:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
