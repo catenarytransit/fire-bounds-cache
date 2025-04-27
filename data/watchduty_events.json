@@ -1,7 +1,7 @@
 [
 	{
 		"id": 46625,
-		"is_active": true,
+		"is_active": false,
 		"name": "4 Sq Mile Fire",
 		"description": null,
 		"lat": 47.7152252267806,
@@ -30,7 +30,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-21T22:36:57Z",
-		"date_modified": "2025-04-26T23:07:23Z",
+		"date_modified": "2025-04-27T07:10:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
