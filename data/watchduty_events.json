@@ -1401,7 +1401,7 @@
 	},
 	{
 		"id": 47071,
-		"is_active": true,
+		"is_active": false,
 		"name": "Deiter Fire",
 		"description": null,
 		"lat": 48.924417,
@@ -1430,7 +1430,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T20:17:54Z",
-		"date_modified": "2025-04-26T23:07:01Z",
+		"date_modified": "2025-04-27T12:15:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
