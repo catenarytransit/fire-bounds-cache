@@ -1762,7 +1762,7 @@
 	{
 		"id": 47100,
 		"is_active": true,
-		"name": "Deadman Bar Fire",
+		"name": "Deadman Fire",
 		"description": null,
 		"lat": 44.974305,
 		"lng": -115.654565,
@@ -1790,7 +1790,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T22:02:26Z",
-		"date_modified": "2025-04-27T01:56:12Z",
+		"date_modified": "2025-04-27T13:21:00Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
