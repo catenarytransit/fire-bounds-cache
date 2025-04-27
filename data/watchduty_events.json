@@ -881,7 +881,7 @@
 	},
 	{
 		"id": 47015,
-		"is_active": true,
+		"is_active": false,
 		"name": "Laguna Mason Fire",
 		"description": null,
 		"lat": 34.948333,
@@ -910,7 +910,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-25T23:04:56Z",
-		"date_modified": "2025-04-27T00:22:06Z",
+		"date_modified": "2025-04-27T08:25:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2001,7 +2001,7 @@
 	},
 	{
 		"id": 47108,
-		"is_active": true,
+		"is_active": false,
 		"name": "Alamo Fire",
 		"description": null,
 		"lat": 33.2571115307707,
@@ -2030,7 +2030,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T23:13:09Z",
-		"date_modified": "2025-04-27T02:12:41Z",
+		"date_modified": "2025-04-27T08:25:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
