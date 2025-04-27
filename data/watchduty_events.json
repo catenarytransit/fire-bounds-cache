@@ -1841,7 +1841,7 @@
 	},
 	{
 		"id": 47085,
-		"is_active": true,
+		"is_active": false,
 		"name": "Eagle Fire",
 		"description": null,
 		"lat": 46.628684,
@@ -1870,7 +1870,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T21:15:13Z",
-		"date_modified": "2025-04-26T22:51:56Z",
+		"date_modified": "2025-04-27T02:55:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -2095,7 +2095,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 7,
+			"acreage": 50,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -2110,7 +2110,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T23:15:02Z",
-		"date_modified": "2025-04-26T23:15:02Z",
+		"date_modified": "2025-04-27T02:50:57Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
