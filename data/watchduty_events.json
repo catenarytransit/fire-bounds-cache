@@ -881,7 +881,7 @@
 	},
 	{
 		"id": 47147,
-		"is_active": true,
+		"is_active": false,
 		"name": "Williams Fire",
 		"description": null,
 		"lat": 40.353667,
@@ -910,7 +910,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-27T23:05:23Z",
-		"date_modified": "2025-04-28T17:58:24Z",
+		"date_modified": "2025-04-28T20:06:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
