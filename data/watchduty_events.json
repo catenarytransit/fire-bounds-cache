@@ -1044,8 +1044,8 @@
 		"is_active": true,
 		"name": "Columbia Gorge Fire",
 		"description": null,
-		"lat": 48.802867,
-		"lng": -118.008033,
+		"lat": 48.802617,
+		"lng": -118.007717,
 		"address": "Stevens County - North Gorge, T38 R38 S10",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1070,7 +1070,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T00:31:03Z",
-		"date_modified": "2025-04-28T18:59:24Z",
+		"date_modified": "2025-04-28T20:28:13Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
