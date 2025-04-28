@@ -726,7 +726,7 @@
 		"description": null,
 		"lat": 46.557817,
 		"lng": -93.437017,
-		"address": "28000 Block of 378th St, Aitkin, MN 56431",
+		"address": "378th St Aitkin",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -750,7 +750,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T21:30:55Z",
-		"date_modified": "2025-04-28T13:24:19Z",
+		"date_modified": "2025-04-28T13:30:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
