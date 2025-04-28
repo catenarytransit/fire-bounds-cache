@@ -41,7 +41,7 @@
 	},
 	{
 		"id": 46925,
-		"is_active": true,
+		"is_active": false,
 		"name": "Turnbull Fire",
 		"description": null,
 		"lat": 33.076389,
@@ -70,7 +70,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-24T23:25:25Z",
-		"date_modified": "2025-04-25T17:43:24Z",
+		"date_modified": "2025-04-28T17:16:13Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1150,7 +1150,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T00:31:03Z",
-		"date_modified": "2025-04-28T16:59:00Z",
+		"date_modified": "2025-04-28T17:14:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
