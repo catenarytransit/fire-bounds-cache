@@ -1404,8 +1404,8 @@
 		"is_active": true,
 		"name": "Lee 2462 Fire",
 		"description": null,
-		"lat": 30.180034,
-		"lng": -96.920729,
+		"lat": 30.180035,
+		"lng": -96.920728,
 		"address": "1600 Block of E Austin St, Giddings, TX 78942",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1430,7 +1430,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T04:15:15Z",
-		"date_modified": "2025-04-28T04:55:55Z",
+		"date_modified": "2025-04-28T12:45:39Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
