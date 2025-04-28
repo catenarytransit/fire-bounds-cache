@@ -1300,7 +1300,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "Area of Cochise Stronghold and Ironwood Road in Sunsites/Pearce",
+			"evacuation_orders": "The area west of Cochise Stronghold and south of Ironwood Road in Sunsites",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -1310,7 +1310,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T18:57:32Z",
-		"date_modified": "2025-04-28T19:54:17Z",
+		"date_modified": "2025-04-28T20:18:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1319,7 +1319,7 @@
 		"child_geo_events": [],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"Area of Cochise Stronghold and Ironwood Road in Sunsites/Pearce"
+			"The area west of Cochise Stronghold and south of Ironwood Road in Sunsites"
 		]
 	}
 ]
