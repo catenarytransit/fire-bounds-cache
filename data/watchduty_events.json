@@ -1684,8 +1684,8 @@
 		"is_active": true,
 		"name": "Columbia Gorge Fire",
 		"description": null,
-		"lat": 48.802097,
-		"lng": -118.006339,
+		"lat": 48.802867,
+		"lng": -118.008033,
 		"address": "Stevens County - North Gorge, T38 R38 S10",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1710,7 +1710,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T00:31:03Z",
-		"date_modified": "2025-04-28T02:34:03Z",
+		"date_modified": "2025-04-28T02:40:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1804,9 +1804,9 @@
 		"is_active": true,
 		"name": "Vegetation Fire",
 		"description": null,
-		"lat": 35.14711097489369,
-		"lng": -107.82984478709064,
-		"address": "821 Sage Avenue, Grants",
+		"lat": 35.14604926393007,
+		"lng": -107.8311276420966,
+		"address": "Near Sage and Balsam St, Grants",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1830,7 +1830,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T02:30:57Z",
-		"date_modified": "2025-04-28T02:30:57Z",
+		"date_modified": "2025-04-28T02:55:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
