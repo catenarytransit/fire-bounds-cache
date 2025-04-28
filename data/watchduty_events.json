@@ -1802,7 +1802,7 @@
 	{
 		"id": 47158,
 		"is_active": true,
-		"name": "Vegetation Fire",
+		"name": "Alamo Fire",
 		"description": null,
 		"lat": 35.14604926393007,
 		"lng": -107.8311276420966,
@@ -1830,7 +1830,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T02:30:57Z",
-		"date_modified": "2025-04-28T02:55:35Z",
+		"date_modified": "2025-04-28T03:51:43Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
