@@ -1278,5 +1278,48 @@
 		"external_source": "texas_am",
 		"child_geo_events": [],
 		"parent_geo_events": []
+	},
+	{
+		"id": 47189,
+		"is_active": true,
+		"name": "Vegetation Fire",
+		"description": null,
+		"lat": 31.9454291,
+		"lng": -109.930856,
+		"address": "1200 Block of West Ironwood Road, Cochise County, AZ",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": null,
+			"links": [],
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": "Area of Cochise Stronghold and Ironwood Road in Sunsites/Pearce",
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
+		},
+		"date_created": "2025-04-28T18:57:32Z",
+		"date_modified": "2025-04-28T18:58:27Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
+		"child_geo_events": [],
+		"parent_geo_events": [],
+		"evacuation_warnings_arr": [
+			"Area of Cochise Stronghold and Ironwood Road in Sunsites/Pearce"
+		]
 	}
 ]
