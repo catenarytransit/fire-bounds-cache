@@ -1292,8 +1292,8 @@
 		"is_active": true,
 		"name": "Sheep Canyon Fire",
 		"description": null,
-		"lat": 45.949317,
-		"lng": -121.082862,
+		"lat": 45.950399,
+		"lng": -121.084622,
 		"address": "T5 R14 S5",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1318,7 +1318,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T22:31:24Z",
-		"date_modified": "2025-04-28T22:36:37Z",
+		"date_modified": "2025-04-28T22:42:12Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
