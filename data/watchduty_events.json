@@ -541,6 +541,11 @@
 					"link_type": "website",
 					"label": "InciWeb",
 					"value": "https://inciweb.wildfire.gov/incident-information/aza3s-stronghold-fire"
+				},
+				{
+					"link_type": "website",
+					"label": "Cochise County Alerts",
+					"value": "https://Cochise.myfreealerts.com"
 				}
 			],
 			"has_custom_evacuation_orders": true,
@@ -549,14 +554,14 @@
 			"evacuation_orders": "South of Ironwood Road and West of Cochise Stronghold Road, including Stronghold Canyon campgrounds and trailheads.",
 			"evacuation_warnings": "West of Desert Road, East of Cochise Stronghold Road North of Middle March Road and South of W. Eastland Street",
 			"evacuation_advisories": "East of Desert Road, West of N. Willcox Road North of Middle March Road and South of W. Eastland Street",
-			"evacuation_notes": "Link to Evacuation Map from Cochise County Sheriff's.",
+			"evacuation_notes": "Link to Evacuation Map from Cochise County Sheriff's.Cochise County Alerts Signup",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
 			"temporarily_display_evac_zones": false,
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T18:57:32Z",
-		"date_modified": "2025-04-29T20:43:49Z",
+		"date_modified": "2025-04-29T21:59:02Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
