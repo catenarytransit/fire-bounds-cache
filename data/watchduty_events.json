@@ -1247,7 +1247,7 @@
 	},
 	{
 		"id": 47216,
-		"is_active": true,
+		"is_active": false,
 		"name": "Sheep Canyon Fire",
 		"description": null,
 		"lat": 45.950399,
@@ -1276,7 +1276,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T22:31:24Z",
-		"date_modified": "2025-04-29T02:42:23Z",
+		"date_modified": "2025-04-29T06:55:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
