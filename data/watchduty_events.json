@@ -1207,7 +1207,7 @@
 	},
 	{
 		"id": 47202,
-		"is_active": true,
+		"is_active": false,
 		"name": "Highway Fire",
 		"description": null,
 		"lat": 40.475133,
@@ -1236,7 +1236,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T20:55:37Z",
-		"date_modified": "2025-04-28T23:33:24Z",
+		"date_modified": "2025-04-29T03:40:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
