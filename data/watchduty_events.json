@@ -627,8 +627,8 @@
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": true,
 			"evacuation_orders": "South of Ironwood Road and West of Cochise Stronghold Road, including Stronghold Canyon campgrounds and trailheads.",
-			"evacuation_warnings": "West of Desert Road, East of Cochise Stronghold Road, North of Middle March Road and South of W. Eastland Street",
-			"evacuation_advisories": "East of Desert Road, West of N. Willcox Road, North of Middle March Road and South of W. Eastland Street",
+			"evacuation_warnings": "West of Desert Road, East of Cochise Stronghold Road North of Middle March Road and South of W. Eastland Street",
+			"evacuation_advisories": "East of Desert Road, West of N. Willcox Road North of Middle March Road and South of W. Eastland Street",
 			"evacuation_notes": "Link to Evacuation Map from Cochise County Sheriff's.",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
@@ -636,7 +636,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T18:57:32Z",
-		"date_modified": "2025-04-29T18:39:25Z",
+		"date_modified": "2025-04-29T19:02:40Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -681,8 +681,7 @@
 		],
 		"evacuation_warnings_arr": [
 			"West of Desert Road",
-			"East of Cochise Stronghold Road",
-			"North of Middle March Road and South of W. Eastland Street"
+			"East of Cochise Stronghold Road North of Middle March Road and South of W. Eastland Street"
 		]
 	},
 	{
@@ -1007,7 +1006,7 @@
 	},
 	{
 		"id": 47259,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hawks Fire",
 		"description": null,
 		"lat": 45.941167,
@@ -1020,7 +1019,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 1.5,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1036,7 +1035,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-29T18:11:08Z",
-		"date_modified": "2025-04-29T18:31:17Z",
+		"date_modified": "2025-04-29T18:57:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
