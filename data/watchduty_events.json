@@ -767,7 +767,7 @@
 	},
 	{
 		"id": 47196,
-		"is_active": true,
+		"is_active": false,
 		"name": "Pheasant Fire",
 		"description": null,
 		"lat": 45.870248,
@@ -796,7 +796,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T20:31:45Z",
-		"date_modified": "2025-04-28T20:31:46Z",
+		"date_modified": "2025-04-29T17:28:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
