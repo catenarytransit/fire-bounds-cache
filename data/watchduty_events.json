@@ -481,7 +481,7 @@
 	},
 	{
 		"id": 47100,
-		"is_active": true,
+		"is_active": false,
 		"name": "Deadman Fire",
 		"description": null,
 		"lat": 44.974305,
@@ -510,7 +510,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T22:02:26Z",
-		"date_modified": "2025-04-29T07:52:51Z",
+		"date_modified": "2025-04-29T11:55:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
