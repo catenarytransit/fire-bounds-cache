@@ -695,7 +695,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 0,
-			"acreage": 3000,
+			"acreage": 2300,
 			"links": [
 				{
 					"link_type": "website",
@@ -716,7 +716,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T18:57:32Z",
-		"date_modified": "2025-04-29T15:38:33Z",
+		"date_modified": "2025-04-29T17:01:23Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1061,7 +1061,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 1,
+			"acreage": 1.6,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1076,7 +1076,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-29T15:36:36Z",
-		"date_modified": "2025-04-29T16:54:25Z",
+		"date_modified": "2025-04-29T17:05:30Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
