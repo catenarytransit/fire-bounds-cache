@@ -121,7 +121,7 @@
 	},
 	{
 		"id": 47114,
-		"is_active": true,
+		"is_active": false,
 		"name": "Gravel Pit Fire",
 		"description": null,
 		"lat": 48.199283,
@@ -150,7 +150,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-27T00:09:14Z",
-		"date_modified": "2025-04-27T00:14:55Z",
+		"date_modified": "2025-04-30T08:00:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
