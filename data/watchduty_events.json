@@ -508,10 +508,10 @@
 			"acreage": 36,
 			"links": [],
 			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": true,
+			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": null,
-			"evacuation_warnings": "Old Bisbee between West Blvd and Art Ave",
+			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": "Cochise County Alerts Signup",
 			"is_complex_parent": false,
@@ -520,17 +520,14 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-30T16:09:13Z",
-		"date_modified": "2025-04-30T21:10:29Z",
+		"date_modified": "2025-04-30T21:51:27Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
 		"child_geo_events": [],
-		"parent_geo_events": [],
-		"evacuation_warnings_arr": [
-			"Old Bisbee between West Blvd and Art Ave"
-		]
+		"parent_geo_events": []
 	},
 	{
 		"id": 47340,
