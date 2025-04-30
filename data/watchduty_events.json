@@ -651,7 +651,7 @@
 	},
 	{
 		"id": 47307,
-		"is_active": true,
+		"is_active": false,
 		"name": "Laona Line Fire",
 		"description": null,
 		"lat": 48.843274,
@@ -664,8 +664,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
-			"acreage": 1,
+			"containment": 100,
+			"acreage": 0.01,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -680,7 +680,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-30T13:58:22Z",
-		"date_modified": "2025-04-30T15:11:29Z",
+		"date_modified": "2025-04-30T16:51:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
