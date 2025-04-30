@@ -134,7 +134,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 40,
+			"containment": 50,
 			"acreage": 494,
 			"links": [],
 			"has_custom_evacuation_orders": false,
@@ -150,7 +150,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T00:12:29Z",
-		"date_modified": "2025-04-29T18:35:34Z",
+		"date_modified": "2025-04-30T23:00:28Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -411,7 +411,7 @@
 	},
 	{
 		"id": 47305,
-		"is_active": true,
+		"is_active": false,
 		"name": "Picnic Fire",
 		"description": null,
 		"lat": 34.07426,
@@ -440,7 +440,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-30T13:17:58Z",
-		"date_modified": "2025-04-30T13:17:58Z",
+		"date_modified": "2025-04-30T23:00:59Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -731,7 +731,7 @@
 	},
 	{
 		"id": 47370,
-		"is_active": true,
+		"is_active": false,
 		"name": "Viola Fire",
 		"description": null,
 		"lat": 46.696483,
@@ -760,7 +760,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-30T22:38:02Z",
-		"date_modified": "2025-04-30T22:38:02Z",
+		"date_modified": "2025-04-30T22:58:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,

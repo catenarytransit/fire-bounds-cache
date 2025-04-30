@@ -40288,9 +40288,9 @@
         "attr_FSJobCode" : "PN", 
         "attr_FSOverrideCode" : "1522", 
         "attr_GACC" : "SWCC", 
-        "attr_ICS209ReportDateTime" : 1745951407000, 
-        "attr_ICS209RptForTimePeriodFrom" : 1745863200000, 
-        "attr_ICS209RptForTimePeriodTo" : 1745949600000, 
+        "attr_ICS209ReportDateTime" : 1746053820000, 
+        "attr_ICS209RptForTimePeriodFrom" : 1745949600000, 
+        "attr_ICS209RptForTimePeriodTo" : 1746050400000, 
         "attr_ICS209ReportStatus" : "U", 
         "attr_IncidentManagementOrg" : "Type 4 IC", 
         "attr_IncidentName" : "OTERO", 
@@ -40311,7 +40311,7 @@
         "attr_IsUnifiedCommand" : 0, 
         "attr_LocalIncidentIdentifier" : "000227", 
         "attr_ModifiedBySystem" : "ics209", 
-        "attr_PercentContained" : 40, 
+        "attr_PercentContained" : 50, 
         "attr_PercentPerimToBeContained" : 100, 
         "attr_POOCity" : "Socorro", 
         "attr_POOCounty" : "Socorro", 
@@ -40344,7 +40344,7 @@
         "attr_OrganizationalAssessment" : null, 
         "attr_StratDecisionPublishDate" : null, 
         "attr_CreatedOnDateTime_dt" : 1745795998683, 
-        "attr_ModifiedOnDateTime_dt" : 1745951407780, 
+        "attr_ModifiedOnDateTime_dt" : 1746053820920, 
         "attr_Source" : "IRWIN", 
         "attr_ActiveFireCandidate" : 1, 
         "attr_IsCpxChild" : 0, 
@@ -40354,7 +40354,7 @@
         "GlobalID" : "1e7ea452-37b9-41b2-95b2-7b4fc8007ca2", 
         "Shape__Area" : 0.00018317647823096195, 
         "Shape__Length" : 0.095782569637082121, 
-        "attr_IncidentComplexityLevel" : null
+        "attr_IncidentComplexityLevel" : "Type 4 Incident"
       }
     }, 
     {
