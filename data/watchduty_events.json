@@ -281,7 +281,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T18:57:32Z",
-		"date_modified": "2025-04-30T16:36:46Z",
+		"date_modified": "2025-04-30T20:28:31Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -666,7 +666,7 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": null,
+			"is_fps": true,
 			"containment": null,
 			"acreage": 3,
 			"links": null,
@@ -683,7 +683,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-30T18:47:59Z",
-		"date_modified": "2025-04-30T20:22:48Z",
+		"date_modified": "2025-04-30T20:29:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
