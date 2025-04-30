@@ -1,7 +1,7 @@
 [
 	{
 		"id": 46645,
-		"is_active": true,
+		"is_active": false,
 		"name": "Plum Creek Fire",
 		"description": null,
 		"lat": 42.60235206998712,
@@ -30,7 +30,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-21T23:38:57Z",
-		"date_modified": "2025-04-30T15:08:05Z",
+		"date_modified": "2025-04-30T23:10:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
