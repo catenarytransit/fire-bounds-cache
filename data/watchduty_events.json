@@ -371,7 +371,7 @@
 	},
 	{
 		"id": 47219,
-		"is_active": true,
+		"is_active": false,
 		"name": "Wolf Ten Fire",
 		"description": null,
 		"lat": 48.283117,
@@ -384,7 +384,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 7,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -400,7 +400,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T23:14:06Z",
-		"date_modified": "2025-04-29T00:32:06Z",
+		"date_modified": "2025-04-30T18:17:28Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -640,7 +640,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-30T16:09:13Z",
-		"date_modified": "2025-04-30T18:04:18Z",
+		"date_modified": "2025-04-30T18:16:18Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -651,5 +651,45 @@
 		"evacuation_warnings_arr": [
 			"Old Bisbee between West Blvd and Art Ave"
 		]
+	},
+	{
+		"id": 47340,
+		"is_active": true,
+		"name": "Haugrud Fire",
+		"description": null,
+		"lat": 46.855881,
+		"lng": -96.072151,
+		"address": "19400 Block of 160 Ave, Lake Park, MN 56554",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": null,
+			"containment": null,
+			"acreage": 60,
+			"links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null
+		},
+		"date_created": "2025-04-30T17:12:38Z",
+		"date_modified": "2025-04-30T18:20:46Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": false,
+		"external_id": "ad32d7ea-d6db-4ad5-af14-5f6163c980fa",
+		"external_source": "wildcad",
+		"child_geo_events": [],
+		"parent_geo_events": []
 	}
 ]
