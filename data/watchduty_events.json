@@ -811,7 +811,7 @@
 	},
 	{
 		"id": 47272,
-		"is_active": true,
+		"is_active": false,
 		"name": "Trail Fire",
 		"description": null,
 		"lat": 33.424626581339936,
@@ -840,7 +840,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-29T20:57:20Z",
-		"date_modified": "2025-04-29T21:33:05Z",
+		"date_modified": "2025-04-30T03:40:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
