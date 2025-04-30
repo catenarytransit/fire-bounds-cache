@@ -42245,7 +42245,7 @@
       "properties" : {
         "OBJECTID" : 39208, 
         "poly_SourceOID" : 12796, 
-        "poly_IncidentName" : "Silver Spring", 
+        "poly_IncidentName" : "Silver Creek", 
         "poly_FeatureCategory" : "Wildfire Daily Fire Perimeter", 
         "poly_MapMethod" : "Phone/Tablet", 
         "poly_GISAcres" : 0.82284962610883738, 
@@ -42254,7 +42254,7 @@
         "poly_FeatureStatus" : "Approved", 
         "poly_IsVisible" : "Yes", 
         "poly_CreateDate" : 1745970938018, 
-        "poly_DateCurrent" : 1746017142000, 
+        "poly_DateCurrent" : 1746022221000, 
         "poly_PolygonDateTime" : 1745964059000, 
         "poly_IRWINID" : "{FAD04FEB-CF41-450F-A38E-D80B63A0C1B0}", 
         "poly_FORID" : null, 
