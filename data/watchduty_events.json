@@ -41,7 +41,7 @@
 	},
 	{
 		"id": 47034,
-		"is_active": true,
+		"is_active": false,
 		"name": "Promise Fire",
 		"description": null,
 		"lat": 45.851056,
@@ -70,7 +70,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-26T03:51:52Z",
-		"date_modified": "2025-04-28T16:24:32Z",
+		"date_modified": "2025-04-30T07:56:45Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
