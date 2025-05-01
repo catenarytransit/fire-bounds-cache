@@ -456,7 +456,7 @@
 	},
 	{
 		"id": 47357,
-		"is_active": true,
+		"is_active": false,
 		"name": "Bass Lake Fire",
 		"description": null,
 		"lat": 47.236167,
@@ -485,7 +485,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-30T21:02:46Z",
-		"date_modified": "2025-05-01T17:32:36Z",
+		"date_modified": "2025-05-01T19:10:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
