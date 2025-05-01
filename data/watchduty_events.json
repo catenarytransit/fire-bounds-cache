@@ -108,12 +108,12 @@
 					"value": "https://Cochise.myfreealerts.com"
 				}
 			],
-			"has_custom_evacuation_orders": true,
+			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": true,
-			"evacuation_orders": "South of Ironwood Road and West of Cochise Stronghold Road, including Stronghold Canyon campgrounds and trailheads.",
-			"evacuation_warnings": "West of Desert Road, East of Cochise Stronghold Road North of Middle March Road and South of W. Eastland Street",
-			"evacuation_advisories": "East of Desert Road, West of N. Willcox Road North of Middle March Road and South of W. Eastland Street",
+			"evacuation_orders": null,
+			"evacuation_warnings": "South of Ironwood Road and west of Cochise Stronghold Road, including Stronghold Canyon campgrounds and trailheads.",
+			"evacuation_advisories": "West of Desert Road, east of Cochise Stronghold Road, north of Middle March Road, and South of Eastland Street.",
 			"evacuation_notes": "Link to Evacuation Map from Cochise County Sheriff's.Cochise County Alerts Signup",
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
@@ -121,52 +121,17 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T18:57:32Z",
-		"date_modified": "2025-05-01T01:29:08Z",
+		"date_modified": "2025-05-01T15:33:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [
-			{
-				"id": 47221,
-				"address": "1216 Treasure Rd Pearce, AZ 85625",
-				"name": "Sunsites Community Center",
-				"lat": 31.9336643,
-				"lng": -109.8320128,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>The Sunsites Community Center (1216 Treasure Road) has been opened for a DAY respite center. There are currently no identified NIGHT shelters open and the situation will be monitored for continued fire behavior.<br><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/CochiseSO\">Per Cochise County Sheriff's Office on Facebook.</a></p>",
-					"links": []
-				}
-			},
-			{
-				"id": 47222,
-				"address": "675 Giulio Cesare Ave Sierra Vista, AZ 85635",
-				"name": "The Sierra Vista Riding Club",
-				"lat": 31.5621877,
-				"lng": -110.2397067,
-				"is_active": true,
-				"geo_event_type": "location",
-				"data": {
-					"geo_event_type": "location",
-					"location_type": "animal_shelter",
-					"information": "<p>The Sierra Vista Riding Club (675 Giulio Cesare, Sierra Vista) will assist with accepting <strong>horses </strong>as needed for holding pending the conclusion of this incident. This is located behind Sierra Vista Fire Station #3 in Sierra Vista.<br><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/CochiseSO\">Per Cochise County Sheriff's Office on Facebook.</a></p>",
-					"links": []
-				}
-			}
-		],
+		"child_geo_events": [],
 		"parent_geo_events": [],
-		"evacuation_orders_arr": [
-			"South of Ironwood Road and West of Cochise Stronghold Road",
-			"including Stronghold Canyon campgrounds and trailheads."
-		],
 		"evacuation_warnings_arr": [
-			"West of Desert Road",
-			"East of Cochise Stronghold Road North of Middle March Road and South of W. Eastland Street"
+			"South of Ironwood Road and west of Cochise Stronghold Road",
+			"including Stronghold Canyon campgrounds and trailheads."
 		]
 	},
 	{
