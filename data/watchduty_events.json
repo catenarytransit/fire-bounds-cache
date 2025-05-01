@@ -611,7 +611,7 @@
 	},
 	{
 		"id": 47361,
-		"is_active": true,
+		"is_active": false,
 		"name": "Paradise Fire",
 		"description": null,
 		"lat": 32.69892825895933,
@@ -640,7 +640,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-30T21:44:04Z",
-		"date_modified": "2025-04-30T21:47:23Z",
+		"date_modified": "2025-05-01T03:55:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -691,7 +691,7 @@
 	},
 	{
 		"id": 47379,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cantwell Fire",
 		"description": null,
 		"lat": 38.884290510504684,
@@ -720,7 +720,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-30T23:26:18Z",
-		"date_modified": "2025-05-01T00:06:02Z",
+		"date_modified": "2025-05-01T03:53:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
