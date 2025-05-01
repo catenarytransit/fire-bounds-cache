@@ -121,7 +121,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T18:57:32Z",
-		"date_modified": "2025-05-01T15:33:10Z",
+		"date_modified": "2025-05-01T15:43:45Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -296,7 +296,7 @@
 	},
 	{
 		"id": 47324,
-		"is_active": true,
+		"is_active": false,
 		"name": "Mason Fire",
 		"description": null,
 		"lat": 31.44439,
@@ -325,7 +325,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-30T16:09:13Z",
-		"date_modified": "2025-04-30T22:32:46Z",
+		"date_modified": "2025-05-01T15:37:38Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
