@@ -656,7 +656,7 @@
 	},
 	{
 		"id": 47423,
-		"is_active": true,
+		"is_active": false,
 		"name": "Barbed Wire Fire",
 		"description": null,
 		"lat": 46.136224,
@@ -685,7 +685,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-01T19:18:10Z",
-		"date_modified": "2025-05-01T19:40:01Z",
+		"date_modified": "2025-05-01T19:51:58Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
