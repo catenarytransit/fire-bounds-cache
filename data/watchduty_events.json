@@ -616,7 +616,7 @@
 	},
 	{
 		"id": 47457,
-		"is_active": true,
+		"is_active": false,
 		"name": "Lone Tree Fire",
 		"description": null,
 		"lat": 37.9615903,
@@ -645,7 +645,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-02T02:20:26Z",
-		"date_modified": "2025-05-02T02:51:00Z",
+		"date_modified": "2025-05-02T08:55:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
