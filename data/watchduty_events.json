@@ -576,7 +576,7 @@
 	},
 	{
 		"id": 47450,
-		"is_active": true,
+		"is_active": false,
 		"name": "Bench Fire",
 		"description": null,
 		"lat": 48.714906,
@@ -605,7 +605,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-02T00:13:02Z",
-		"date_modified": "2025-05-02T04:19:03Z",
+		"date_modified": "2025-05-02T08:25:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
