@@ -456,7 +456,7 @@
 	},
 	{
 		"id": 47446,
-		"is_active": true,
+		"is_active": false,
 		"name": "Scotia Road Fire",
 		"description": null,
 		"lat": 48.09574969965192,
@@ -485,7 +485,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-01T23:37:16Z",
-		"date_modified": "2025-05-02T03:49:22Z",
+		"date_modified": "2025-05-02T07:55:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
