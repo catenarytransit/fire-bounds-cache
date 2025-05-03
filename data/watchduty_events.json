@@ -532,7 +532,7 @@
 	},
 	{
 		"id": 47542,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cameron Lake Fire",
 		"description": null,
 		"lat": 48.3745,
@@ -561,7 +561,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-03T20:43:45Z",
-		"date_modified": "2025-05-03T22:41:45Z",
+		"date_modified": "2025-05-03T22:46:59Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
