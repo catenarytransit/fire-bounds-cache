@@ -572,7 +572,7 @@
 	},
 	{
 		"id": 47522,
-		"is_active": true,
+		"is_active": false,
 		"name": "Forest Lane Fire",
 		"description": null,
 		"lat": 45.848045,
@@ -601,7 +601,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-03T03:38:44Z",
-		"date_modified": "2025-05-03T06:23:43Z",
+		"date_modified": "2025-05-03T10:25:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
