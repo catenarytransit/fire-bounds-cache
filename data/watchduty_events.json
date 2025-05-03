@@ -532,7 +532,7 @@
 	},
 	{
 		"id": 47500,
-		"is_active": true,
+		"is_active": false,
 		"name": "0101 Cr Beal Fire",
 		"description": null,
 		"lat": 43.592667,
@@ -561,7 +561,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-02T20:46:43Z",
-		"date_modified": "2025-05-03T01:11:48Z",
+		"date_modified": "2025-05-03T05:25:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
