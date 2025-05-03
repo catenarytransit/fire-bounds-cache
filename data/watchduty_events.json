@@ -132,7 +132,7 @@
 	},
 	{
 		"id": 47433,
-		"is_active": true,
+		"is_active": false,
 		"name": "Felipe Fire",
 		"description": null,
 		"lat": 33.10644221193125,
@@ -161,7 +161,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-01T20:52:29Z",
-		"date_modified": "2025-05-02T19:47:42Z",
+		"date_modified": "2025-05-03T03:55:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
