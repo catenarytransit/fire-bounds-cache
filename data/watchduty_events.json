@@ -895,8 +895,8 @@
 		"is_active": true,
 		"name": "Ow Fire",
 		"description": null,
-		"lat": 34.283467,
-		"lng": -110.820367,
+		"lat": 34.285833,
+		"lng": -110.817222,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -921,7 +921,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T14:18:31Z",
-		"date_modified": "2025-05-04T14:33:31Z",
+		"date_modified": "2025-05-04T15:43:39Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
