@@ -1032,7 +1032,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 1,
+			"acreage": 2,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1047,7 +1047,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T18:08:32Z",
-		"date_modified": "2025-05-04T18:08:32Z",
+		"date_modified": "2025-05-04T18:58:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1059,7 +1059,7 @@
 	{
 		"id": 47603,
 		"is_active": true,
-		"name": "New Fire",
+		"name": "Huss Fire",
 		"description": null,
 		"lat": 48.616462,
 		"lng": -96.060612,
@@ -1087,7 +1087,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T18:46:33Z",
-		"date_modified": "2025-05-04T18:46:33Z",
+		"date_modified": "2025-05-04T18:55:59Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
