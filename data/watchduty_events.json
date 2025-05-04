@@ -1047,7 +1047,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T18:08:32Z",
-		"date_modified": "2025-05-04T21:53:32Z",
+		"date_modified": "2025-05-04T21:54:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1261,8 +1261,8 @@
 		"is_active": true,
 		"name": "Salo Fire",
 		"description": null,
-		"lat": 46.541842,
-		"lng": -93.107285,
+		"lat": 46.5365,
+		"lng": -93.132667,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1287,7 +1287,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T20:43:34Z",
-		"date_modified": "2025-05-04T20:43:34Z",
+		"date_modified": "2025-05-04T21:58:33Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
