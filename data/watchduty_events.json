@@ -857,7 +857,7 @@
 		"description": null,
 		"lat": 34.285833,
 		"lng": -110.817222,
-		"address": null,
+		"address": "Near OW Point, South of Forest Lakes",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -867,7 +867,13 @@
 			"is_fps": false,
 			"containment": null,
 			"acreage": 15,
-			"links": null,
+			"links": [
+				{
+					"link_type": "website",
+					"label": "Gentry Lookout Tower Camera",
+					"value": "https://fts360overwatch.com/event/647679db3bb374c15da966ab/6160c6ba64699463087282d3"
+				}
+			],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
@@ -881,7 +887,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T14:18:31Z",
-		"date_modified": "2025-05-04T16:17:28Z",
+		"date_modified": "2025-05-04T17:20:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
