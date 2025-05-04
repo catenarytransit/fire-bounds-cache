@@ -1339,7 +1339,7 @@
 	{
 		"id": 47641,
 		"is_active": true,
-		"name": "Goodwin Fire",
+		"name": "Goodwin Lake Fire",
 		"description": null,
 		"lat": 47.36329,
 		"lng": -95.666542,
@@ -1367,7 +1367,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T22:42:54Z",
-		"date_modified": "2025-05-04T23:17:50Z",
+		"date_modified": "2025-05-04T23:54:48Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
