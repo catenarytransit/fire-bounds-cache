@@ -81,7 +81,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T18:57:32Z",
-		"date_modified": "2025-05-03T22:59:35Z",
+		"date_modified": "2025-05-04T00:41:26Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -212,7 +212,7 @@
 	},
 	{
 		"id": 47496,
-		"is_active": true,
+		"is_active": false,
 		"name": "Baseball Fire",
 		"description": null,
 		"lat": 47.981944,
@@ -241,7 +241,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-02T20:13:22Z",
-		"date_modified": "2025-05-02T21:04:59Z",
+		"date_modified": "2025-05-04T00:42:04Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
