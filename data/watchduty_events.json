@@ -981,8 +981,8 @@
 		"is_active": true,
 		"name": "Lake Edward Fire",
 		"description": null,
-		"lat": 46.471121,
-		"lng": -94.18233,
+		"lat": 46.472814,
+		"lng": -94.179655,
 		"address": "10600 Block of Co Rd 127, Nisswa, MN 56468",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1007,7 +1007,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T17:47:47Z",
-		"date_modified": "2025-05-04T19:06:01Z",
+		"date_modified": "2025-05-04T21:51:05Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1018,7 +1018,7 @@
 	},
 	{
 		"id": 47598,
-		"is_active": true,
+		"is_active": false,
 		"name": "Rutledge Rd Fire",
 		"description": null,
 		"lat": 46.261556,
@@ -1047,7 +1047,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T18:08:32Z",
-		"date_modified": "2025-05-04T19:28:32Z",
+		"date_modified": "2025-05-04T21:53:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
