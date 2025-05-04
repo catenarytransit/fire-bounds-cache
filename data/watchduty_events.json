@@ -692,7 +692,7 @@
 	},
 	{
 		"id": 47561,
-		"is_active": true,
+		"is_active": false,
 		"name": "Rocky Cove Fire",
 		"description": null,
 		"lat": 47.95714,
@@ -721,7 +721,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-03T23:30:48Z",
-		"date_modified": "2025-05-04T03:42:09Z",
+		"date_modified": "2025-05-04T07:55:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
