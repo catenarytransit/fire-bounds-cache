@@ -106,7 +106,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 5,
-			"acreage": 383,
+			"acreage": 1500,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -121,7 +121,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-01T21:17:15Z",
-		"date_modified": "2025-05-04T01:37:57Z",
+		"date_modified": "2025-05-04T15:09:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -615,8 +615,8 @@
 		"is_active": true,
 		"name": "West Hallock Fire",
 		"description": null,
-		"lat": 48.782711,
-		"lng": -97.00706,
+		"lat": 48.778,
+		"lng": -97.039167,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -641,7 +641,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-03T22:58:45Z",
-		"date_modified": "2025-05-04T14:07:52Z",
+		"date_modified": "2025-05-04T15:05:56Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
