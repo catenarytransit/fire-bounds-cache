@@ -655,8 +655,8 @@
 		"is_active": true,
 		"name": "West Hallock Fire",
 		"description": null,
-		"lat": 0,
-		"lng": -97.028954,
+		"lat": 48.778,
+		"lng": -97.039167,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -681,7 +681,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-03T22:58:45Z",
-		"date_modified": "2025-05-04T13:51:49Z",
+		"date_modified": "2025-05-04T14:03:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
