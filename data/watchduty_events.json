@@ -892,7 +892,7 @@
 	},
 	{
 		"id": 47589,
-		"is_active": true,
+		"is_active": false,
 		"name": "Grove Fire",
 		"description": null,
 		"lat": 46.710198,
@@ -905,7 +905,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 1.5,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -921,7 +921,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T16:13:50Z",
-		"date_modified": "2025-05-04T16:46:16Z",
+		"date_modified": "2025-05-04T16:51:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
