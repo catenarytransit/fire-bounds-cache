@@ -1383,7 +1383,7 @@
 	},
 	{
 		"id": 47654,
-		"is_active": true,
+		"is_active": false,
 		"name": "Pinecone Fire",
 		"description": null,
 		"lat": 47.137,
@@ -1412,7 +1412,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-05T01:04:54Z",
-		"date_modified": "2025-05-05T02:48:49Z",
+		"date_modified": "2025-05-05T06:55:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
