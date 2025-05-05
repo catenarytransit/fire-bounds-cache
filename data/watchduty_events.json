@@ -412,7 +412,7 @@
 	},
 	{
 		"id": 47568,
-		"is_active": true,
+		"is_active": false,
 		"name": "Clausen Road Fire",
 		"description": null,
 		"lat": 46.572632,
@@ -441,7 +441,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T00:44:49Z",
-		"date_modified": "2025-05-04T01:11:46Z",
+		"date_modified": "2025-05-05T07:51:06Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -738,7 +738,7 @@
 	},
 	{
 		"id": 47596,
-		"is_active": true,
+		"is_active": false,
 		"name": "Canal Fire",
 		"description": null,
 		"lat": 48.464444,
@@ -767,7 +767,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T17:33:32Z",
-		"date_modified": "2025-05-04T19:23:32Z",
+		"date_modified": "2025-05-05T07:51:47Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
