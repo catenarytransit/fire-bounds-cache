@@ -957,7 +957,7 @@
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": false,
 			"has_custom_evacuation_advisories": false,
-			"evacuation_orders": "The Snow Lake area.",
+			"evacuation_orders": "Recreation Facilities at Snow Lake (Dipping Vat Campground, Snow Lake Boat Launch, and Snow Lake Trailhead)",
 			"evacuation_warnings": null,
 			"evacuation_advisories": null,
 			"evacuation_notes": null,
@@ -967,7 +967,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T18:33:32Z",
-		"date_modified": "2025-05-05T01:13:49Z",
+		"date_modified": "2025-05-05T03:14:34Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -976,7 +976,9 @@
 		"child_geo_events": [],
 		"parent_geo_events": [],
 		"evacuation_orders_arr": [
-			"The Snow Lake area."
+			"Recreation Facilities at Snow Lake (Dipping Vat Campground",
+			"Snow Lake Boat Launch",
+			"and Snow Lake Trailhead)"
 		]
 	},
 	{
@@ -1424,8 +1426,8 @@
 		"is_active": true,
 		"name": "Pioneer Fire",
 		"description": null,
-		"lat": 40.2355278,
-		"lng": -122.4087778,
+		"lat": 40.24283788996607,
+		"lng": -122.41006471435718,
 		"address": "Off Kakis Trail, North of Hwy 36W",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1450,7 +1452,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-05T00:49:53Z",
-		"date_modified": "2025-05-05T02:50:13Z",
+		"date_modified": "2025-05-05T03:11:49Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
