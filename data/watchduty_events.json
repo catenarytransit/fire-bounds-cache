@@ -866,8 +866,8 @@
 		"is_active": true,
 		"name": "Dunbar Road Fire",
 		"description": null,
-		"lat": 47.657616,
-		"lng": -94.177535,
+		"lat": 47.656885,
+		"lng": -94.279422,
 		"address": "62800 Block of Co Rd 32, Blackduck, MN 56630",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -892,7 +892,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T21:55:55Z",
-		"date_modified": "2025-05-05T19:26:12Z",
+		"date_modified": "2025-05-05T19:47:58Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
