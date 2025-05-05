@@ -783,7 +783,7 @@
 	},
 	{
 		"id": 47623,
-		"is_active": true,
+		"is_active": false,
 		"name": "Salo Fire",
 		"description": null,
 		"lat": 46.5365,
@@ -796,7 +796,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 55,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -812,7 +812,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T20:43:34Z",
-		"date_modified": "2025-05-04T22:33:33Z",
+		"date_modified": "2025-05-05T21:38:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
