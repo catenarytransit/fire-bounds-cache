@@ -743,7 +743,7 @@
 	},
 	{
 		"id": 47605,
-		"is_active": true,
+		"is_active": false,
 		"name": "Saber Fire",
 		"description": null,
 		"lat": 46.03941,
@@ -772,7 +772,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T19:06:02Z",
-		"date_modified": "2025-05-05T15:42:52Z",
+		"date_modified": "2025-05-05T15:49:23Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
