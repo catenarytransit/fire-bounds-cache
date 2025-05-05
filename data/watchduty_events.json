@@ -1466,8 +1466,8 @@
 		"is_active": true,
 		"name": "Putah Fire",
 		"description": null,
-		"lat": 38.47239928101004,
-		"lng": -122.00775177725777,
+		"lat": 38.47289459026135,
+		"lng": -122.00763906854976,
 		"address": "8100 block of Olive School Lane, Winters",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1492,7 +1492,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-05T19:59:56Z",
-		"date_modified": "2025-05-05T21:21:36Z",
+		"date_modified": "2025-05-05T21:27:16Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
