@@ -1,7 +1,7 @@
 [
 	{
 		"id": 47153,
-		"is_active": true,
+		"is_active": false,
 		"name": "Otero Fire",
 		"description": null,
 		"lat": 34.071803,
@@ -30,7 +30,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-04-28T00:12:29Z",
-		"date_modified": "2025-05-04T23:26:39Z",
+		"date_modified": "2025-05-05T07:40:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
