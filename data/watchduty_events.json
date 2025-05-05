@@ -1423,7 +1423,7 @@
 	},
 	{
 		"id": 47691,
-		"is_active": true,
+		"is_active": false,
 		"name": "South Fork Fire",
 		"description": null,
 		"lat": 45.794245,
@@ -1452,7 +1452,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-05T15:58:35Z",
-		"date_modified": "2025-05-05T15:58:36Z",
+		"date_modified": "2025-05-05T16:03:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
