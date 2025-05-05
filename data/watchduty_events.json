@@ -1704,7 +1704,7 @@
 	{
 		"id": 47736,
 		"is_active": true,
-		"name": "Triangle Fire",
+		"name": "Plum Fire",
 		"description": null,
 		"lat": 47.019862,
 		"lng": -95.348984,
@@ -1732,7 +1732,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-05T21:26:52Z",
-		"date_modified": "2025-05-05T21:53:34Z",
+		"date_modified": "2025-05-05T21:57:53Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
