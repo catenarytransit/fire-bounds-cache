@@ -172,7 +172,7 @@
 	},
 	{
 		"id": 47576,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hunt Fire",
 		"description": null,
 		"lat": 47.973889,
@@ -201,7 +201,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T02:18:04Z",
-		"date_modified": "2025-05-04T02:18:04Z",
+		"date_modified": "2025-05-06T08:33:28Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -543,7 +543,7 @@
 	},
 	{
 		"id": 47634,
-		"is_active": true,
+		"is_active": false,
 		"name": "Baker Fire",
 		"description": null,
 		"lat": 32.045483,
@@ -572,7 +572,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T22:12:50Z",
-		"date_modified": "2025-05-05T00:07:49Z",
+		"date_modified": "2025-05-06T08:35:11Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -623,7 +623,7 @@
 	},
 	{
 		"id": 47638,
-		"is_active": true,
+		"is_active": false,
 		"name": "Steel Fire",
 		"description": null,
 		"lat": 47.9525,
@@ -652,7 +652,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T22:32:48Z",
-		"date_modified": "2025-05-04T23:10:50Z",
+		"date_modified": "2025-05-06T08:33:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
