@@ -1549,7 +1549,7 @@
 	},
 	{
 		"id": 47833,
-		"is_active": true,
+		"is_active": false,
 		"name": "100Th Fire",
 		"description": null,
 		"lat": 45.698575,
@@ -1562,7 +1562,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 5,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1578,7 +1578,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-06T20:44:26Z",
-		"date_modified": "2025-05-06T22:11:49Z",
+		"date_modified": "2025-05-06T22:44:24Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1670,7 +1670,7 @@
 	{
 		"id": 47849,
 		"is_active": true,
-		"name": "Sunset Fire",
+		"name": "Midas Fire",
 		"description": null,
 		"lat": 38.79547812223774,
 		"lng": -121.26137513326313,
@@ -1683,7 +1683,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": null,
+			"acreage": 1,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1698,7 +1698,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-06T22:33:35Z",
-		"date_modified": "2025-05-06T22:33:35Z",
+		"date_modified": "2025-05-06T22:42:40Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
