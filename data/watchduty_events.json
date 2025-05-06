@@ -1394,7 +1394,7 @@
 		"description": null,
 		"lat": 46.569443,
 		"lng": -93.504468,
-		"address": null,
+		"address": "380th St Aitkin",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1418,7 +1418,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-06T17:12:11Z",
-		"date_modified": "2025-05-06T17:12:11Z",
+		"date_modified": "2025-05-06T17:38:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
