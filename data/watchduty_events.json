@@ -989,7 +989,7 @@
 	},
 	{
 		"id": 47728,
-		"is_active": true,
+		"is_active": false,
 		"name": "Mathew Flats Fire",
 		"description": null,
 		"lat": 48.9639839,
@@ -1018,7 +1018,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-05T20:33:23Z",
-		"date_modified": "2025-05-06T16:54:05Z",
+		"date_modified": "2025-05-06T20:55:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
