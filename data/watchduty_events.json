@@ -1590,7 +1590,7 @@
 	{
 		"id": 47848,
 		"is_active": true,
-		"name": "Lakeside Fire",
+		"name": "Lakeside 2 Fire",
 		"description": null,
 		"lat": 46.273517,
 		"lng": -93.462333,
@@ -1618,7 +1618,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-06T22:21:49Z",
-		"date_modified": "2025-05-06T22:32:43Z",
+		"date_modified": "2025-05-06T23:03:25Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
