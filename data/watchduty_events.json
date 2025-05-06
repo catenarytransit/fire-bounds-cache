@@ -1563,7 +1563,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": null,
-			"acreage": 700,
+			"acreage": 1608,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1578,7 +1578,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-06T21:14:14Z",
-		"date_modified": "2025-05-06T22:56:51Z",
+		"date_modified": "2025-05-06T23:47:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1594,7 +1594,7 @@
 		"description": null,
 		"lat": 46.273517,
 		"lng": -93.462333,
-		"address": "29304 295th Lane Isle",
+		"address": "29304 195th Lane Isle",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1618,7 +1618,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-06T22:21:49Z",
-		"date_modified": "2025-05-06T23:03:25Z",
+		"date_modified": "2025-05-06T23:45:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
