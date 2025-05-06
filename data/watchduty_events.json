@@ -1023,7 +1023,7 @@
 	},
 	{
 		"id": 47722,
-		"is_active": true,
+		"is_active": false,
 		"name": "Putah Fire",
 		"description": null,
 		"lat": 38.47289459026135,
@@ -1052,7 +1052,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-05T19:59:56Z",
-		"date_modified": "2025-05-06T02:08:19Z",
+		"date_modified": "2025-05-06T08:10:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
