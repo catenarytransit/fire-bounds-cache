@@ -1389,7 +1389,7 @@
 	},
 	{
 		"id": 47736,
-		"is_active": true,
+		"is_active": false,
 		"name": "Plume Fire",
 		"description": null,
 		"lat": 47.019862,
@@ -1418,7 +1418,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-05T21:26:52Z",
-		"date_modified": "2025-05-05T23:00:52Z",
+		"date_modified": "2025-05-06T07:10:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
