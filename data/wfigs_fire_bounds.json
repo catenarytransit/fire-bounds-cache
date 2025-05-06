@@ -56945,7 +56945,7 @@
         "attr_FireBehaviorGeneral1" : null, 
         "attr_FireBehaviorGeneral2" : null, 
         "attr_FireBehaviorGeneral3" : null, 
-        "attr_FireCause" : "Undetermined", 
+        "attr_FireCause" : "Human", 
         "attr_FireCauseGeneral" : null, 
         "attr_FireCauseSpecific" : null, 
         "attr_FireCode" : null, 
@@ -57016,7 +57016,7 @@
         "attr_OrganizationalAssessment" : null, 
         "attr_StratDecisionPublishDate" : null, 
         "attr_CreatedOnDateTime_dt" : 1746466323567, 
-        "attr_ModifiedOnDateTime_dt" : 1746469184523, 
+        "attr_ModifiedOnDateTime_dt" : 1746573425500, 
         "attr_Source" : "IRWIN", 
         "attr_ActiveFireCandidate" : 1, 
         "attr_IsCpxChild" : 0, 
@@ -57026,7 +57026,7 @@
         "GlobalID" : "3e015e2c-a711-45cd-b4d1-88674a6becf2", 
         "Shape__Area" : 1.2376935956126545E-06, 
         "Shape__Length" : 0.0083828077087542748, 
-        "attr_IncidentComplexityLevel" : null
+        "attr_IncidentComplexityLevel" : "Type 5 Incident"
       }
     }, 
     {
