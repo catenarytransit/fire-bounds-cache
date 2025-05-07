@@ -1303,7 +1303,7 @@
 	},
 	{
 		"id": 47818,
-		"is_active": true,
+		"is_active": false,
 		"name": "Matthew Fire",
 		"description": null,
 		"lat": 39.0678328858331,
@@ -1332,7 +1332,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-06T19:19:18Z",
-		"date_modified": "2025-05-06T21:48:38Z",
+		"date_modified": "2025-05-07T03:55:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
