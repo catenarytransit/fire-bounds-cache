@@ -1344,7 +1344,7 @@
 	{
 		"id": 47922,
 		"is_active": true,
-		"name": "Sportsmen Rd. Fire",
+		"name": "Sportsmen Rd Fire",
 		"description": null,
 		"lat": 46.782692,
 		"lng": -96.011379,
@@ -1372,7 +1372,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-07T19:56:28Z",
-		"date_modified": "2025-05-07T20:04:20Z",
+		"date_modified": "2025-05-07T21:53:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
