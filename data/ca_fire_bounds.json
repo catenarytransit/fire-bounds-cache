@@ -994,7 +994,7 @@
         "source" : "FIRIS", 
         "poly_DateCurrent" : 1746575449046, 
         "mission" : "CA-TUU-SPRINGS-N57B", 
-        "incident_name" : "SPRINGS ", 
+        "incident_name" : null, 
         "incident_number" : null, 
         "area_acres" : 1608.5466520081809, 
         "description" : "FIRIS Perimeter", 
