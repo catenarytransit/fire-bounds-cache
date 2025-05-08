@@ -826,8 +826,8 @@
 		"is_active": true,
 		"name": "Ape Man 2 Fire",
 		"description": null,
-		"lat": 47.488333,
-		"lng": -98.878333,
+		"lat": 47.989167,
+		"lng": -98.875556,
 		"address": null,
 		"geo_event_type": "wildfire",
 		"data": {
@@ -852,7 +852,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-07T18:12:37Z",
-		"date_modified": "2025-05-07T18:54:40Z",
+		"date_modified": "2025-05-08T15:48:56Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
