@@ -1503,7 +1503,7 @@
 	},
 	{
 		"id": 47974,
-		"is_active": true,
+		"is_active": false,
 		"name": "Net Road Fire",
 		"description": null,
 		"lat": 47.088583,
@@ -1516,7 +1516,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 2,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1532,7 +1532,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-08T01:58:27Z",
-		"date_modified": "2025-05-08T01:58:27Z",
+		"date_modified": "2025-05-08T17:44:30Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
