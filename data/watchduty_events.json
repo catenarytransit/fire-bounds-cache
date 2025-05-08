@@ -1263,7 +1263,7 @@
 	},
 	{
 		"id": 47967,
-		"is_active": true,
+		"is_active": false,
 		"name": "Wrights Fire",
 		"description": null,
 		"lat": 32.911833,
@@ -1292,7 +1292,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-08T00:33:50Z",
-		"date_modified": "2025-05-08T18:42:50Z",
+		"date_modified": "2025-05-08T22:55:23Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
