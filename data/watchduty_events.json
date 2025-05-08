@@ -1556,7 +1556,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 75,
+			"containment": 90,
 			"acreage": 14,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1572,7 +1572,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-07T23:06:03Z",
-		"date_modified": "2025-05-08T01:55:51Z",
+		"date_modified": "2025-05-08T02:25:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
