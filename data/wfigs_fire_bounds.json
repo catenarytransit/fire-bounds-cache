@@ -41990,7 +41990,7 @@
             [-89.1924824749553, 45.4921948944096], 
             [-89.1925290220601, 45.4921821664108], 
             [-89.1925811899235, 45.4921823358069], 
-            [-89.1926320237888, 45.4921844856877], 
+            [-89.1926273381763, 45.4921428791186], 
             [-89.1926729573214, 45.4921638080372]
           ]
         ]
@@ -42001,17 +42001,17 @@
         "poly_IncidentName" : "Monarch", 
         "poly_FeatureCategory" : "Wildfire Daily Fire Perimeter", 
         "poly_MapMethod" : "Phone/Tablet", 
-        "poly_GISAcres" : 0.5601353865502241, 
+        "poly_GISAcres" : 0.72, 
         "poly_DeleteThis" : "No", 
         "poly_FeatureAccess" : "Public", 
         "poly_FeatureStatus" : "Approved", 
         "poly_IsVisible" : "Yes", 
         "poly_CreateDate" : 1746572506390, 
-        "poly_DateCurrent" : 1746657442000, 
+        "poly_DateCurrent" : 1746718617648, 
         "poly_PolygonDateTime" : 1746633953000, 
         "poly_IRWINID" : "{234B01F2-6385-4F8B-9B35-9F4A5C08F1E0}", 
         "poly_FORID" : null, 
-        "poly_Acres_AutoCalc" : 0.5601354024685522, 
+        "poly_Acres_AutoCalc" : 0.56432695301593738, 
         "poly_SourceGlobalID" : "{BD68FCE8-73CF-4147-9303-67E32DDB6CAC}", 
         "poly_Source" : "2025 NIFS", 
         "attr_SourceOID" : 38411186, 
@@ -42112,8 +42112,8 @@
         "attr_CpxID" : null, 
         "attr_SourceGlobalID" : "{76C3F114-27DF-4711-86B3-72367BFC3A2C}", 
         "GlobalID" : "7a5886ff-7b3d-4615-a0dd-1121b797a814", 
-        "Shape__Area" : 2.6091743166034576E-07, 
-        "Shape__Length" : 0.0022252930238193555, 
+        "Shape__Area" : 2.6287034415872768E-07, 
+        "Shape__Length" : 0.0022394613186297622, 
         "attr_IncidentComplexityLevel" : null
       }
     }, 
