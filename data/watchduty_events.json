@@ -1757,7 +1757,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": null,
 			"containment": null,
-			"acreage": 10,
+			"acreage": 107.6,
 			"links": null,
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1772,7 +1772,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-08T20:08:36Z",
-		"date_modified": "2025-05-08T20:08:36Z",
+		"date_modified": "2025-05-08T23:38:35Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1984,7 +1984,7 @@
 	{
 		"id": 48050,
 		"is_active": true,
-		"name": "Cottonwoood Fire",
+		"name": "Cottonwood Fire",
 		"description": null,
 		"lat": 33.133861,
 		"lng": -110.117833,
@@ -2012,7 +2012,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-08T22:56:55Z",
-		"date_modified": "2025-05-08T23:00:56Z",
+		"date_modified": "2025-05-08T23:42:55Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
