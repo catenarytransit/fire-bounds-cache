@@ -623,7 +623,7 @@
 	},
 	{
 		"id": 47838,
-		"is_active": true,
+		"is_active": false,
 		"name": "Springs Fire",
 		"description": null,
 		"lat": 35.81031233547786,
@@ -652,7 +652,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-06T21:14:14Z",
-		"date_modified": "2025-05-07T22:37:06Z",
+		"date_modified": "2025-05-08T06:40:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
