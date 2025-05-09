@@ -527,7 +527,7 @@
 	},
 	{
 		"id": 47955,
-		"is_active": true,
+		"is_active": false,
 		"name": "Phantom Rd Piles Fire",
 		"description": null,
 		"lat": 48.473167,
@@ -556,10 +556,10 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-07T22:58:48Z",
-		"date_modified": "2025-05-08T14:21:06Z",
+		"date_modified": "2025-05-09T23:50:16Z",
 		"notification_type": "normal",
 		"incident_id": null,
-		"reporter_managed": false,
+		"reporter_managed": true,
 		"external_id": "d7314aa8-a28a-4c02-95b1-cce0e83ded12",
 		"external_source": "wildcad",
 		"child_geo_events": [],
