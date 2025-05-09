@@ -1890,8 +1890,8 @@
 		"is_active": true,
 		"name": "Soo Fire",
 		"description": null,
-		"lat": 47.480217,
-		"lng": -94.954333,
+		"lat": 47.49989,
+		"lng": -94.9642,
 		"address": "1200 Block of Schroeder Rd NW, Bemidji, MN 56601",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1916,7 +1916,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-09T18:48:59Z",
-		"date_modified": "2025-05-09T18:48:59Z",
+		"date_modified": "2025-05-09T19:25:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
