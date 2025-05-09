@@ -418,7 +418,7 @@
 	},
 	{
 		"id": 47884,
-		"is_active": true,
+		"is_active": false,
 		"name": "4-11 Fire",
 		"description": null,
 		"lat": 48.895278,
@@ -447,7 +447,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-07T14:19:21Z",
-		"date_modified": "2025-05-09T01:08:35Z",
+		"date_modified": "2025-05-09T05:10:23Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
