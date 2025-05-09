@@ -1847,7 +1847,7 @@
 	},
 	{
 		"id": 48117,
-		"is_active": true,
+		"is_active": false,
 		"name": "260Th Fire",
 		"description": null,
 		"lat": 46.14478,
@@ -1860,7 +1860,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 2,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -1876,7 +1876,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-09T18:29:29Z",
-		"date_modified": "2025-05-09T19:15:13Z",
+		"date_modified": "2025-05-09T19:46:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
