@@ -1658,7 +1658,7 @@
 	},
 	{
 		"id": 48038,
-		"is_active": true,
+		"is_active": false,
 		"name": "Ross Fire",
 		"description": null,
 		"lat": 38.17138480000001,
@@ -1687,7 +1687,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-08T21:24:40Z",
-		"date_modified": "2025-05-08T22:09:57Z",
+		"date_modified": "2025-05-09T04:10:23Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
