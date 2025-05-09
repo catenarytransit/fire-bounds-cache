@@ -1821,8 +1821,8 @@
 		"is_active": false,
 		"name": "Buffalo Fire",
 		"description": null,
-		"lat": 48.477446,
-		"lng": -117.788542,
+		"lat": 48.477383,
+		"lng": -117.79015,
 		"address": "Stevens County - Kitt-Narcisse Rd, T34 R40 S5",
 		"geo_event_type": "wildfire",
 		"data": {
@@ -1847,7 +1847,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-08T22:27:56Z",
-		"date_modified": "2025-05-09T02:20:16Z",
+		"date_modified": "2025-05-09T03:32:03Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
