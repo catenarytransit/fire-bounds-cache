@@ -1312,7 +1312,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 0,
-			"acreage": 130,
+			"acreage": 160,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1327,7 +1327,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-08T03:07:46Z",
-		"date_modified": "2025-05-09T01:11:59Z",
+		"date_modified": "2025-05-09T04:21:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1498,7 +1498,7 @@
 	},
 	{
 		"id": 48025,
-		"is_active": true,
+		"is_active": false,
 		"name": "Olsen Fire",
 		"description": null,
 		"lat": 37.570733,
@@ -1527,7 +1527,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-08T19:34:51Z",
-		"date_modified": "2025-05-09T00:16:56Z",
+		"date_modified": "2025-05-09T04:25:23Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
