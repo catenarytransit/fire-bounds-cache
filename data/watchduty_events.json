@@ -837,7 +837,7 @@
 		"description": null,
 		"lat": 48.373167,
 		"lng": -114.990833,
-		"address": null,
+		"address": "LU Wolf Prairie Area",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -861,7 +861,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-09T16:57:18Z",
-		"date_modified": "2025-05-10T17:36:04Z",
+		"date_modified": "2025-05-10T22:42:29Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
