@@ -367,7 +367,7 @@
 	},
 	{
 		"id": 47953,
-		"is_active": true,
+		"is_active": false,
 		"name": "Marsh Fire",
 		"description": null,
 		"lat": 46.097197,
@@ -396,7 +396,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-07T22:38:25Z",
-		"date_modified": "2025-05-07T22:38:26Z",
+		"date_modified": "2025-05-10T09:48:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
