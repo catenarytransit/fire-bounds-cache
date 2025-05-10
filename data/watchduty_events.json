@@ -620,9 +620,15 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 80,
-			"acreage": 700,
-			"links": [],
+			"containment": 25,
+			"acreage": 850,
+			"links": [
+				{
+					"link_type": "website",
+					"label": "InciWeb",
+					"value": "https://inciweb.wildfire.gov/incident-information/aza3s-bryce-fire"
+				}
+			],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": false,
@@ -636,7 +642,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-08T03:07:46Z",
-		"date_modified": "2025-05-09T23:34:07Z",
+		"date_modified": "2025-05-10T02:21:00Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1503,7 +1509,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": null,
+			"containment": 100,
 			"acreage": 74,
 			"links": [],
 			"has_custom_evacuation_orders": false,
@@ -1519,7 +1525,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-09T18:48:59Z",
-		"date_modified": "2025-05-09T23:04:59Z",
+		"date_modified": "2025-05-10T02:30:19Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
