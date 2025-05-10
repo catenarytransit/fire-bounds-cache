@@ -54,7 +54,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": 77,
+			"containment": 92,
 			"acreage": 482,
 			"links": [],
 			"has_custom_evacuation_orders": false,
@@ -70,7 +70,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-04T18:33:32Z",
-		"date_modified": "2025-05-10T14:03:56Z",
+		"date_modified": "2025-05-10T23:46:13Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1861,7 +1861,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-10T23:00:45Z",
-		"date_modified": "2025-05-10T23:07:04Z",
+		"date_modified": "2025-05-10T23:43:40Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
