@@ -568,7 +568,23 @@
 		"reporter_managed": true,
 		"external_id": "07cb9310-d5c6-413c-8d9a-8411e8d9f24c",
 		"external_source": "wildcad",
-		"child_geo_events": [],
+		"child_geo_events": [
+			{
+				"id": 48224,
+				"address": "921 W Thatcher Blvd, Safford, AZ 85546, USA",
+				"name": "General Services Building",
+				"lat": 32.8345254,
+				"lng": -109.7184761,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "evac_shelter",
+					"information": "<p>Graham County will be opening the General Services Building at 921 W Thatcher Blvd in Safford as a cooling station and will offer water and shelter to those who are in need.</p>",
+					"links": []
+				}
+			}
+		],
 		"parent_geo_events": [],
 		"evacuation_warnings_arr": [
 			"All homes between Eden Road and Ft Thomas on the North Side of Highway 70 The river corridor in the Fort Thomas area."
