@@ -1835,9 +1835,9 @@
 		"is_active": true,
 		"name": "Forbes Fire",
 		"description": null,
-		"lat": 39.021081967425204,
-		"lng": -121.27693989843513,
-		"address": "8600 Block of North Forbes Road, Lincoln",
+		"lat": 39.01450058638403,
+		"lng": -121.27710745555447,
+		"address": "8000 Block of Lakeview Lane, Lincoln",
 		"geo_event_type": "wildfire",
 		"data": {
 			"geo_event_type": "wildfire",
@@ -1861,7 +1861,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-10T21:27:20Z",
-		"date_modified": "2025-05-10T21:40:06Z",
+		"date_modified": "2025-05-10T21:46:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
