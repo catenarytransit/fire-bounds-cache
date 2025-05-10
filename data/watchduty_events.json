@@ -1016,7 +1016,7 @@
 	},
 	{
 		"id": 48070,
-		"is_active": true,
+		"is_active": false,
 		"name": "Josephine Fire",
 		"description": null,
 		"lat": 47.152883,
@@ -1045,7 +1045,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-09T02:01:56Z",
-		"date_modified": "2025-05-10T03:02:17Z",
+		"date_modified": "2025-05-10T07:10:26Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
