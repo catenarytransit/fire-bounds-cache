@@ -1310,7 +1310,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 100,
-			"acreage": 74,
+			"acreage": 70,
 			"links": [],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": false,
@@ -1325,7 +1325,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-09T18:48:59Z",
-		"date_modified": "2025-05-10T10:40:26Z",
+		"date_modified": "2025-05-10T14:49:37Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1937,7 +1937,7 @@
 	{
 		"id": 48196,
 		"is_active": true,
-		"name": "Coos Bay Wagon Fire",
+		"name": "Wilson Cr. Fire",
 		"description": null,
 		"lat": 43.1365,
 		"lng": -123.648167,
@@ -1965,7 +1965,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-10T13:43:42Z",
-		"date_modified": "2025-05-10T13:43:42Z",
+		"date_modified": "2025-05-10T14:47:42Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
