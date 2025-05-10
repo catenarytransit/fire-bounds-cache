@@ -551,10 +551,10 @@
 			],
 			"has_custom_evacuation_orders": false,
 			"has_custom_evacuation_warnings": true,
-			"has_custom_evacuation_advisories": true,
+			"has_custom_evacuation_advisories": false,
 			"evacuation_orders": null,
-			"evacuation_warnings": "All homes between Eden Road and Ft Thomas on the North Side of Highway 70",
-			"evacuation_advisories": "The river corridor in the Fort Thomas area.",
+			"evacuation_warnings": "All homes between Eden Road and Ft Thomas on the North Side of Highway 70 The river corridor in the Fort Thomas area.",
+			"evacuation_advisories": null,
 			"evacuation_notes": null,
 			"is_complex_parent": false,
 			"reporter_only_notes": null,
@@ -562,7 +562,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-08T03:07:46Z",
-		"date_modified": "2025-05-10T19:51:12Z",
+		"date_modified": "2025-05-10T20:04:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -571,7 +571,7 @@
 		"child_geo_events": [],
 		"parent_geo_events": [],
 		"evacuation_warnings_arr": [
-			"All homes between Eden Road and Ft Thomas on the North Side of Highway 70"
+			"All homes between Eden Road and Ft Thomas on the North Side of Highway 70 The river corridor in the Fort Thomas area."
 		]
 	},
 	{
