@@ -1432,7 +1432,7 @@
 	},
 	{
 		"id": 48262,
-		"is_active": true,
+		"is_active": false,
 		"name": "Meadow Creek Fire",
 		"description": null,
 		"lat": 39.587926171388034,
@@ -1461,7 +1461,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-11T00:03:31Z",
-		"date_modified": "2025-05-11T03:49:49Z",
+		"date_modified": "2025-05-11T07:55:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
