@@ -632,7 +632,7 @@
 	},
 	{
 		"id": 48137,
-		"is_active": true,
+		"is_active": false,
 		"name": "Birdtail Rd Fire",
 		"description": null,
 		"lat": 47.258,
@@ -661,7 +661,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-09T20:23:39Z",
-		"date_modified": "2025-05-09T20:23:39Z",
+		"date_modified": "2025-05-11T06:10:56Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -792,7 +792,7 @@
 	},
 	{
 		"id": 48150,
-		"is_active": true,
+		"is_active": false,
 		"name": "Lincoln Fire",
 		"description": null,
 		"lat": 44.40964,
@@ -821,7 +821,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-05-09T21:25:06Z",
-		"date_modified": "2025-05-10T22:05:29Z",
+		"date_modified": "2025-05-11T06:10:27Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
