@@ -1,0 +1,13 @@
+#hiiii :33333
+name: Update Scheduled for LA City
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  call-update:
+    uses: ./.github/workflows/update_2.yml
