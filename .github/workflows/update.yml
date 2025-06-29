@@ -39,9 +39,9 @@ jobs:
         with:
           add: '.'
 
-      - name: Squash
-        run:
-          ./squash.sh
+   #   - name: Squash
+   #     run:
+   #       ./squash.sh
 
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
