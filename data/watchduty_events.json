@@ -3484,7 +3484,7 @@
 	},
 	{
 		"id": 59489,
-		"is_active": true,
+		"is_active": false,
 		"name": "Gnb Fire",
 		"description": null,
 		"lat": 41.557012276829056,
@@ -3515,7 +3515,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-08-10T13:52:44Z",
-		"date_modified": "2025-08-11T16:08:57Z",
+		"date_modified": "2025-08-13T07:09:43Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
