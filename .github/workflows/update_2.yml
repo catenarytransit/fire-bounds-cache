@@ -1,0 +1,34 @@
+#hiii :3
+name: Update Data for LA City Evac
+
+on:
+  workflow_call:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+
+      # Other steps that change files in the repository
+
+      - name: Debug
+        run: |
+          echo "Current directory:"
+          echo $pwd
+          echo $ls
+
+      - name: Download data & Update files
+        run: |
+          mkdir -p data
+          bun la_city_download_evac.ts
+
+      # Commit all changed files back to the repository
+      - uses: stefanzweifel/git-auto-commit-action@v5

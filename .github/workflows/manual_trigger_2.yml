@@ -1,0 +1,12 @@
+#hiiii
+name: Manual Update Trigger LA City Emergency Evacuation
+
+on:
+  workflow_dispatch:
+    
+permissions:
+  contents: write
+
+jobs:
+  call-update:
+    uses: ./.github/workflows/update_2.yml

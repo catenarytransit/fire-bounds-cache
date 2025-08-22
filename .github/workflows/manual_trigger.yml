@@ -1,0 +1,12 @@
+#hi :3
+name: Manual Update Trigger
+
+on:
+  workflow_dispatch:
+    
+permissions:
+  contents: write
+
+jobs:
+  call-update:
+    uses: ./.github/workflows/update.yml
