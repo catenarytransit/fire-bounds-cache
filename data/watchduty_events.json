@@ -5239,48 +5239,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 60810,
-		"is_active": false,
-		"name": "North Fruitland Fire",
-		"description": null,
-		"lat": 40.221074,
-		"lng": -110.839625,
-		"address": "5300 Block of 45000 W, Fruitland, UT 84027",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": 100,
-			"acreage": 1,
-			"links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": null
-		},
-		"date_created": "2025-08-20T23:42:59Z",
-		"date_modified": "2025-08-21T04:28:22Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "e96debe7-d115-461c-8748-f9143f53cd34",
-		"external_source": "wildcad",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 60813,
 		"is_active": true,
 		"name": "Schwar Creek Fire",
@@ -6710,8 +6668,8 @@
 			"has_custom_evacuation_advisories": true,
 			"has_custom_evacuation_shelter_in_place": false,
 			"evacuation_orders": "LBC 5 Black, LBC Public Lands 3 N - See the RAPTOR evacuation map for specific parameter.",
-			"evacuation_warnings": "LBC 6 White - See the RAPTOR evacuation map for specific parameter.",
-			"evacuation_advisories": "LBC Public Lands 3, LBC 6 White - See the RAPTOR evacuation map for specific parameter.",
+			"evacuation_warnings": "LBC 6 White, LBC Public Lands 3 N - See the RAPTOR evacuation map for specific parameter.",
+			"evacuation_advisories": "LBC Public Lands 3 N, LBC 6 White - See the RAPTOR evacuation map for specific parameter.",
 			"evacuation_shelter_in_place": null,
 			"evacuation_notes": "RAPTOR evacuation map",
 			"is_complex_parent": false,
@@ -6720,7 +6678,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-08-21T23:56:42Z",
-		"date_modified": "2025-08-22T03:32:30Z",
+		"date_modified": "2025-08-22T04:27:46Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -6733,7 +6691,8 @@
 			"LBC Public Lands 3 N - See the RAPTOR evacuation map for specific parameter."
 		],
 		"evacuation_warnings_arr": [
-			"LBC 6 White - See the RAPTOR evacuation map for specific parameter."
+			"LBC 6 White",
+			"LBC Public Lands 3 N - See the RAPTOR evacuation map for specific parameter."
 		]
 	},
 	{
