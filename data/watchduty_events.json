@@ -2219,7 +2219,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-08-13T21:08:19Z",
-		"date_modified": "2025-08-20T02:57:43Z",
+		"date_modified": "2025-08-22T03:56:50Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -5744,7 +5744,7 @@
 	},
 	{
 		"id": 60882,
-		"is_active": true,
+		"is_active": false,
 		"name": "Watson Fire",
 		"description": null,
 		"lat": 37.08353575155368,
@@ -5775,7 +5775,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-08-21T19:23:37Z",
-		"date_modified": "2025-08-21T21:43:32Z",
+		"date_modified": "2025-08-22T03:58:22Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -6125,7 +6125,7 @@
 	},
 	{
 		"id": 60901,
-		"is_active": true,
+		"is_active": false,
 		"name": "176 Fire",
 		"description": null,
 		"lat": 43.83097260686236,
@@ -6156,7 +6156,7 @@
 			"manual_deactivation_started": true
 		},
 		"date_created": "2025-08-21T20:53:57Z",
-		"date_modified": "2025-08-21T21:45:46Z",
+		"date_modified": "2025-08-22T03:58:23Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
