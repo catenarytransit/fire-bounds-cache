@@ -6563,7 +6563,7 @@
 	},
 	{
 		"id": 60925,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vance Creek Fire",
 		"description": null,
 		"lat": 45.021583,
@@ -6576,7 +6576,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": null,
+			"containment": 100,
 			"acreage": 5.8,
 			"links": null,
 			"has_custom_evacuation_orders": false,
@@ -6594,7 +6594,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-08-21T23:05:37Z",
-		"date_modified": "2025-08-22T01:48:48Z",
+		"date_modified": "2025-08-22T04:20:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
