@@ -3976,48 +3976,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 60634,
-		"is_active": false,
-		"name": "Tunnel Fire",
-		"description": null,
-		"lat": 36.156667,
-		"lng": -109.508833,
-		"address": null,
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": null,
-			"acreage": 3,
-			"links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": null
-		},
-		"date_created": "2025-08-19T19:08:16Z",
-		"date_modified": "2025-08-21T04:31:28Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "{96AFD481-507A-497F-B12C-A29AEF43217E}",
-		"external_source": "nifc",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 60635,
 		"is_active": true,
 		"name": "One Way Fire",
@@ -6662,7 +6620,13 @@
 			"is_fps": false,
 			"containment": null,
 			"acreage": 600,
-			"links": [],
+			"links": [
+				{
+					"link_type": "website",
+					"label": "Everbridge",
+					"value": "https://member.everbridge.net/892807736724035/notif"
+				}
+			],
 			"has_custom_evacuation_orders": true,
 			"has_custom_evacuation_warnings": true,
 			"has_custom_evacuation_advisories": true,
@@ -6678,7 +6642,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-08-21T23:56:42Z",
-		"date_modified": "2025-08-22T04:27:46Z",
+		"date_modified": "2025-08-22T04:35:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
