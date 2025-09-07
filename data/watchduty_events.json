@@ -3990,7 +3990,7 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 0,
-			"acreage": 1017,
+			"acreage": 1036.3,
 			"links": [
 				{
 					"link_type": "website",
@@ -4023,7 +4023,7 @@
 			"manual_deactivation_started": null
 		},
 		"date_created": "2025-08-30T18:05:47Z",
-		"date_modified": "2025-09-07T03:43:13Z",
+		"date_modified": "2025-09-07T04:15:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
