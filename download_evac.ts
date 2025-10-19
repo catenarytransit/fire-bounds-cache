@@ -52,13 +52,6 @@ try {
       },
 ]
 */
-
-const requestOptions = {
-  method: "GET",
-  headers: myHeaders,
-  redirect: "follow"
-};
-
 fetch("https://api.watchduty.org/api/v1/geo_events/?is_relevant=true&geo_event_types=wildfire&ts=0", requestOptions)
 
 fetch("https://api.watchduty.org/api/v1/geo_events/?is_relevant=true&geo_event_types=wildfire&ts=" + Date.now(), {
