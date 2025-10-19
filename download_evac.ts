@@ -53,11 +53,20 @@ try {
 ]
 */
 
+const requestOptions = {
+  method: "GET",
+  headers: myHeaders,
+  redirect: "follow"
+};
+
+fetch("https://api.watchduty.org/api/v1/geo_events/?is_relevant=true&geo_event_types=wildfire&ts=0", requestOptions)
+
 fetch("https://api.watchduty.org/api/v1/geo_events/?is_relevant=true&geo_event_types=wildfire&ts=" + Date.now(), {
     "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0",
         "Pragma": "no-cache",
-        "Cache-Control": "no-cache"
+        "Cache-Control": "no-cache",
+        "accept-language", "en-GB,en;q=0.9,ko-KR;q=0.8,ko;q=0.7,fr-CA;q=0.6,fr;q=0.5,de-DE;q=0.4,de;q=0.3,zh-CN;q=0.2,zh;q=0.1,en-US;q=0.1"
     },
     "method": "GET",
     "mode": "cors"
