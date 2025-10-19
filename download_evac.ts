@@ -105,6 +105,7 @@ fetch("https://api.watchduty.org/api/v1/geo_events/?is_relevant=true&geo_event_t
 
         } else {
             console.error("No data found from watchduty API");
+            console.log(data);
         }
     })
     .catch(error => console.error(error));
