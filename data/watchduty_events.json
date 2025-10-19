@@ -355,7 +355,7 @@
 			"urgency": null
 		},
 		"date_created": "2025-09-01T16:28:31Z",
-		"date_modified": "2025-10-17T15:32:58Z",
+		"date_modified": "2025-10-19T17:01:58Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -440,7 +440,7 @@
 			"urgency": null
 		},
 		"date_created": "2025-09-01T17:19:25Z",
-		"date_modified": "2025-10-19T01:09:59Z",
+		"date_modified": "2025-10-19T16:49:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -905,7 +905,7 @@
 			"urgency": null
 		},
 		"date_created": "2025-09-27T14:21:56Z",
-		"date_modified": "2025-10-18T16:17:15Z",
+		"date_modified": "2025-10-19T15:29:26Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1227,7 +1227,7 @@
 	},
 	{
 		"id": 66218,
-		"is_active": true,
+		"is_active": false,
 		"name": "Pitcher Plant East 2025 Fire",
 		"description": null,
 		"lat": 30.594533,
@@ -1260,7 +1260,7 @@
 			"urgency": null
 		},
 		"date_created": "2025-10-18T21:18:38Z",
-		"date_modified": "2025-10-19T00:17:38Z",
+		"date_modified": "2025-10-19T08:30:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1284,7 +1284,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": true,
-			"containment": 70,
+			"containment": 90,
 			"acreage": 100,
 			"links": [],
 			"internal_links": null,
@@ -1304,7 +1304,7 @@
 			"urgency": null
 		},
 		"date_created": "2025-10-18T21:53:55Z",
-		"date_modified": "2025-10-19T02:35:39Z",
+		"date_modified": "2025-10-19T08:49:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1348,7 +1348,7 @@
 			"urgency": null
 		},
 		"date_created": "2025-10-18T21:55:22Z",
-		"date_modified": "2025-10-19T02:57:41Z",
+		"date_modified": "2025-10-19T14:03:28Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -1403,7 +1403,7 @@
 	},
 	{
 		"id": 66232,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cuddy Road Fire",
 		"description": null,
 		"lat": 45.770472,
@@ -1436,7 +1436,7 @@
 			"urgency": null
 		},
 		"date_created": "2025-10-18T23:39:01Z",
-		"date_modified": "2025-10-18T23:39:01Z",
+		"date_modified": "2025-10-19T09:10:52Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -1460,7 +1460,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 50,
+			"containment": 70,
 			"acreage": 30,
 			"links": null,
 			"internal_links": null,
@@ -1480,7 +1480,7 @@
 			"urgency": null
 		},
 		"date_created": "2025-10-19T03:02:40Z",
-		"date_modified": "2025-10-19T06:32:39Z",
+		"date_modified": "2025-10-19T09:12:39Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
