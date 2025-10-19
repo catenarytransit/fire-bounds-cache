@@ -10,7 +10,7 @@ try {
         .then(response => response.json())
         .then(data => {
             const features = data.features;
-            if (features.length < min_number_of_elements) {
+            if (features.length <= min_number_of_elements) {
                 console.error("No data found, only " + features.length + " elements");
                 return;
             }
