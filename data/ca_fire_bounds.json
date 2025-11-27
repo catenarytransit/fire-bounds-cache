@@ -1,40 +1,4 @@
 {
   "type" : "FeatureCollection", 
-  "features" : [
-    {
-      "type" : "Feature", 
-      "id" : 3751, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-116.590068845365, 34.0303733115298], 
-            [-116.59004941823, 34.0303718747012], 
-            [-116.590040752183, 34.0303654104616], 
-            [-116.590039018434, 34.0303532003952], 
-            [-116.590039885309, 34.0303445816552], 
-            [-116.590068845365, 34.0303733115298]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 3751, 
-        "GlobalID" : "5cf34f54-88e9-403e-b1f1-2e5dcd4612a2", 
-        "type" : "Heat Perimeter", 
-        "source" : "NIFC", 
-        "poly_DateCurrent" : 1764218841465, 
-        "mission" : "2025-CACDD-016776", 
-        "incident_name" : "GARDEN", 
-        "incident_number" : "2025-CACDD-016776", 
-        "area_acres" : 0.1, 
-        "description" : "Wildfire Daily Fire Perimeter", 
-        "FireDiscoveryDate" : 1764212460000, 
-        "CreationDate" : 1764218841705, 
-        "EditDate" : 1764262954326, 
-        "displayStatus" : "Active"
-      }
-    }
-  ]
+  "features" : []
 }
