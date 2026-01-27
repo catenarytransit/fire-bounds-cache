@@ -1,46 +1,4 @@
 {
   "type" : "FeatureCollection", 
-  "features" : [
-    {
-      "type" : "Feature", 
-      "id" : 2, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-120.15453851868, 39.8642353953336], 
-            [-120.154505317845, 39.8642364951112], 
-            [-120.154486176543, 39.8642686265362], 
-            [-120.15445226604, 39.8642781694287], 
-            [-120.154412252382, 39.8642617789585], 
-            [-120.154382943049, 39.8642369612238], 
-            [-120.15439883784, 39.8642101811177], 
-            [-120.154406439384, 39.8641820136944], 
-            [-120.154443835351, 39.8641891508769], 
-            [-120.154465994992, 39.8642181884663], 
-            [-120.154532413729, 39.8642285443049], 
-            [-120.15453851868, 39.8642353953336]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 2, 
-        "GlobalID" : "73cd547f-a55f-4a07-9873-36cb931e5fc7", 
-        "type" : "Heat Perimeter", 
-        "source" : "NIFC", 
-        "poly_DateCurrent" : null, 
-        "mission" : "2026-CAPNF-000049", 
-        "incident_name" : "Sawmill", 
-        "incident_number" : "2026-CAPNF-000049", 
-        "area_acres" : null, 
-        "description" : "Wildfire Daily Fire Perimeter", 
-        "FireDiscoveryDate" : 1769292160000, 
-        "CreationDate" : 1769466774000, 
-        "EditDate" : 1769542210305, 
-        "displayStatus" : "Active"
-      }
-    }
-  ]
+  "features" : []
 }
