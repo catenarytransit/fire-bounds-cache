@@ -41,6 +41,40 @@
         "EditDate" : 1769542210305, 
         "displayStatus" : "Active"
       }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 3, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-121.584912440948, 39.8378072818665], 
+            [-121.584947309665, 39.8378546518134], 
+            [-121.584890983276, 39.8378731878707], 
+            [-121.584845385722, 39.8378319966255], 
+            [-121.584912440948, 39.8378072818665]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 3, 
+        "GlobalID" : "55d45a20-631b-4f90-9a53-3ffa74123692", 
+        "type" : "Heat Perimeter", 
+        "source" : "NIFC", 
+        "poly_DateCurrent" : 1767744300000, 
+        "mission" : "2026-CAPNF-000009", 
+        "incident_name" : "HOLLYWOOD", 
+        "incident_number" : "2026-CAPNF-000009", 
+        "area_acres" : 0.01, 
+        "description" : "Wildfire Daily Fire Perimeter", 
+        "FireDiscoveryDate" : 1767739003000, 
+        "CreationDate" : 1770827673452, 
+        "EditDate" : 1770827673452, 
+        "displayStatus" : "Active"
+      }
     }
   ]
 }
