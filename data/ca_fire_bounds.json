@@ -1,4 +1,41 @@
 {
   "type" : "FeatureCollection", 
-  "features" : []
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 6, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-115.801987884389, 33.6625355028646], 
+            [-115.801982231636, 33.6625206789217], 
+            [-115.801984625509, 33.6625080874245], 
+            [-115.802000142092, 33.6625018802376], 
+            [-115.802019400339, 33.6625130424758], 
+            [-115.802013848152, 33.6625297858317], 
+            [-115.801987884389, 33.6625355028646]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 6, 
+        "GlobalID" : "f6288a56-f05f-4082-9d64-d3f27ecf4a3e", 
+        "type" : "Heat Perimeter", 
+        "source" : "NIFC", 
+        "poly_DateCurrent" : 1771383298647, 
+        "mission" : "2026-CACDD-003689", 
+        "incident_name" : "ASSIST/RRU/61A", 
+        "incident_number" : "2026-CACDD-003689", 
+        "area_acres" : 0.01, 
+        "description" : "Wildfire Daily Fire Perimeter", 
+        "FireDiscoveryDate" : 1771379039000, 
+        "CreationDate" : 1771383255636, 
+        "EditDate" : 1771387963213, 
+        "displayStatus" : "Active"
+      }
+    }
+  ]
 }
