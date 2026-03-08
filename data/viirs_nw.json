@@ -3,6 +3,209 @@
   "features" : [
     {
       "type" : "Feature", 
+      "id" : 989163, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -1.69874000008836, 11.1730500002956
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 989163, 
+        "latitude" : 11.17305, 
+        "longitude" : -1.69874, 
+        "bright_ti4" : 305.66, 
+        "scan" : 0.44, 
+        "track" : 0.38, 
+        "acq_date" : 1772841600000, 
+        "acq_time" : 1772848140000, 
+        "satellite" : "N21", 
+        "confidence" : "nominal", 
+        "version" : "2.0NRT", 
+        "bright_ti5" : 290.69, 
+        "frp" : 10.4, 
+        "daynight" : "N", 
+        "esritimeutc" : 1772876940000, 
+        "hours_old" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 665984, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -0.257930000356561, 35.8112600003093
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 665984, 
+        "latitude" : 35.81126, 
+        "longitude" : -0.25793, 
+        "bright_ti4" : 333.6, 
+        "scan" : 0.61, 
+        "track" : 0.71, 
+        "acq_date" : 1772841600000, 
+        "acq_time" : 1772844840000, 
+        "satellite" : "N20", 
+        "confidence" : "nominal", 
+        "version" : "2.0NRT", 
+        "bright_ti5" : 280.25, 
+        "frp" : 5.5, 
+        "daynight" : "N", 
+        "esritimeutc" : 1772873640000, 
+        "hours_old" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 668056, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -13.8435500002585, 13.0413199995841
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 668056, 
+        "latitude" : 13.04132, 
+        "longitude" : -13.84355, 
+        "bright_ti4" : 344.83, 
+        "scan" : 0.44, 
+        "track" : 0.39, 
+        "acq_date" : 1772841600000, 
+        "acq_time" : 1772851200000, 
+        "satellite" : "N20", 
+        "confidence" : "nominal", 
+        "version" : "2.0NRT", 
+        "bright_ti5" : 294.28, 
+        "frp" : 7.75, 
+        "daynight" : "N", 
+        "esritimeutc" : 1772880000000, 
+        "hours_old" : 21
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 668226, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -12.1857299996019, 11.5486200000476
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 668226, 
+        "latitude" : 11.54862, 
+        "longitude" : -12.18573, 
+        "bright_ti4" : 332.66, 
+        "scan" : 0.57, 
+        "track" : 0.43, 
+        "acq_date" : 1772841600000, 
+        "acq_time" : 1772851320000, 
+        "satellite" : "N20", 
+        "confidence" : "nominal", 
+        "version" : "2.0NRT", 
+        "bright_ti5" : 292.61, 
+        "frp" : 4.54, 
+        "daynight" : "N", 
+        "esritimeutc" : 1772880120000, 
+        "hours_old" : 21
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 668224, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -12.1839200003056, 11.5478899998237
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 668224, 
+        "latitude" : 11.54789, 
+        "longitude" : -12.18392, 
+        "bright_ti4" : 339.85, 
+        "scan" : 0.57, 
+        "track" : 0.43, 
+        "acq_date" : 1772841600000, 
+        "acq_time" : 1772851320000, 
+        "satellite" : "N20", 
+        "confidence" : "nominal", 
+        "version" : "2.0NRT", 
+        "bright_ti5" : 294.68, 
+        "frp" : 8.16, 
+        "daynight" : "N", 
+        "esritimeutc" : 1772880120000, 
+        "hours_old" : 21
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 989095, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -10.9790700001464, 13.1140099996952
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 989095, 
+        "latitude" : 13.11401, 
+        "longitude" : -10.97907, 
+        "bright_ti4" : 321.52, 
+        "scan" : 0.53, 
+        "track" : 0.5, 
+        "acq_date" : 1772841600000, 
+        "acq_time" : 1772848140000, 
+        "satellite" : "N21", 
+        "confidence" : "nominal", 
+        "version" : "2.0NRT", 
+        "bright_ti5" : 293.46, 
+        "frp" : 4.46, 
+        "daynight" : "N", 
+        "esritimeutc" : 1772876940000, 
+        "hours_old" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 989131, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -10.4261000003616, 12.8255400002403
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 989131, 
+        "latitude" : 12.82554, 
+        "longitude" : -10.4261, 
+        "bright_ti4" : 323.39, 
+        "scan" : 0.48, 
+        "track" : 0.48, 
+        "acq_date" : 1772841600000, 
+        "acq_time" : 1772848140000, 
+        "satellite" : "N21", 
+        "confidence" : "nominal", 
+        "version" : "2.0NRT", 
+        "bright_ti5" : 294.18, 
+        "frp" : 3.39, 
+        "daynight" : "N", 
+        "esritimeutc" : 1772876940000, 
+        "hours_old" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
       "id" : 988991, 
       "geometry" : 
       {
@@ -728,180 +931,6 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 666542, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -4.72568000043157, 14.176389999839
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 666542, 
-        "latitude" : 14.17639, 
-        "longitude" : -4.72568, 
-        "bright_ti4" : 314.29, 
-        "scan" : 0.73, 
-        "track" : 0.76, 
-        "acq_date" : 1772841600000, 
-        "acq_time" : 1772845200000, 
-        "satellite" : "N20", 
-        "confidence" : "nominal", 
-        "version" : "2.0NRT", 
-        "bright_ti5" : 284.48, 
-        "frp" : 3.63, 
-        "daynight" : "N", 
-        "esritimeutc" : 1772874000000, 
-        "hours_old" : 22
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 667663, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -2.90865000003724, 4.54160999980783
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 667663, 
-        "latitude" : 4.54161, 
-        "longitude" : -2.90865, 
-        "bright_ti4" : 305.78, 
-        "scan" : 0.41, 
-        "track" : 0.6, 
-        "acq_date" : 1772841600000, 
-        "acq_time" : 1772845320000, 
-        "satellite" : "N20", 
-        "confidence" : "nominal", 
-        "version" : "2.0NRT", 
-        "bright_ti5" : 286.68, 
-        "frp" : 3.73, 
-        "daynight" : "N", 
-        "esritimeutc" : 1772874120000, 
-        "hours_old" : 22
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 989175, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -15.7661000000375, 13.0898500003296
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 989175, 
-        "latitude" : 13.08985, 
-        "longitude" : -15.7661, 
-        "bright_ti4" : 309.4, 
-        "scan" : 0.56, 
-        "track" : 0.69, 
-        "acq_date" : 1772841600000, 
-        "acq_time" : 1772848140000, 
-        "satellite" : "N21", 
-        "confidence" : "nominal", 
-        "version" : "2.0NRT", 
-        "bright_ti5" : 284.21, 
-        "frp" : 6.88, 
-        "daynight" : "N", 
-        "esritimeutc" : 1772876940000, 
-        "hours_old" : 22
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 668229, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -10.7692000004409, 11.2764500004245
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 668229, 
-        "latitude" : 11.27645, 
-        "longitude" : -10.7692, 
-        "bright_ti4" : 324.63, 
-        "scan" : 0.47, 
-        "track" : 0.48, 
-        "acq_date" : 1772841600000, 
-        "acq_time" : 1772851320000, 
-        "satellite" : "N20", 
-        "confidence" : "nominal", 
-        "version" : "2.0NRT", 
-        "bright_ti5" : 291.94, 
-        "frp" : 3.33, 
-        "daynight" : "N", 
-        "esritimeutc" : 1772880120000, 
-        "hours_old" : 21
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 989058, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -9.93569000018126, 13.338629999576
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 989058, 
-        "latitude" : 13.33863, 
-        "longitude" : -9.93569, 
-        "bright_ti4" : 319.88, 
-        "scan" : 0.45, 
-        "track" : 0.47, 
-        "acq_date" : 1772841600000, 
-        "acq_time" : 1772848140000, 
-        "satellite" : "N21", 
-        "confidence" : "nominal", 
-        "version" : "2.0NRT", 
-        "bright_ti5" : 293.92, 
-        "frp" : 3.02, 
-        "daynight" : "N", 
-        "esritimeutc" : 1772876940000, 
-        "hours_old" : 22
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 989258, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -8.87394999977569, 9.9750300001743
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 989258, 
-        "latitude" : 9.97503, 
-        "longitude" : -8.87395, 
-        "bright_ti4" : 312.09, 
-        "scan" : 0.53, 
-        "track" : 0.42, 
-        "acq_date" : 1772841600000, 
-        "acq_time" : 1772848140000, 
-        "satellite" : "N21", 
-        "confidence" : "nominal", 
-        "version" : "2.0NRT", 
-        "bright_ti5" : 289.81, 
-        "frp" : 3.93, 
-        "daynight" : "N", 
-        "esritimeutc" : 1772876940000, 
-        "hours_old" : 22
-      }
-    }, 
-    {
-      "type" : "Feature", 
       "id" : 668018, 
       "geometry" : 
       {
@@ -1192,309 +1221,48 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 989163, 
+      "id" : 666542, 
       "geometry" : 
       {
         "type" : "Point", 
         "coordinates" : [
-          -1.69874000008836, 11.1730500002956
+          -4.72568000043157, 14.176389999839
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 989163, 
-        "latitude" : 11.17305, 
-        "longitude" : -1.69874, 
-        "bright_ti4" : 305.66, 
-        "scan" : 0.44, 
-        "track" : 0.38, 
+        "OBJECTID" : 666542, 
+        "latitude" : 14.17639, 
+        "longitude" : -4.72568, 
+        "bright_ti4" : 314.29, 
+        "scan" : 0.73, 
+        "track" : 0.76, 
         "acq_date" : 1772841600000, 
-        "acq_time" : 1772848140000, 
-        "satellite" : "N21", 
-        "confidence" : "nominal", 
-        "version" : "2.0NRT", 
-        "bright_ti5" : 290.69, 
-        "frp" : 10.4, 
-        "daynight" : "N", 
-        "esritimeutc" : 1772876940000, 
-        "hours_old" : 22
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 665984, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -0.257930000356561, 35.8112600003093
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 665984, 
-        "latitude" : 35.81126, 
-        "longitude" : -0.25793, 
-        "bright_ti4" : 333.6, 
-        "scan" : 0.61, 
-        "track" : 0.71, 
-        "acq_date" : 1772841600000, 
-        "acq_time" : 1772844840000, 
+        "acq_time" : 1772845200000, 
         "satellite" : "N20", 
         "confidence" : "nominal", 
         "version" : "2.0NRT", 
-        "bright_ti5" : 280.25, 
-        "frp" : 5.5, 
+        "bright_ti5" : 284.48, 
+        "frp" : 3.63, 
         "daynight" : "N", 
-        "esritimeutc" : 1772873640000, 
+        "esritimeutc" : 1772874000000, 
         "hours_old" : 22
       }
     }, 
     {
       "type" : "Feature", 
-      "id" : 668056, 
+      "id" : 667663, 
       "geometry" : 
       {
         "type" : "Point", 
         "coordinates" : [
-          -13.8435500002585, 13.0413199995841
+          -2.90865000003724, 4.54160999980783
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 668056, 
-        "latitude" : 13.04132, 
-        "longitude" : -13.84355, 
-        "bright_ti4" : 344.83, 
-        "scan" : 0.44, 
-        "track" : 0.39, 
-        "acq_date" : 1772841600000, 
-        "acq_time" : 1772851200000, 
-        "satellite" : "N20", 
-        "confidence" : "nominal", 
-        "version" : "2.0NRT", 
-        "bright_ti5" : 294.28, 
-        "frp" : 7.75, 
-        "daynight" : "N", 
-        "esritimeutc" : 1772880000000, 
-        "hours_old" : 21
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 668226, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -12.1857299996019, 11.5486200000476
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 668226, 
-        "latitude" : 11.54862, 
-        "longitude" : -12.18573, 
-        "bright_ti4" : 332.66, 
-        "scan" : 0.57, 
-        "track" : 0.43, 
-        "acq_date" : 1772841600000, 
-        "acq_time" : 1772851320000, 
-        "satellite" : "N20", 
-        "confidence" : "nominal", 
-        "version" : "2.0NRT", 
-        "bright_ti5" : 292.61, 
-        "frp" : 4.54, 
-        "daynight" : "N", 
-        "esritimeutc" : 1772880120000, 
-        "hours_old" : 21
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 668224, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -12.1839200003056, 11.5478899998237
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 668224, 
-        "latitude" : 11.54789, 
-        "longitude" : -12.18392, 
-        "bright_ti4" : 339.85, 
-        "scan" : 0.57, 
-        "track" : 0.43, 
-        "acq_date" : 1772841600000, 
-        "acq_time" : 1772851320000, 
-        "satellite" : "N20", 
-        "confidence" : "nominal", 
-        "version" : "2.0NRT", 
-        "bright_ti5" : 294.68, 
-        "frp" : 8.16, 
-        "daynight" : "N", 
-        "esritimeutc" : 1772880120000, 
-        "hours_old" : 21
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 989095, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -10.9790700001464, 13.1140099996952
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 989095, 
-        "latitude" : 13.11401, 
-        "longitude" : -10.97907, 
-        "bright_ti4" : 321.52, 
-        "scan" : 0.53, 
-        "track" : 0.5, 
-        "acq_date" : 1772841600000, 
-        "acq_time" : 1772848140000, 
-        "satellite" : "N21", 
-        "confidence" : "nominal", 
-        "version" : "2.0NRT", 
-        "bright_ti5" : 293.46, 
-        "frp" : 4.46, 
-        "daynight" : "N", 
-        "esritimeutc" : 1772876940000, 
-        "hours_old" : 22
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 989131, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -10.4261000003616, 12.8255400002403
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 989131, 
-        "latitude" : 12.82554, 
-        "longitude" : -10.4261, 
-        "bright_ti4" : 323.39, 
-        "scan" : 0.48, 
-        "track" : 0.48, 
-        "acq_date" : 1772841600000, 
-        "acq_time" : 1772848140000, 
-        "satellite" : "N21", 
-        "confidence" : "nominal", 
-        "version" : "2.0NRT", 
-        "bright_ti5" : 294.18, 
-        "frp" : 3.39, 
-        "daynight" : "N", 
-        "esritimeutc" : 1772876940000, 
-        "hours_old" : 22
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 989011, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -4.72369000031192, 14.1697600002342
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 989011, 
-        "latitude" : 14.16976, 
-        "longitude" : -4.72369, 
-        "bright_ti4" : 334.71, 
-        "scan" : 0.39, 
-        "track" : 0.36, 
-        "acq_date" : 1772841600000, 
-        "acq_time" : 1772848140000, 
-        "satellite" : "N21", 
-        "confidence" : "nominal", 
-        "version" : "2.0NRT", 
-        "bright_ti5" : 293.11, 
-        "frp" : 3.3, 
-        "daynight" : "N", 
-        "esritimeutc" : 1772876940000, 
-        "hours_old" : 22
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 988986, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -4.37698999993487, 14.4536299999441
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 988986, 
-        "latitude" : 14.45363, 
-        "longitude" : -4.37699, 
-        "bright_ti4" : 300.92, 
-        "scan" : 0.39, 
-        "track" : 0.36, 
-        "acq_date" : 1772841600000, 
-        "acq_time" : 1772848140000, 
-        "satellite" : "N21", 
-        "confidence" : "nominal", 
-        "version" : "2.0NRT", 
-        "bright_ti5" : 286.68, 
-        "frp" : 4.74, 
-        "daynight" : "N", 
-        "esritimeutc" : 1772876940000, 
-        "hours_old" : 22
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 988988, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -4.37394000035636, 14.4497699998924
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 988988, 
-        "latitude" : 14.44977, 
-        "longitude" : -4.37394, 
-        "bright_ti4" : 341.9, 
-        "scan" : 0.39, 
-        "track" : 0.36, 
-        "acq_date" : 1772841600000, 
-        "acq_time" : 1772848140000, 
-        "satellite" : "N21", 
-        "confidence" : "nominal", 
-        "version" : "2.0NRT", 
-        "bright_ti5" : 290.55, 
-        "frp" : 3.46, 
-        "daynight" : "N", 
-        "esritimeutc" : 1772876940000, 
-        "hours_old" : 22
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 667665, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -2.90948000024063, 4.53605999988997
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 667665, 
-        "latitude" : 4.53606, 
-        "longitude" : -2.90948, 
-        "bright_ti4" : 353.69, 
+        "OBJECTID" : 667663, 
+        "latitude" : 4.54161, 
+        "longitude" : -2.90865, 
+        "bright_ti4" : 305.78, 
         "scan" : 0.41, 
         "track" : 0.6, 
         "acq_date" : 1772841600000, 
@@ -1502,7 +1270,7 @@
         "satellite" : "N20", 
         "confidence" : "nominal", 
         "version" : "2.0NRT", 
-        "bright_ti5" : 287.07, 
+        "bright_ti5" : 286.68, 
         "frp" : 3.73, 
         "daynight" : "N", 
         "esritimeutc" : 1772874120000, 
@@ -1511,57 +1279,28 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 667667, 
+      "id" : 989175, 
       "geometry" : 
       {
         "type" : "Point", 
         "coordinates" : [
-          -2.90798999971314, 4.53647999984164
+          -15.7661000000375, 13.0898500003296
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 667667, 
-        "latitude" : 4.53648, 
-        "longitude" : -2.90799, 
-        "bright_ti4" : 319.99, 
-        "scan" : 0.41, 
-        "track" : 0.6, 
-        "acq_date" : 1772841600000, 
-        "acq_time" : 1772845320000, 
-        "satellite" : "N20", 
-        "confidence" : "nominal", 
-        "version" : "2.0NRT", 
-        "bright_ti5" : 287.33, 
-        "frp" : 5.17, 
-        "daynight" : "N", 
-        "esritimeutc" : 1772874120000, 
-        "hours_old" : 22
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 989120, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -9.40520999996583, 12.7451299999209
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 989120, 
-        "latitude" : 12.74513, 
-        "longitude" : -9.40521, 
-        "bright_ti4" : 344.33, 
-        "scan" : 0.41, 
-        "track" : 0.45, 
+        "OBJECTID" : 989175, 
+        "latitude" : 13.08985, 
+        "longitude" : -15.7661, 
+        "bright_ti4" : 309.4, 
+        "scan" : 0.56, 
+        "track" : 0.69, 
         "acq_date" : 1772841600000, 
         "acq_time" : 1772848140000, 
         "satellite" : "N21", 
         "confidence" : "nominal", 
         "version" : "2.0NRT", 
-        "bright_ti5" : 293.83, 
-        "frp" : 7.75, 
+        "bright_ti5" : 284.21, 
+        "frp" : 6.88, 
         "daynight" : "N", 
         "esritimeutc" : 1772876940000, 
         "hours_old" : 22
@@ -1569,28 +1308,86 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 989111, 
+      "id" : 668229, 
       "geometry" : 
       {
         "type" : "Point", 
         "coordinates" : [
-          -8.67535000041839, 12.7141600002248
+          -10.7692000004409, 11.2764500004245
         ]
       }, 
       "properties" : {
-        "OBJECTID" : 989111, 
-        "latitude" : 12.71416, 
-        "longitude" : -8.67535, 
-        "bright_ti4" : 314.08, 
-        "scan" : 0.56, 
-        "track" : 0.43, 
+        "OBJECTID" : 668229, 
+        "latitude" : 11.27645, 
+        "longitude" : -10.7692, 
+        "bright_ti4" : 324.63, 
+        "scan" : 0.47, 
+        "track" : 0.48, 
+        "acq_date" : 1772841600000, 
+        "acq_time" : 1772851320000, 
+        "satellite" : "N20", 
+        "confidence" : "nominal", 
+        "version" : "2.0NRT", 
+        "bright_ti5" : 291.94, 
+        "frp" : 3.33, 
+        "daynight" : "N", 
+        "esritimeutc" : 1772880120000, 
+        "hours_old" : 21
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 989058, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.93569000018126, 13.338629999576
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 989058, 
+        "latitude" : 13.33863, 
+        "longitude" : -9.93569, 
+        "bright_ti4" : 319.88, 
+        "scan" : 0.45, 
+        "track" : 0.47, 
         "acq_date" : 1772841600000, 
         "acq_time" : 1772848140000, 
         "satellite" : "N21", 
         "confidence" : "nominal", 
         "version" : "2.0NRT", 
-        "bright_ti5" : 289.15, 
-        "frp" : 3.47, 
+        "bright_ti5" : 293.92, 
+        "frp" : 3.02, 
+        "daynight" : "N", 
+        "esritimeutc" : 1772876940000, 
+        "hours_old" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 989258, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -8.87394999977569, 9.9750300001743
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 989258, 
+        "latitude" : 9.97503, 
+        "longitude" : -8.87395, 
+        "bright_ti4" : 312.09, 
+        "scan" : 0.53, 
+        "track" : 0.42, 
+        "acq_date" : 1772841600000, 
+        "acq_time" : 1772848140000, 
+        "satellite" : "N21", 
+        "confidence" : "nominal", 
+        "version" : "2.0NRT", 
+        "bright_ti5" : 289.81, 
+        "frp" : 3.93, 
         "daynight" : "N", 
         "esritimeutc" : 1772876940000, 
         "hours_old" : 22
@@ -1855,6 +1652,209 @@
         "daynight" : "N", 
         "esritimeutc" : 1772880000000, 
         "hours_old" : 21
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 989011, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -4.72369000031192, 14.1697600002342
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 989011, 
+        "latitude" : 14.16976, 
+        "longitude" : -4.72369, 
+        "bright_ti4" : 334.71, 
+        "scan" : 0.39, 
+        "track" : 0.36, 
+        "acq_date" : 1772841600000, 
+        "acq_time" : 1772848140000, 
+        "satellite" : "N21", 
+        "confidence" : "nominal", 
+        "version" : "2.0NRT", 
+        "bright_ti5" : 293.11, 
+        "frp" : 3.3, 
+        "daynight" : "N", 
+        "esritimeutc" : 1772876940000, 
+        "hours_old" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 988986, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -4.37698999993487, 14.4536299999441
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 988986, 
+        "latitude" : 14.45363, 
+        "longitude" : -4.37699, 
+        "bright_ti4" : 300.92, 
+        "scan" : 0.39, 
+        "track" : 0.36, 
+        "acq_date" : 1772841600000, 
+        "acq_time" : 1772848140000, 
+        "satellite" : "N21", 
+        "confidence" : "nominal", 
+        "version" : "2.0NRT", 
+        "bright_ti5" : 286.68, 
+        "frp" : 4.74, 
+        "daynight" : "N", 
+        "esritimeutc" : 1772876940000, 
+        "hours_old" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 988988, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -4.37394000035636, 14.4497699998924
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 988988, 
+        "latitude" : 14.44977, 
+        "longitude" : -4.37394, 
+        "bright_ti4" : 341.9, 
+        "scan" : 0.39, 
+        "track" : 0.36, 
+        "acq_date" : 1772841600000, 
+        "acq_time" : 1772848140000, 
+        "satellite" : "N21", 
+        "confidence" : "nominal", 
+        "version" : "2.0NRT", 
+        "bright_ti5" : 290.55, 
+        "frp" : 3.46, 
+        "daynight" : "N", 
+        "esritimeutc" : 1772876940000, 
+        "hours_old" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 667665, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -2.90948000024063, 4.53605999988997
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 667665, 
+        "latitude" : 4.53606, 
+        "longitude" : -2.90948, 
+        "bright_ti4" : 353.69, 
+        "scan" : 0.41, 
+        "track" : 0.6, 
+        "acq_date" : 1772841600000, 
+        "acq_time" : 1772845320000, 
+        "satellite" : "N20", 
+        "confidence" : "nominal", 
+        "version" : "2.0NRT", 
+        "bright_ti5" : 287.07, 
+        "frp" : 3.73, 
+        "daynight" : "N", 
+        "esritimeutc" : 1772874120000, 
+        "hours_old" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 667667, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -2.90798999971314, 4.53647999984164
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 667667, 
+        "latitude" : 4.53648, 
+        "longitude" : -2.90799, 
+        "bright_ti4" : 319.99, 
+        "scan" : 0.41, 
+        "track" : 0.6, 
+        "acq_date" : 1772841600000, 
+        "acq_time" : 1772845320000, 
+        "satellite" : "N20", 
+        "confidence" : "nominal", 
+        "version" : "2.0NRT", 
+        "bright_ti5" : 287.33, 
+        "frp" : 5.17, 
+        "daynight" : "N", 
+        "esritimeutc" : 1772874120000, 
+        "hours_old" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 989120, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.40520999996583, 12.7451299999209
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 989120, 
+        "latitude" : 12.74513, 
+        "longitude" : -9.40521, 
+        "bright_ti4" : 344.33, 
+        "scan" : 0.41, 
+        "track" : 0.45, 
+        "acq_date" : 1772841600000, 
+        "acq_time" : 1772848140000, 
+        "satellite" : "N21", 
+        "confidence" : "nominal", 
+        "version" : "2.0NRT", 
+        "bright_ti5" : 293.83, 
+        "frp" : 7.75, 
+        "daynight" : "N", 
+        "esritimeutc" : 1772876940000, 
+        "hours_old" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 989111, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -8.67535000041839, 12.7141600002248
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 989111, 
+        "latitude" : 12.71416, 
+        "longitude" : -8.67535, 
+        "bright_ti4" : 314.08, 
+        "scan" : 0.56, 
+        "track" : 0.43, 
+        "acq_date" : 1772841600000, 
+        "acq_time" : 1772848140000, 
+        "satellite" : "N21", 
+        "confidence" : "nominal", 
+        "version" : "2.0NRT", 
+        "bright_ti5" : 289.15, 
+        "frp" : 3.47, 
+        "daynight" : "N", 
+        "esritimeutc" : 1772876940000, 
+        "hours_old" : 22
       }
     }
   ]
