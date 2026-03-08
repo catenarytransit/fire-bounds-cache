@@ -3,32 +3,6 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 55418, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -36.1671699996967, -9.89611999958521
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 55418, 
-        "BRIGHTNESS" : 307.03, 
-        "SCAN" : 2.05, 
-        "TRACK" : 1.39, 
-        "SATELLITE" : "T", 
-        "CONFIDENCE" : 70, 
-        "VERSION" : "6.1NRT", 
-        "BRIGHT_T31" : 292.19, 
-        "FRP" : 17.13, 
-        "ACQ_DATE" : 1772838300000, 
-        "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 24, 
-        "DAY_OF_ACQ" : 1
-      }
-    }, 
-    {
-      "type" : "Feature", 
       "id" : 55430, 
       "geometry" : 
       {
@@ -49,7 +23,7 @@
         "FRP" : 14.13, 
         "ACQ_DATE" : 1772841720000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -75,7 +49,7 @@
         "FRP" : 10, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -101,7 +75,7 @@
         "FRP" : 13.73, 
         "ACQ_DATE" : 1772846880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -127,7 +101,7 @@
         "FRP" : 19.99, 
         "ACQ_DATE" : 1772846880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -153,7 +127,7 @@
         "FRP" : 33.54, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -179,7 +153,7 @@
         "FRP" : 25.2, 
         "ACQ_DATE" : 1772852880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -205,7 +179,7 @@
         "FRP" : 48.84, 
         "ACQ_DATE" : 1772852880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -231,7 +205,7 @@
         "FRP" : 10.76, 
         "ACQ_DATE" : 1772852880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -257,7 +231,7 @@
         "FRP" : 11.01, 
         "ACQ_DATE" : 1772852880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -283,60 +257,8 @@
         "FRP" : 9.56, 
         "ACQ_DATE" : 1772852880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 55416, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -36.1657399994437, -9.9084599995899
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 55416, 
-        "BRIGHTNESS" : 307.4, 
-        "SCAN" : 2.05, 
-        "TRACK" : 1.39, 
-        "SATELLITE" : "T", 
-        "CONFIDENCE" : 71, 
-        "VERSION" : "6.1NRT", 
-        "BRIGHT_T31" : 292.38, 
-        "FRP" : 17.62, 
-        "ACQ_DATE" : 1772838300000, 
-        "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 24, 
-        "DAY_OF_ACQ" : 1
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 55425, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -39.2841899997646, -5.16921000044828
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 55425, 
-        "BRIGHTNESS" : 307.33, 
-        "SCAN" : 3.09, 
-        "TRACK" : 1.67, 
-        "SATELLITE" : "T", 
-        "CONFIDENCE" : 71, 
-        "VERSION" : "6.1NRT", 
-        "BRIGHT_T31" : 293.27, 
-        "FRP" : 29.38, 
-        "ACQ_DATE" : 1772838420000, 
-        "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 24, 
-        "DAY_OF_ACQ" : 1
       }
     }, 
     {
@@ -361,7 +283,7 @@
         "FRP" : 15.33, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -387,7 +309,7 @@
         "FRP" : 11.1, 
         "ACQ_DATE" : 1772843940000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -413,7 +335,7 @@
         "FRP" : 50.49, 
         "ACQ_DATE" : 1772844060000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -439,7 +361,7 @@
         "FRP" : 58.11, 
         "ACQ_DATE" : 1772844060000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -465,7 +387,7 @@
         "FRP" : 6.93, 
         "ACQ_DATE" : 1772844540000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -491,7 +413,7 @@
         "FRP" : 53.66, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -517,7 +439,7 @@
         "FRP" : 75.07, 
         "ACQ_DATE" : 1772852880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -543,7 +465,7 @@
         "FRP" : 14.43, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -569,7 +491,7 @@
         "FRP" : 35.35, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -595,7 +517,7 @@
         "FRP" : 7.69, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -621,7 +543,7 @@
         "FRP" : 14.59, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -647,7 +569,7 @@
         "FRP" : 15.83, 
         "ACQ_DATE" : 1772841720000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -673,7 +595,7 @@
         "FRP" : 17.34, 
         "ACQ_DATE" : 1772841720000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -699,7 +621,7 @@
         "FRP" : 10.6, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -725,7 +647,7 @@
         "FRP" : 11.37, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -751,7 +673,7 @@
         "FRP" : 8.74, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -777,7 +699,7 @@
         "FRP" : 20.88, 
         "ACQ_DATE" : 1772846880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -803,7 +725,7 @@
         "FRP" : 31.3, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -829,7 +751,7 @@
         "FRP" : 8.64, 
         "ACQ_DATE" : 1772850720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -855,7 +777,7 @@
         "FRP" : 14.85, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -881,7 +803,7 @@
         "FRP" : 13.58, 
         "ACQ_DATE" : 1772846880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -907,7 +829,7 @@
         "FRP" : 11.97, 
         "ACQ_DATE" : 1772850840000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -933,7 +855,7 @@
         "FRP" : 6.91, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -959,7 +881,7 @@
         "FRP" : 6.06, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -985,7 +907,7 @@
         "FRP" : 16.66, 
         "ACQ_DATE" : 1772852880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1011,7 +933,7 @@
         "FRP" : 11, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1037,7 +959,7 @@
         "FRP" : 12.01, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1063,7 +985,7 @@
         "FRP" : 8.96, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1089,7 +1011,7 @@
         "FRP" : 13.43, 
         "ACQ_DATE" : 1772844180000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1115,7 +1037,7 @@
         "FRP" : 30.35, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1141,7 +1063,7 @@
         "FRP" : 32.35, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1167,7 +1089,7 @@
         "FRP" : 84.09, 
         "ACQ_DATE" : 1772850720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1193,7 +1115,7 @@
         "FRP" : 26.59, 
         "ACQ_DATE" : 1772850720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1219,7 +1141,7 @@
         "FRP" : 9.66, 
         "ACQ_DATE" : 1772850720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1245,7 +1167,7 @@
         "FRP" : 8.4, 
         "ACQ_DATE" : 1772850720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1271,7 +1193,7 @@
         "FRP" : 8.68, 
         "ACQ_DATE" : 1772850720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1297,7 +1219,7 @@
         "FRP" : 27.28, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1323,7 +1245,7 @@
         "FRP" : 37.82, 
         "ACQ_DATE" : 1772852880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1349,7 +1271,7 @@
         "FRP" : 10.52, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1375,7 +1297,7 @@
         "FRP" : 8.07, 
         "ACQ_DATE" : 1772843940000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1401,7 +1323,7 @@
         "FRP" : 41.12, 
         "ACQ_DATE" : 1772847120000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1427,7 +1349,7 @@
         "FRP" : 30.59, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1453,7 +1375,7 @@
         "FRP" : 10.13, 
         "ACQ_DATE" : 1772850840000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1479,7 +1401,7 @@
         "FRP" : 8.52, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1505,7 +1427,7 @@
         "FRP" : 15.87, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1531,7 +1453,7 @@
         "FRP" : 123.4, 
         "ACQ_DATE" : 1772853120000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1557,7 +1479,7 @@
         "FRP" : 96.53, 
         "ACQ_DATE" : 1772852880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1583,7 +1505,7 @@
         "FRP" : 9.47, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1609,7 +1531,7 @@
         "FRP" : 9.34, 
         "ACQ_DATE" : 1772844420000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1635,7 +1557,7 @@
         "FRP" : 22.7, 
         "ACQ_DATE" : 1772846880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1661,7 +1583,7 @@
         "FRP" : 33.89, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1687,7 +1609,7 @@
         "FRP" : 37.89, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1713,7 +1635,7 @@
         "FRP" : 14.7, 
         "ACQ_DATE" : 1772852760000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1739,7 +1661,7 @@
         "FRP" : 14.15, 
         "ACQ_DATE" : 1772852760000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1765,7 +1687,7 @@
         "FRP" : 11.2, 
         "ACQ_DATE" : 1772843940000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1791,7 +1713,7 @@
         "FRP" : 9.9, 
         "ACQ_DATE" : 1772849700000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1817,7 +1739,7 @@
         "FRP" : 9.49, 
         "ACQ_DATE" : 1772850840000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1843,7 +1765,7 @@
         "FRP" : 39.09, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1869,7 +1791,7 @@
         "FRP" : 14.76, 
         "ACQ_DATE" : 1772852880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1895,7 +1817,7 @@
         "FRP" : 10.79, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1921,7 +1843,7 @@
         "FRP" : 11.97, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1947,7 +1869,7 @@
         "FRP" : 10.83, 
         "ACQ_DATE" : 1772844420000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1973,7 +1895,7 @@
         "FRP" : 7.41, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -1999,7 +1921,7 @@
         "FRP" : 33.49, 
         "ACQ_DATE" : 1772852880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2025,7 +1947,7 @@
         "FRP" : 114.7, 
         "ACQ_DATE" : 1772852880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2051,7 +1973,7 @@
         "FRP" : 24.33, 
         "ACQ_DATE" : 1772841720000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2077,7 +1999,7 @@
         "FRP" : 11.78, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2103,7 +2025,7 @@
         "FRP" : 10.04, 
         "ACQ_DATE" : 1772850720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2129,7 +2051,7 @@
         "FRP" : 10.02, 
         "ACQ_DATE" : 1772850720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2155,7 +2077,7 @@
         "FRP" : 10.27, 
         "ACQ_DATE" : 1772850720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2181,7 +2103,7 @@
         "FRP" : 34.83, 
         "ACQ_DATE" : 1772844300000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2207,7 +2129,7 @@
         "FRP" : 57.39, 
         "ACQ_DATE" : 1772844540000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2233,7 +2155,7 @@
         "FRP" : 10.51, 
         "ACQ_DATE" : 1772844420000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2259,7 +2181,7 @@
         "FRP" : 10.12, 
         "ACQ_DATE" : 1772850720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2285,7 +2207,7 @@
         "FRP" : 9.74, 
         "ACQ_DATE" : 1772850720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2311,7 +2233,7 @@
         "FRP" : 18.66, 
         "ACQ_DATE" : 1772852880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2337,7 +2259,7 @@
         "FRP" : 55.04, 
         "ACQ_DATE" : 1772852880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2363,7 +2285,7 @@
         "FRP" : 37.26, 
         "ACQ_DATE" : 1772844420000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2389,7 +2311,7 @@
         "FRP" : 13.48, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2415,7 +2337,7 @@
         "FRP" : 12.88, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2441,7 +2363,7 @@
         "FRP" : 9.7, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2467,7 +2389,7 @@
         "FRP" : 33.51, 
         "ACQ_DATE" : 1772844300000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2493,7 +2415,7 @@
         "FRP" : 60.97, 
         "ACQ_DATE" : 1772844540000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2519,7 +2441,7 @@
         "FRP" : 38.18, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2545,7 +2467,7 @@
         "FRP" : 10.99, 
         "ACQ_DATE" : 1772850480000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2571,7 +2493,7 @@
         "FRP" : 46.09, 
         "ACQ_DATE" : 1772852880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2597,7 +2519,7 @@
         "FRP" : 35.18, 
         "ACQ_DATE" : 1772844300000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2623,7 +2545,7 @@
         "FRP" : 68.07, 
         "ACQ_DATE" : 1772844420000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2649,7 +2571,7 @@
         "FRP" : 15.36, 
         "ACQ_DATE" : 1772844180000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2675,7 +2597,7 @@
         "FRP" : 25.49, 
         "ACQ_DATE" : 1772844540000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2701,34 +2623,8 @@
         "FRP" : 11.73, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 55383, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          69.5267800000363, 40.8723200001646
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 55383, 
-        "BRIGHTNESS" : 312.54, 
-        "SCAN" : 1, 
-        "TRACK" : 1, 
-        "SATELLITE" : "A", 
-        "CONFIDENCE" : 85, 
-        "VERSION" : "6.1NRT", 
-        "BRIGHT_T31" : 277.36, 
-        "FRP" : 16.02, 
-        "ACQ_DATE" : 1772838300000, 
-        "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 24, 
-        "DAY_OF_ACQ" : 1
       }
     }, 
     {
@@ -2753,7 +2649,7 @@
         "FRP" : 12.33, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2779,7 +2675,7 @@
         "FRP" : 13.43, 
         "ACQ_DATE" : 1772844420000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2805,7 +2701,7 @@
         "FRP" : 12.21, 
         "ACQ_DATE" : 1772850840000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2831,7 +2727,7 @@
         "FRP" : 67.24, 
         "ACQ_DATE" : 1772852880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2857,7 +2753,7 @@
         "FRP" : 58.19, 
         "ACQ_DATE" : 1772844420000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2883,7 +2779,7 @@
         "FRP" : 32.9, 
         "ACQ_DATE" : 1772846880000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2909,7 +2805,7 @@
         "FRP" : 68.8, 
         "ACQ_DATE" : 1772847120000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2935,7 +2831,7 @@
         "FRP" : 41, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2961,7 +2857,7 @@
         "FRP" : 40.62, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -2987,7 +2883,7 @@
         "FRP" : 36.42, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3013,34 +2909,8 @@
         "FRP" : 11.81, 
         "ACQ_DATE" : 1772850720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 55423, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -36.1860699999124, -9.69068000014513
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 55423, 
-        "BRIGHTNESS" : 313.57, 
-        "SCAN" : 2.04, 
-        "TRACK" : 1.39, 
-        "SATELLITE" : "T", 
-        "CONFIDENCE" : 87, 
-        "VERSION" : "6.1NRT", 
-        "BRIGHT_T31" : 292.42, 
-        "FRP" : 31.62, 
-        "ACQ_DATE" : 1772838300000, 
-        "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 24, 
-        "DAY_OF_ACQ" : 1
       }
     }, 
     {
@@ -3065,7 +2935,7 @@
         "FRP" : 16.38, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3091,34 +2961,8 @@
         "FRP" : 27.4, 
         "ACQ_DATE" : 1772844540000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 55417, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -36.1838900007202, -9.91075000009798
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 55417, 
-        "BRIGHTNESS" : 313.77, 
-        "SCAN" : 2.06, 
-        "TRACK" : 1.4, 
-        "SATELLITE" : "T", 
-        "CONFIDENCE" : 88, 
-        "VERSION" : "6.1NRT", 
-        "BRIGHT_T31" : 292.44, 
-        "FRP" : 30.67, 
-        "ACQ_DATE" : 1772838300000, 
-        "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 24, 
-        "DAY_OF_ACQ" : 1
       }
     }, 
     {
@@ -3143,7 +2987,7 @@
         "FRP" : 39.38, 
         "ACQ_DATE" : 1772844300000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3169,7 +3013,7 @@
         "FRP" : 18.1, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3195,7 +3039,7 @@
         "FRP" : 12.56, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3221,7 +3065,7 @@
         "FRP" : 13.92, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3247,7 +3091,7 @@
         "FRP" : 14.65, 
         "ACQ_DATE" : 1772844420000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3273,7 +3117,7 @@
         "FRP" : 49.94, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3299,7 +3143,7 @@
         "FRP" : 38.79, 
         "ACQ_DATE" : 1772844300000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3325,7 +3169,7 @@
         "FRP" : 79.96, 
         "ACQ_DATE" : 1772844420000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3351,34 +3195,8 @@
         "FRP" : 14.3, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 55421, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -36.1844999999173, -9.70299000007617
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 55421, 
-        "BRIGHTNESS" : 316.19, 
-        "SCAN" : 2.04, 
-        "TRACK" : 1.39, 
-        "SATELLITE" : "T", 
-        "CONFIDENCE" : 93, 
-        "VERSION" : "6.1NRT", 
-        "BRIGHT_T31" : 292.07, 
-        "FRP" : 38.08, 
-        "ACQ_DATE" : 1772838300000, 
-        "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 24, 
-        "DAY_OF_ACQ" : 1
       }
     }, 
     {
@@ -3403,7 +3221,7 @@
         "FRP" : 36.7, 
         "ACQ_DATE" : 1772844300000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3429,7 +3247,7 @@
         "FRP" : 49.85, 
         "ACQ_DATE" : 1772844300000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3455,7 +3273,7 @@
         "FRP" : 19.09, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3481,7 +3299,7 @@
         "FRP" : 18.06, 
         "ACQ_DATE" : 1772844180000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3507,7 +3325,7 @@
         "FRP" : 13.98, 
         "ACQ_DATE" : 1772843940000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3533,7 +3351,7 @@
         "FRP" : 57.09, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3559,7 +3377,7 @@
         "FRP" : 42.47, 
         "ACQ_DATE" : 1772844060000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3585,7 +3403,7 @@
         "FRP" : 15.08, 
         "ACQ_DATE" : 1772850720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3611,7 +3429,7 @@
         "FRP" : 23.51, 
         "ACQ_DATE" : 1772850300000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3637,7 +3455,7 @@
         "FRP" : 58.49, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3663,7 +3481,7 @@
         "FRP" : 53.12, 
         "ACQ_DATE" : 1772852760000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3689,7 +3507,7 @@
         "FRP" : 20.16, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3715,7 +3533,7 @@
         "FRP" : 19.39, 
         "ACQ_DATE" : 1772844180000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3741,7 +3559,7 @@
         "FRP" : 14.7, 
         "ACQ_DATE" : 1772844540000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3767,7 +3585,7 @@
         "FRP" : 79.66, 
         "ACQ_DATE" : 1772852760000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3793,7 +3611,7 @@
         "FRP" : 47.67, 
         "ACQ_DATE" : 1772844300000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3819,34 +3637,8 @@
         "FRP" : 14.56, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 55385, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          69.5382100002181, 40.8706100003739
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 55385, 
-        "BRIGHTNESS" : 318.43, 
-        "SCAN" : 1, 
-        "TRACK" : 1, 
-        "SATELLITE" : "A", 
-        "CONFIDENCE" : 97, 
-        "VERSION" : "6.1NRT", 
-        "BRIGHT_T31" : 277.44, 
-        "FRP" : 21, 
-        "ACQ_DATE" : 1772838300000, 
-        "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 24, 
-        "DAY_OF_ACQ" : 1
       }
     }, 
     {
@@ -3871,7 +3663,7 @@
         "FRP" : 73.25, 
         "ACQ_DATE" : 1772844420000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3897,7 +3689,7 @@
         "FRP" : 21.76, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3923,7 +3715,7 @@
         "FRP" : 34.56, 
         "ACQ_DATE" : 1772843940000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3949,7 +3741,7 @@
         "FRP" : 34.33, 
         "ACQ_DATE" : 1772843940000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -3975,7 +3767,7 @@
         "FRP" : 15.76, 
         "ACQ_DATE" : 1772844540000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4001,138 +3793,8 @@
         "FRP" : 101.84, 
         "ACQ_DATE" : 1772852760000, 
         "DAYNIGHT" : "D", 
-        "HOURS_OLD" : 20, 
+        "HOURS_OLD" : 21, 
         "DAY_OF_ACQ" : 0
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 55380, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          67.2651799998393, 38.0577400007319
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 55380, 
-        "BRIGHTNESS" : 324.08, 
-        "SCAN" : 1.04, 
-        "TRACK" : 1.02, 
-        "SATELLITE" : "A", 
-        "CONFIDENCE" : 100, 
-        "VERSION" : "6.1NRT", 
-        "BRIGHT_T31" : 275.77, 
-        "FRP" : 27.09, 
-        "ACQ_DATE" : 1772838300000, 
-        "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 24, 
-        "DAY_OF_ACQ" : 1
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 55415, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -36.1786800002444, -9.90126999995185
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 55415, 
-        "BRIGHTNESS" : 337.57, 
-        "SCAN" : 2.06, 
-        "TRACK" : 1.4, 
-        "SATELLITE" : "T", 
-        "CONFIDENCE" : 100, 
-        "VERSION" : "6.1NRT", 
-        "BRIGHT_T31" : 292.94, 
-        "FRP" : 109, 
-        "ACQ_DATE" : 1772838300000, 
-        "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 24, 
-        "DAY_OF_ACQ" : 1
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 55419, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -36.1853999995426, -9.89839000065025
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 55419, 
-        "BRIGHTNESS" : 322, 
-        "SCAN" : 2.06, 
-        "TRACK" : 1.4, 
-        "SATELLITE" : "T", 
-        "CONFIDENCE" : 100, 
-        "VERSION" : "6.1NRT", 
-        "BRIGHT_T31" : 292.82, 
-        "FRP" : 52.23, 
-        "ACQ_DATE" : 1772838300000, 
-        "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 24, 
-        "DAY_OF_ACQ" : 1
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 55420, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -36.1663400003916, -9.70072999992598
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 55420, 
-        "BRIGHTNESS" : 333.68, 
-        "SCAN" : 2.04, 
-        "TRACK" : 1.39, 
-        "SATELLITE" : "T", 
-        "CONFIDENCE" : 100, 
-        "VERSION" : "6.1NRT", 
-        "BRIGHT_T31" : 292.65, 
-        "FRP" : 93.36, 
-        "ACQ_DATE" : 1772838300000, 
-        "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 24, 
-        "DAY_OF_ACQ" : 1
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 55422, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -36.1680300000374, -9.68845999932596
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 55422, 
-        "BRIGHTNESS" : 327.76, 
-        "SCAN" : 2.04, 
-        "TRACK" : 1.39, 
-        "SATELLITE" : "T", 
-        "CONFIDENCE" : 100, 
-        "VERSION" : "6.1NRT", 
-        "BRIGHT_T31" : 292.54, 
-        "FRP" : 71.09, 
-        "ACQ_DATE" : 1772838300000, 
-        "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 24, 
-        "DAY_OF_ACQ" : 1
       }
     }, 
     {
@@ -4157,7 +3819,7 @@
         "FRP" : 80.55, 
         "ACQ_DATE" : 1772844300000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4183,7 +3845,7 @@
         "FRP" : 53.3, 
         "ACQ_DATE" : 1772844300000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4209,7 +3871,7 @@
         "FRP" : 72.62, 
         "ACQ_DATE" : 1772844300000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4235,7 +3897,7 @@
         "FRP" : 133.15, 
         "ACQ_DATE" : 1772844300000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4261,7 +3923,7 @@
         "FRP" : 114.88, 
         "ACQ_DATE" : 1772844300000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4287,7 +3949,7 @@
         "FRP" : 21.43, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4313,7 +3975,7 @@
         "FRP" : 38.97, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4339,7 +4001,7 @@
         "FRP" : 33.79, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4365,7 +4027,7 @@
         "FRP" : 57.74, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4391,7 +4053,7 @@
         "FRP" : 104.47, 
         "ACQ_DATE" : 1772844720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4417,7 +4079,7 @@
         "FRP" : 30.77, 
         "ACQ_DATE" : 1772843940000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4443,7 +4105,7 @@
         "FRP" : 138.01, 
         "ACQ_DATE" : 1772843940000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4469,7 +4131,7 @@
         "FRP" : 325.17, 
         "ACQ_DATE" : 1772843940000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4495,7 +4157,7 @@
         "FRP" : 258.3, 
         "ACQ_DATE" : 1772843940000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4521,7 +4183,7 @@
         "FRP" : 104.91, 
         "ACQ_DATE" : 1772843940000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4547,7 +4209,7 @@
         "FRP" : 52.7, 
         "ACQ_DATE" : 1772843940000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4573,7 +4235,7 @@
         "FRP" : 154.28, 
         "ACQ_DATE" : 1772843940000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4599,7 +4261,7 @@
         "FRP" : 123.18, 
         "ACQ_DATE" : 1772844060000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 23, 
+        "HOURS_OLD" : 24, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4625,7 +4287,7 @@
         "FRP" : 26.25, 
         "ACQ_DATE" : 1772844420000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4651,7 +4313,7 @@
         "FRP" : 46.29, 
         "ACQ_DATE" : 1772844540000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4677,7 +4339,7 @@
         "FRP" : 80.17, 
         "ACQ_DATE" : 1772844540000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4703,7 +4365,7 @@
         "FRP" : 115.56, 
         "ACQ_DATE" : 1772844540000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4729,7 +4391,7 @@
         "FRP" : 48.37, 
         "ACQ_DATE" : 1772844540000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4755,7 +4417,7 @@
         "FRP" : 90.72, 
         "ACQ_DATE" : 1772844540000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4781,7 +4443,7 @@
         "FRP" : 47.3, 
         "ACQ_DATE" : 1772844540000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 22, 
+        "HOURS_OLD" : 23, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4807,7 +4469,7 @@
         "FRP" : 48.45, 
         "ACQ_DATE" : 1772849700000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4833,7 +4495,7 @@
         "FRP" : 30.15, 
         "ACQ_DATE" : 1772849700000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4859,7 +4521,7 @@
         "FRP" : 76.69, 
         "ACQ_DATE" : 1772850840000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4885,7 +4547,7 @@
         "FRP" : 49.28, 
         "ACQ_DATE" : 1772850840000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4911,7 +4573,7 @@
         "FRP" : 211.24, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4937,7 +4599,7 @@
         "FRP" : 195.24, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4963,7 +4625,7 @@
         "FRP" : 91.55, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -4989,7 +4651,7 @@
         "FRP" : 22.37, 
         "ACQ_DATE" : 1772850720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5015,7 +4677,7 @@
         "FRP" : 26.53, 
         "ACQ_DATE" : 1772850840000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5041,7 +4703,7 @@
         "FRP" : 18.99, 
         "ACQ_DATE" : 1772850840000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5067,7 +4729,7 @@
         "FRP" : 58.79, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5093,7 +4755,7 @@
         "FRP" : 160.44, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5119,7 +4781,7 @@
         "FRP" : 24.54, 
         "ACQ_DATE" : 1772850720000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5145,7 +4807,7 @@
         "FRP" : 53.62, 
         "ACQ_DATE" : 1772850300000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5171,7 +4833,7 @@
         "FRP" : 85.45, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5197,7 +4859,7 @@
         "FRP" : 94.56, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5223,7 +4885,7 @@
         "FRP" : 129.32, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5249,7 +4911,7 @@
         "FRP" : 158.79, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5275,7 +4937,7 @@
         "FRP" : 94.01, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5301,7 +4963,7 @@
         "FRP" : 160.72, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5327,7 +4989,7 @@
         "FRP" : 111.56, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5353,7 +5015,7 @@
         "FRP" : 90.94, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5379,7 +5041,7 @@
         "FRP" : 130.51, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5405,7 +5067,7 @@
         "FRP" : 139.4, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5431,7 +5093,7 @@
         "FRP" : 103.73, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }, 
@@ -5457,7 +5119,7 @@
         "FRP" : 188.26, 
         "ACQ_DATE" : 1772850600000, 
         "DAYNIGHT" : "N", 
-        "HOURS_OLD" : 21, 
+        "HOURS_OLD" : 22, 
         "DAY_OF_ACQ" : 0
       }
     }
