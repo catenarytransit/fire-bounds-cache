@@ -2423,6 +2423,40 @@
         "EditDate" : null, 
         "displayStatus" : "Active"
       }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 25, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-117.478594704374, 34.0195504410462], 
+            [-117.477885583271, 34.0192776265329], 
+            [-117.477900104538, 34.0191833455491], 
+            [-117.478658839593, 34.0194290789883], 
+            [-117.478594704374, 34.0195504410462]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 25, 
+        "GlobalID" : "11264831-5104-4149-9785-cb3ea391a099", 
+        "type" : "Heat Perimeter", 
+        "source" : "NIFC", 
+        "poly_DateCurrent" : 1774938586375, 
+        "mission" : "2026-CARRU-052513", 
+        "incident_name" : "GRANITE", 
+        "incident_number" : "2026-CARRU-052513", 
+        "area_acres" : 0.02, 
+        "description" : "Wildfire Daily Fire Perimeter", 
+        "FireDiscoveryDate" : 1774936835000, 
+        "CreationDate" : 1774937557582, 
+        "EditDate" : 1775537966342, 
+        "displayStatus" : "Active"
+      }
     }
   ]
 }
