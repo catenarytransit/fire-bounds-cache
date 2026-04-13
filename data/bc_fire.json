@@ -697,7 +697,7 @@
         "FEATURE_AREA_SQM" : 126968.841, 
         "FEATURE_LENGTH_M" : 2349.2585, 
         "OBJECTID" : 3, 
-        "GlobalID" : "c4028755-26e3-4097-8d4c-657d7c2a53d2", 
+        "GlobalID" : "d1f67ccd-9e60-43df-b4f0-272bff75ff36", 
         "Shape__Area" : 314291.1015625, 
         "Shape__Length" : 3697.785818666237, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=K20025"
@@ -874,7 +874,7 @@
         "FEATURE_AREA_SQM" : 8081304.0625, 
         "FEATURE_LENGTH_M" : 14888.2036, 
         "OBJECTID" : 4, 
-        "GlobalID" : "f3e96f1f-ca46-4700-875c-7e1324e6ab61", 
+        "GlobalID" : "5be2372e-6f59-4f5b-89c4-827cfa8add8b", 
         "Shape__Area" : 19583635.046875, 
         "Shape__Length" : 23184.2472560507, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=K60033"
@@ -1503,7 +1503,7 @@
         "FEATURE_AREA_SQM" : 618047.4069, 
         "FEATURE_LENGTH_M" : 4361.7657, 
         "OBJECTID" : 5, 
-        "GlobalID" : "d020c59a-8f71-4924-87fe-62b1005061eb", 
+        "GlobalID" : "ecd74cd8-2518-4796-b668-c71cdff2f2c0", 
         "Shape__Area" : 1513582.0703125, 
         "Shape__Length" : 6825.5640694135382, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=V30029"
