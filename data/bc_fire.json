@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 1, 
+      "id" : 3, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -238,8 +238,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 95634.0763, 
         "FEATURE_LENGTH_M" : 1361.3873, 
-        "OBJECTID" : 1, 
-        "GlobalID" : "44febab5-a31c-4f5b-8cbd-eee89aeaeb34", 
+        "OBJECTID" : 3, 
+        "GlobalID" : "45f5feaf-ace8-410d-b2be-cfaccfe41c4d", 
         "Shape__Area" : 247653.03125, 
         "Shape__Length" : 2190.6088385079688, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=C20038"
