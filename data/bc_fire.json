@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 1, 
+      "id" : 5, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -238,8 +238,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 95634.0763, 
         "FEATURE_LENGTH_M" : 1361.3873, 
-        "OBJECTID" : 1, 
-        "GlobalID" : "f64cdec7-2e12-49a0-a121-7f7982271b86", 
+        "OBJECTID" : 5, 
+        "GlobalID" : "e907d3a4-a231-46be-9a85-1a4e4013aebb", 
         "Shape__Area" : 247653.03125, 
         "Shape__Length" : 2190.6088385079688, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=C20038"
@@ -247,7 +247,7 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 5, 
+      "id" : 9, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -725,8 +725,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 29324.2183, 
         "FEATURE_LENGTH_M" : 2028.7632, 
-        "OBJECTID" : 5, 
-        "GlobalID" : "d66c21ed-3c9c-4aa4-b26d-4e2f61e58f35", 
+        "OBJECTID" : 9, 
+        "GlobalID" : "676020a4-b2e2-4944-8c95-7fa07c09d9b6", 
         "Shape__Area" : 78738.8046875, 
         "Shape__Length" : 3324.7724588109609, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=C50057"
@@ -734,7 +734,7 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 6, 
+      "id" : 10, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -831,8 +831,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 49630.1519, 
         "FEATURE_LENGTH_M" : 1377.5379, 
-        "OBJECTID" : 6, 
-        "GlobalID" : "842aa74a-ec3c-4bfe-b638-517d21a5b6e3", 
+        "OBJECTID" : 10, 
+        "GlobalID" : "cbfcada7-03c1-4105-9ea3-45bc1af12525", 
         "Shape__Area" : 130933.9921875, 
         "Shape__Length" : 2237.7681363081633, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=C50060"
