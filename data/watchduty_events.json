@@ -835,7 +835,7 @@
 	},
 	{
 		"id": 92750,
-		"is_active": true,
+		"is_active": false,
 		"name": "Paint Creek Fire",
 		"description": null,
 		"lat": 33.048889,
@@ -870,7 +870,7 @@
 			"bot_locked_fields": null
 		},
 		"date_created": "2026-04-13T15:00:34Z",
-		"date_modified": "2026-04-19T21:34:04Z",
+		"date_modified": "2026-04-20T05:38:28Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
