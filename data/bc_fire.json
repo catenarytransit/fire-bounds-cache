@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 5, 
+      "id" : 1, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -238,8 +238,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 95634.0763, 
         "FEATURE_LENGTH_M" : 1361.3873, 
-        "OBJECTID" : 5, 
-        "GlobalID" : "395c5348-547a-429b-9deb-22c2b0611566", 
+        "OBJECTID" : 1, 
+        "GlobalID" : "d5f24490-90f2-4d80-8041-d305e2bb7a19", 
         "Shape__Area" : 247653.03125, 
         "Shape__Length" : 2190.6088385079688, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=C20038"
@@ -247,7 +247,7 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 7, 
+      "id" : 3, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -503,8 +503,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 37986.0858, 
         "FEATURE_LENGTH_M" : 1604.9242, 
-        "OBJECTID" : 7, 
-        "GlobalID" : "229264ee-102f-480e-8d65-e2c2c7839ea0", 
+        "OBJECTID" : 3, 
+        "GlobalID" : "6deb2de1-801f-4c4d-aec2-2a2fce5c6e16", 
         "Shape__Area" : 97643.5234375, 
         "Shape__Length" : 2573.1600311874508, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=C40081"
@@ -512,7 +512,7 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 10, 
+      "id" : 6, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -990,8 +990,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 29324.2183, 
         "FEATURE_LENGTH_M" : 2028.7632, 
-        "OBJECTID" : 10, 
-        "GlobalID" : "c02ad5c0-ee64-4fe4-a733-830260430456", 
+        "OBJECTID" : 6, 
+        "GlobalID" : "24579138-c370-4b18-9046-12c89cf556d3", 
         "Shape__Area" : 78738.8046875, 
         "Shape__Length" : 3324.7724588109609, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=C50057"
