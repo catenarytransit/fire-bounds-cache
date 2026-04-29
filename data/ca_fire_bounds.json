@@ -2011,6 +2011,40 @@
         "EditDate" : null, 
         "displayStatus" : "Active"
       }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 48, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-117.28819142546, 34.554811669793], 
+            [-117.288185028285, 34.5547859029319], 
+            [-117.288197460424, 34.5547635365476], 
+            [-117.288216598085, 34.5547544243133], 
+            [-117.28819142546, 34.554811669793]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 48, 
+        "GlobalID" : "2cd98153-1451-4c1d-b26d-3765f2738454", 
+        "type" : "Heat Perimeter", 
+        "source" : "NIFC", 
+        "poly_DateCurrent" : 1777331419589, 
+        "mission" : "2026-CACDD-006779", 
+        "incident_name" : "ASSIST/BDC/82A", 
+        "incident_number" : "2026-CACDD-006779", 
+        "area_acres" : 0.01, 
+        "description" : "Wildfire Daily Fire Perimeter", 
+        "FireDiscoveryDate" : 1777329925000, 
+        "CreationDate" : 1777331415795, 
+        "EditDate" : 1777431156120, 
+        "displayStatus" : "Active"
+      }
     }
   ]
 }
