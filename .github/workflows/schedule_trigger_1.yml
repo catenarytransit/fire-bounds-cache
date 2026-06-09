@@ -1,0 +1,13 @@
+#hiiii :3
+name: Update Scheduled
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  call-update:
+    uses: ./.github/workflows/update.yml
