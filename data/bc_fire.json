@@ -3,7 +3,7 @@
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 77, 
+      "id" : 101, 
       "geometry" : 
       {
         "type" : "MultiPolygon", 
@@ -314,8 +314,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 30128592.1827, 
         "FEATURE_LENGTH_M" : 42081.2827, 
-        "OBJECTID" : 77, 
-        "GlobalID" : "32765c10-3d95-475e-9737-a173b0f69769", 
+        "OBJECTID" : 101, 
+        "GlobalID" : "863fe2a1-c23c-4121-9e1c-dae31fe6f080", 
         "Shape__Area" : 72610388.703125, 
         "Shape__Length" : 65341.004361366133, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=V10742"
@@ -323,7 +323,7 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 79, 
+      "id" : 103, 
       "geometry" : 
       {
         "type" : "MultiPolygon", 
@@ -651,8 +651,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 158465697.6213, 
         "FEATURE_LENGTH_M" : 86579.3109, 
-        "OBJECTID" : 79, 
-        "GlobalID" : "de5e34bf-28f8-4c5f-beb7-3d964a431146", 
+        "OBJECTID" : 103, 
+        "GlobalID" : "95d3a694-ff38-4277-ab23-df7686315c0b", 
         "Shape__Area" : 383100514.9453125, 
         "Shape__Length" : 134660.65668292894, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=V10755"
@@ -660,7 +660,7 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 94, 
+      "id" : 77, 
       "geometry" : 
       {
         "type" : "MultiPolygon", 
@@ -826,8 +826,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 729048.4774, 
         "FEATURE_LENGTH_M" : 6468.3383, 
-        "OBJECTID" : 94, 
-        "GlobalID" : "67721e89-b07b-45c2-8eb5-6a3134cf42b7", 
+        "OBJECTID" : 77, 
+        "GlobalID" : "67f5a1ca-1578-472f-943d-8683faa16650", 
         "Shape__Area" : 1807148.2421875, 
         "Shape__Length" : 10182.693105720202, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=K70659"
@@ -835,7 +835,7 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 95, 
+      "id" : 78, 
       "geometry" : 
       {
         "type" : "MultiPolygon", 
@@ -1884,8 +1884,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 12462896.1369, 
         "FEATURE_LENGTH_M" : 20700.4394, 
-        "OBJECTID" : 95, 
-        "GlobalID" : "34b57ed6-f745-427b-a466-658dddec91b8", 
+        "OBJECTID" : 78, 
+        "GlobalID" : "b81c3121-81a7-4600-b3d9-368c3c4e9bfe", 
         "Shape__Area" : 31782183.2578125, 
         "Shape__Length" : 33054.223727255623, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=K70748"
@@ -1893,7 +1893,7 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 99, 
+      "id" : 82, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2021,8 +2021,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 1152820.6264, 
         "FEATURE_LENGTH_M" : 5334.2149, 
-        "OBJECTID" : 99, 
-        "GlobalID" : "cd7d8568-08e1-49e2-aa53-a27c4fe93f95", 
+        "OBJECTID" : 82, 
+        "GlobalID" : "3c84d7ef-e037-4187-9571-88206f789157", 
         "Shape__Area" : 2782126.5859375, 
         "Shape__Length" : 8295.2961682350124, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=N20809"
@@ -2030,7 +2030,47 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 10, 
+      "id" : 16, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-123.940380001408, 58.355620000026], 
+            [-123.939419998841, 58.3552499999025], 
+            [-123.939499999171, 58.3547200001473], 
+            [-123.940239998901, 58.3544300006293], 
+            [-123.941059999617, 58.3542600001989], 
+            [-123.941599999899, 58.3543600003505], 
+            [-123.941789999868, 58.3548900003247], 
+            [-123.94125999875, 58.3553700006202], 
+            [-123.940380001408, 58.355620000026]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "FIRE_NUMBER" : "G90285", 
+        "VERSION_NUMBER" : 2026050801, 
+        "FIRE_YEAR" : 2026, 
+        "FIRE_SIZE_HECTARES" : 1.4, 
+        "SOURCE" : "Non-corrected airborne GPS", 
+        "TRACK_DATE" : 1778223600000, 
+        "LOAD_DATE" : 1778280646000, 
+        "FIRE_STATUS" : "Under Control", 
+        "FEATURE_CODE" : "JA70003000", 
+        "FEATURE_AREA_SQM" : 14468.8093, 
+        "FEATURE_LENGTH_M" : 448.5383, 
+        "OBJECTID" : 16, 
+        "GlobalID" : "a21a63d4-feee-4ef1-8430-cdd4c4e6fb5f", 
+        "Shape__Area" : 52405.4375, 
+        "Shape__Length" : 853.65138302364016, 
+        "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=G90285"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 26, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -2290,8 +2330,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 200976.0184, 
         "FEATURE_LENGTH_M" : 2496.0517, 
-        "OBJECTID" : 10, 
-        "GlobalID" : "7ecba00d-154e-4df8-b569-7303f1d8657e", 
+        "OBJECTID" : 26, 
+        "GlobalID" : "09ea5fbf-6f40-4ff8-bdd3-f77be0b65744", 
         "Shape__Area" : 499938.71875, 
         "Shape__Length" : 3936.7209751390305, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=K20770"
@@ -2299,7 +2339,7 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 29, 
+      "id" : 35, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3166,8 +3206,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 17749707.0148, 
         "FEATURE_LENGTH_M" : 28161.8656, 
-        "OBJECTID" : 29, 
-        "GlobalID" : "6f31819b-f49a-420a-9b95-856399c7af08", 
+        "OBJECTID" : 35, 
+        "GlobalID" : "67a8d8a8-4a94-42a8-8963-83a6af5d8f2f", 
         "Shape__Area" : 49699371.625, 
         "Shape__Length" : 47131.931836176518, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=C10467"
@@ -3175,7 +3215,7 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 35, 
+      "id" : 51, 
       "geometry" : 
       {
         "type" : "MultiPolygon", 
@@ -3543,8 +3583,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 355160.4512, 
         "FEATURE_LENGTH_M" : 3043.2492, 
-        "OBJECTID" : 35, 
-        "GlobalID" : "46f7f684-a2e3-4b0c-9b26-d42158887385", 
+        "OBJECTID" : 51, 
+        "GlobalID" : "ed438773-c261-471d-bef7-130d9cdd4f30", 
         "Shape__Area" : 911476.484375, 
         "Shape__Length" : 4875.3299965186288, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=C40784"
@@ -3552,126 +3592,7 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 65, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-123.940380001408, 58.355620000026], 
-            [-123.939419998841, 58.3552499999025], 
-            [-123.939499999171, 58.3547200001473], 
-            [-123.940239998901, 58.3544300006293], 
-            [-123.941059999617, 58.3542600001989], 
-            [-123.941599999899, 58.3543600003505], 
-            [-123.941789999868, 58.3548900003247], 
-            [-123.94125999875, 58.3553700006202], 
-            [-123.940380001408, 58.355620000026]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "FIRE_NUMBER" : "G90285", 
-        "VERSION_NUMBER" : 2026050801, 
-        "FIRE_YEAR" : 2026, 
-        "FIRE_SIZE_HECTARES" : 1.4, 
-        "SOURCE" : "Non-corrected airborne GPS", 
-        "TRACK_DATE" : 1778223600000, 
-        "LOAD_DATE" : 1778280646000, 
-        "FIRE_STATUS" : "Under Control", 
-        "FEATURE_CODE" : "JA70003000", 
-        "FEATURE_AREA_SQM" : 14468.8093, 
-        "FEATURE_LENGTH_M" : 448.5383, 
-        "OBJECTID" : 65, 
-        "GlobalID" : "12fcfff8-0b6d-4025-ad50-fd98e3687b95", 
-        "Shape__Area" : 52405.4375, 
-        "Shape__Length" : 853.65138302364016, 
-        "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=G90285"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 72, 
-      "geometry" : 
-      {
-        "type" : "Polygon", 
-        "coordinates" : 
-        [
-          [
-            [-121.431049129261, 49.7723119134926], 
-            [-121.430457491787, 49.7723403067559], 
-            [-121.430304474282, 49.7723476497742], 
-            [-121.429148639309, 49.7723602820833], 
-            [-121.429086030308, 49.7720042352923], 
-            [-121.428694326483, 49.7715959407893], 
-            [-121.428450191751, 49.7712136693303], 
-            [-121.42837553061, 49.7706582441708], 
-            [-121.426966154493, 49.770425352516], 
-            [-121.425639074095, 49.770251138829], 
-            [-121.425382078668, 49.7696954047584], 
-            [-121.425010267589, 49.7692281269266], 
-            [-121.424746345298, 49.7686004774261], 
-            [-121.424141898449, 49.7679383906116], 
-            [-121.423680214857, 49.7674106197624], 
-            [-121.423700303255, 49.7671392766049], 
-            [-121.423965372055, 49.7668993811646], 
-            [-121.424282198767, 49.7665618250135], 
-            [-121.424874940357, 49.7659316311208], 
-            [-121.425231665798, 49.7654326761468], 
-            [-121.425725311314, 49.7650186636028], 
-            [-121.426139337465, 49.7650090395094], 
-            [-121.426709662314, 49.7651610717317], 
-            [-121.427656183805, 49.7654472418276], 
-            [-121.428047370779, 49.7648973258009], 
-            [-121.427988757426, 49.7644154712997], 
-            [-121.428499096273, 49.7643867854787], 
-            [-121.429144737327, 49.7637515153066], 
-            [-121.429509014171, 49.7638881493993], 
-            [-121.429737908027, 49.7636190280472], 
-            [-121.429603327398, 49.7633733448821], 
-            [-121.430366158917, 49.7630631017402], 
-            [-121.431413774942, 49.7635655679251], 
-            [-121.435713285652, 49.7661958156121], 
-            [-121.436719583958, 49.7661488236677], 
-            [-121.437280035573, 49.7673212708546], 
-            [-121.437412620681, 49.7676925988498], 
-            [-121.437176248804, 49.7682614620667], 
-            [-121.436475868521, 49.7692181596461], 
-            [-121.435500728915, 49.7700140518787], 
-            [-121.434856827809, 49.7702368655898], 
-            [-121.434193791095, 49.7707311316607], 
-            [-121.434126791985, 49.77076904926], 
-            [-121.433401965895, 49.7714085642226], 
-            [-121.433370349365, 49.7714549774368], 
-            [-121.432512468367, 49.7717868720476], 
-            [-121.431937608954, 49.7719871850449], 
-            [-121.431049129261, 49.7723119134926]
-          ]
-        ]
-      }, 
-      "properties" : {
-        "FIRE_NUMBER" : "V10108", 
-        "VERSION_NUMBER" : 2026050401, 
-        "FIRE_YEAR" : 2026, 
-        "FIRE_SIZE_HECTARES" : 61.6, 
-        "SOURCE" : "Non-corrected airborne GPS", 
-        "TRACK_DATE" : 1777878000000, 
-        "LOAD_DATE" : 1778084651000, 
-        "FIRE_STATUS" : "Under Control", 
-        "FEATURE_CODE" : "JA70003000", 
-        "FEATURE_AREA_SQM" : 615598.4459, 
-        "FEATURE_LENGTH_M" : 3233.9856, 
-        "OBJECTID" : 72, 
-        "GlobalID" : "0264615a-689e-4292-ae11-18ebcdb0c260", 
-        "Shape__Area" : 1474035.109375, 
-        "Shape__Length" : 5005.056307737822, 
-        "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=V10108"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 83, 
+      "id" : 71, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -3764,8 +3685,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 63931.0155, 
         "FEATURE_LENGTH_M" : 1445.7474, 
-        "OBJECTID" : 83, 
-        "GlobalID" : "900ee7d5-a638-4e59-a724-c05b34431cd5", 
+        "OBJECTID" : 71, 
+        "GlobalID" : "0d6ab714-2c55-406f-adb4-852513e33cb1", 
         "Shape__Area" : 155762.609375, 
         "Shape__Length" : 2257.3141361015896, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=V30675"
@@ -3773,7 +3694,7 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 93, 
+      "id" : 76, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6130,8 +6051,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 6556246.3908, 
         "FEATURE_LENGTH_M" : 17737.7276, 
-        "OBJECTID" : 93, 
-        "GlobalID" : "5696414e-365d-4969-8bfd-ce20dbf7e1d7", 
+        "OBJECTID" : 76, 
+        "GlobalID" : "a592c65c-f61d-4c18-ac45-85cc03794256", 
         "Shape__Area" : 15986600.875, 
         "Shape__Length" : 27698.905741694816, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=K70597"
@@ -6139,7 +6060,86 @@
     }, 
     {
       "type" : "Feature", 
-      "id" : 107, 
+      "id" : 96, 
+      "geometry" : 
+      {
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-121.431049129261, 49.7723119134926], 
+            [-121.430457491787, 49.7723403067559], 
+            [-121.430304474282, 49.7723476497742], 
+            [-121.429148639309, 49.7723602820833], 
+            [-121.429086030308, 49.7720042352923], 
+            [-121.428694326483, 49.7715959407893], 
+            [-121.428450191751, 49.7712136693303], 
+            [-121.42837553061, 49.7706582441708], 
+            [-121.426966154493, 49.770425352516], 
+            [-121.425639074095, 49.770251138829], 
+            [-121.425382078668, 49.7696954047584], 
+            [-121.425010267589, 49.7692281269266], 
+            [-121.424746345298, 49.7686004774261], 
+            [-121.424141898449, 49.7679383906116], 
+            [-121.423680214857, 49.7674106197624], 
+            [-121.423700303255, 49.7671392766049], 
+            [-121.423965372055, 49.7668993811646], 
+            [-121.424282198767, 49.7665618250135], 
+            [-121.424874940357, 49.7659316311208], 
+            [-121.425231665798, 49.7654326761468], 
+            [-121.425725311314, 49.7650186636028], 
+            [-121.426139337465, 49.7650090395094], 
+            [-121.426709662314, 49.7651610717317], 
+            [-121.427656183805, 49.7654472418276], 
+            [-121.428047370779, 49.7648973258009], 
+            [-121.427988757426, 49.7644154712997], 
+            [-121.428499096273, 49.7643867854787], 
+            [-121.429144737327, 49.7637515153066], 
+            [-121.429509014171, 49.7638881493993], 
+            [-121.429737908027, 49.7636190280472], 
+            [-121.429603327398, 49.7633733448821], 
+            [-121.430366158917, 49.7630631017402], 
+            [-121.431413774942, 49.7635655679251], 
+            [-121.435713285652, 49.7661958156121], 
+            [-121.436719583958, 49.7661488236677], 
+            [-121.437280035573, 49.7673212708546], 
+            [-121.437412620681, 49.7676925988498], 
+            [-121.437176248804, 49.7682614620667], 
+            [-121.436475868521, 49.7692181596461], 
+            [-121.435500728915, 49.7700140518787], 
+            [-121.434856827809, 49.7702368655898], 
+            [-121.434193791095, 49.7707311316607], 
+            [-121.434126791985, 49.77076904926], 
+            [-121.433401965895, 49.7714085642226], 
+            [-121.433370349365, 49.7714549774368], 
+            [-121.432512468367, 49.7717868720476], 
+            [-121.431937608954, 49.7719871850449], 
+            [-121.431049129261, 49.7723119134926]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "FIRE_NUMBER" : "V10108", 
+        "VERSION_NUMBER" : 2026050401, 
+        "FIRE_YEAR" : 2026, 
+        "FIRE_SIZE_HECTARES" : 61.6, 
+        "SOURCE" : "Non-corrected airborne GPS", 
+        "TRACK_DATE" : 1777878000000, 
+        "LOAD_DATE" : 1778084651000, 
+        "FIRE_STATUS" : "Under Control", 
+        "FEATURE_CODE" : "JA70003000", 
+        "FEATURE_AREA_SQM" : 615598.4459, 
+        "FEATURE_LENGTH_M" : 3233.9856, 
+        "OBJECTID" : 96, 
+        "GlobalID" : "543791c7-893a-4237-ae43-dc1ecb9a205b", 
+        "Shape__Area" : 1474035.109375, 
+        "Shape__Length" : 5005.056307737822, 
+        "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=V10108"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 111, 
       "geometry" : 
       {
         "type" : "Polygon", 
@@ -6449,8 +6449,8 @@
         "FEATURE_CODE" : "JA70003000", 
         "FEATURE_AREA_SQM" : 22301.8596, 
         "FEATURE_LENGTH_M" : 876.8523, 
-        "OBJECTID" : 107, 
-        "GlobalID" : "8c192d83-4808-4e98-9b30-0e7dad79c1b5", 
+        "OBJECTID" : 111, 
+        "GlobalID" : "6301b2e4-a45c-47f6-9f08-031100585553", 
         "Shape__Area" : 51467.125, 
         "Shape__Length" : 1331.8763128617791, 
         "FIRE_URL" : "https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2026&incidentNumber=V60767"
