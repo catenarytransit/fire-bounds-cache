@@ -14130,7 +14130,7 @@
         "websiteId": null,
         "websiteDbId": null,
         "dataverseId": null,
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.000059455931932461681,
         "Shape__Length": 0.060061685377595306
       }
@@ -14535,7 +14535,7 @@
         "websiteId": null,
         "websiteDbId": null,
         "dataverseId": null,
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.000007803974312992068,
         "Shape__Length": 0.013600377054253342
       }
@@ -15143,7 +15143,7 @@
         "websiteId": null,
         "websiteDbId": null,
         "dataverseId": null,
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.0000069491738940996584,
         "Shape__Length": 0.012570676521179195
       }
@@ -17406,7 +17406,7 @@
         "websiteId": null,
         "websiteDbId": null,
         "dataverseId": null,
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.00001742680342431413,
         "Shape__Length": 0.028375185274482337
       }
