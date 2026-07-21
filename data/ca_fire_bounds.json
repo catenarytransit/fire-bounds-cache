@@ -31252,7 +31252,7 @@
         "source": "CAL FIRE INTEL FLIGHT DATA",
         "poly_DateCurrent": 1784256600000,
         "mission": "3-6",
-        "incident_name": "3-6",
+        "incident_name": "WAGON",
         "incident_number": "fb307fa7-f8db-486e-ad9c-38010bbab202",
         "area_acres": 147.19,
         "NIFC_GISAcres": null,
@@ -31277,7 +31277,7 @@
         "websiteId": "10da8fe3-c042-43fa-af5c-1b9a0421b9b7",
         "websiteDbId": "5380",
         "dataverseId": "91419f1a-6b81-f111-ab0e-001dd801fef1",
-        "displayStatus": "Inactive",
+        "displayStatus": "Active",
         "Shape__Area": 0.000063684354699944379,
         "Shape__Length": 0.064069693501463743
       }
@@ -45686,7 +45686,7 @@
         "source": "CAL FIRE INTEL FLIGHT DATA",
         "poly_DateCurrent": 1784320200000,
         "mission": "3-6 RIM",
-        "incident_name": "3-6 RIM",
+        "incident_name": "WAGON",
         "incident_number": "fb307fa7-f8db-486e-ad9c-38010bbab202",
         "area_acres": 205.17,
         "NIFC_GISAcres": null,
@@ -45711,7 +45711,7 @@
         "websiteId": "10da8fe3-c042-43fa-af5c-1b9a0421b9b7",
         "websiteDbId": "5380",
         "dataverseId": "91419f1a-6b81-f111-ab0e-001dd801fef1",
-        "displayStatus": "Inactive",
+        "displayStatus": "Active",
         "Shape__Area": 0.000088768413206707919,
         "Shape__Length": 0.076613839160710975
       }
