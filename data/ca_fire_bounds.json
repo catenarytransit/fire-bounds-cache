@@ -99812,7 +99812,7 @@
         "websiteId": null,
         "websiteDbId": null,
         "dataverseId": null,
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.000038666250929964008,
         "Shape__Length": 0.034804389946200082
       }
@@ -119063,7 +119063,7 @@
         "websiteId": null,
         "websiteDbId": null,
         "dataverseId": null,
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.0000044881335270474665,
         "Shape__Length": 0.013795109656001694
       }
