@@ -130126,8 +130126,8 @@
       "properties": {
         "OBJECTID": 230,
         "GlobalID": "be1e4bc2-92c8-4993-9828-b9c70de4670e",
-        "type": null,
-        "source": null,
+        "type": "Heat Perimeter",
+        "source": "USFS",
         "poly_DateCurrent": 1784613543000,
         "mission": "BISCAR",
         "incident_name": "BISCAR",
