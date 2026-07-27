@@ -28457,7 +28457,7 @@
         "websiteId": null,
         "websiteDbId": null,
         "dataverseId": null,
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.0000454561466085579,
         "Shape__Length": 0.051524713298593067
       }
@@ -40895,7 +40895,7 @@
         "websiteId": null,
         "websiteDbId": null,
         "dataverseId": null,
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.00041608768879086711,
         "Shape__Length": 0.14454527949764123
       }
@@ -43903,7 +43903,7 @@
         "websiteId": null,
         "websiteDbId": null,
         "dataverseId": null,
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.00012293702820898034,
         "Shape__Length": 0.06029379667294734
       }
@@ -46867,7 +46867,7 @@
         "websiteId": null,
         "websiteDbId": null,
         "dataverseId": null,
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.00013540247232413094,
         "Shape__Length": 0.062756915766601834
       }
