@@ -8252,7 +8252,7 @@
         "websiteId": null,
         "websiteDbId": null,
         "dataverseId": null,
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.0000058499867918726522,
         "Shape__Length": 0.016085112054757305
       }
@@ -10338,7 +10338,7 @@
         "websiteId": null,
         "websiteDbId": null,
         "dataverseId": null,
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.000050300996008445509,
         "Shape__Length": 0.0553771405480725
       }
@@ -26111,7 +26111,7 @@
         "websiteId": "a0a939ba-5669-46ca-b7f1-47abb8852596",
         "websiteDbId": "5403",
         "dataverseId": "8e315f56-8c84-f111-ab0e-001dd80be3ae",
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.00016640955391267198,
         "Shape__Length": 0.081916045698356643
       }
@@ -45914,7 +45914,7 @@
         "websiteId": "",
         "websiteDbId": "",
         "dataverseId": "",
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.00015991031204976025,
         "Shape__Length": 0.077224191397162689
       }
