@@ -19383,7 +19383,7 @@
         "websiteId": null,
         "websiteDbId": null,
         "dataverseId": null,
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.0000070672276706318371,
         "Shape__Length": 0.022226832188470113
       }
@@ -22172,7 +22172,7 @@
         "source": "FIRIS",
         "poly_DateCurrent": 1785457765143,
         "mission": "CA-LNU-WOODSIDE-N57B",
-        "incident_name": null,
+        "incident_name": "WOODSIDE",
         "incident_number": null,
         "area_acres": 74.448101145512425,
         "NIFC_GISAcres": null,
@@ -25617,7 +25617,7 @@
         "source": "FIRIS",
         "poly_DateCurrent": 1785476879676,
         "mission": "CA-LNU-Woodside",
-        "incident_name": null,
+        "incident_name": "WOODSIDE",
         "incident_number": null,
         "area_acres": 142.55286406983961,
         "NIFC_GISAcres": null,
@@ -27070,7 +27070,7 @@
         "source": "FIRIS",
         "poly_DateCurrent": 1785538398425,
         "mission": "CA-SDU-GRADE-N40Y",
-        "incident_name": null,
+        "incident_name": "GRADE",
         "incident_number": null,
         "area_acres": 79.468674247335642,
         "NIFC_GISAcres": null,
@@ -34919,7 +34919,7 @@
         "source": "FIRIS",
         "poly_DateCurrent": 1785630855855,
         "mission": "CA-MEU-FELIZ-N57B",
-        "incident_name": null,
+        "incident_name": "FELIZ",
         "incident_number": null,
         "area_acres": 500.87663131360978,
         "NIFC_GISAcres": null,
@@ -38848,7 +38848,7 @@
         "websiteId": "",
         "websiteDbId": "",
         "dataverseId": "8071ce8b-228e-f111-ab0e-001dd80b8452",
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 8.9743025455391034E-8,
         "Shape__Length": 0.0012964776276318103
       }
