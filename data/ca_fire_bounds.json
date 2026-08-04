@@ -11762,7 +11762,7 @@
         "websiteId": "20901a6c-cff6-4cfc-bdbd-f10fd2dbce06",
         "websiteDbId": "5442",
         "dataverseId": "f85c4e1e-ef89-f111-ab0f-001dd801e376",
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.0016874750813258288,
         "Shape__Length": 0.21145891919788481
       }
@@ -36193,7 +36193,7 @@
         "source": "FIRIS",
         "poly_DateCurrent": 1785812330830,
         "mission": "CA-TCU-GANN-N40Y",
-        "incident_name": null,
+        "incident_name": "GANN",
         "incident_number": null,
         "area_acres": 309.99679347270359,
         "NIFC_GISAcres": null,
