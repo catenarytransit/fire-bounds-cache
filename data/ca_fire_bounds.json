@@ -13537,7 +13537,7 @@
         "websiteId": null,
         "websiteDbId": null,
         "dataverseId": null,
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.000031121054917093716,
         "Shape__Length": 0.05671512516080067
       }
@@ -19575,7 +19575,7 @@
         "websiteId": "7cb89857-3c8d-4b59-a4c3-682dd0e03d4d",
         "websiteDbId": "5457",
         "dataverseId": "49b18b48-208d-f111-ab0f-001dd8014ed8",
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.00026966231280312059,
         "Shape__Length": 0.12952071619217526
       }
@@ -34019,7 +34019,7 @@
         "source": "FIRIS",
         "poly_DateCurrent": 1785885647838,
         "mission": "CA-KRN-CASSIE-N42Z",
-        "incident_name": null,
+        "incident_name": "CASSIE",
         "incident_number": null,
         "area_acres": 144.00104167704248,
         "NIFC_GISAcres": null,
