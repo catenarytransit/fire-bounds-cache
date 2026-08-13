@@ -14435,7 +14435,7 @@
         "websiteId": "e51208a8-ae10-49ef-b719-60ba424dda40",
         "websiteDbId": "5462",
         "dataverseId": "b29c4f97-9b8f-f111-ab0e-001dd812c25e",
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.0043130436852152343,
         "Shape__Length": 0.39336091582919464
       }
@@ -24143,7 +24143,7 @@
         "websiteId": "e51208a8-ae10-49ef-b719-60ba424dda40",
         "websiteDbId": "5462",
         "dataverseId": "b29c4f97-9b8f-f111-ab0e-001dd812c25e",
-        "displayStatus": "Active",
+        "displayStatus": "Inactive",
         "Shape__Area": 0.0043171660654479638,
         "Shape__Length": 0.39162452556605903
       }
@@ -170664,7 +170664,7 @@
         "source": "FIRIS",
         "poly_DateCurrent": 1786569912672,
         "mission": "CA-SLU-PLAINS-N42Z",
-        "incident_name": null,
+        "incident_name": "PLAINS",
         "incident_number": null,
         "area_acres": 795.018628947194,
         "NIFC_GISAcres": null,
@@ -171207,7 +171207,7 @@
         "source": "FIRIS",
         "poly_DateCurrent": 1786574461195,
         "mission": "CA-NEU-YUBA-N57B",
-        "incident_name": null,
+        "incident_name": "YUBA",
         "incident_number": null,
         "area_acres": 19.759249981038074,
         "NIFC_GISAcres": null,
@@ -171844,7 +171844,7 @@
         "source": "FIRIS",
         "poly_DateCurrent": 1786578053965,
         "mission": "CA-TNF-TALBOT-N57B",
-        "incident_name": null,
+        "incident_name": "TALBOT",
         "incident_number": null,
         "area_acres": 16.061743560321368,
         "NIFC_GISAcres": null,
@@ -177865,7 +177865,7 @@
         "source": "FIRIS",
         "poly_DateCurrent": 1786603491501,
         "mission": "CA-TNF-Talbot-N57B",
-        "incident_name": null,
+        "incident_name": "TALBOT",
         "incident_number": null,
         "area_acres": 75.176658193186739,
         "NIFC_GISAcres": null,
