@@ -1110,69 +1110,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 111366,
-		"is_active": false,
-		"name": "Sinlahekin Fire",
-		"description": null,
-		"lat": 48.701255702678964,
-		"lng": -119.69965967684381,
-		"address": "NW of Sinlahekin Campground, Tonasket",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": false,
-			"containment": 100,
-			"acreage": 166007,
-			"links": [
-				{
-					"link_type": "phone",
-					"label": "Call for Shelter",
-					"value": "5093225475"
-				},
-				{
-					"link_type": "phone",
-					"label": "Okanogan Emergency Management (For additional assistance)",
-					"value": "5094227206"
-				},
-				{
-					"link_type": "website",
-					"label": "Coleville Forest Closure Info",
-					"value": "https://www.fs.usda.gov/r06/colville/alerts/sinlahekin-fire-closure-areas-tonasket-ranger-district?"
-				}
-			],
-			"internal_links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"reporter_only_notes_date_modified": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": null,
-			"urgency": null,
-			"bot_locked_fields": null,
-			"unstructured_evacuation_region_ids": []
-		},
-		"date_created": "2026-07-26T21:21:11Z",
-		"date_modified": "2026-10-16T05:48:15Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": "3a4aaa51-bb95-41b1-b8bc-295fd5d33b32",
-		"external_source": "wildcad",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 112147,
 		"is_active": true,
 		"name": "Moose Mountain Fire",
@@ -1333,59 +1270,6 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 112653,
-		"is_active": false,
-		"name": "Black Bear Fire",
-		"description": null,
-		"lat": 46.16716564758693,
-		"lng": -113.89264003027856,
-		"address": "Skalkaho Rye Rd off Skalkaho Hwy, ~13 miles S/E of Hamilton",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": false,
-			"containment": 100,
-			"acreage": 2126.1,
-			"links": [
-				{
-					"link_type": "website",
-					"label": "InciWeb",
-					"value": "https://inciweb.wildfire.gov/incident-information/mtbrf-black-bear-fire"
-				}
-			],
-			"internal_links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"reporter_only_notes_date_modified": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": null,
-			"urgency": null,
-			"bot_locked_fields": null,
-			"unstructured_evacuation_region_ids": []
-		},
-		"date_created": "2026-08-02T01:02:18Z",
-		"date_modified": "2026-10-16T05:03:15Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": "a97cde4c-233d-4f2b-b360-212461be89d4",
-		"external_source": "wildcad",
 		"child_geo_events": [],
 		"parent_geo_events": []
 	},
@@ -1958,59 +1842,6 @@
 		"reporter_managed": true,
 		"external_id": "52edce40-6d8d-4aec-ad46-4cc4411be6de",
 		"external_source": "wildcad",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 116866,
-		"is_active": false,
-		"name": "Nature Grove Fire",
-		"description": null,
-		"lat": 46.1535,
-		"lng": -113.924333,
-		"address": "~0.8 miles S of Black Bear Campground, Hamilton",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": false,
-			"containment": 100,
-			"acreage": 1422,
-			"links": [
-				{
-					"link_type": "website",
-					"label": "InciWeb",
-					"value": "https://inciweb.wildfire.gov/incident-information/mtbrf-nature-grove-fire"
-				}
-			],
-			"internal_links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"reporter_only_notes_date_modified": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": null,
-			"urgency": null,
-			"bot_locked_fields": null,
-			"unstructured_evacuation_region_ids": []
-		},
-		"date_created": "2026-08-23T22:59:07Z",
-		"date_modified": "2026-10-16T06:48:15Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
 		"child_geo_events": [],
 		"parent_geo_events": []
 	},
@@ -2811,53 +2642,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 124588,
-		"is_active": false,
-		"name": "Case Ridge Fire",
-		"description": null,
-		"lat": 44.974902,
-		"lng": -118.928437,
-		"address": "",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": null,
-			"acreage": 1,
-			"links": null,
-			"internal_links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"reporter_only_notes_date_modified": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": null,
-			"urgency": null,
-			"bot_locked_fields": null,
-			"unstructured_evacuation_region_ids": []
-		},
-		"date_created": "2026-10-13T23:01:53Z",
-		"date_modified": "2026-10-16T05:17:29Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "48b7b678-dd46-4921-bc8b-1c6c62c69201",
-		"external_source": "wildcad",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 124600,
 		"is_active": true,
 		"name": "Cooley Fire",
@@ -2872,8 +2656,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": null,
-			"acreage": null,
+			"containment": 0,
+			"acreage": 40,
 			"links": [],
 			"internal_links": null,
 			"has_custom_evacuation_orders": false,
@@ -2895,7 +2679,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-14T00:21:26Z",
-		"date_modified": "2026-10-17T00:33:50Z",
+		"date_modified": "2026-10-17T02:30:32Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3046,55 +2830,8 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 124820,
-		"is_active": false,
-		"name": "Baker Fire",
-		"description": null,
-		"lat": 38.87856613172701,
-		"lng": -122.53382796543215,
-		"address": "20400 Block of Morgan Valley Rd, East of Lower Lake",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": true,
-			"containment": 100,
-			"acreage": 5.47,
-			"links": [],
-			"internal_links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"reporter_only_notes_date_modified": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": null,
-			"urgency": null,
-			"bot_locked_fields": null,
-			"unstructured_evacuation_region_ids": []
-		},
-		"date_created": "2026-10-15T18:23:15Z",
-		"date_modified": "2026-10-16T05:48:16Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 124825,
-		"is_active": true,
+		"is_active": false,
 		"name": "Farmers Union Rd Fire",
 		"description": null,
 		"lat": 34.410667,
@@ -3130,59 +2867,12 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-15T18:51:13Z",
-		"date_modified": "2026-10-15T18:51:13Z",
+		"date_modified": "2026-10-17T06:43:36Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
 		"external_id": "376606D3-D758-4232-B1EC-2FC917CE40C9",
 		"external_source": "firesponse_nc",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 124830,
-		"is_active": false,
-		"name": "Sevier 157 Fire",
-		"description": null,
-		"lat": 34.124129,
-		"lng": -94.31214,
-		"address": "1000 Block of US-71, De Queen, AR 71832",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": 100,
-			"acreage": 10,
-			"links": null,
-			"internal_links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"reporter_only_notes_date_modified": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": null,
-			"urgency": null,
-			"bot_locked_fields": null,
-			"unstructured_evacuation_region_ids": []
-		},
-		"date_created": "2026-10-15T19:17:18Z",
-		"date_modified": "2026-10-16T04:18:24Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "{00DBFAC2-BAC3-4593-9921-84D825DCAE58}",
-		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
 	},
@@ -3234,100 +2924,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 124837,
-		"is_active": false,
-		"name": "Norma Fire",
-		"description": null,
-		"lat": 34.23420061721684,
-		"lng": -118.31233776317546,
-		"address": "Area of La Tuna Canyon Rd and I-210, Tujunga",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": true,
-			"containment": null,
-			"acreage": 0.17,
-			"links": [],
-			"internal_links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"reporter_only_notes_date_modified": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": null,
-			"urgency": null,
-			"bot_locked_fields": null,
-			"unstructured_evacuation_region_ids": []
-		},
-		"date_created": "2026-10-15T19:59:07Z",
-		"date_modified": "2026-10-16T02:33:14Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 124840,
-		"is_active": false,
-		"name": "Cornell Fire",
-		"description": null,
-		"lat": 34.33366494178864,
-		"lng": -119.07612650241626,
-		"address": "600 Block of Cornell Dr, Santa Paula",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": true,
-			"containment": null,
-			"acreage": 0.23,
-			"links": [],
-			"internal_links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"reporter_only_notes_date_modified": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": null,
-			"urgency": null,
-			"bot_locked_fields": null,
-			"unstructured_evacuation_region_ids": []
-		},
-		"date_created": "2026-10-15T20:20:45Z",
-		"date_modified": "2026-10-16T03:33:15Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 124841,
 		"is_active": true,
 		"name": "Peak Fire",
@@ -3375,53 +2971,6 @@
 		"parent_geo_events": []
 	},
 	{
-		"id": 124844,
-		"is_active": false,
-		"name": "Lafayette 306 Fire",
-		"description": null,
-		"lat": 33.4383,
-		"lng": -93.4849,
-		"address": "700 Block of Lafayette County Rd 27, Stamps, AR 71860",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": 100,
-			"acreage": 5,
-			"links": null,
-			"internal_links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"reporter_only_notes_date_modified": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": null,
-			"urgency": null,
-			"bot_locked_fields": null,
-			"unstructured_evacuation_region_ids": []
-		},
-		"date_created": "2026-10-15T20:37:28Z",
-		"date_modified": "2026-10-16T02:03:23Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "{2A7BFC33-62B7-4E19-8D41-782D526CFCD5}",
-		"external_source": "nifc",
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
 		"id": 124846,
 		"is_active": true,
 		"name": "Henderson Fire",
@@ -3459,148 +3008,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-15T20:55:54Z",
-		"date_modified": "2026-10-17T01:04:31Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 124848,
-		"is_active": false,
-		"name": "Preston Fire",
-		"description": null,
-		"lat": 37.945835,
-		"lng": -120.42015,
-		"address": "17800 block of Secco St, Jamestown",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": true,
-			"containment": null,
-			"acreage": 0.06,
-			"links": [],
-			"internal_links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"reporter_only_notes_date_modified": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": null,
-			"urgency": null,
-			"bot_locked_fields": null,
-			"unstructured_evacuation_region_ids": []
-		},
-		"date_created": "2026-10-15T21:30:10Z",
-		"date_modified": "2026-10-16T04:33:15Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 124849,
-		"is_active": false,
-		"name": "Holly Fire",
-		"description": null,
-		"lat": 45.34183342676371,
-		"lng": -122.57155330713496,
-		"address": "18200 Block S Holly Ln, Oregon City, OR",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": true,
-			"containment": null,
-			"acreage": null,
-			"links": [],
-			"internal_links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"reporter_only_notes_date_modified": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": null,
-			"urgency": null,
-			"bot_locked_fields": null,
-			"unstructured_evacuation_region_ids": []
-		},
-		"date_created": "2026-10-15T21:36:27Z",
-		"date_modified": "2026-10-16T04:18:15Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 124857,
-		"is_active": false,
-		"name": "Lani Fire",
-		"description": null,
-		"lat": 45.43146297973152,
-		"lng": -122.36006343042914,
-		"address": "12600 Block SE Lani Ln, Boring",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": true,
-			"containment": null,
-			"acreage": 1,
-			"links": [],
-			"internal_links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"reporter_only_notes_date_modified": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": null,
-			"urgency": null,
-			"bot_locked_fields": null,
-			"unstructured_evacuation_region_ids": []
-		},
-		"date_created": "2026-10-15T21:59:25Z",
-		"date_modified": "2026-10-16T04:33:15Z",
+		"date_modified": "2026-10-17T02:39:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3624,8 +3032,8 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": false,
-			"containment": null,
-			"acreage": 200,
+			"containment": 15,
+			"acreage": 281,
 			"links": [],
 			"internal_links": null,
 			"has_custom_evacuation_orders": false,
@@ -3647,106 +3055,12 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-15T22:27:18Z",
-		"date_modified": "2026-10-16T17:22:28Z",
+		"date_modified": "2026-10-17T02:43:16Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 124868,
-		"is_active": false,
-		"name": "Mango Fire",
-		"description": null,
-		"lat": 34.148289,
-		"lng": -117.430937,
-		"address": "East of the 5800 Block of Sierra Avenue, Rialto/Fontana",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": true,
-			"containment": null,
-			"acreage": 4,
-			"links": [],
-			"internal_links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"reporter_only_notes_date_modified": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": null,
-			"urgency": null,
-			"bot_locked_fields": null,
-			"unstructured_evacuation_region_ids": []
-		},
-		"date_created": "2026-10-15T22:57:48Z",
-		"date_modified": "2026-10-16T06:18:15Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 124870,
-		"is_active": false,
-		"name": "Clark 255 Fire",
-		"description": null,
-		"lat": 33.94216,
-		"lng": -93.243365,
-		"address": null,
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": 100,
-			"acreage": 2,
-			"links": null,
-			"internal_links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"reporter_only_notes_date_modified": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": null,
-			"urgency": null,
-			"bot_locked_fields": null,
-			"unstructured_evacuation_region_ids": []
-		},
-		"date_created": "2026-10-15T22:57:55Z",
-		"date_modified": "2026-10-16T04:33:24Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "{BBAB470F-C6DC-4A3B-8C4C-65607ED6349D}",
-		"external_source": "nifc",
 		"child_geo_events": [],
 		"parent_geo_events": []
 	},
@@ -3835,7 +3149,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-15T23:51:27Z",
-		"date_modified": "2026-10-17T00:13:41Z",
+		"date_modified": "2026-10-17T02:09:14Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -3961,100 +3275,6 @@
 		"reporter_managed": true,
 		"external_id": null,
 		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 124883,
-		"is_active": false,
-		"name": "Vegetation Fire",
-		"description": null,
-		"lat": 46.153127,
-		"lng": -123.292607,
-		"address": "Little Cape Horn Rd, Cathlamet",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": false,
-			"containment": null,
-			"acreage": 0.46,
-			"links": [],
-			"internal_links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"reporter_only_notes_date_modified": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": true,
-			"urgency": null,
-			"bot_locked_fields": null,
-			"unstructured_evacuation_region_ids": []
-		},
-		"date_created": "2026-10-16T00:55:45Z",
-		"date_modified": "2026-10-16T07:33:16Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": true,
-		"external_id": null,
-		"external_source": null,
-		"child_geo_events": [],
-		"parent_geo_events": []
-	},
-	{
-		"id": 124884,
-		"is_active": false,
-		"name": "Haralson - Providence Church Road Fire",
-		"description": null,
-		"lat": 33.705227,
-		"lng": -85.326958,
-		"address": "1500 Block of Providence Church Rd, Tallapoosa, GA 30176",
-		"geo_event_type": "wildfire",
-		"data": {
-			"geo_event_type": "wildfire",
-			"is_prescribed": false,
-			"prescribed_date_start": null,
-			"prescribed_date_start_local": null,
-			"is_fps": null,
-			"containment": 100,
-			"acreage": 2,
-			"links": null,
-			"internal_links": null,
-			"has_custom_evacuation_orders": false,
-			"has_custom_evacuation_warnings": false,
-			"has_custom_evacuation_advisories": false,
-			"has_custom_evacuation_shelter_in_place": false,
-			"evacuation_orders": null,
-			"evacuation_warnings": null,
-			"evacuation_advisories": null,
-			"evacuation_shelter_in_place": null,
-			"evacuation_notes": null,
-			"is_complex_parent": false,
-			"reporter_only_notes": null,
-			"reporter_only_notes_date_modified": null,
-			"temporarily_display_evac_zones": false,
-			"manual_deactivation_started": null,
-			"urgency": null,
-			"bot_locked_fields": null,
-			"unstructured_evacuation_region_ids": []
-		},
-		"date_created": "2026-10-16T01:03:32Z",
-		"date_modified": "2026-10-16T06:48:24Z",
-		"notification_type": "normal",
-		"incident_id": null,
-		"reporter_managed": false,
-		"external_id": "d7e5e7f2-61a8-462f-b41b-7882b14f55c4",
-		"external_source": "firesponse_ga",
 		"child_geo_events": [],
 		"parent_geo_events": []
 	},
@@ -4812,7 +4032,7 @@
 	},
 	{
 		"id": 124940,
-		"is_active": true,
+		"is_active": false,
 		"name": "Rusk 9490 Fire",
 		"description": null,
 		"lat": 32.195418,
@@ -4848,7 +4068,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T17:35:11Z",
-		"date_modified": "2026-10-16T22:16:02Z",
+		"date_modified": "2026-10-17T04:19:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -4906,7 +4126,7 @@
 	},
 	{
 		"id": 124942,
-		"is_active": true,
+		"is_active": false,
 		"name": "Nevada 309 Fire",
 		"description": null,
 		"lat": 33.743996,
@@ -4942,7 +4162,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T17:47:09Z",
-		"date_modified": "2026-10-16T21:22:55Z",
+		"date_modified": "2026-10-17T05:34:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -5012,8 +4232,8 @@
 			"is_prescribed": false,
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
-			"is_fps": false,
-			"containment": null,
+			"is_fps": true,
+			"containment": 100,
 			"acreage": 20,
 			"links": [],
 			"internal_links": null,
@@ -5036,7 +4256,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T18:23:37Z",
-		"date_modified": "2026-10-17T00:01:38Z",
+		"date_modified": "2026-10-17T02:42:01Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -5047,7 +4267,7 @@
 	},
 	{
 		"id": 124956,
-		"is_active": true,
+		"is_active": false,
 		"name": "Ramirez Fire",
 		"description": null,
 		"lat": 39.291474,
@@ -5083,7 +4303,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T18:31:24Z",
-		"date_modified": "2026-10-17T00:06:21Z",
+		"date_modified": "2026-10-17T02:34:15Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -5108,12 +4328,27 @@
 			"prescribed_date_start_local": null,
 			"is_fps": false,
 			"containment": 0,
-			"acreage": 465.5,
+			"acreage": 570.3,
 			"links": [
 				{
 					"link_type": "phone",
 					"label": "Public Information Hotline",
 					"value": "7146287085"
+				},
+				{
+					"link_type": "phone",
+					"label": "Pets/Large Animal Evacuation Info (8am to 5pm)",
+					"value": "7149356848"
+				},
+				{
+					"link_type": "phone",
+					"label": "Pets/Large Animal Evacuation Info (5pm to 8am)",
+					"value": "7142591122"
+				},
+				{
+					"link_type": "website",
+					"label": "Orange County Sheriff's Department Resources",
+					"value": "https://ocsheriff.gov/nortefire"
 				}
 			],
 			"internal_links": null,
@@ -5136,7 +4371,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T18:37:51Z",
-		"date_modified": "2026-10-16T23:12:39Z",
+		"date_modified": "2026-10-17T05:33:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -5144,17 +4379,103 @@
 		"external_source": null,
 		"child_geo_events": [
 			{
-				"id": 125000,
-				"address": "25925 Camino Del Avion, San Juan Capistrano, CA 92675",
-				"name": "San Juan Capistrano Community Center",
-				"lat": 33.4876772,
-				"lng": -117.6773659,
+				"id": 125049,
+				"address": "221 Avenida Fabricante, San Clemente, CA 92672",
+				"name": "San Clemente/Dana Point Animal Shelter",
+				"lat": 33.4419108,
+				"lng": -117.5841217,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
 					"geo_event_type": "location",
-					"location_type": "evac_shelter",
-					"information": "<p>Norte Fire evacuation shelters are available at:</p><ul><li><p>San Juan Capistrano Community Center 25925 Camino del Avion, San Juan Capistrano.</p></li><li><p>San Clemente Community Center 100 Calle Seville, San Clemente. If you are under an evacuation order, leave now.</p></li></ul><p>Information from <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/OCFireAuthority/status/2111199331437207758?s=20\">OCFA on X.</a></p>",
+					"location_type": "small_animal_shelter",
+					"information": "<p>For Residents of San Clemente and San Juan Capistrano, the San Clemente/Dana Point Animal Shelter will be accepting pets: 221 Avenida Fabricante, San Clemente. The shelter is accepting animals until 7 pm and will reopen at 7 am. </p><p>Per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/OCFireAuthority/status/2111284507420897601\">OCFA on X</a>.</p>",
+					"links": [],
+					"hours": [
+						{
+							"day_of_week": 1,
+							"times": [
+								{
+									"open_time": 25200,
+									"close_time": 68400
+								}
+							]
+						},
+						{
+							"day_of_week": 2,
+							"times": [
+								{
+									"open_time": 25200,
+									"close_time": 68400
+								}
+							]
+						},
+						{
+							"day_of_week": 3,
+							"times": [
+								{
+									"open_time": 25200,
+									"close_time": 68400
+								}
+							]
+						},
+						{
+							"day_of_week": 4,
+							"times": [
+								{
+									"open_time": 25200,
+									"close_time": 68400
+								}
+							]
+						},
+						{
+							"day_of_week": 5,
+							"times": [
+								{
+									"open_time": 25200,
+									"close_time": 68400
+								}
+							]
+						},
+						{
+							"day_of_week": 6,
+							"times": [
+								{
+									"open_time": 25200,
+									"close_time": 68400
+								}
+							]
+						},
+						{
+							"day_of_week": 0,
+							"times": [
+								{
+									"open_time": 25200,
+									"close_time": 68400
+								}
+							]
+						}
+					],
+					"at_capacity": false,
+					"timezone": "America/Los_Angeles",
+					"reporter_only_notes": null,
+					"reporter_only_notes_date_modified": null,
+					"organization": null
+				},
+				"notification_type": "silent"
+			},
+			{
+				"id": 125050,
+				"address": "1630 Victory Rd, Tustin, CA 92782",
+				"name": "OC Animal Care",
+				"lat": 33.7118813,
+				"lng": -117.83286,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "small_animal_shelter",
+					"information": "<p>For residents of San Juan Capistrano under mandatory evacuation orders, OC Animal Care is open to house dogs, cats, and small pets. </p><p>The shelter is located at 1630 Victory Road Tustin, CA 92782 • If possible, pet owners should bring photo identification, veterinary/vaccination records, special food, and medications along with their animals. </p><p>Any person needing assistance with information about pets or large animal evacuations should call OC Animal Care at <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"tel:7149356848\">714-935-6848</a> from 8 a.m. to 5 p.m. or <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"tel:7142591122\">714-259-1122</a> from 5 p.m. to 8 a.m.</p><p>Per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.sanclemente.gov/DocumentCenter/View/5159/03-Press-Release-Norte-Fire-10-16-26--1845\">Orange County Operational Area Emergency Operations Center</a></p>",
 					"links": [],
 					"hours": [],
 					"at_capacity": false,
@@ -5168,15 +4489,187 @@
 			{
 				"id": 125002,
 				"address": "100 N Calle Seville, San Clemente, CA 92672",
-				"name": "San Clemente Community Center",
+				"name": "Care & Reception - San Clemente Community Center",
 				"lat": 33.4240572,
 				"lng": -117.617628,
 				"is_active": true,
 				"geo_event_type": "location",
 				"data": {
 					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>Care and reception are available from 8:00 AM - 8:00 PM at:</p><ul><li><p>San Clemente Community Center at 100 Calle Seville, San Clemente.</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/125000\">San Juan Capistrano Community Center</a> at 25925 Camino del Avion, San Juan Capistrano.</p></li></ul><p>Small pets are accepted.</p><p>Per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://ocsheriff.gov/nortefire\">Orange County Sheriff's Department</a>.</p>",
+					"links": [],
+					"hours": [
+						{
+							"day_of_week": 1,
+							"times": [
+								{
+									"open_time": 28800,
+									"close_time": 72000
+								}
+							]
+						},
+						{
+							"day_of_week": 2,
+							"times": [
+								{
+									"open_time": 28800,
+									"close_time": 72000
+								}
+							]
+						},
+						{
+							"day_of_week": 3,
+							"times": [
+								{
+									"open_time": 28800,
+									"close_time": 72000
+								}
+							]
+						},
+						{
+							"day_of_week": 4,
+							"times": [
+								{
+									"open_time": 28800,
+									"close_time": 72000
+								}
+							]
+						},
+						{
+							"day_of_week": 5,
+							"times": [
+								{
+									"open_time": 28800,
+									"close_time": 72000
+								}
+							]
+						},
+						{
+							"day_of_week": 6,
+							"times": [
+								{
+									"open_time": 28800,
+									"close_time": 72000
+								}
+							]
+						},
+						{
+							"day_of_week": 0,
+							"times": [
+								{
+									"open_time": 28800,
+									"close_time": 72000
+								}
+							]
+						}
+					],
+					"at_capacity": false,
+					"timezone": "America/Los_Angeles",
+					"reporter_only_notes": null,
+					"reporter_only_notes_date_modified": null,
+					"organization": null
+				},
+				"notification_type": "silent"
+			},
+			{
+				"id": 125000,
+				"address": "25925 Camino Del Avion, San Juan Capistrano, CA 92675",
+				"name": "Care & Reception - San Juan Capistrano Community Center",
+				"lat": 33.4876772,
+				"lng": -117.6773659,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
+					"location_type": "general",
+					"information": "<p>Care and reception are available from 8:00 AM - 8:00 PM at:</p><ul><li><p>San Juan Capistrano Community Center at 25925 Camino del Avion, San Juan Capistrano.</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://app.watchduty.org/location/125002\">San Clemente Community Center</a> at 100 Calle Seville, San Clemente.</p></li></ul><p>Small pets are accepted.</p><p>Per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://ocsheriff.gov/nortefire\">Orange County Sheriff's Department</a>.</p>",
+					"links": [],
+					"hours": [
+						{
+							"day_of_week": 1,
+							"times": [
+								{
+									"open_time": 28800,
+									"close_time": 72000
+								}
+							]
+						},
+						{
+							"day_of_week": 2,
+							"times": [
+								{
+									"open_time": 28800,
+									"close_time": 72000
+								}
+							]
+						},
+						{
+							"day_of_week": 3,
+							"times": [
+								{
+									"open_time": 28800,
+									"close_time": 72000
+								}
+							]
+						},
+						{
+							"day_of_week": 4,
+							"times": [
+								{
+									"open_time": 28800,
+									"close_time": 72000
+								}
+							]
+						},
+						{
+							"day_of_week": 5,
+							"times": [
+								{
+									"open_time": 28800,
+									"close_time": 72000
+								}
+							]
+						},
+						{
+							"day_of_week": 6,
+							"times": [
+								{
+									"open_time": 28800,
+									"close_time": 72000
+								}
+							]
+						},
+						{
+							"day_of_week": 0,
+							"times": [
+								{
+									"open_time": 28800,
+									"close_time": 72000
+								}
+							]
+						}
+					],
+					"at_capacity": false,
+					"timezone": "America/Los_Angeles",
+					"reporter_only_notes": null,
+					"reporter_only_notes_date_modified": null,
+					"organization": null
+				},
+				"notification_type": "silent"
+			},
+			{
+				"id": 125051,
+				"address": "1 Via Positiva, San Juan Capistrano, CA 92675",
+				"name": "Boys & Girls Club",
+				"lat": 33.48812301171428,
+				"lng": -117.67792421395163,
+				"is_active": true,
+				"geo_event_type": "location",
+				"data": {
+					"geo_event_type": "location",
 					"location_type": "evac_shelter",
-					"information": "<p>Norte Fire evacuation shelters are available at:</p><ul><li><p>San Juan Capistrano Community Center 25925 Camino del Avion, San Juan Capistrano.</p></li><li><p>San Clemente Community Center 100 Calle Seville, San Clemente. If you are under an evacuation order, leave now.</p></li></ul><p>Information from <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/OCFireAuthority/status/2111199331437207758?s=20\">OCFA on X.</a></p>",
+					"information": "<p>An overnight shelter is open at the Boys &amp; Girls Club located at 1 Via Positiva, San Juan Capistrano. It is established by the American Red Cross, in partnership with the cities of San Clemente and San Juan Capistrano, to provide assistance for those individuals affected by the Norte Fire.</p><ul><li><p>Animals WILL be allowed in this shelter.</p></li><li><p>Bring your medications if possible.</p></li><li><p>Please no unsolicited donations.</p></li></ul><p>Per <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/OCFireAuthority/status/2111284505118216541\">OCFA on X</a>.</p>",
 					"links": [],
 					"hours": [],
 					"at_capacity": false,
@@ -5239,7 +4732,7 @@
 	},
 	{
 		"id": 124968,
-		"is_active": true,
+		"is_active": false,
 		"name": "Hwy 50 Cutover Fire",
 		"description": null,
 		"lat": 34.656217,
@@ -5275,7 +4768,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T19:10:31Z",
-		"date_modified": "2026-10-16T19:10:31Z",
+		"date_modified": "2026-10-17T06:39:34Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -5286,7 +4779,7 @@
 	},
 	{
 		"id": 124970,
-		"is_active": true,
+		"is_active": false,
 		"name": "Fork Creek Fire",
 		"description": null,
 		"lat": 29.792225,
@@ -5322,7 +4815,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T19:10:50Z",
-		"date_modified": "2026-10-16T23:50:43Z",
+		"date_modified": "2026-10-17T06:04:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -5380,7 +4873,7 @@
 	},
 	{
 		"id": 124976,
-		"is_active": true,
+		"is_active": false,
 		"name": "Gingras Fire",
 		"description": null,
 		"lat": 47.725826,
@@ -5416,7 +4909,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T19:25:27Z",
-		"date_modified": "2026-10-16T19:56:51Z",
+		"date_modified": "2026-10-17T02:03:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -5427,7 +4920,7 @@
 	},
 	{
 		"id": 124980,
-		"is_active": true,
+		"is_active": false,
 		"name": "Gall Fire",
 		"description": null,
 		"lat": 41.579386,
@@ -5463,7 +4956,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T19:44:31Z",
-		"date_modified": "2026-10-16T22:36:57Z",
+		"date_modified": "2026-10-17T02:48:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -5615,7 +5108,7 @@
 	},
 	{
 		"id": 124989,
-		"is_active": true,
+		"is_active": false,
 		"name": "San Jacinto 9507 Fire",
 		"description": null,
 		"lat": 30.503946026557983,
@@ -5651,7 +5144,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T20:06:08Z",
-		"date_modified": "2026-10-16T22:41:48Z",
+		"date_modified": "2026-10-17T04:48:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -5709,7 +5202,7 @@
 	},
 	{
 		"id": 124996,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cass 9506 Fire",
 		"description": null,
 		"lat": 32.91355,
@@ -5745,7 +5238,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T20:40:22Z",
-		"date_modified": "2026-10-17T00:11:02Z",
+		"date_modified": "2026-10-17T06:19:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -5897,7 +5390,7 @@
 	},
 	{
 		"id": 125018,
-		"is_active": true,
+		"is_active": false,
 		"name": "Shelby 9513 Fire",
 		"description": null,
 		"lat": 31.968333,
@@ -5933,7 +5426,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T22:10:58Z",
-		"date_modified": "2026-10-16T23:25:18Z",
+		"date_modified": "2026-10-17T03:34:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -5944,7 +5437,7 @@
 	},
 	{
 		"id": 125019,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 29.064955095568976,
@@ -5980,7 +5473,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T22:15:43Z",
-		"date_modified": "2026-10-16T23:04:04Z",
+		"date_modified": "2026-10-17T05:18:20Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -5991,7 +5484,7 @@
 	},
 	{
 		"id": 125020,
-		"is_active": true,
+		"is_active": false,
 		"name": "Cole - Dustin Again Fire",
 		"description": null,
 		"lat": 34.635791,
@@ -6027,7 +5520,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T22:21:13Z",
-		"date_modified": "2026-10-16T23:45:33Z",
+		"date_modified": "2026-10-17T03:49:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -6038,7 +5531,7 @@
 	},
 	{
 		"id": 125023,
-		"is_active": true,
+		"is_active": false,
 		"name": "Ouachita 312 Fire",
 		"description": null,
 		"lat": 33.40677,
@@ -6074,7 +5567,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T22:27:15Z",
-		"date_modified": "2026-10-16T23:17:18Z",
+		"date_modified": "2026-10-17T03:19:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -6085,7 +5578,7 @@
 	},
 	{
 		"id": 125024,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 31.542747,
@@ -6121,7 +5614,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T22:30:13Z",
-		"date_modified": "2026-10-17T00:53:05Z",
+		"date_modified": "2026-10-17T07:03:21Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
@@ -6145,7 +5638,7 @@
 			"prescribed_date_start": null,
 			"prescribed_date_start_local": null,
 			"is_fps": null,
-			"containment": 80,
+			"containment": 100,
 			"acreage": 47,
 			"links": null,
 			"internal_links": null,
@@ -6168,7 +5661,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T23:25:16Z",
-		"date_modified": "2026-10-17T01:20:17Z",
+		"date_modified": "2026-10-17T02:10:10Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -6179,7 +5672,7 @@
 	},
 	{
 		"id": 125033,
-		"is_active": true,
+		"is_active": false,
 		"name": "Union 313 Fire",
 		"description": null,
 		"lat": 33.197635,
@@ -6215,7 +5708,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T23:40:23Z",
-		"date_modified": "2026-10-17T01:27:52Z",
+		"date_modified": "2026-10-17T05:34:08Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -6226,7 +5719,7 @@
 	},
 	{
 		"id": 125037,
-		"is_active": true,
+		"is_active": false,
 		"name": "Rusk 9519 Fire",
 		"description": null,
 		"lat": 32.235278,
@@ -6262,7 +5755,7 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-16T23:50:42Z",
-		"date_modified": "2026-10-17T01:15:12Z",
+		"date_modified": "2026-10-17T05:19:07Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": false,
@@ -6273,7 +5766,7 @@
 	},
 	{
 		"id": 125044,
-		"is_active": true,
+		"is_active": false,
 		"name": "Vegetation Fire",
 		"description": null,
 		"lat": 33.082278,
@@ -6309,7 +5802,148 @@
 			"unstructured_evacuation_region_ids": []
 		},
 		"date_created": "2026-10-17T01:09:27Z",
-		"date_modified": "2026-10-17T01:23:28Z",
+		"date_modified": "2026-10-17T05:33:20Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 125052,
+		"is_active": true,
+		"name": "Vegetation Fire",
+		"description": null,
+		"lat": 33.041944,
+		"lng": -89.436389,
+		"address": "2500 Block of Attala Rd 5115, ~1.8 miles SW of Providence",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": 100,
+			"acreage": 25,
+			"links": [],
+			"internal_links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"has_custom_evacuation_shelter_in_place": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_shelter_in_place": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"reporter_only_notes_date_modified": null,
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null,
+			"urgency": null,
+			"bot_locked_fields": null,
+			"unstructured_evacuation_region_ids": []
+		},
+		"date_created": "2026-10-17T03:44:32Z",
+		"date_modified": "2026-10-17T06:42:47Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 125057,
+		"is_active": true,
+		"name": "Swedes Fire",
+		"description": null,
+		"lat": 39.4498870419597,
+		"lng": -121.41424876787552,
+		"address": "100 Block of Chinese Wall Rd, Approx. 3 Miles East of Wyandotte",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": true,
+			"containment": null,
+			"acreage": 2.1,
+			"links": [],
+			"internal_links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"has_custom_evacuation_shelter_in_place": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_shelter_in_place": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"reporter_only_notes_date_modified": null,
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null,
+			"urgency": null,
+			"bot_locked_fields": null,
+			"unstructured_evacuation_region_ids": []
+		},
+		"date_created": "2026-10-17T04:48:23Z",
+		"date_modified": "2026-10-17T06:29:45Z",
+		"notification_type": "normal",
+		"incident_id": null,
+		"reporter_managed": true,
+		"external_id": null,
+		"external_source": null,
+		"child_geo_events": [],
+		"parent_geo_events": []
+	},
+	{
+		"id": 125062,
+		"is_active": true,
+		"name": "Pollock Fire",
+		"description": null,
+		"lat": 45.313583,
+		"lng": -116.360739,
+		"address": "100 Block Old Pollock Rd, Pollock",
+		"geo_event_type": "wildfire",
+		"data": {
+			"geo_event_type": "wildfire",
+			"is_prescribed": false,
+			"prescribed_date_start": null,
+			"prescribed_date_start_local": null,
+			"is_fps": false,
+			"containment": null,
+			"acreage": 100,
+			"links": [],
+			"internal_links": null,
+			"has_custom_evacuation_orders": false,
+			"has_custom_evacuation_warnings": false,
+			"has_custom_evacuation_advisories": false,
+			"has_custom_evacuation_shelter_in_place": false,
+			"evacuation_orders": null,
+			"evacuation_warnings": null,
+			"evacuation_advisories": null,
+			"evacuation_shelter_in_place": null,
+			"evacuation_notes": null,
+			"is_complex_parent": false,
+			"reporter_only_notes": null,
+			"reporter_only_notes_date_modified": null,
+			"temporarily_display_evac_zones": false,
+			"manual_deactivation_started": null,
+			"urgency": null,
+			"bot_locked_fields": null,
+			"unstructured_evacuation_region_ids": []
+		},
+		"date_created": "2026-10-17T07:18:31Z",
+		"date_modified": "2026-10-17T07:55:09Z",
 		"notification_type": "normal",
 		"incident_id": null,
 		"reporter_managed": true,
